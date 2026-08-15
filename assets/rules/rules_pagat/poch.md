@@ -4,108 +4,98 @@
 **Nombre de cartes :** 32
 **Difficulté :** ⭐⭐
 **Type :** Divers, Divers
-**But :** A German card game of the Stops family which uses a special board to hold the stakes.
+**But :** Jeu de cartes allemand de la famille des Stops qui utilise un plateau spécial pour contenir les mises.
 
 ---
 
 ## Introduction
 
-The European card game Poch is at least 500 years old, and is still played in Germany under the name Poch, Pochspiel (the game of Poch) or Pochen. It has been known by a number of similar names, such as Bock or Bocken in Germany and Bog or Poque in France. The current Icelandic version Púkk is described on another page of this site. Variations of Poch are played in North America under the names Tripoli and Three in One, and boards are sold there under various proprietary names: Tripoley, Rummoli, Michigan Rummy, etc. A detailed early history of the game can be found in an article by Thierry Depaulis: "Pochspiel: An 'International' Card Game of the 15th Century", published in The Playing-Card (Journal of the International Playing-Card Society) in three parts, in Vol XIX No 2 (Nov 1990), Vol XIX No 3 (Feb 1991) and Vol XIX No 4 (May 1991).
+Le jeu de cartes européen Poch a au moins 500 ans et se joue encore en Allemagne sous le nom de Poch, Pochspiel (le jeu de Poch) ou Pochen. Il a été connu sous plusieurs noms similaires, comme Bock ou Bocken en Allemagne et Bog ou Poque en France. La version islandaise actuelle Púkk est décrite sur une autre page de ce site. Des variantes de Poch se jouent en Amérique du Nord sous les noms de Tripoli et Three in One, et des plateaux y sont vendus sous divers noms propriétaires : Tripoley, Rummoli, Michigan Rummy, etc. Une histoire détaillée ancienne du jeu peut être trouvée dans un article de Thierry Depaulis : « Pochspiel : An 'International' Card Game of the 15th Century », publié dans The Playing-Card (Journal of the International Playing-Card Society) en trois parties, dans les volumes XIX n° 2 (nov. 1990), XIX n° 3 (fév. 1991) et XIX n° 4 (mai 1991).
 
-On this page the modern German form of Poch is described first, based on rules supplied with a modern board, on various books, and on information from Jan Böttcher. There follow summaries of differences in the 18th and 19th century versions of the game.
+Sur cette page, la forme allemande moderne de Poch est décrite en premier, basée sur les règles fournies avec un plateau moderne, divers livres, et des informations de Jan Böttcher. Suivent des résumés des différences dans les versions du jeu aux 18e et 19e siècles.
 
-## Players and Equipment
+## Joueurs et matériel
 
-From 3 to 6 players can take part and a 32-card pack is used, the cards ranking from high to low A-K-Q-J-10-9-8-7. Each player has an equal supply of chips. A board (Pochbrett) in the centre of the table is used to hold chips staked to the the various pools until they are won. There are many designs of Poch board - a modern example is shown above.
+De 3 à 6 joueurs peuvent participer et un jeu de 32 cartes est utilisé, les cartes se classant de haut en bas A-R-D-V-10-9-8-7. Chaque joueur a une provision égale de jetons. Un plateau (Pochbrett) au centre de la table est utilisé pour contenir les jetons misés dans les différents pots jusqu'à ce qu'ils soient gagnés. Il existe de nombreux designs de plateau Poch — un exemple moderne est montré ci-dessus.
 
-If a ready-made board is not to hand it is fairly easy to make your own. You need places for the nine pools: Ace, King, Queen, Jack, Ten, Marriage (marked King-Queen on the board), Sequence (marked 7-8-9 on the board), Pocher (marked with a Joker on the board) and the centre pot (unlabelled).
+Si un plateau tout fait n'est pas disponible, il est assez facile de fabriquer le vôtre. Vous avez besoin d'emplacements pour les neuf pots : As, Roi, Dame, Valet, Dix, Mariage (marqué Roi-Dame sur le plateau), Séquence (marqué 7-8-9 sur le plateau), Pocher (marqué avec un Joker sur le plateau) et le pot central (sans étiquette).
 
-## Stake and Deal
+## Mise et distribution
 
-The first dealer is chosen at random and the turn to deal passes to the left after each hand. Before each deal, every player must put one chip into each of the nine pools.
+Le premier donneur est choisi au hasard et le tour de distribution passe à gauche après chaque main. Avant chaque distribution, chaque joueur doit mettre un jeton dans chacun des neuf pots.
 
-The dealer deals out the cards clockwise, one at a time as far as they will go until only one card is left, and places this last card face up on the table. Some of the players will have one more card than others: this does not matter. The last card belongs to no one; the suit of this card is the "pay suit".
+Le donneur distribue les cartes dans le sens horaire, une à la fois autant que possible jusqu'à ce qu'il ne reste qu'une carte, et place cette dernière carte face visible sur la table. Certains joueurs auront une carte de plus que d'autres : cela n'a pas d'importance. La dernière carte n'appartient à personne ; la couleur de cette carte est la « couleur de payement ».
 
-## The Play
+## Le jeu
 
-### First Stage
+### Première phase
 
-The players who hold the Ace, King, Queen, Jack and Ten of the pay suit collect the chips from the relevant pools. If a player holds the King and Queen of the pay suit, that player takes the marriage pool as well as the King and Queen pools. If a player holds the Seven, Eight and Nine of the pay suit, that player takes the contents of the sequence pool.
+Les joueurs qui détiennent l'As, le Roi, la Dame, le Valet et le Dix de la couleur de payement collectent les jetons des pots correspondants. Si un joueur détient le Roi et la Dame de la couleur de payement, ce joueur prend le pot de mariage ainsi que les pots du Roi et de la Dame. Si un joueur détient le Sept, le Huit et le Neuf de la couleur de payement, ce joueur prend le contenu du pot de séquence.
 
-In many deals no one wins the Marriage or Sequence pools. In this case the chips remain in the pool, and players will continue to add further chips before each deal even though they are not empty. If an Ace, King, Queen, Jack or Ten is turned up by the dealer as the pay suit card, then no one wins the pool corresponding to that card, and it is carried over to the next deal and added to in the same way.
+Dans beaucoup de distributions, personne ne gagne les pots de Mariage ou de Séquence. Dans ce cas, les jetons restent dans le pot, et les joueurs continueront d'ajouter des jetons avant chaque distribution même s'ils ne sont pas vides. Si un As, Roi, Dame, Valet ou Dix est retourné par le donneur comme carte de payement, personne ne gagne le pot correspondant à cette carte, et il est reporté à la distribution suivante et ajouté de la même manière.
 
-### Second Stage
+### Deuxième phase
 
-In this stage, players bet on who has the best set of cards of the same rank. The betting process is known as Pochen. Any set of four of a kind beats any set of three of a kind, and any three of a kind beats any pair. A set of higher ranking cards beats a set of the same number of lower ranking cards. If two players have pairs of the same rank, the pair containing the card of the pay suit is better. Example: 8-8-8-8 beats K-K-K, which beats 9-9-9, which beats ![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)Q, which beats ![spade](../images/internat/spade.gif)Q-![club](../images/internat/club.gif)Q if diamonds or hearts is the pay suit.
+Dans cette phase, les joueurs parient sur qui a le meilleur ensemble de cartes de même rang. Le processus de paris est appelé Pochen. Tout ensemble de quatre d'un même rang bat tout ensemble de trois d'un même rang, et tout brelan bat toute paire. Un ensemble de cartes de rang supérieur bat un ensemble du même nombre de cartes de rang inférieur. Si deux joueurs ont des paires du même rang, la paire contenant la carte de la couleur de payement est meilleure. Exemple : 8-8-8-8 bat R-R-R, qui bat 9-9-9, qui bat ![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)D, qui bat ![pique](../images/internat/spade.gif)D-![trèfle](../images/internat/club.gif)D si les carreaux ou les cœurs sont la couleur de payement.
 
-Note that the only combinations that are allowed here are pairs, triples and fours of a kind, and only the best combination of each player is compared. If you have two pairs you only count the higher one. If you have a triple and a pair your hand just counts as a triple (there is no such thing as a "full house" in this game). If all your cards are different ranks, you are not allowed to take part in the Pochen at all.
+Notez que les seules combinaisons autorisées ici sont les paires, les brelans et les carrés, et seule la meilleure combinaison de chaque joueur est comparée. Si vous avez deux paires, vous ne comptez que la plus haute. Si vous avez un brelan et une paire, votre main compte simplement comme un brelan (il n'y a pas de « full » dans ce jeu). Si toutes vos cartes sont de rangs différents, vous n'êtes pas autorisé à participer au Pochen.
 
-Starting with the player to the left of the dealer and going round clockwise., players can pass if the cannot or do not wish to bet, or can bet 1 or more chips that they have the best hand. To bet you say "Ich poche 1" or "Ich poche 3" or whatever amount you want to bet, placing that number of chips towards the centre of the table. Subsequent players can either match your bet, raise the bet by staking a larger number of chips, or drop out (fold). The betting continues around the table for as many circuits as necessary until the amounts bet by the players who have stayed in are equal. (When you drop out of the betting you sacrifice any chips you may already have bet on an earlier round.)
+En commençant par le joueur à gauche du donneur et en allant dans le sens horaire, les joueurs peuvent passer s'ils ne peuvent pas ou ne veulent pas miser, ou miser 1 jeton ou plus qu'ils ont la meilleure main. Pour miser, vous dites « Ich poche 1 » ou « Ich poche 3 » ou le montant que vous souhaitez miser, en plaçant ce nombre de jetons vers le centre de la table. Les joueurs suivants peuvent soit suivre votre mise, la relancer en misant un plus grand nombre de jetons, ou se retirer (coucher). Les enchères continuent autour de la table autant de tours que nécessaire jusqu'à ce que les montants misés par les joueurs qui sont restés soient égaux. (Quand vous vous retirez des enchères, vous sacrifiez tous les jetons que vous avez déjà misés lors d'un tour précédent.)
 
-When the bets are equal, each of the players who has stayed in shows the combination (pair, triple or quartet) on which they were betting, and the owner of the best combination takes all the chips that were bet and the contents of the Pochen pool.
+Quand les mises sont égales, chacun des joueurs qui sont restés montre la combinaison (paire, brelan ou carré) sur laquelle il misait, et le propriétaire de la meilleure combinaison prend tous les jetons qui ont été misés et le contenu du pot de Pochen.
 
-If everyone passes, the contents of the Pochen pool stay there and are added to before the next deal.
+Si tout le monde passe, le contenu du pot de Pochen reste et est ajouté avant la distribution suivante.
 
-If only one player bets, or if all players but one drop out during the betting, then the only bettor naturally takes the Pochen pool and all the stakes, having shown a pair or better to prove entitlement to win them.
+Si un seul joueur mise, ou si tous les joueurs sauf un se retirent pendant les enchères, alors le seul parieur gagne naturellement le pot de Pochen et toutes les mises, après avoir montré une paire ou mieux pour prouver son droit à les gagner.
 
-I have not seen explicit rules about betting limits or what happens when players do not have enough chips to equal another player's bet. Since Poch is nowadays usually played as a family game with no money at stake, this probably does not matter much. The simplest solution would be just to issue everyone with an equal quantity of extra chips, maybe with higher denominations, sufficient to allow the game to proceed.
+### Troisième phase
 
-If it were played for money, it would be sensible to have a system similar to Poker, where if you do not have enough chips to equal the last bet you can stake all your remaining chips. At the end of the betting you will have a showdown against everyone who has bet at least as much as you, but if you win you only get from each of them an amount equal to your stake; you would also get the contents of the Pochen pool. The players who bet more will have a showdown against each other and the best of their hands will win the remaining parts of their stakes.
+Le gagnant du Pochen (ou le joueur à gauche du donneur si tout le monde a passé) commence le jeu et peut jouer n'importe quelle carte de sa main face visible au centre (par-dessus le pot central sur le plateau). Celui qui détient la carte suivante de la même couleur la joue, et cela continue jusqu'à ce qu'on atteigne un point où personne n'a la carte suivante (parce qu'elle a déjà été jouée ou parce que c'était la carte de payement face visible).
 
-### Third Stage
+La personne qui a joué la dernière et plus haute carte de la séquence recommence en jouant n'importe quelle carte, et les cartes sont à nouveau jouées en séquence croissante par couleur. Cela continue jusqu'à ce qu'un joueur n'ait plus de cartes.
 
-The winner of the Pochen (or the player to dealer's left if everyone passed) begins the play and can play any card from their hand face up in the centre (on top of the centre pot on the board). Whoever holds the next higher card of the same suit plays it, and this continues until a point is reached where no one has the next card (because it has already been played or because it was the face up pay suit card).
+Le joueur qui joue sa dernière carte en premier est le gagnant de la troisième phase. Ce joueur collecte le contenu du pot central, et en plus reçoit de chaque autre joueur un jeton pour chaque carte qu'il lui reste en main.
 
-The person who played the last and highest card of the sequence begins again, playing any card, and again the cards are played in ascending sequence in suit. This continues until a player runs out of cards.
+## Fin du jeu
 
-The player who first plays their last card is the winner of the third stage. This player collects the contents of the centre pot, and in addition is paid by each of the other players one chip for each card they still have in their hands.
+Le jeu continue généralement jusqu'à ce que quelqu'un n'ait plus de jetons. Cela se produit souvent quand quelqu'un n'a pas les 9 jetons nécessaires pour les placer sur le plateau lors de la distribution des cartes. Les joueurs restants comptent alors leurs jetons et le gagnant est le joueur avec le plus de jetons. Les jetons non réclamés sur le plateau restent là et ne sont gagnés par personne. Il y a souvent des jetons non réclamés dans les pots de Séquence et de Mariage.
 
-## Ending the Game
+## Variantes
 
-The game usually continues until someone runs out of chips. Often this will happen when someone does not have the necessary 9 chips to place on the board when the cards are dealt. The remaining players then count their chips and the winner is the player with most chips. Any unclaimed chips on the board remain there and are not won by anybody. Often there will be unclaimed ships in the Sequence and Marriage pools.
+Certains jouent que si le donneur retourne un As, Roi, Dame, Valet ou Dix comme carte centrale, le donneur prend le pot correspondant. Dans ce cas, ces pots sont toujours gagnés par quelqu'un.
 
-## Variations
+Certains jouent que la carte retournée pour déterminer la couleur de payement appartient au joueur dont c'est le tour de recevoir une carte dans l'ordre normal de distribution.
 
-Some play that if the dealer turns up an Ace, King, Queen, Jack or Ten as the centre card, the dealer takes the corresponding pool. In that case, these pools are always won by somebody.
+Certains jouent qu'il est possible de participer au Pochen même sans une paire de cartes assorties. Si aucun des joueurs du showdown n'a même une paire, la carte la plus haute gagne. Dans ce cas, il est d'usage d'utiliser l'ordre des couleurs du Skat — trèfles (haut), piques, cœurs, carreaux (bas) — pour départager les égalités simples, et entre des paires à égalité, la paire contenant le trèfle est plus haute, indépendamment de la couleur de payement.
 
-Some play that the card turned up to determine the pay suit belongs to the player whose turn it is to receive a card in the normal dealing order.
+## Le Poque à la fin du 18e siècle
 
-Some play that it is possible to take part in the Pochen without even a pair of matching cards. If none of the players in the showdown has even a pair, the highest single card wins. In this case it is usual to use Skat order of suits - clubs (high), spades, hearts, diamonds (low) - to break single ties, and between tied pairs the pair containing the club is higher, irrespective of the pay suit.
+Le résumé suivant est basé sur les règles du Poque dans l'Académie Universelle des Jeux, Amsterdam, 1789.
 
-It would be possible to play for money, giving a value to each chip. In this case, at the end of the game any unclaimed chips on the board should be distributed as equally as possible to the players, and everyone then receives or pays money according to the number of chips they have more or less than their initial supply.
+Les différences avec le jeu allemand moderne sont les suivantes.
 
-## Le Poque in the late 18th century
+- Le Poque se joue avec un jeu de 36 cartes, y compris les six, quand il y a plus de quatre joueurs ; trois ou quatre joueurs utilisent le jeu de 32 cartes comme ci-dessus.
 
-The following summary is based on the rules of Le Poque in the Académie Universelle des Jeux, Amsterdam, 1789.
+- Le plateau de Poque n'a que six pots : As, Roi, Dame, Valet, Dix, Poque.
 
-The differences from the modern German game are as follows. 
+- Le Poque est distribué et joué dans le sens antihoraire ; la première mise de la deuxième phase est faite par le joueur à droite du donneur.
 
-- Le Poque is played with a 36-card pack, including sixes, when there are more than four players; three or four players use the 32-card pack as above.
+- Seules cinq cartes sont distribuées à chaque joueur : deux à la fois puis trois à la fois. Le donneur retourne ensuite la carte suivante face visible pour déterminer la couleur de payement. Les cartes restantes sont laissées en tas face cachée et non utilisées, avec pour résultat que le jeu dans la troisième phase est souvent interrompu quand la carte suivante requise est dans la partie non distribuée.
 
-- The Poque board has only six pools: Ace, King, Queen, Jack, Ten, Poque.
+- Le donneur prend le pot concerné si la carte retournée pour indiquer la couleur de payement est un As, Roi, Dame, Valet ou Dix.
 
-- At one point it is stated that the fifth pool is labelled with a Ten and a Nine, which suggests that both cards of the pay suit might be required to win it, but this is contradicted elsewhere in the text.
+- La phase de paris a lieu avant que les joueurs qui détiennent les cartes de payement correspondant aux pots ne collectent leurs gains. Le pot de poque est gagné par le joueur qui a la meilleure main au showdown comme d'habitude. Si tous sauf un se retirent, le survivant peut gagner le pot même sans paire.
 
-- Le Poque is dealt and played counter-clockwise; the first bet in the second stage is made by the player to dealer's right.
+- Il n'y a pas de pot pour la troisième phase, dans laquelle les cartes sont jouées en séquence par couleur comme dans le jeu moderne. Le joueur qui n'a plus de cartes en premier collecte de tous les autres un nombre de jetons égal aux cartes de leurs mains comme d'habitude. De plus, le joueur qui a le plus de cartes doit payer ce nombre de jetons à chaque adversaire. Il n'est pas clair ce qui se passe si deux joueurs sont à égalité pour le plus de cartes — ils partagent peut-être le paiement.
 
-- Only five cards are dealt to each player: two at a time and then three at a time. The dealer then turns the next card face up to determine the pay suit. The remaining cards are left in a face down stack and not used, with the result that the play in the third stage is often interrupted when the next card required is in the undealt portion of the pack.
+## Poch au 19e siècle
 
-- The dealer takes the relevant pool if the card turned to indicate the pay suit is an Ace, King, Queen, Jack or Ten.
+La description suivante, contribuée par David Parlett, est basée sur Hoffmann : Der Meister in Allen Kartenspielen (Hambourg 1873, première édition 1810).
 
-- The betting stage takes place before the players who hold pay suit cards corresponding to the pools collect their winnings. The poque pot is won by the player who has the best hand in the showdown as usual. If all but one player drops out, the surviving player can win the pot even without a pair.
+Phase 1. De trois à six joueurs mettent chacun une mise convenue dans chacun des sept premiers des huit compartiments étiquetés As, Roi, Dame, Valet, Dix, Mariage, Séquence et Poch. Cinq cartes chacun sont distribuées d'un jeu de 32 ou 52 cartes et la suivante est retournée pour l'atout. Celui qui a reçu l'As d'atout gagne la mise sur « As », et ainsi de suite pour les autres compartiments. La mise de « mariage » est gagnée par celui qui a à la fois le Roi et la Dame d'atout, en plus de ceux des pots séparés du « Roi » et de la « Dame », et celle de « séquence » de même pour détenir le 7-8-9 d'atout. Toute mise non gagnée est reportée à la distribution suivante.
 
-- There is no pool for the third stage, in which the cards are played out in suit and sequence as in the modern game. The player who runs out of cards first collects from all the others a number of chips equal to the cards in their hands as usual. In addition, the player who has most cards has to pay this number of chips to each opponent. It is unclear what happens if two players tie for most cards - perhaps they share the payment.
+Phase 2. La mise de poch est ensuite disputée en pariant sur qui détient la meilleure combinaison, pour laquelle un carré bat un brelan, un brelan bat une paire, et une paire bat une main non appariée, la carte la plus haute départageant les égalités. Chacun à son tour peut miser ou se coucher. Le premier à miser le fait en plaçant n'importe quelle mise dans le compartiment étiqueté poch et en annonçant « Ich poche eins » (« je mise un », ou le nombre que ce soit). Chacun de ceux qui ne se sont pas couchés peut à son tour se coucher, suivre ou relancer. Lors d'un showdown, la meilleure main gagne le poch, mais les détails précis de la procédure de paris sont ambigus.
 
-## Poch in the 19th century
+Phase 3. Enfin, les cartes sont jouées en séquences par couleur à la manière des jeux de Stops (Newmarket, Michigan, etc.). Un joueur terminant une séquence est payé par les autres et commence une nouvelle, et le premier à n'avoir plus de cartes gagne un pour chaque carte non jouée dans les mains de tous les autres.
 
-The following description, contributed by David Parlett, is based on Hoffmann: Der Meister in Allen Kartenspielen (Hamburg 1873, first edition 1810).
-
-Phase 1. From three to six players each put an agreed stake into each of the first seven of eight compartments labelled Ace, King, Queen, Jack, Ten, Marriage, Sequence, and Poch. Five cards each are dealt from a 32- or 52-card pack and the next is turned for trump. Anyone dealt the trump Ace wins the stake on ‘Ace’, and so for the other compartments. The ‘marriage’ stake is won by anyone dealt both King and Queen of trumps, in addition to those of the separate ‘King’ and ‘Queen’ pool, and that of ‘sequence’ similarly for holding the 7-8-9 of trumps. Any stake not so won is carried forward to the next deal.
-
-Phase 2. The stake for poch is then contested by vying as to who holds the best combination, for which purpose a quartet beats a triplet, a triplet a pair, and a pair an unpaired hand, the highest card settling ties. Each in turn may bet or fold. The first to bet does so by placing any stake in the compartment labelled poch and announcing ‘Ich poche eins’ (‘I bet one’, or however many). Each of those who have not folded may at their turn either fold, stay, or raise. At a showdown the best hand wins the poch, but precise details of the vying procedure are ambiguous.
-
-Phase 3. Finally, cards are played out in sequences in suit after the manner of Stops games (Newmarket, Michigan, etc.). A player ending a sequence is paid by the others and starts a new one, and the first out of cards wins one for each card left unplayed in all the others’ hands.
-
-Note: Stops games did not appear before the 16th century, and in the earliest form of Pochen the final stake was won by whoever most nearly reached a count of 31.
-
-Home Page > Classified Index > Matching games > Stops group > Poch
+Note : Les jeux de Stops ne sont pas apparus avant le 16e siècle, et dans la forme la plus ancienne du Pochen, la dernière mise était gagnée par celui qui s'approchait le plus d'un compte de 31.

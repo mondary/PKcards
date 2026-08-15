@@ -1,244 +1,241 @@
-# Ohhell
+# Oh Hell
 
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Also known as Blackout,  Nomination Whist and many other names. Players try to predict the exact number of tricks they will win.
+**But :** Les joueurs tentent de prédire le nombre exact de levées qu'ils gagneront.
 **Autres noms :** Blackout, Kurnik
 
 ---
 
 ## Introduction
 
-This game, in which players try to predict the exact number of tricks they will win, first appeared in London and New York in the 1930's and has since become popular in many parts of the world. Its original name **Oh Hell!** evidently offended some people and has been bowdlerised in many books to **Oh Pshaw!** or **Oh Well!**, while others have preferred more robust alternatives such as **Oh Shit!** Some call it **Blob** or **Blackout**, perhaps because of the practice of recording a player's bid on the scoresheet and then obliterating it with a black blob if the player failed to take the predicted number of tricks. Traditionally the size of the players' hands increases or decreases by one in each deal, and this has given rise to the names **Elevator** (**l'Ascenseur** in France), Up and Down the River (in Australia and New Zealand) and **10 op en neer** in the Netherlands. In Britain it is often known as **Contract Whist** or as Nomination Whist, a name which also sometimes refers to different games. Other names include **Bust** (in Australia and New Zealand), **Boerenbridge** (in the Netherlands) and German Bridge (in Hong Kong). In India the game is called (in Gujurati) **Kachuful**, which is a mnemonic for the order of cycling through the trump suits: **Ka**ri (spades), **Chu**kat (diamonds), **F**alli (clubs), **L**al (hearts) and in Pakistan it is **765**.
+Ce jeu, dans lequel les joueurs tentent de prédire le nombre exact de levées qu'ils gagneront, est apparu pour la première fois à Londres et New York dans les années 1930 et est depuis devenu populaire dans de nombreuses régions du monde. Son nom original **Oh Hell!** a visiblement offensé certaines personnes et a été édulcoré dans de nombreux livres en **Oh Pshaw!** ou **Oh Well!**, tandis que d'autres ont préféré des alternatives plus robustes comme **Oh Shit!** Certains l'appellent **Blob** ou **Blackout**, peut-être à cause de la pratique consistant à noter l'enchère d'un joueur sur la feuille de marque puis à l'effacer avec un trait noir si le joueur échouait à prendre le nombre prédit de levées. Traditionnellement, la taille des mains des joueurs augmente ou diminue d'une à chaque distribution, ce qui a donné naissance aux noms **Elevator** (**l'Ascenseur** en France), Up and Down the River (en Australie et Nouvelle-Zélande) et **10 op en neer** aux Pays-Bas. En Grande-Bretagne, il est souvent connu sous le nom de **Contract Whist** ou Nomination Whist, un nom qui désigne aussi parfois des jeux différents. D'autres noms incluent **Bust** (en Australie et Nouvelle-Zélande), **Boerenbridge** (aux Pays-Bas) et German Bridge (à Hong Kong). En Inde, le jeu est appelé (en gujarati) **Kachuful**, acronyme de l'ordre de rotation des couleurs d'atout : **Ka**ri (piques), **Chu**kat (carreaux), **F**alli (trèfles), **L**al (cœurs) et au Pakistan c'est **765**.
 
-*This page was originally based on a contribution from Carter Hoerr, rulekeeper for the OH HELL! Club of America. I have added several common variations.*
+*Cette page était initialement basée sur une contribution de Carter Hoerr, gardien des règles du OH HELL! Club of America. J'ai ajouté plusieurs variantes courantes.*
 
-## Players and Cards
+## Joueurs et cartes
 
-From 3 to 7 people can play. The game is best when played with 4 to 6.
+De 3 à 7 personnes peuvent jouer. Le jeu est meilleur avec 4 à 6 joueurs.
 
-A standard 52 card deck is used. The cards in each suit rank (from high to low) **A K Q J 10 9 8 7 6 5 4 3 2**.
+Un jeu de 52 cartes standard est utilisé. Les cartes de chaque couleur se classent (de haut en bas) **A R D V 10 9 8 7 6 5 4 3 2**.
 
-## Sequence of Hands
+## Séquence des mains
 
-The **game** consists of a series of **hands**. The first hand is played with 7 to 10 cards dealt to each player, depending on the number of players:
+Le **jeu** consiste en une série de **mains**. La première main se joue avec 7 à 10 cartes distribuées à chaque joueur, selon le nombre de joueurs :
 
-- 3 to 5 players, 10 cards each;
+- 3 à 5 joueurs, 10 cartes chacun ;
 
-- 6 players, 8 cards each;
+- 6 joueurs, 8 cartes chacun ;
 
-- 7 players, 7 cards each
+- 7 joueurs, 7 cartes chacun
 
-(because of the limit of 52 cards available). Each successive hand is played with one card fewer, down to a hand of just one card each, then one card more per hand back up to the starting level. 
+(à cause de la limite de 52 cartes disponibles). Chaque main suivante se joue avec une carte de moins, jusqu'à une main d'une seule carte chacun, puis une carte de plus par main jusqu'au niveau de départ.
 
-**Example**: With 7 players, the hands are: 7 cards, then 6,5,4,3,2,1, then 2,3,4,5,6,7, for a total of 13 hands to the game. A game should take approximately 45 minutes.
+**Exemple** : Avec 7 joueurs, les mains sont : 7 cartes, puis 6, 5, 4, 3, 2, 1, puis 2, 3, 4, 5, 6, 7, pour un total de 13 mains par jeu. Une partie dure environ 45 minutes.
 
-## Object of the Game
+## But du jeu
 
-The object is for each player to **bid** the number of tricks he thinks he can take from each hand, then to take exactly that many; no more and no fewer. Points are awarded only for making the bid exactly, and are deducted for missing the bid, either over or under (see scoring below).
+Le but est pour chaque joueur d'**enchérir** le nombre de levées qu'il pense pouvoir prendre, puis d'en prendre exactement ce nombre ; ni plus ni moins. Des points ne sont attribués que pour avoir réalisé l'enchère exactement, et sont déduits pour avoir manqué l'enchère, en plus ou en moins (voir la marque ci-dessous).
 
-The **hook** is that at least one player will fail on each hand, because the total number of tricks bid by the players may not equal the number of tricks available on that hand.
+Le **piège** est qu'au moins un joueur échouera à chaque main, car le nombre total de levées enchéries par les joueurs peut ne pas être égal au nombre de levées disponibles pour cette main.
 
-## Deal
+## Distribution
 
-To determine the first dealer, draw cards. The player with the highest card deals first. The turn to deal rotates clockwise with each hand.
+Pour déterminer le premier donneur, tirez les cartes. Le joueur avec la plus haute carte distribue en premier. Le tour de distribution tourne dans le sens horaire à chaque main.
 
-The cards are shuffled and cut and the dealer deals the cards singly until everyone has the appropriate number of cards for the hand being played. The next card is turned face up and the suit of this card is the **trump suit** for the hand. The trump suit beats any of the other three suits played in that hand. The remaining undealt cards are placed in a face down stack with the turned trump on top of it.
+Les cartes sont mélangées et coupées, et le donneur distribue les cartes une par une jusqu'à ce que chacun ait le nombre approprié de cartes pour la main jouée. La carte suivante est retournée face visible et la couleur de cette carte est la **couleur d'atout** de la main. La couleur d'atout bat n'importe laquelle des trois autres couleurs jouées dans cette main. Les cartes non distribuées restantes sont placées dans un tas face cachée avec la carte d'atout retournée au-dessus.
 
-## Bidding
+## Enchères
 
-The bidding in each hand begins with the player to the left of the dealer, then continues clockwise, back around to the dealer, who bids last. Each bid is a number representing the number of tricks that player will try to take. Everyone must bid - it is not possible to pass, but you can bid zero, in which case your object is to take no tricks at all. A bid may be changed only if the next player to the left has not yet bid. Remember the **hook**: the dealer may not bid the number that would cause the total number of tricks bid to equal the number of tricks available; a hand will always be "over-bid" or "under-bid". Keep in mind when bidding that not all cards in the deck are in play in any hand.
+Les enchères de chaque main commencent avec le joueur à gauche du donneur, puis continuent dans le sens horaire, jusqu'au donneur qui enchérit en dernier. Chaque enchère est un nombre représentant le nombre de levées que le joueur essaiera de prendre. Tout le monde doit enchérir — il n'est pas possible de passer, mais vous pouvez enchérir zéro, auquel cas votre but est de ne prendre aucune levée. Une enchère ne peut être modifiée que si le joueur suivant à gauche n'a pas encore enchéri. Rappelez-vous le **piège** : le donneur ne peut pas enchérir le nombre qui ferait que le total des levées enchéries soit égal au nombre de levées disponibles ; une main sera toujours « sur-enchérie » ou « sous-enchérie ». Gardez à l'esprit lors des enchères que toutes les cartes du jeu ne sont pas en jeu dans chaque main.
 
-## Play
+## Jeu
 
-The play begins with the player to the dealer's left, who leads the first card. The lead may be any suit (including trump). Play follows clockwise. Each player must follow the suit led, if he can. If not, he may play any other card in his hand, including trump. The player who has played the highest trump card, or if no trump was played, the highest card of the suit led, wins the trick. That player then leads to the next trick. Continue until all tricks have been played and won.
+Le jeu commence avec le joueur à gauche du donneur, qui entame la première carte. L'entame peut être de n'importe quelle couleur (y compris l'atout). Le jeu continue dans le sens horaire. Chaque joueur doit suivre la couleur demandée s'il le peut. Sinon, il peut jouer n'importe quelle autre carte de sa main, y compris l'atout. Le joueur qui a joué le plus haut atout, ou si aucun atout n'a été joué, la plus haute carte de la couleur demandée, gagne la levée. Ce joueur entame alors la levée suivante. Continuez jusqu'à ce que toutes les levées aient été jouées et gagnées.
 
-## Scoring
+## Marque
 
-The **scorekeeper** is designated prior to each game according to house rules. The scorekeeper, needless to say, has a distinct advantage, and should be monitored closely for "inadvertent" errors. The designated scorekeeper notes each bid and resulting scores on a score sheet. There are many different ways to score Oh Hell!
+Le **marqueur** est désigné avant chaque partie selon les règles de la maison. Le marqueur a, on le comprendra, un avantage distinct et doit être surveillé de près pour les erreurs « involontaires ». Le marqueur désigné note chaque enchère et les scores résultants sur une feuille de marque. Il existe de nombreuses façons de marquer Oh Hell!
 
-In the simplest version, a player who wins the exact number of tricks bid scores 10 plus the number of tricks bid (10 points for zero tricks, 11 for 1 trick, 12 for two tricks, etc.) Players who take more or fewer tricks than they bid score nothing. This method has the advantage that the scorekeeper, having written down the bids at the start of the play, can simply write a figure "1" in front of those that were successful and delete those that are not. The game with this scoring method is often known as **Blackout** or **Blob**, because the scorer obliterates or blacks out unsuccessful bids, so that they become black blobs on the score sheet. 
+Dans la version la plus simple, un joueur qui gagne exactement le nombre de levées enchéries marque 10 plus le nombre de levées enchéries (10 points pour zéro levée, 11 pour 1 levée, 12 pour deux levées, etc.). Les joueurs qui prennent plus ou moins de levées qu'ils ont enchéri ne marquent rien. Cette méthode a l'avantage que le marqueur, ayant écrit les enchères au début du jeu, peut simplement écrire un « 1 » devant celles qui ont réussi et supprimer celles qui n'ont pas réussi. Le jeu avec cette méthode de marque est souvent connu sous le nom de **Blackout** ou **Blob**, car le marqueur efface ou noircit les enchères échouées, qui deviennent des taches noires sur la feuille de marque.
 
-Perhaps the most widespread scoring method is to award 1 point for each trick won plus a bonus of 10 points for players who win exactly the number of tricks they bid. So for example a player who bid 2 would score 12 points for winning exactly 2 tricks, but only 1 for 1 trick and 3 for 3 tricks. This gives a player whose bid fails a slight incentive to win as many tricks as possible.
+La méthode de marque la plus répandue est d'attribuer 1 point pour chaque levée gagnée plus un bonus de 10 points pour les joueurs qui gagnent exactement le nombre de levées qu'ils ont enchéri. Ainsi, par exemple, un joueur qui a enchéri 2 marquerait 12 points pour avoir gagné exactement 2 levées, mais seulement 1 pour 1 levée et 3 pour 3 levées. Cela donne au joueur dont l'enchère a échoué une légère incitation à gagner autant de levées que possible.
 
-Some other scoring methods are given in the variations section below. Whatever method is used, the score keeper keeps a cumulative total of each player's score. The final cumulative scores determine the result. If the game is played for money, players pay or receive amounts corresponding to the difference of their scores from the average.
+D'autres méthodes de marque sont données dans la section des variantes ci-dessous. Quelle que soit la méthode utilisée, le marqueur conserve un total cumulé du score de chaque joueur. Les scores cumulés finaux déterminent le résultat. Si le jeu est joué pour de l'argent, les joueurs paient ou reçoivent des montants correspondant à la différence de leurs scores par rapport à la moyenne.
 
-Several people have produced preprinted Oh Hell score sheets and applications, reflecting various scoring methods. 
+Plusieurs personnes ont produit des feuilles de marque et des applications pré-imprimées pour Oh Hell, reflétant diverses méthodes de marque.
 
-## Variations
+## Variantes
 
-### Sequence of Hands
+### Séquence des mains
 
-There are a lot of variations of this. Some people start from 1 card each, go up to the maximum number of cards and then back down to 1. Some just go from the maximum down to 1 and then stop, or vice versa. Some people go from the maximum down to 1, then from 1 up to the maximum, so playing two 1-card hands in the middle, or from 1 to the maximum to 1 with two maximum hands in the middle. If there are four people the maximum number of cards dealt may be 13 rather than 10, with three people you can go up to 17. Some people go up to some other maximum, such as 7 cards, irrespective of the number of players.
+Il existe de nombreuses variantes à ce sujet. Certains commencent avec 1 carte chacun, montent jusqu'au nombre maximum puis redescendent à 1. Certains vont simplement du maximum à 1 puis s'arrêtent, ou inversement. Certains vont du maximum à 1, puis de 1 au maximum, en jouant deux mains à 1 carte au milieu, ou de 1 au maximum puis à 1 avec deux mains au maximum au milieu. S'il y a quatre joueurs, le nombre maximum de cartes distribuées peut être 13 plutôt que 10, avec trois joueurs on peut monter jusqu'à 17. Certains montent jusqu'à un autre maximum, comme 7 cartes, indépendamment du nombre de joueurs.
 
-Dan Strohm describes a version, called **Devil's Bridge**, in which the hand size increases and then decreases. On the final 1 card hand, the players must each hold their card on their forehead, so each player can see all the other player's cards but not their own.
+Dan Strohm décrit une version, appelée **Devil's Bridge**, dans laquelle la taille de la main augmente puis diminue. Lors de la dernière main à 1 carte, les joueurs doivent tenir leur carte sur leur front, de sorte que chaque joueur peut voir les cartes de tous les autres joueurs mais pas la sienne.
 
-Bryce Francis reports that in Australia, when playing Bust with 5 players, they add 13 low cards from a second pack to make a 65 card pack, so as to deal 13 cards each on the first hand as with 4 players. When there are six players they add a further 13 low cards, so that the bottom half of the pack is duplicated. If duplicate cards are played to a trick, the second played beats the first.
+Bryce Francis rapporte qu'en Australie, en jouant à Bust avec 5 joueurs, ils ajoutent 13 cartes basses d'un deuxième jeu pour obtenir un jeu de 65 cartes, afin de distribuer 13 cartes chacun dès la première main comme avec 4 joueurs. Quand il y a six joueurs, ils ajoutent encore 13 cartes basses, de sorte que la moitié inférieure du jeu est dupliquée. Si des cartes en double sont jouées à une levée, la deuxième jouée bat la première.
 
-A 3-player game is also possible, removing 13 low cards from a single pack.
+Un jeu à 3 joueurs est aussi possible, en retirant 13 cartes basses d'un seul jeu.
 
-### Determining Trumps
+### Détermination de l'atout
 
-Some sequences include hands in which all cards are dealt (for example 13 cards each to 4 players). There is of course then no card left to determine the trump suit. These hands are played without trumps. Some play the largest deals without trumps even if not all the cards are used.
+Certaines séquences incluent des mains où toutes les cartes sont distribuées (par exemple 13 cartes chacun à 4 joueurs). Il n'y a alors bien sûr aucune carte restante pour déterminer la couleur d'atout. Ces mains se jouent sans atout. Certains jouent les plus grandes distributions sans atout même si toutes les cartes ne sont pas utilisées.
 
-Instead of turning up a card, some people go through the possible trump suits in a fixed sequence. This sequence may or may not include "no trumps".
+Au lieu de retourner une carte, certains passent en revue les couleurs d'atout possibles dans une séquence fixe. Cette séquence peut ou non inclure « sans atout ».
 
-In the Indian (Gujurati) game **Kachuful**, the sequence of trump suits is spades, diamonds, clubs, hearts and the name of the game, which literally means 'raw flower', is also a mnemonic for this sequence: Ka = Kari = Spades,
-Chu = Chukat = Diamonds, 
-Fu = Falli = Clubs, L = Lal = Hearts
+Dans le jeu indien (gujarati) **Kachuful**, la séquence des couleurs d'atout est piques, carreaux, trèfles, cœurs et le nom du jeu, qui signifie littéralement « fleur crue », est aussi un moyen mnémotechnique pour cette séquence : Ka = Kari = Piques,
+Chu = Chukat = Carreaux,
+Fu = Falli = Trèfles, L = Lal = Cœurs
 
-Brad Wilson describes a version called "Oh Shit!" in which Spades are always trumps.
+Brad Wilson décrit une version appelée « Oh Shit! » dans laquelle les piques sont toujours l'atout.
 
-Jean-Pierre Coulon reports a variation in which after the appropriate number of cards have been dealt to the players, the next card is turned face up. If the rank of the turned up card is from 2 to 6, there are no trumps for the deal; if it is 7 or higher, the suit of the turned up card is trumps.
+Jean-Pierre Coulon rapporte une variante dans laquelle, après avoir distribué le nombre approprié de cartes aux joueurs, la carte suivante est retournée. Si le rang de la carte retournée va de 2 à 6, il n'y a pas d'atout pour la distribution ; si c'est 7 ou plus, la couleur de la carte retournée est l'atout.
 
-### Bidding
+### Enchères
 
-Some people play without the **hook** rule, so the dealer is allowed to bid in such a way that everyone can win. There was a lively discussion in rec.games.playing-cards as to which version is more skilful, with strong advocates of each. Some think that hands where the bids add up are too easy; but others say that forcing the bids not to add up removes a tactical option from the dealer.
+Certains jouent sans la règle du **piège**, de sorte que le donneur est autorisé à enchérir de façon à ce que tout le monde puisse gagner. Il y a eu une discussion animée dans rec.games.playing-cards pour savoir quelle version est la plus habile, avec de fervents défenseurs de chacune. Certains pensent que les mains où les enchères s'additionnent sont trop faciles ; mais d'autres disent que forcer les enchères à ne pas s'additionner retire une option tactique au donneur.
 
-Some play with **simultaneous bidding**. When the players are ready to bid, they put a fist on the table. When everyone's fist is out, the group says "One, Two, Three" while bouncing their fists on the table. On Three, everyone must stick out some number of fingers (possibly zero) to indicate how many tricks they will try to take. Of course, with this method, there's no restriction against the total number of bid tricks being equal to the number of cards dealt. Since players cannot adjust their bids based on the other players' bids, the total tricks bid can be wildly different from the tricks available - for example it is not uncommon for three or four players to bid "one" when only one card was dealt. Several correspondents report that in Australia, most groups use simultaneous bidding rather than bidding in turn.
+Certains jouent avec des **enchères simultanées**. Quand les joueurs sont prêts à enchérir, ils mettent un poing sur la table. Quand tous les poings sont sortis, le groupe dit « Un, Deux, Trois » en rebondissant leurs poings sur la table. Sur trois, tout le monde doit sortir un certain nombre de doigts (éventuellement zéro) pour indiquer combien de levées ils essaieront de prendre. Bien sûr, avec cette méthode, il n'y a aucune restriction contre le fait que le total des levées enchéries soit égal au nombre de cartes distribuées. Puisque les joueurs ne peuvent pas ajuster leurs enchères en fonction de celles des autres joueurs, le total des levées enchéries peut être très différent des levées disponibles — par exemple, il n'est pas rare que trois ou quatre joueurs enchérissent « un » alors qu'une seule carte a été distribuée. Plusieurs correspondants signalent qu'en Australie, la plupart des groupes utilisent des enchères simultanées plutôt que des enchères à tour de rôle.
 
-### Play
+### Jeu
 
-Some play that the dealer, rather than the player to dealer's left, leads to the first trick.
+Certains jouent que le donneur, plutôt que le joueur à gauche du donneur, entame la première levée.
 
-David Wuori (of Maine, USA) reports a variation in which a player who has no card of the suit led must trump. Only if you have no cards of the suit led and no trumps can you discard from a different non-trump suit. Although this is rule is uncommon in English speaking countries, it is actually the usual way of playing La Podrida (the Spanish equivalent to Oh Hell played in Latin America and in Spain) as well as the equivalent Romanian game of Whist.
+David Wuori (du Maine, États-Unis) rapporte une variante dans laquelle un joueur qui n'a pas de carte de la couleur demandée doit couper. Ce n'est que si vous n'avez pas de cartes de la couleur demandée et pas d'atouts que vous pouvez défausser une autre couleur non-atout. Bien que cette règle soit inhabituelle dans les pays anglophones, c'est en fait la façon habituelle de jouer à La Podrida (l'équivalent espagnol d'Oh Hell joué en Amérique latine et en Espagne) ainsi qu'au jeu roumain équivalent de Whist.
 
-Mark Brader suggests a variation in which two jokers are included, to make a 54-card deck. These jokers are a suit of their own containing just two equal cards. If a joker is led it wins the trick unless trumped. If a joker is turned up the other joker is the only trump. 
+Mark Brader suggère une variante dans laquelle deux jokers sont inclus, pour faire un jeu de 54 cartes. Ces jokers forment une couleur à part entière ne contenant que deux cartes égales. Si un joker est entamé, il gagne la levée sauf s'il est coupé. Si un joker est retourné, l'autre joker est le seul atout.
 
-Dick Atkinson reports a version of Blackout for 5 or 6 players, played in Northeast England in the 1970s. Two jokers are added to the pack, and if there are 5 players the four deuces are removed leaving 50 cards. With 5 players the deal is always 10 cards each and with 6 players 9 cards each. The trump suit rotates from deal to deal in the order hearts, clubs, diamonds, spades. The dealer could not make the bid total equal the number of cards dealt. Jokers could not be led (unless the player had no other cards) and could not be played in the first trick. Apart from that, a joker could be played to any trick (even if the player could have followed suit). The first player of a joker could nominate it as either "high", automatically winning the trick or "low", automatically losing. The player of the second joker had no choice: it would be low if the first joker was high and high if the first was low. If a player was forced to lead a joker, the first suited card played determined the suit of the trick.
+Dick Atkinson rapporte une version de Blackout pour 5 ou 6 joueurs, jouée dans le nord-est de l'Angleterre dans les années 1970. Deux jokers sont ajoutés au jeu, et s'il y a 5 joueurs, les quatre deux sont retirés, laissant 50 cartes. Avec 5 joueurs, la distribution est toujours de 10 cartes chacun, et avec 6 joueurs de 9 cartes chacun. La couleur d'atout tourne d'une distribution à l'autre dans l'ordre cœurs, trèfles, carreaux, piques. Le donneur ne pouvait pas faire en sorte que le total des enchères soit égal au nombre de cartes distribuées. Les jokers ne pouvaient pas être entamés (sauf si le joueur n'avait pas d'autres cartes) et ne pouvaient pas être joués à la première levée. À part cela, un joker pouvait être joué à n'importe quelle levée (même si le joueur aurait pu suivre la couleur). Le premier joueur d'un joker pouvait le nommer soit « haut », gagnant automatiquement la levée, soit « bas », perdant automatiquement. Le joueur du second joker n'avait pas le choix : il serait bas si le premier joker était haut et haut si le premier était bas. Si un joueur était forcé d'entamer un joker, la première carte colorée jouée déterminait la couleur de la levée.
 
-### Scoring
+### Marque
 
-There are many alternative systems.
+Il existe de nombreux systèmes alternatifs.
 
-- Some players give the usual 10-point bonus for a successful positive bid but award only 5 points for a successful bid of zero. Others award 5 plus the number of cards dealt to each player for a successful zero bid, recognising the fact that zero is more difficult when more cards are dealt.
+- Certains joueurs donnent le bonus habituel de 10 points pour une enchère positive réussie mais n'accordent que 5 points pour une enchère de zéro réussie. D'autres accordent 5 plus le nombre de cartes distribuées à chaque joueur pour une enchère de zéro réussie, reconnaissant le fait que zéro est plus difficile quand plus de cartes sont distribuées.
 
-- Some score 10 points for each trick bid and won for a successful bid. A successful "zero" bid wins 10 points. A player whose bid is unsuccessful (over or under) loses 10 points times the difference between the number of tricks won and the number of tricks bid.
+- Certains marquent 10 points pour chaque levée enchérie et gagnée pour une enchère réussie. Une enchère de « zéro » réussie rapporte 10 points. Un joueur dont l'enchère échoue (en plus ou en moins) perd 10 points multipliés par la différence entre le nombre de levées gagnées et le nombre de levées enchéries.
 
-- Another system is that you win 5 points if you are right plus 10 for each trick taken, and you lose 5 points if you are wrong plus an extra 5 for each trick difference from your bid.
+- Un autre système : vous gagnez 5 points si vous avez raison plus 10 pour chaque levée prise, et vous perdez 5 points si vous vous trompez plus un supplément de 5 pour chaque levée de différence avec votre enchère.
 
-- Yet another system: if you make your bid exactly you score 10 points plus the **square** of the number of tricks you bid (i.e. 10 points for none, 11 for one, 14 for two, 19 for three, 26 for four, etc.); if you fail you **lose** the **square** of the difference between the number of tricks you bid and the number of tricks you took.
+- Un autre système encore : si vous réalisez votre enchère exactement, vous marquez 10 points plus le **carré** du nombre de levées que vous avez enchéries (c'est-à-dire 10 points pour zéro, 11 pour une, 14 pour deux, 19 pour trois, 26 pour quatre, etc.) ; si vous échouez, vous **perdez** le **carré** de la différence entre le nombre de levées enchéries et le nombre de levées prises.
 
-- Some play for a single winner, who is the player with the highest score when the whole series of hands has been played. In case of a **tie** after the last hand, some deal further hand(s) with the maximum number of cards until a clear winner is determined. The winner may not be any of those involved in the original tie - any player can win until the end.
+- Certains jouent pour un seul vainqueur, qui est le joueur avec le score le plus élevé quand toute la série de mains a été jouée. En cas d'**égalité** après la dernière main, certains distribuent une ou plusieurs mains supplémentaires avec le nombre maximum de cartes jusqu'à ce qu'un vainqueur clair soit déterminé. Le vainqueur peut ne pas être l'un de ceux impliqués dans l'égalité initiale — n'importe quel joueur peut gagner jusqu'à la fin.
 
-### More variations
+### Plus de variantes
 
-The Oh Hell Variations page in the Invented Games section of this site has a collection of Oh Hell variations contributed by readers.
+La page Oh Hell Variations dans la section Invented Games de ce site contient une collection de variantes d'Oh Hell contribuées par les lecteurs.
 
 ### Boerenbridge
 
-A version of Oh Hell! under the Dutch name Boerenbridge was formerly available to play against three computer opponents at Kaartspellen online (www.useme.nl/kaartspellen). In the variation offered there: 
+Une version d'Oh Hell! sous le nom néerlandais de Boerenbridge était autrefois disponible pour jouer contre trois adversaires informatiques sur Kaartspellen online (www.useme.nl/kaartspellen). Dans la variante proposée :
 
-- The whole pack is dealt every time - 13 cards each to four players. 
+- Le jeu entier est distribué à chaque fois — 13 cartes chacun à quatre joueurs.
 
-- Bidding is simultaneous. 
+- Les enchères sont simultanées.
 
-- Score 1 point for each trick won, plus a bonus of 10 is you make your bid exactly. 
+- Marquez 1 point pour chaque levée gagnée, plus un bonus de 10 si vous réalisez votre enchère exactement.
 
-- If you bid and make zero you score 20 points. 
+- Si vous enchérissez et réalisez zéro, vous marquez 20 points.
 
-- If your score is 80 or more you do not take part in the bidding, but just score 1 for each trick you win. 
+- Si votre score est de 80 ou plus, vous ne participez pas aux enchères, mais vous marquez simplement 1 pour chaque levée gagnée.
 
-- The objective is to score exactly 100; if you go over 100 you bounce back - your excess over 100 is subtracted from 100. 
+- L'objectif est de marquer exactement 100 ; si vous dépassez 100, vous rebondissez — votre excédent au-dessus de 100 est soustrait de 100.
 
 ### 7-Truf
 
-Andi Beben describes the four-player variant **7-truf** played in Indonesia with a 32-card pack ranking from high to low A-K-Q-J-10-9-8-7 in each suit. There are 22 deals as follows:
+Andi Beben décrit la variante à quatre joueurs **7-truf** jouée en Indonésie avec un jeu de 32 cartes se classant de haut en bas A-R-D-V-10-9-8-7 dans chaque couleur. Il y a 22 distributions comme suit :
 
-- 7 deals increasing from 1 card each to 7 cards each. A card is turned from the undealt part of the pack to determine the trump suit.
+- 7 distributions augmentant de 1 carte chacun à 7 cartes chacun. Une carte est retournée de la partie non distribuée pour déterminer la couleur d'atout.
 
-- 4 deals with all acrds dealt: 8 cards each with no trumps.
+- 4 distributions avec toutes les cartes distribuées : 8 cartes chacun sans atout.
 
-- 7 deals decreasing from 7 cards each to 1 card each, and one of the remaining cards turned for trumps.
+- 7 distributions diminuant de 7 cartes chacun à 1 carte chacun, et une des cartes restantes retournée pour l'atout.
 
-- 4 more deals with 8 cards each and no trumps.
+- 4 distributions supplémentaires avec 8 cartes chacun et sans atout.
 
-Players bid in turn. The dealer's bid cannot make the total bids equal to the total number of tricks.
+Les joueurs enchérissent à tour de rôle. L'enchère du donneur ne peut pas faire que le total des enchères soit égal au nombre total de levées.
 
-For a successful bid, the score is 10 times the bid, or 5 times the total number of tricks played for a successful zero bid. Unsuccessful players score 1 point per trick won.
+Pour une enchère réussie, le score est 10 fois l'enchère, ou 5 fois le nombre total de levées jouées pour une enchère de zéro réussie. Les joueurs qui échouent marquent 1 point par levée gagnée.
 
-**10 op en neer page**, described by Axel Brink, is a Dutch variant in which the number of cards dealt per hand are: 1, 2, ..., 9, 10, 9, ..., 1. There is no hook rule. A bid made exactly scores 10 points plus the bid: a missed bid (over or under) scores 0. 
+La page **10 op en neer**, décrite par Axel Brink, est une variante néerlandaise dans laquelle le nombre de cartes distribuées par main est : 1, 2, ..., 9, 10, 9, ..., 1. Il n'y a pas de règle du piège. Une enchère réalisée exactement rapporte 10 points plus l'enchère : une enchère manquée (en plus ou en moins) rapporte 0.
 
-## Related games
+## Jeux apparentés
 
-La Podrida is the equivalent Spanish game to Oh Hell!, played with a 52-card pack. There is also a similar game **La Pocha**, played with the 40-card Spanish deck. 
+La Podrida est le jeu espagnol équivalent à Oh Hell!, joué avec un jeu de 52 cartes. Il existe aussi un jeu similaire **La Pocha**, joué avec le jeu espagnol de 40 cartes.
 
-Romanian Whist is a variation of Oh Hell!, played in Romania with a 32-card pack.
+Le Whist roumain est une variante d'Oh Hell!, jouée en Roumanie avec un jeu de 32 cartes.
 
-David Parlett's 36-card game Ninety-Nine is based on similar principles, but with an extra twist to the bidding.
+Le jeu à 36 cartes de David Parlett, Ninety-Nine, repose sur des principes similaires, avec un twist supplémentaire aux enchères.
 
-[German Bridge](https://www.weweweb.net/game/webpage/gbridge-howto.html) is a version of Oh Hell played in Hong Kong. You gain (10 + (bid)2) if successful and lose (bid - tricks)2 if not.
+Le [German Bridge](https://www.weweweb.net/game/webpage/gbridge-howto.html) est une version d'Oh Hell jouée à Hong Kong. Vous gagnez (10 + (enchère)²) si vous réussissez et perdez (enchère - levées)² si vous échouez.
 
-Nominations or Clag is a British variant which adds some extra deals with special rules.
+Nominations ou Clag est une variante britannique qui ajoute quelques distributions supplémentaires avec des règles spéciales.
 
-## Other Oh Hell WWW pages
+## Autres pages web sur Oh Hell
 
-- David Zechiel's page gives [Al Okuneff's rules of Oh Hell](http://www.zechiel.com/oh_hell.html), in which the highest bidder chooses trumps; the scores for high bids escalate in such a way that it is worth going set on a low bid if by doing so you can destroy the high bidder's bid as well.
+- La page de David Zechiel donne les [règles d'Oh Hell par Al Okuneff](http://www.zechiel.com/oh_hell.html), dans lesquelles le plus haut enchérisseur choisit l'atout ; les scores pour les enchères élevées s'escaladent de manière à ce qu'il vaille la peine de rater sur une enchère basse si cela permet de détruire l'enchère du plus haut enchérisseur.
 
-- Nicholas Cheung's [Oh Hell](https://web.archive.org/web/20230525125832/http://www.nicholasc.info/cardgames/ohhell.html) page (archive copy).
+- La page [Oh Hell](https://web.archive.org/web/20230525125832/http://www.nicholasc.info/cardgames/ohhell.html) de Nicholas Cheung (copie d'archive).
 
-- [Rules of Oh Hell](https://cardgameheaven.com/oh-hell/) are available on the Card Game Heaven site.
+- Les [règles d'Oh Hell](https://cardgameheaven.com/oh-hell/) sont disponibles sur le site Card Game Heaven.
 
-- Archive copy of Dave Barker's former page of [Rules for Oh Hell](https://web.archive.org/web/20021021100325/w3.one.net/~dbarker/cards/oh-hell.html)
+- Copie d'archive de l'ancienne page de Dave Barker sur les [règles d'Oh Hell](https://web.archive.org/web/20021021100325/w3.one.net/~dbarker/cards/oh-hell.html)
 
-- Archive copy of Brad Wilson's former [Oh Shit!](https://web.archive.org/web/20001017235243/www.quality.nu/bradw/games/ohshit.html) page.
+- Copie d'archive de l'ancienne page [Oh Shit!](https://web.archive.org/web/20001017235243/www.quality.nu/bradw/games/ohshit.html) de Brad Wilson.
 
-- Jean-François Bustarret's page [L'Ascenseur](https://web.archive.org/web/20241209201231/https://www.jeuxdecartes.net/jeux-cartes/ascenseur/) (archive copy) had rules in French.
+- La page [L'Ascenseur](https://web.archive.org/web/20241209201231/https://www.jeuxdecartes.net/jeux-cartes/ascenseur/) de Jean-François Bustarret (copie d'archive) proposait des règles en français.
 
-## Software
+## Logiciel
 
-You can download a freeware Oh Hell! program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
+Vous pouvez télécharger un programme gratuit Oh Hell! depuis [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
 
-[Far Whist](https://vincent-brevart.fr/en/whi/elevator-free-card-game.html) is a free program by Vincent Brévart with which you can play Elevator Whist, Oh Hell!, Romanian Whist and many other variations.
+[Far Whist](https://vincent-brevart.fr/en/whi/elevator-free-card-game.html) est un programme gratuit de Vincent Brévart avec lequel vous pouvez jouer à Elevator Whist, Oh Hell!, le Whist roumain et de nombreuses autres variantes.
 
-Jack Marrows has written a two-player [Oh Shit!](https://playohsit.appspot.com/) program with which you can play online against the computer. His version has the unusual feature that the jack of trumps is highest, followed by the other jack of the same colour, as in Euchre or 500.
+Jack Marrows a écrit un programme [Oh Shit!](https://playohsit.appspot.com/) à deux joueurs avec lequel vous pouvez jouer en ligne contre l'ordinateur. Sa version a la particularité que le valet d'atout est le plus haut, suivi de l'autre valet de la même couleur, comme à l'Euchre ou au 500.
 
-At [DKM Oh Hell](https://dkmgames.com/CardSharp/OhHell/) from the CardSharp suite you can play online against three computer opponents a version of Oh Hell with 10 card deals throughout.
+Sur [DKM Oh Hell](https://dkmgames.com/CardSharp/OhHell/) de la suite CardSharp, vous pouvez jouer en ligne contre trois adversaires informatiques une version d'Oh Hell avec 10 cartes distribuées tout au long du jeu.
 
-## Online Oh Hell! Games
+## Jeux Oh Hell! en ligne
 
-The version of [Oh Hell!](https://www.anrdoezrs.net/click-4373756-11131462) offered at Game Duell is in fact equivalent to the proprietary game Wizard, played with a 60-card deck including four owls (wizards) and four moles (jesters).
+La version d'[Oh Hell!](https://www.anrdoezrs.net/click-4373756-11131462) proposée sur Game Duell est en fait équivalente au jeu propriétaire Wizard, joué avec un jeu de 60 cartes comprenant quatre hiboux (wizards) et quatre taupes (jesters).
 
-Oh Hell! can be played online at [PlayOK Online Games](https://www.playok.com/) (formerly known as Kurnik) 
+Oh Hell! peut être joué en ligne sur [PlayOK Online Games](https://www.playok.com/) (anciennement connu sous le nom de Kurnik).
 
-You can play Oh Hell online at [CardzMania.com](https://www.cardzmania.com/OhHell)
+Vous pouvez jouer à Oh Hell en ligne sur [CardzMania.com](https://www.cardzmania.com/OhHell).
 
-Board Game Arena offers an [online Oh Hell](https://boardgamearena.com/#!gamepanel?game=ohhell) game
+Board Game Arena propose un [Oh Hell en ligne](https://boardgamearena.com/#!gamepanel?game=ohhell).
 
-You can play Oh Hell online at [Caardcluub.com](https://www.caardcluub.com).
+Vous pouvez jouer à Oh Hell en ligne sur [Caardcluub.com](https://www.caardcluub.com).
 
-At [Divorce Cards](https://divorcecards.polsia.app/) you can play a free version of 4-player Oh Hell online in a browser against either bots or human opponents. In the 1-card deals you see the other players' cards but not your own.
+Sur [Divorce Cards](https://divorcecards.polsia.app/) vous pouvez jouer une version gratuite d'Oh Hell à 4 joueurs en ligne dans un navigateur, soit contre des robots soit contre des adversaires humains. Dans les distributions à 1 carte, vous voyez les cartes des autres joueurs mais pas la vôtre.
 
-[Mana Battery](https://manabattery.com/) publishes online games (including Oh Hell) for the Microsoft Xbox 360, Windows Phone, IOS and Android.
+[Mana Battery](https://manabattery.com/) publie des jeux en ligne (incluant Oh Hell) pour Microsoft Xbox 360, Windows Phone, iOS et Android.
 
-You can play [Bill's Up and Down the River Game](https://river.northwestpages.com) online at northwestpages.com - no download required.
+Vous pouvez jouer au [Bill's Up and Down the River Game](https://river.northwestpages.com) en ligne sur northwestpages.com — sans téléchargement requis.
 
-At [Ludopoli](https://www.ludopoli.it/) (Italian language) a version of Oh Hell is offered under the name Whist (or Bid Whist).
+Sur [Ludopoli](https://www.ludopoli.it/) (en italien) une version d'Oh Hell est proposée sous le nom de Whist (ou Bid Whist).
 
-Funnode has an online version of Oh Hell! under its Indian name [Kachuful](https://www.funnode.com/games/kachuful). 
+Funnode propose une version en ligne d'Oh Hell! sous son nom indien [Kachuful](https://www.funnode.com/games/kachuful).
 
-## Oh Hell! Score Sheets and Applications
+## Feuilles de marque et applications Oh Hell!
 
-- Carter Hoerr has produced a specially designed scoresheet, with the rules of Oh Hell! on the back. These are available as an MSWord file or as printed copies. To obtain them you can download the PDF or 
-.
+- Carter Hoerr a produit une feuille de marque spécialement conçue, avec les règles d'Oh Hell! au verso. Elles sont disponibles en fichier MSWord ou en copies imprimées.
 
-- Magne Roald publishes aa [Oh Hell! Scores](https://apps.apple.com/us/app/oh-hell-scores/id377617412) app for iPhone and iPad in which no keyboard input is required: bids and results are entered entrely by pressing buttons. It is available in English, German, Norwegian and Swedish and has numerous options for configuring different variants of the game.
+- Magne Roald publie une application [Oh Hell! Scores](https://apps.apple.com/us/app/oh-hell-scores/id377617412) pour iPhone et iPad dans laquelle aucune saisie au clavier n'est requise : les enchères et les résultats sont entrés entièrement en appuyant sur des boutons. Elle est disponible en anglais, allemand, norvégien et suédois et propose de nombreuses options pour configurer différentes variantes du jeu.
 
-- Mathias de Loore has published a free offline scoring app [Tally Points](https://tallypoints.com/) for Android and iOS which can be used to keep score in Oh Hell! and many other card games. 
+- Mathias de Loore a publié une application de marque hors ligne gratuite [Tally Points](https://tallypoints.com/) pour Android et iOS qui peut être utilisée pour marquer à Oh Hell! et à de nombreux autres jeux de cartes.
 
-- Here are Bryce Francis' scoresheet and rules for the Australian game Bust (MSWord file).
+- Voici la feuille de marque et les règles de Bryce Francis pour le jeu australien Bust (fichier MSWord).
 
-- Roger Hopkins offers an [Oh Hell score sheet as an Excel file](https://naturalhighs.net/Fun/ohhell.htm). It keeps track of dealing, bidding, and scoring, with two bidding variations and three scoring variations, for up to 10 players with starting hand size up to 10 cards.  
+- Roger Hopkins propose une [feuille de marque Oh Hell en fichier Excel](https://naturalhighs.net/Fun/ohhell.htm). Elle suit la distribution, les enchères et la marque, avec deux variantes d'enchères et trois variantes de marque, pour jusqu'à 10 joueurs avec une main de départ allant jusqu'à 10 cartes.
 
-- Here is an archive copy of Steve Gallagher's [CardScore.com](https://web.archive.org/web/20160413150856/http://songseek.com/paper/cards/), where you can obtain his Oh Hell score sheet. 
+- Voici une copie d'archive de la [CardScore.com](https://web.archive.org/web/20160413150856/http://songseek.com/paper/cards/) de Steve Gallagher, où vous pouvez obtenir sa feuille de marque Oh Hell.
 
-Here are some phone apps for keeping score at Oh Hell:
+Voici quelques applications pour marquer à Oh Hell :
 
-- Craig Hibbard's [Oh Hell Scoring App](https://www.fuzzydork.com/) available now for iOS with an Android version planned.
+- L'[Oh Hell Scoring App](https://www.fuzzydork.com/) de Craig Hibbard, disponible pour iOS avec une version Android prévue.
 
-- Jan Adamec's [Oh Hell Scoring App](https://roomarranger.com/apps/oh-hell-scoring/) for iPhone
+- L'[Oh Hell Scoring App](https://roomarranger.com/apps/oh-hell-scoring/) de Jan Adamec pour iPhone
 
-- Nancy Nangeroni's [Oh Hell Scorekeeper](https://cards.nangeroni.net/) for iPhone
-
-Home Page > Classified Index > Trick Taking Games > Exact Bidding Group > Oh Hell!
+- L'[Oh Hell Scorekeeper](https://cards.nangeroni.net/) de Nancy Nangeroni pour iPhone

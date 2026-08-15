@@ -2,176 +2,173 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** Rules for the card game Clabber, played in Evanswille Indiana and also known as Dad.
+**But :** Règles du jeu de cartes Clabber, joué à Evansville dans l'Indiana, aussi connu sous le nom de Dad.
 **Autres noms :** Dad, Klob
 
 ---
 
-This page is based on an anonymous sheet of rules discovered by Günther Senst, and on contributions from Fritz Bockstege, Jo Ann Wolff, Carol DeFur, Matt Schmitt and Chet Korff.
+Cette page est basée sur une feuille de règles anonyme découverte par Günther Senst, et sur des contributions de Fritz Bockstege, Jo Ann Wolff, Carol DeFur, Matt Schmitt et Chet Korff.
 
-Three Player Game - Two Player Game - Six Player Game
+Jeu à trois joueurs — Jeu à deux joueurs — Jeu à six joueurs
 
 ## Introduction
 
-The game of Clabber (pronounced "klubber) is popular in Evansville, Indiana in the USA and other nearby places. Sharron Johnson reports that it is also played in Indianapolis. It is also sometimes known as Klob, Clob or Clobber, and sometimes as **Dad**, after the name given to a three-card sequence in suit.
+Le jeu de Clabber (prononcé « klubber ») est populaire à Evansville, dans l'Indiana (USA) et dans les environs. Sharron Johnson rapporte qu'il se joue aussi à Indianapolis. Il est aussi parfois connu sous le nom de Klob, Clob ou Clobber, et parfois **Dad**, du nom donné à une séquence de trois cartes dans une couleur.
 
-There are many related games from other parts of the world going by names such as Klabberjass, Klaverjas, Kalabriás, Clobyosh and so on; also Belote. Several examples are listed on the Jass group index page of this site. These games share many common features but there are significant differences between them that give each game its own local character. 
+Il existe de nombreux jeux apparentés dans d'autres régions du monde portant des noms tels que Klabberjass, Klaverjas, Kalabriás, Clobyosh, etc. ; ainsi que le Belote. Plusieurs exemples sont répertoriés sur la page d'index du groupe Jass de ce site. Ces jeux partagent de nombreuses caractéristiques communes mais présentent des différences significatives qui donnent à chaque jeu son caractère local propre.
 
-## Players and Cards
+## Joueurs et cartes
 
-Clabber is usually played by four players in fixed partnerships, partners sitting opposite each other.
+Le Clabber se joue généralement avec quatre joueurs en partenariats fixes, les partenaires étant assis en face l'un de l'autre.
 
-The pack consists of just 24 cards - Ace, King, Queen, Jack, Ten, Nine of each of the suits Hearts, Diamonds, Clubs and Spades.
+Le jeu se compose de seulement 24 cartes — As, Roi, Dame, Valet, Dix, Neuf de chaque couleur : Cœurs, Carreaux, Trèfles et Piques.
 
-The ranking of the cards is different in the trump suit, in non-trumps suits and when forming sequence melds (see below). In addition, the cards have point values, the object in the play being to win tricks containing valuable cards. The card ranks from high to low and their values are as follows:
+L'ordre des cartes est différent dans la couleur d'atout, dans les couleurs non atout et lors de la formation de combinaisons de séquence (voir ci-dessous). De plus, les cartes ont des valeurs en points, le but du jeu étant de gagner des plis contenant des cartes de valeur. L'ordre des cartes de haut en bas et leurs valeurs sont les suivantes :
 
-| Trump suit | Non-trump suits | In sequence melds |
-| Jack | 20 points | Ace | 11 points | Ace |
-| Nine | 14 points | Ten | 10 points | King |
-| Ace | 11 points | King |  4 points | Queen |
-| Ten | 10 points | Queen |  3 points | Jack |
-| King |  4 points | Jack |  2 points | Ten |
-| Queen  |  3 points | Nine |  0 points | Nine |
+| Couleur d'atout | Couleurs non atout | Dans les séquences |
+| Valet | 20 points | As | 11 points | As |
+| Neuf | 14 points | Dix | 10 points | Roi |
+| As | 11 points | Roi |  4 points | Dame |
+| Dix | 10 points | Dame |  3 points | Valet |
+| Roi |  4 points | Valet |  2 points | Dix |
+| Dame |  3 points | Neuf |  0 points | Neuf |
 
-The team that wins the last trick scores an extra 10 points, so that in the absence of melds, there are a total of 162 points to be played for.
+L'équipe qui gagne le dernier pli marque 10 points supplémentaires, de sorte qu'en l'absence de combinaisons, il y a un total de 162 points en jeu.
 
-## Melds
+## Combinaisons
 
-A meld is a scoring combination of cards in the hand of a player. The possible melds in descending order and their point values are:
+Une combinaison est un ensemble de cartes de la main d'un joueur qui rapporte des points. Les combinaisons possibles par ordre décroissant et leurs valeurs en points sont :
 
-| Four Jacks, sometimes known as a mule | 200 points |
-| Four Nines | 100 points |
-| Four Aces | 100 points |
-| Four Tens | 100 points |
-| Four Kings | 100 points |
-| Four Queens | 100 points |
-| Sequence of five cards in one suit | 100 points |
-| Sequence of four cards in one suit ("fifty") | 50 points |
-| Sequence of three cards in one suit ("dad") | 20 points |
+| Quatre Valets, parfois appelé une mule | 200 points |
+| Quatre Neuf | 100 points |
+| Quatre As | 100 points |
+| Quatre Dix | 100 points |
+| Quatre Rois | 100 points |
+| Quatre Dames | 100 points |
+| Séquence de cinq cartes dans une même couleur | 100 points |
+| Séquence de quatre cartes dans une même couleur (« fifty ») | 50 points |
+| Séquence de trois cartes dans une même couleur (« dad ») | 20 points |
 
-There is also a special kind of meld called Bell:
+Il existe aussi un type spécial de combinaison appelé Bell :
 
-| King and Queen of trumps ("bell") | 20 points |
+| Roi et Dame d'atout (« bell ») | 20 points |
 
-**Note.** In related European games, the three-card sequence is in some places known as "darda" and the king-queen of trumps as "bela" - this this the probable origin of the terms "dad" and "bell".
+**Remarque.** Dans les jeux européens apparentés, la séquence de trois cartes est connue dans certains endroits sous le nom de « darda » et le roi-dame d'atout comme « bela » — c'est probablement l'origine des termes « dad » et « bell ».
 
-## Deal
+## Donnée
 
-Partners and the first dealer are chosen by dealing the cards around face up to the players, one at a time, clockwise. The first player to be dealt a Jack will be the first dealer in the actual game. Further cards are dealt to the other players until a second Jack appears - whoever receives this is the partner of the player who received the first Jack. The players move seats so that partners are facing each other.
+Les partenaires et le premier donneur sont choisis en distribuant les cartes face visible aux joueurs, une à la fois, dans le sens horaire. Le premier joueur à recevoir un Valet sera le premier donneur du jeu. Les cartes suivantes sont distribuées aux autres joueurs jusqu'à ce qu'un deuxième Valet apparaisse — celui qui le reçoit est le partenaire du joueur qui a reçu le premier Valet. Les joueurs changent de place pour que les partenaires soient en face l'un de l'autre.
 
-The dealer gathers the cards, shuffles them, and offers them to the player to the right, who must cut the pack, leaving at least four cards in each part.
+Le donneur rassemble les cartes, les bat et les offre au joueur à sa droite, qui doit couper le jeu en laissant au moins quatre cartes dans chaque partie.
 
-Deal and play is clockwise. The dealer deals all the cards to the players, one at a time, so that everyone has six cards. The last card, which belongs to the dealer, is turned face up.
+La donne et le jeu se font dans le sens horaire. Le donneur distribue toutes les cartes aux joueurs, une à la fois, de sorte que chacun en a six. La dernière carte, qui appartient au donneur, est retournée face visible.
 
-After the hand has been bid, played and scored, the turn to deal passes to the left.
+Après que la main a été enchérie, jouée et comptée, le tour de donner passe à gauche.
 
-## Bidding
+## Enchères
 
-The first round of bidding begins with the player to dealer's left. At your turn in this first round you can say, "I play", meaning that on behalf of your team you accept the suit of the dealer's face up card as trump and undertake that your team will take more points in tricks and meld than the opponents. Alternatively you can pass (sometimes indicated by knocking the table), in which case it is the turn of the player to your left to speak next. As soon as anyone says "I play", the bidding ends, and the cards are played. 
+Le premier tour d'enchères commence par le joueur à gauche du donneur. À votre tour dans ce premier tour, vous pouvez dire « Je joue », ce qui signifie qu'au nom de votre équipe vous acceptez la couleur de la carte face visible du donneur comme atout et vous engagez à ce que votre équipe prenne plus de points en plis et combinaisons que les adversaires. Alternativement, vous pouvez passer (parfois indiqué en frappant la table), auquel cas c'est le tour du joueur à votre gauche de parler. Dès que quelqu'un dit « Je joue », les enchères s'arrêtent et les cartes sont jouées.
 
-If all four players pass in the first round, the dealer picks up the face up
-card and there is a second round of bidding, again beginning with the player to dealer's left. In this round, you can undertake to take more points than the opponents in a different trump suit of your choice. To do this you say "I play" and name a suit different from that of the card that the dealer had face up. If you don't want to do that you can pass again and the turn to speak passes to the left. If all four players pass in the second round of bidding the cards are not played and there is no score for that deal. The deal passes clockwise to the next dealer.
+Si les quatre joueurs passent au premier tour, le donneur ramasse la carte face visible et il y a un deuxième tour d'enchères, commençant à nouveau par le joueur à gauche du donneur. Dans ce tour, vous pouvez vous engager à prendre plus de points que les adversaires dans une autre couleur d'atout de votre choix. Pour ce faire, vous dites « Je joue » et nommez une couleur différente de celle de la carte que le donneur avait face visible. Si vous ne voulez pas le faire, vous pouvez passer à nouveau et le tour de parler passe à gauche. Si les quatre joueurs passent au deuxième tour d'enchères, les cartes ne sont pas jouées et il n'y a pas de score pour cette donne. Le tour de donner passe dans le sens horaire au donneur suivant.
 
-In order to play (name trumps), you must have in your hand at least one card of the trump suit you are proposing. If you say "I play" holding no trumps, your team is penalised as for a renege.
+Pour jouer (nommer les atouts), vous devez avoir au moins une carte de la couleur d'atout que vous proposez. Si vous dites « Je joue » sans détenir d'atout, votre équipe est pénalisée comme pour un renoncement.
 
-## The Play
+## Le jeu
 
-The player to dealer's left leads to the first trick. Players must always follow suit if they can. If you have no card of the suit led you must play a trump if you have one. Only if you have no cards of the suit led and no trumps can you play a card of another non-trump suit.
+Le joueur à gauche du donneur mène au premier pli. Les joueurs doivent toujours suivre la couleur s'ils le peuvent. Si vous n'avez pas de carte de la couleur menée, vous devez jouer un atout si vous en avez un. Ce n'est que si vous n'avez ni carte de la couleur menée ni atout que vous pouvez jouer une carte d'une autre couleur non atout.
 
-When a trump is led, each player in turn must beat the highest trump so far played to the trick if they can, even if their partner's trump is currently winning the trick. In the same way, if a non-trump card has been led and trumped, a later player who also has no cards of the suit led must play a trump higher than the highest trump so far played to the trick if they can. If unable to beat the highest trump in the trick, they must play a trump anyway.
+Lorsqu'un atout est mené, chaque joueur à son tour doit battre le plus fort atout joué au pli jusqu'ici s'il le peut, même si l'atout de son partenaire gagne actuellement le pli. De même, si une carte non atout a été menée et coupée, un joueur ultérieur qui n'a pas non plus de carte de la couleur menée doit jouer un atout supérieur au plus fort atout joué au pli s'il le peut. S'il ne peut pas battre le plus fort atout du pli, il doit jouer un atout quand même.
 
-However, when a non-trump is led and you are following suit, there is no obligation to beat the cards previously played to the trick.
+Cependant, lorsqu'un non-atout est mené et que vous suivez, il n'y a aucune obligation de battre les cartes précédemment jouées au pli.
 
-Each trick is won by the highest trump played to it, or, if it contains no trumps, by the highest card of the suit led. The winner of each trick leads to the next.
+Chaque pli est remporté par le plus fort atout qui y a été joué, ou, s'il ne contient pas d'atout, par la carte la plus forte de la couleur menée. Le vainqueur de chaque pli mène au suivant.
 
-During the first trick, players announce meld - scoring combinations of cards that they hold. The team with the highest ranking meld scores all their melds, while the other team scores nothing for melds. The melds rank from high to low: 4 Jacks, 4 Nines, 4 Aces, 4 Tens, 4 Kings, 4 Queens, Sequence of 5, Fifty (sequence of 4), Dad (sequence of 3). No card may be used in more than one meld - for example holding ![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)Q-![club](../images/internat/club.gif)Q-![spade](../images/internat/spade.gif)Q-![spade](../images/internat/spade.gif)J-![spade](../images/internat/spade.gif)10 you score the four Queens only, not the Dad. Among sequences of equal length, the one with higher cards wins; if the rank of the cards is also equal, a trump sequence beats a non-trump sequence. If both teams have a sequence of equal rank and length in non-trump suits as their highest meld, neither team scores for meld on that deal.
+Pendant le premier pli, les joueurs annoncent leurs combinaisons — ensembles de cartes de leur main qui rapportent des points. L'équipe ayant la combinaison la plus élevée marque toutes ses combinaisons, tandis que l'autre équipe ne marque rien pour les combinaisons. Les combinaisons se classent de haut en bas : 4 Valets, 4 Neuf, 4 As, 4 Dix, 4 Rois, 4 Dames, Séquence de 5, Fifty (séquence de 4), Dad (séquence de 3). Aucune carte ne peut être utilisée dans plus d'une combinaison — par exemple avec ![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)D-![trèfle](../images/internat/club.gif)D-![pique](../images/internat/spade.gif)D-![pique](../images/internat/spade.gif)V-![pique](../images/internat/spade.gif)10, vous ne marquez que les quatre Dames, pas le Dad. Parmi les séquences de même longueur, celle ayant les cartes les plus fortes gagne ; si le rang des cartes est aussi le même, une séquence d'atout bat une séquence non atout. Si les deux équipes ont une séquence de même rang et de même longueur dans des couleurs non atout comme combinaison la plus élevée, aucune équipe ne marque pour les combinaisons lors de cette donne.
 
-In order to score any meld, the player must announce it just before playing a card to the first trick. If both teams have announced the same kind of meld as their highest, then at the end of the first trick each must declare the rank, and if those are equal, whether or not the meld is in trump. The members of the team with the highest meld must show all the meld that they declared just before playing to the second trick.
+Pour pouvoir marquer une combinaison, le joueur doit l'annoncer juste avant de jouer une carte au premier pli. Si les deux équipes ont annoncé le même type de combinaison comme la plus élevée, alors à la fin du premier pli, chacune doit déclarer le rang, et si ceux-ci sont égaux, si la combinaison est à l'atout. Les membres de l'équipe ayant la combinaison la plus élevée doivent montrer toutes les combinaisons qu'ils ont déclarées juste avant de jouer au deuxième pli.
 
-Bell (King and Queen of trumps) is treated differently from other melds. If a player holds Bell it can always be scored, irrespective of any other meld announced and scored by either team. Bell is announced when the second of the two cards is played or shown. Cards of a Bell can also be used in another scoring meld - for example a player holding K-Q-J of trumps can score 40 points for "Dad 'n' Bell" provided that the Dad is not beaten. In this particular case the Bell is announced when the Dad is scored, because the holder must show both cards of the Bell in order to score the Dad; if the Bell cards are not used in meld, the Bell is announced when the second of the cards is played.
+Bell (Roi et Dame d'atout) est traité différemment des autres combinaisons. Si un joueur détient Bell, il peut toujours le marquer, indépendamment de toute autre combinaison annoncée et marquée par l'une ou l'autre équipe. Bell est annoncé lorsque la deuxième des deux cartes est jouée ou montrée. Les cartes d'un Bell peuvent aussi être utilisées dans une autre combinaison — par exemple un joueur détenant R-D-V d'atout peut marquer 40 points pour « Dad 'n' Bell » à condition que le Dad ne soit pas battu. Dans ce cas particulier, le Bell est annoncé lorsque le Dad est marqué, car le détenteur doit montrer les deux cartes du Bell pour marquer le Dad ; si les cartes du Bell ne sont pas utilisées dans une combinaison, le Bell est annoncé lorsque la deuxième carte est jouée.
 
-## Renege
+## Renoncement
 
-Infractions of the rules of bidding, melding and play are known as reneges. Examples are:
+Les infractions aux règles d'enchères, de combinaisons et de jeu sont appelées des renoncements. Exemples :
 
-- Announcing or showing meld out of turn.
+- Annoncer ou montrer une combinaison hors tour.
 
-- Announcing Bell before the turn on which you play or show the second card of it.
+- Annoncer Bell avant le tour où l'on joue ou montre la deuxième carte.
 
-- Failing to follow suit, trump or overtrump when able to do so.
+- Ne pas suivre la couleur, l'atout ou la surcoupe quand on en est capable.
 
-- Exposing cards, except to play them or show scoring meld.
+- Exposer des cartes, sauf pour les jouer ou montrer une combinaison marquante.
 
-- Reminding your partner to meld, or advising your partner in any way during the play.
+- Rappeler à son partenaire de faire une combinaison, ou conseiller son partenaire de quelque manière que ce soit pendant le jeu.
 
-- Looking at any previous trick after a member of your team has played a card to the following trick.
+- Regarder un pli précédent après qu'un membre de votre équipe a joué une carte au pli suivant.
 
-In case of a renege, the play ends, and the opponents of the team that reneged score 162 points plus meld. 
+En cas de renoncement, le jeu s'arrête et les adversaires de l'équipe qui a renoncé marquent 162 points plus les combinaisons.
 
-If both teams renege in one hand, the hand is not scored and must be redealt by the same dealer.
+Si les deux équipes renoncent au cours d'une même main, la main n'est pas comptée et doit être redonnée par le même donneur.
 
-## Scoring
+## Comptage
 
-![Clabber score sheet](../images/jass/clabber.jpg)At the end of the play, the cumulative score for each team is recorded on a score sheet.
+![Feuille de score Clabber](../images/jass/clabber.jpg)À la fin du jeu, le score cumulatif de chaque équipe est enregistré sur une feuille de score.
 
-Each team totals the value of the cards in the tricks that they won, plus any score for Melds or Bell. The winners of the last trick add 10 points.
+Chaque équipe totalise la valeur des cartes dans les plis qu'elle a gagnés, plus tout score pour les combinaisons ou Bell. Les vainqueurs du dernier pli ajoutent 10 points.
 
-If the team that chose trumps by saying "I play" in the bidding has more points than their opponents, then each team scores the points they made.
+Si l'équipe qui a choisi les atouts en disant « Je joue » lors des enchères a plus de points que ses adversaires, chaque équipe marque les points qu'elle a obtenus.
 
-If the scores are equal, or if the team that made trumps have fewer points than their opponents, the trump making team scores zero, written as "XX" on the score sheet, while the other team scores whatever points they won in tricks, melds and Bell. In this case the trump makers are said to be "set" or "hicked". The "XX" marks are sometimes known as "turkey tracks".
+Si les scores sont égaux, ou si l'équipe qui a nommé les atouts a moins de points que ses adversaires, l'équipe qui a nommé les atouts marque zéro, écrit « XX » sur la feuille de score, tandis que l'autre équipe marque tous les points qu'elle a gagnés en plis, combinaisons et Bell. Dans ce cas, les nommateurs d'atout sont dits être « faits » ou « hicked ». Les marques « XX » sont parfois appelées « empreintes de dinde ».
 
-If the trump makers' opponents score no points, their zero is written on the score sheet as "-" or "~".
+Si les adversaires des nommateurs d'atout ne marquent aucun point, leur zéro est écrit sur la feuille de score comme « - » ou « ~ ».
 
-The game ends when either team's cumulative score reaches 500 points or more. The team with the higher score then wins: if they are equal the game is tied. This is recorded by writing a large "W" in their column of the score sheet.
+Le jeu s'achève lorsque le score cumulatif de l'une ou l'autre équipe atteint 500 points ou plus. L'équipe ayant le score le plus élevé gagne ; en cas d'égalité, la partie est nulle. Cela est enregistré en écrivant un grand « W » dans leur colonne de la feuille de score.
 
-Normally it takes about 4 to 8 deals to complete a game.
+Normalement, il faut environ 4 à 8 donnes pour terminer une partie.
 
-The scoring is generally done on special clabber score sheets given away by many shops as an advertising gimmick. These score sheets have two additional columns to check that the points scored by the two teams add up to the correct total.
+Le comptage se fait généralement sur des feuilles de score spéciales pour le Clabber, offertes par de nombreux magasins comme objet publicitaire.
 
-## Variations
+## Variantes
 
-Some play that if all pass in the first and second bidding rounds, the same dealer deals again.
+Certains jouent que si tous passent lors des premier et deuxième tours d'enchères, le même donneur redonne.
 
-In some groups, the cards are dealt two or three at a time.
+Dans certains groupes, les cartes sont distribuées deux ou trois à la fois.
 
-When playing for stakes, some play that there as well as a stake for the game, there is an additional payment when the trump makers are "hicked".
+Lorsqu'on joue pour de l'argent, certains jouent qu'en plus de la mise pour la partie, il y a un paiement supplémentaire lorsque les nommateurs d'atout sont « hicked ».
 
-Chet Korff reports that in Wadesville, about 15 miles west of Evansville, a sequence of six cards of a suit is recognised as a meld scoring 300 points. So far as I know this meld is not allowed in the standard game: in Evansville a player with a complete suit would just score 100 for a 5-card sequence.
+Chet Korff rapporte qu'à Wadesville, à environ 15 miles à l'ouest d'Evansville, une séquence de six cartes d'une couleur est reconnue comme une combinaison rapportant 300 points. Autant que je sache, cette combinaison n'est pas autorisée dans le jeu standard : à Evansville, un joueur avec une couleur complète marquerait simplement 100 pour une séquence de 5 cartes.
 
-Gail Cummings reports that some groups in Evansville rank the 100-point melds differently: a five-card sequence beats 4 of a kind, and the lowest 4's of a kind are 4 Tens and 4 Nines, so that the possible melds from highest to lowest are as follows:
+Gail Cummings rapporte que certains groupes à Evansville classent les combinaisons de 100 points différemment : une séquence de cinq bat un carré, et les carrés les plus bas sont les 4 Dix et les 4 Neuf, de sorte que les combinaisons possibles, de la plus élevée à la plus basse, sont les suivantes :
 
-- 4 Jacks (mules) (200 points)
+- 4 Valets (mules) (200 points)
 
-- Sequence of five (Running 100) (100 points)
+- Séquence de cinq (Running 100) (100 points)
 
-- Four Aces (100 points)
+- Quatre As (100 points)
 
-- Four Kings (100 points)
+- Quatre Rois (100 points)
 
-- Four Queens (100 points)
+- Quatre Dames (100 points)
 
-- Four Tens (100 points)
+- Quatre Dix (100 points)
 
-- Four Nines (100 points)
+- Quatre Neuf (100 points)
 
-- Sequence of four (50 points)
+- Séquence de quatre (50 points)
 
-- Sequence of three (Dad) (20 points)
+- Séquence de trois (Dad) (20 points)
 
-As usual a higher sequence in the order A-K-Q-J-10-9 beats a lower one, a trump sequence beats an otherwise equal non-trump sequence, and the K-Q of trumps (Bell) scores 20 points independently of any other meld.
+Comme d'habitude, une séquence plus élevée dans l'ordre A-R-D-V-10-9 bat une séquence plus basse, une séquence d'atout bat une séquence non atout autrement égale, et le R-D d'atout (Bell) marque 20 points indépendamment de toute autre combinaison.
 
-As far I can tell, on the basis of limited information, the three- and two-player games are played as follows:
+Autant que je puisse le dire, sur la base d'informations limitées, les jeux à trois et à deux joueurs se jouent comme suit :
 
-### Three Player Game
+### Jeu à trois joueurs
 
-A separate score is kept for each player. Eight cards are dealt to each player. It is not entirely clear how the scoring works. The trump maker has to score more than either opponent separately to win. If either opponent equals or beats the trump maker's score, the trump maker scores nothing, but apparently the trump maker's points do not go to the opponents: the opponents just scores the points they took.
+Un score séparé est conservé pour chaque joueur. Huit cartes sont distribuées à chaque joueur. Il n'est pas tout à fait clair comment fonctionne le comptage. Le nommateur d'atout doit marquer plus que n'importe quel adversaire séparément pour gagner. Si l'un ou l'autre adversaire égale ou bat le score du nommateur d'atout, le nommateur d'atout ne marque rien, mais apparemment les points du nommateur ne vont pas aux adversaires : les adversaires marquent simplement les points qu'ils ont pris.
 
-### Two Player Game
+### Jeu à deux joueurs
 
-Six cards are dealt to each player; then three more cards are dealt to each player. These last three cards are picked up only after the bidding is complete. The six cards remaining are not dealt - they form a "dead hand". The first card of the dead hand is turned to represent trumps for the first round of bidding. Scoring is the same as in the four-player game.
+Six cartes sont distribuées à chaque joueur, puis trois autres cartes à chaque joueur. Ces trois dernières cartes ne sont ramassées qu'après la fin des enchères. Les six cartes restantes ne sont pas distribuées — elles forment une « main morte ». La première carte de la main morte est retournée pour représenter les atouts du premier tour d'enchères. Le comptage est le même que dans le jeu à quatre joueurs.
 
-### Six Player Game
+### Jeu à six joueurs
 
-There are two teams of three, each player sitting between two opponents. Four cards are dealt to each player. Bidding, meld, play and scoring are as in the four-player game.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Clabber
+Il y a deux équipes de trois, chaque joueur étant assis entre deux adversaires. Quatre cartes sont distribuées à chaque joueur. Les enchères, les combinaisons, le jeu et le comptage sont les mêmes que dans le jeu à quatre joueurs.

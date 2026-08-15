@@ -3,115 +3,116 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A simple card game for up to seven players. Players who win no tricks are knocked out and the last survivor wins.
+**But :** Un jeu de cartes simple pour jusqu'à sept joueurs. Les joueurs qui ne remportent aucune levée sont éliminés et le dernier survivant gagne.
+**Autres noms :** Knockout Whist, Trumps, Scrounge, Rat
 
 ---
 
-*This page is based on contributions from Nick Wedd, C. Kroll, Kevin Ammerman, Max Madhax, Nic Cleveland, Chris Gibbs and Mike Shaffer.*
+*Cette page est basée sur des contributions de Nick Wedd, C. Kroll, Kevin Ammerman, Max Madhax, Nic Cleveland, Chris Gibbs et Mike Shaffer.*
 
 ## Introduction
 
-This is a simple plain-trick game. It is often played as a children's game but it has enough interesting tactics that it is also played by adults, sometimes for small stakes. 
+C'est un jeu de levées simples. Il est souvent joué comme un jeu d'enfants mais il a des tactiques suffisamment intéressantes pour être aussi joué par des adultes, parfois pour de petites mises.
 
-In Britain it is called **Knockout Whist**, or sometimes just **Trumps**. In North America it is known by other names including **Scrounge** or **Rat** or **Rat ****** where the **** stands for various vulgar words, according to the taste of the players.
+En Grande-Bretagne, il est appelé **Knockout Whist**, ou parfois simplement **Trumps**. En Amérique du Nord, il est connu sous d'autres noms dont **Scrounge** ou **Rat**.
 
-A session consists of seven hands of diminishing size. 
+Une partie consiste en sept mains de taille décroissante.
 
-## Players and Cards
+## Joueurs et cartes
 
-Any number from two to seven may play. A standard 52-card pack is used, with four suits ranking from high to low A K Q J 10 9 8 7 6 5 4 3 2.
+De deux à sept joueurs peuvent participer. On utilise un jeu standard de 52 cartes, avec quatre couleurs classées de haut en bas A R D V 10 9 8 7 6 5 4 3 2.
 
-## Play
+## Le jeu
 
-A player is selected to deal, and deals seven cards each, clockwise. The uppermost of the undealt cards is turned face upwards to indicate the trump suit. 
+Un joueur est choisi pour distribuer, et distribue sept cartes à chacun, dans le sens des aiguilles d'une montre. La carte supérieure des cartes non distribuées est retournée face visible pour indiquer la couleur d'atout.
 
-The player on dealer's left leads to the first trick. Players must follow suit if they can, otherwise they may play any card. Each trick is won by the highest trump in it; otherwise by the highest card of the suit led. The winner of a trick leads to the next trick. 
+Le joueur à la gauche du donneur entame la première levée. Les joueurs doivent suivre la couleur s'ils le peuvent, sinon ils peuvent jouer n'importe quelle carte. Chaque levée est remportée par le plus haut atout qu'elle contient ; sinon par la carte la plus haute de la couleur demandée. Le gagnant d'une levée entame la suivante.
 
-After the first hand, a second hand is dealt by the next player in order around the table, with only six cards each. The game continues like this, with one fewer card per player on each hand, until the final hand consists of one card each. 
+Après la première main, une seconde main est distribuée par le joueur suivant dans l'ordre autour de la table, avec seulement six cartes chacun. Le jeu continue ainsi, avec une carte de moins par joueur à chaque main, jusqu'à ce que la dernière main se compose d'une carte chacun.
 
-The winner of most tricks on a hand chooses the trump suit on the next hand after looking at their cards. If there is a tie for who took most tricks, the players involved in the tie cut cards for the right to choose trumps. 
+Le joueur ayant remporté le plus de levées lors d'une main choisit la couleur d'atout de la main suivante après avoir regardé ses cartes. S'il y a égalité pour le plus grand nombre de levées remportées, les joueurs concernés par l'égalité coupent les cartes pour le droit de choisir les atouts.
 
-## The Knockout
+## L'élimination
 
-A player who takes no tricks at all in a hand is knocked out, is dealt no more cards, and takes no further part in the game. 
+Un joueur qui ne remporte aucune levée lors d'une main est éliminé, ne reçoit plus de cartes et ne participe plus au jeu.
 
-There is one exception to the rule about being knocked out: the first player during the game who takes no tricks on a hand is not knocked out immediately but is awarded the "dog's life". On the following hand, she is dealt just one card, and may decide on which trick to play it. In the course of the play, a player "on a dog's life" may, when it is her turn to play, either play her card or knock on the table to indicate that she wishes to keep it for a later trick. If she is the player on the dealer's left, she is not compelled to lead her card to the first trick; she may either do so, or knock, allowing the next player to lead. 
+Il y a une exception à la règle d'élimination : le premier joueur pendant le jeu qui ne remporte aucune levée lors d'une main n'est pas immédiatement éliminé mais se voit accorder la « vie de chien ». Lors de la main suivante, on ne lui distribue qu'une seule carte, et il peut décider à quelle levée la jouer. Pendant le jeu, un joueur « en vie de chien » peut, lorsque c'est son tour de jouer, soit jouer sa carte soit frapper sur la table pour indiquer qu'il souhaite la garder pour une levée ultérieure. S'il est le joueur à la gauche du donneur, il n'est pas obligé d'entamer sa carte à la première levée ; il peut le faire, ou frapper, permettant au joueur suivant d'entamer.
 
-If two or more players take no tricks on the same deal, no one having previously used the dog's life, these players get one dog's life each. Apart from this case, there is only one dog's life available during the game. Players who take no tricks in later deals are eliminated immediately. 
+Si deux joueurs ou plus ne remportent aucune levée lors de la même donne, aucun n'ayant auparavant utilisé la vie de chien, ces joueurs reçoivent chacun une vie de chien. Hormis ce cas, il n'y a qu'une seule vie de chien disponible pendant le jeu. Les joueurs qui ne remportent aucune levée lors de donnes ultérieures sont immédiatement éliminés.
 
-If a player on a dog's life manages to take a trick with her card, the player on her left leads to the next trick, and the dog's life player is dealt a normal hand on the next deal, and treated like the other surviving players. If the dog's life player doesn't manage to win a trick, she is knocked out of the game, like anyone else who takes no trick.
+Si un joueur en vie de chien parvient à remporter une levée avec sa carte, le joueur à sa gauche entame la levée suivante, et le joueur en vie de chien reçoit une main normale lors de la donne suivante, et est traité comme les autres joueurs survivants. Si le joueur en vie de chien ne parvient pas à gagner une levée, il est éliminé du jeu, comme n'importe qui d'autre qui ne remporte aucune levée.
 
-Since the right to lead to the first trick is an advantage, it is fair for everyone in turn to have this opportunity. Therefore, if the player to dealer's left is knocked out, this player should deal the next hand before leaving the game. This way the player to the left of the one who was knocked out is not deprived of the chance to play the first card of the next hand.
+Puisque le droit d'entamer la première levée est un avantage, il est équitable que chacun à tour de rôle ait cette opportunité. Par conséquent, si le joueur à la gauche du donneur est éliminé, ce joueur devrait distribuer la main suivante avant de quitter le jeu. Ainsi, le joueur à la gauche de celui qui a été éliminé n'est pas privé de la chance de jouer la première carte de la main suivante.
 
-## Winning the Game
+## Gagner la partie
 
-The game is won by the winner of the one trick on the final hand. Or if all but one of the players are knocked out before this, the surviving player is the winner. 
+La partie est gagnée par le vainqueur de l'unique levée de la dernière main. Ou si tous les joueurs sauf un sont éliminés avant cela, le joueur survivant est le gagnant.
 
-## Advice on Play
+## Conseils de jeu
 
-In choosing trumps, always choose the longest suit. From 
+En choisissant les atouts, choisissez toujours la couleur la plus longue. À partir de
 
-Clubs 6
+Trèfles 6
 
-Spades K Q
+Piques R D
 
-Hearts 6 5 4
-make hearts trumps. 
+Cœurs 6 5 4
 
-In choosing between suits of the same length, do not choose a suit with very high cards in it, as these may well win tricks even if they are not trumps. From
+faites de cœurs l'atout.
 
-Clubs A Q
+En choisissant entre des couleurs de même longueur, ne choisissez pas une couleur avec des cartes très hautes, car celles-ci gagneront probablement des levées même si elles ne sont pas atout. À partir de
 
-Spades 8 6
+Trèfles A D
 
-Hearts 4
-make spades trumps. 
+Piques 8 6
 
-## Variations
+Cœurs 4
 
-Deal and opening lead
-Many people play that from the second deal onwards, the winner not only chooses trumps but also deals and leads to the first trick. Some play that the dealer also leads to the first trick in the first deal. Some begin with a different number of cards dealt, for example 9 to each player.
-Card exchange
-Some play that after trumps are chosen, each player may discard 1, 2 or 3 cards and be dealt an equal number of replacement cards before play begins. These cards must all be discarded at once: a player can't discard a card, get the replacement, and then discard another. Obviously when only 2 cards each are dealt, only 1 or 2 can be discarded, and when only 1 is dealt, only 1 can be discarded. A player is always allowed to discard nothing and play with the cards he or she was dealt.
-Elimination and Dog's Life
+faites de piques l'atout.
 
-- Many play without the dog's life. Anyone who takes no trick is immediately out of the game.
+## Variantes
 
-- As an alternative, some play that no one can be eliminated in the first deal: a player who takes no trick on the first deal is dealt a full hand of 6 cards in the second deal. From the second deal onwards, anyone who takes no trick is eliminated.
+Donne et entame
+Beaucoup jouent qu'à partir de la deuxième donne, le gagnant non seulement choisit les atouts mais aussi distribue et entame la première levée. Certains jouent que le donneur entame aussi la première levée lors de la première donne. Certains commencent avec un nombre différent de cartes distribuées, par exemple 9 à chaque joueur.
+Échange de cartes
+Certains jouent qu'après le choix des atouts, chaque joueur peut écarter 1, 2 ou 3 cartes et se faire distribuer un nombre égal de cartes de remplacement avant le début du jeu. Ces cartes doivent toutes être écartées en une seule fois : un joueur ne peut pas écarter une carte, recevoir la remplaçante, puis en écarter une autre. Évidemment, quand seules 2 cartes sont distribuées à chacun, seules 1 ou 2 peuvent être écartées, et quand une seule est distribuée, une seule peut être écartée. Un joueur a toujours le droit de n'écarter aucune carte et de jouer avec les cartes qui lui ont été distribuées.
+Élimination et vie de chien
 
-- Some play that anyone who is eliminated should stand up and shout "Rat ****".
+- Beaucoup jouent sans la vie de chien. Quiconque ne remporte aucune levée est immédiatement hors du jeu.
 
-Options when choosing trumps
-Some allow extra options for the winner of the previous deal. The winner may choose 'no trump' rather than trump suit, may designate aces as either high or low, and may specify whether cards rank in normal order (high card takes) or reverse order (low card takes). So the ranking from best to worst card can be chosen as AKQJT98765432, KQJT98765432A, A23456789TJQK or 23456789TJQKA.
-Tie for Winner
-Some play that in case of a tie for winner, trumps are determined in the next deal by turning a card from the deck (as in the initial 7-card deal).
-2 of diamonds
-Some play that the 2 of diamonds counts as the permanent highest trump, ranking above the ace of trumps, whatever suit is trumps.
-Rainbow
-Some play that in the four-card deal, if a player is dealt a 'rainbow' - four cards of different suits - that player wins the game immediately. If two or more players are dealt rainbows, cards are cut to decide which of them wins. I suggest that this should not be combined with the card exchange variant, or at least it should not be possible to win with a rainbow obtained by exchanging cards.
-Money Version
-Nic Cleveland describes the following money version of Knockout Whist, played on the island of Guernsey.
+- Alternativement, certains jouent que personne ne peut être éliminé lors de la première donne : un joueur qui ne remporte aucune levée lors de la première donne reçoit une main complète de 6 cartes lors de la deuxième donne. À partir de la deuxième donne, quiconque ne remporte aucune levée est éliminé.
 
-- All players chip in 1 unit to start play* (normally the unit stake is 5p)*
+- Certains jouent que toute personne éliminée doit se lever et crier « Rat ».
 
-- The winner of each round becomes the dealer, chooses trumps and also leads to the first trick of the next round.
+Options lors du choix des atouts
+Certains autorisent des options supplémentaires pour le gagnant de la donne précédente. Le gagnant peut choisir « sans atout » plutôt qu'une couleur d'atout, peut désigner les As comme hauts ou bas, et peut spécifier si les cartes sont classées dans l'ordre normal (la carte la plus haute remporte) ou l'ordre inverse (la carte la plus basse remporte). Ainsi l'ordre du meilleur au pire peut être choisi comme ARDV1098765432, RDV1098765432A, A23456789VDR ou 23456789VDRA.
+Égalité pour le gagnant
+Certains jouent qu'en cas d'égalité pour le gagnant, les atouts sont déterminés lors de la donne suivante en retournant une carte du jeu (comme lors de la donne initiale à 7 cartes).
+2 de carreau
+Certains jouent que le 2 de carreau compte comme le plus haut atout permanent, supérieur à l'as d'atout, quelle que soit la couleur d'atout.
+Arc-en-ciel
+Certains jouent que lors de la donne à 4 cartes, si un joueur reçoit un « arc-en-ciel » — quatre cartes de couleurs différentes — ce joueur gagne immédiatement la partie. Si deux joueurs ou plus reçoivent des arcs-en-ciel, on coupe les cartes pour décider lequel gagne.
+Version argentée
+Nic Cleveland décrit la version argentée suivante du Knockout Whist, jouée sur l'île de Guernesey.
 
-- All players who successfully win a trick in a round chip in again to play the next round.
+- Tous les joueurs cotisent 1 unité pour commencer à jouer (normalement l'unité de mise est 5p).
 
-- On the very first occasion that someone fails to win a trick they are offered the dog's life which is a 'whole hand' (e.g. 6 cards for hand 2 etc.) and is bought for one unit - in other words they can play in the next round on the same terms and at the same price as the other players. If on this first occasion there is more than one player failing to win a trick all such players are also offered a dog's life; however after this first occasion, no more dog's lives are offered to other players.
+- Le gagnant de chaque manche devient le donneur, choisit les atouts et entame aussi la première levée de la manche suivante.
 
-- Should a player with a dog's life fail again to win a trick, he is offered 'Parish' for the next round for the cost of 1 unit. That player is dealt a single  card to be played to any trick in that round.
+- Tous les joueurs qui gagnent une levée avec succès lors d'une manche cotisent à nouveau pour jouer la manche suivante.
 
-- Again, should the 'Parish' card fail, the player can buy a 'Blind parish' for another unit, being another single card. This time the player cannot look at the card but may play it 'blind' to any trick in the round.  
+- La toute première fois que quelqu'un échoue à remporter une levée, on lui offre la vie de chien, qui est une « main entière » (par ex. 6 cartes pour la main 2, etc.) et s'achète pour une unité — c'est-à-dire qu'il peut jouer à la manche suivante dans les mêmes conditions et au même prix que les autres joueurs. Si à cette première occasion il y a plus d'un joueur qui échoue à remporter une levée, tous ces joueurs se voient aussi offrir une vie de chien ; cependant, après cette première occasion, plus aucune vie de chien n'est offerte.
 
-- During play any draws are settled by cutting the cards. The winner of the final round, or the last survivor of the game takes the pot.
+- Si un joueur en vie de chien échoue à nouveau à remporter une levée, on lui offre la « Paroisse » pour la manche suivante au coût d'une unité. Ce joueur reçoit une seule carte à jouer à n'importe quelle levée de cette manche.
 
-**Variant.** Occasionally the game is played so that *every player* is entitled to take 1 dog's life, 1 Parish & 1 Blind parish if they wish. This usually means that everyone is kept in the game longer with more people reaching the final one-card round with more money in the pot.
+- Si la carte « Paroisse » échoue à son tour, le joueur peut acheter une « Paroisse aveugle » pour une autre unité, soit une autre carte unique. Cette fois, le joueur ne peut pas regarder la carte mais peut la jouer « à l'aveugle » à n'importe quelle levée de la manche.
 
-## Knockout Whist Software
+- Pendant le jeu, tous les tirages au sort sont réglés en coupant les cartes. Le gagnant de la dernière manche, ou le dernier survivant du jeu, remporte la cagnotte.
 
-[Mana Battery](https://manabattery.com/) publishes online games for the Microsoft Xbox 360, Windows Phone, IOS and Android, including a Knockout Whist game to play online or against the computer.
+**Variante.** Parfois, le jeu se joue de sorte que *chaque joueur* a droit à 1 vie de chien, 1 Paroisse et 1 Paroisse aveugle s'il le souhaite. Cela signifie généralement que tout le monde reste dans le jeu plus longtemps, avec plus de personnes atteignant la dernière manche à une carte avec plus d'argent dans la cagnotte.
 
-With the Whist program from [Special K Software](https://www.specialksoftware.com) you can play Knockout Whist against computer opponents.
+## Logiciel Knockout Whist
 
-Home Page > Classified Index > Trick Taking Games > Whist group > Knock-Out Whist
+[Mana Battery](https://manabattery.com/) publie des jeux en ligne pour Microsoft Xbox 360, Windows Phone, iOS et Android, incluant un jeu de Knockout Whist pour jouer en ligne ou contre l'ordinateur.
+
+Avec le programme Whist de [Special K Software](https://www.specialksoftware.com), vous pouvez jouer au Knockout Whist contre des adversaires informatiques.

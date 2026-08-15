@@ -3,72 +3,71 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** A simple Greek card game in which players capture cards from the table singly or in groups by matching their values.
+**But :** Un jeu de cartes grec simple dans lequel les joueurs capturent des cartes sur la table individuellement ou en groupes en faisant correspondre leurs valeurs.
+**Autres noms :** Koltsina, Kolitsina
 
 ---
 
-*This page is based on information from Alexandros Kouridakis and Thanos Tsakonas.*
+*Cette page est basée sur des informations d'Alexandros Kouridakis et Thanos Tsakonas.*
 
 ## Introduction
 
-Kontsina (Greek: Κοντσίνα), also called Koltsina (Κολτσίνα) or Kolitsina (Κολιτσίνα) is a Greek card game of the fishing category. It is a simple game that many people in Greece have learnt to play as children. This, together with another fishing game Xeri (Ξερή) form the basis of Diloti (Δηλωτή), a more complex game game with much scope for strategy. 
+La Kontsina (grec : Κοντσίνα), aussi appelée Koltsina (Κολτσίνα) ou Kolitsina (Κολιτσίνα) est un jeu de cartes grec de la catégorie pêche. C'est un jeu simple que beaucoup de gens en Grèce ont appris à jouer enfants. Celui-ci, ainsi qu'un autre jeu de pêche, le Xeri (Ξερή), forment la base du Diloti (Δηλωτή), un jeu plus complexe offrant beaucoup de possibilités tactiques.
 
-## Players, Cards and Deal
+## Joueurs, cartes et donne
 
-Kontsina is played by 2 players using a standard international 52-card deck. The goal is to accumulate points by capturing cards from the table.
+La Kontsina se joue à 2 joueurs avec un jeu standard international de 52 cartes. Le but est d'accumuler des points en capturant des cartes sur la table.
 
-The first dealer is chosen by any convenient method, and the turn to deal alternates between the players from round to round. It is generally disadvantageous to be the dealer. 
+Le premier donneur est choisi par n'importe quelle méthode pratique, et le tour de donne alterne entre les joueurs d'une manche à l'autre. Il est généralement désavantageux d'être le donneur.
 
-At the start of the game the deck is shuffled, each player is dealt a hand 4 cards (the deal can be one card at a time, or in batches of two cards or all four cards at once), and another 4 cards are laid face-up on the table. The rest of the deck is set aside face down to form a talon (stock pile) and will be dealt out later in the round.
+Au début du jeu, le jeu est battu, chaque joueur reçoit une main de 4 cartes (la distribution peut se faire une carte à la fois, par paquets de deux cartes ou les quatre cartes d'un coup), et 4 autres cartes sont posées face visible sur la table. Le reste du jeu est mis de côté face cachée pour former un talon (pioche) qui sera distribué plus tard dans la manche.
 
-## The Play
+## Le jeu
 
-The non-dealer begins play after each deal, and the turn to play passes back and forth between the players. On their turn, each player must play exactly one card from their hand, performing one of the following three actions:
+Le non-donneur commence à jouer après chaque donne, et le tour de jeu passe d'un joueur à l'autre. À son tour, chaque joueur doit jouer exactement une carte de sa main, en effectuant l'une des trois actions suivantes :
 
-- capture one card from the table by playing a card of matching value from their hand. So for example a 7 can capture a 7, a Queen can capture a Queen, and so on. Note that this is the only way to capture face cards (K, Q, J) as these cards have no numerical value.
+- capturer une carte sur la table en jouant une carte de même valeur de sa main. Ainsi par exemple un 7 peut capturer un 7, une Dame peut capturer une Dame, et ainsi de suite. Notez que c'est le seul moyen de capturer les figures (R, D, V) car ces cartes n'ont pas de valeur numérique.
 
-- capture a set of numeral cards from the board, the sum of whose values is equal to the value of a numeral card played from the player’s hand. Aces count as numeral cards with value one. If more than one separate combination of cards yields the same sum, only one of these combinations can be captured. Examples:
+- capturer un ensemble de cartes numériques sur la table, dont la somme des valeurs est égale à la valeur d'une carte numérique jouée depuis la main du joueur. Les As comptent comme des cartes numériques de valeur un. Si plusieurs combinaisons distinctes de cartes donnent la même somme, une seule de ces combinaisons peut être capturée. Exemples :
 
-- Cards on the table: 3, 5. One single 8 can capture both cards.
+- Cartes sur la table : 3, 5. Un seul 8 peut capturer les deux cartes.
 
-- Cards on the table: A, 4, 5. One 10 can capture all three cards.
+- Cartes sur la table : A, 4, 5. Un 10 peut capturer les trois cartes.
 
-- Cards on the table: 2, 4, 6. One 6 can capture either the 6 (6=6 by itself) or the 2 and the 4 (2+4=6) but not all three cards. 
+- Cartes sur la table : 2, 4, 6. Un 6 peut capturer soit le 6 (6=6 par lui-même) soit le 2 et le 4 (2+4=6) mais pas les trois cartes.
 
-- Cards on the table: A, 4, 5, 8: One 9 can capture the Ace and 8 (A+8=9) or the 4 and 5 (4+5=9)
+- Cartes sur la table : A, 4, 5, 8 : Un 9 peut capturer l'As et le 8 (A+8=9) ou le 4 et le 5 (4+5=9)
 
-- Cards on the table: A, 2, 3, 6, 7: one 10 can capture A+2+7 or A+3+6 or 3+7, whichever the player chooses, but the remaining cards must be left on the face up on the table.
+- Cartes sur la table : A, 2, 3, 6, 7 : un 10 peut capturer A+2+7 ou A+3+6 ou 3+7, au choix du joueur, mais les cartes restantes doivent être laissées face visible sur la table.
 
-- A player who cannot or does not wish to capture any cards simply plays a card from their hand face up on the table where it stays along with any cards that are already there, and can be captured later by any of the above methods. This is referred to as “laying” a card on the table.
+- Un joueur qui ne peut pas ou ne souhaite pas capturer de cartes pose simplement une carte de sa main face visible sur la table où elle reste avec toutes les cartes déjà présentes, et peut être capturée plus tard par l'une des méthodes ci-dessus. Cela s'appelle « poser » une carte sur la table.
 
-Whenever any cards are captured from the table, these cards along with the card card played to capture them are added to a face down capture pile in front of the player who made the capture. The cards in the players' capture piles may not be looked at again until the end of the play.
+Chaque fois que des cartes sont capturées sur la table, ces cartes ainsi que la carte jouée pour les capturer sont ajoutées à une pile de capture face cachée devant le joueur qui a effectué la capture. Les cartes dans les piles de capture des joueurs ne peuvent plus être regardées jusqu'à la fin du jeu.
 
-Players alternate turns performing one of these three actions, until their hands are both depleted. When that happens, the dealer deals each player a new hand 4 cards from the top of talon. No more cards are dealt to the table. Play continues as normal, with the non-dealer acting first after each deal. The sixth deal will use all the remaining cards of the talon. When the players have played these last cards, any remaining face up on the table are added to the capture pile of the player who last captured any cards from the table. This ends the round.
+Les joueurs jouent alternativement en effectuant l'une de ces trois actions, jusqu'à ce que leurs mains soient toutes deux épuisées. Quand cela se produit, le donneur distribue une nouvelle main de 4 cartes à chaque joueur à partir du sommet du talon. Aucune autre carte n'est distribuée sur la table. Le jeu continue normalement, le non-donneur jouant en premier après chaque donne. La sixième donne utilisera toutes les cartes restantes du talon. Quand les joueurs ont joué ces dernières cartes, toutes les cartes restant face visible sur la table sont ajoutées à la pile de capture du joueur qui a capturé en dernier des cartes sur la table. Cela termine la manche.
 
-## Scoring
+## Marquage des points
 
-Once the round ends, each player examines the cards in their capture pile and scores points for them as follows.
+Une fois la manche terminée, chaque joueur examine les cartes de sa pile de capture et marque des points comme suit.
 
-- **2 points for “the cards”**: awarded to the player who has captured the most cards. In the players capture exactly 26 cards each, the cards are said to be “split” and no player earns any points for “the cards”.
+- **2 points pour « les cartes »** : attribués au joueur qui a capturé le plus grand nombre de cartes. Si les joueurs capturent exactement 26 cartes chacun, les cartes sont dites « partagées » et aucun joueur ne marque de points pour « les cartes ».
 
-- **1 point for “the clubs”**: Awarded to the player that captures the majority cards in the suit of clubs.
+- **1 point pour « les trèfles »** : attribué au joueur qui capture la majorité des cartes de la couleur trèfle.
 
-- **1 point for “the good 2”**: Awarded to the player that captures the 2 of clubs (this card also counts toward the total of clubs for the “clubs” point).
+- **1 point pour « le bon 2 »** : attribué au joueur qui capture le 2 de trèfle (cette carte compte aussi pour le total des trèfles pour le point « trèfles »).
 
-- **1 point for “the good 10”**: Awarded to the player that captures the 10 of diamonds.
+- **1 point pour « le bon 10 »** : attribué au joueur qui capture le 10 de carreau.
 
-**Note. **The terms "the good 2" and "the good 10" are literal translations of the Greek terms «το 2 το καλό» and «το 10 το καλό» In English one could alternatively call them the “lucky 2” and the “lucky 10”.
+**Note.** Les termes « le bon 2 » et « le bon 10 » sont des traductions littérales des termes grecs « το 2 το καλό » et « το 10 το καλό ». En français on pourrait aussi les appeler le « 2 chanceux » et le « 10 chanceux ».
 
-Thus there are usually 5 points to be scored in each round (only 3 points if the cards are split). The player who scores the majority of these points wins the round, and the player who was the non-dealer becomes the dealer for the next round. An agreed number of rounds is played and whoever wins more rounds is the overall winner.
+Il y a donc généralement 5 points à marquer dans chaque manche (seulement 3 points si les cartes sont partagées). Le joueur qui marque la majorité de ces points remporte la manche, et le joueur qui était le non-donneur devient le donneur pour la manche suivante. Un nombre convenu de manches est joué et celui qui remporte le plus de manches est le vainqueur final.
 
-## Variants
+## Variantes
 
-Rather than just counting rounds won, each player can record the number of points scored in each round, and the first player who accumulates some agreed number of points, for example 21, is the overall winner. If both players reach the target on the same round, whoever has the higher score wins. If there is a tie, another round is played.
+Au lieu de compter simplement les manches gagnées, chaque joueur peut enregistrer le nombre de points marqués à chaque manche, et le premier joueur qui atteint un nombre convenu de points, par exemple 21, est le vainqueur final. Si les deux joueurs atteignent l'objectif lors de la même manche, celui qui a le score le plus élevé gagne. En cas d'égalité, une autre manche est jouée.
 
-It is possible for three or four people to play this game. In this case the direction of play is anticlockwise, beginning with the player to dealer's right. With three players there will be 4 deals in each round; with 4 players there will be 3 deals. Four players can play in teams, two against two, partners sitting opposite each other and combining their captured cards into a single pile.
+Il est possible de jouer à ce jeu à trois ou quatre personnes. Dans ce cas, le sens du jeu est dans le sens inverse des aiguilles d'une montre, en commençant par le joueur à la droite du donneur. Avec trois joueurs, il y a 4 donnes par manche ; avec 4 joueurs, il y a 3 donnes. Quatre joueurs peuvent jouer en équipe, deux contre deux, les partenaires étant assis en face l'un de l'autre et combinant leurs cartes capturées en une seule pile.
 
-## Software
+## Logiciel
 
-You can download a freeware Kontsina program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
-
-Home Page > Classified Index > Fishing Games > Kontsina
+Vous pouvez télécharger un programme gratuit de Kontsina sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).

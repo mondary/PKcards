@@ -2,10 +2,8 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A trick avoidance card game from the 17th and 18th centuries: link to rules and history by David Parlett.
+**But :** Jeu de cartes d'évitement de levées des 17e et 18e siècles : lien vers les règles et l'histoire par David Parlett.
 
 ---
 
-Reversis is an ancestor of Hearts which appeared around 1600 and was in fashion during the 17th and 18th centuries. Further information and rules can be found on [David Parlett's Reversis page](https://www.parlettgames.uk/histocs/reversis.html).
-
-Home Page > Classified Index > Trick Taking Games > Reverse Games > Reversis
+Reversis est un ancêtre du Hearts qui est apparu vers 1600 et était à la mode aux 17e et 18e siècles. Plus d'informations et les règles peuvent être trouvées sur la [page Reversis de David Parlett](https://www.parlettgames.uk/histocs/reversis.html).

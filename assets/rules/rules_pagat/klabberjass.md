@@ -2,216 +2,207 @@
 
 **Difficulté :** —
 **Type :** Jass/Piquet, Plis
-**But :** In which the Jack and Nine are the highest trumps. This is the 3-player version played near Hamburg in North Germany.
+**But :** Dans lequel le Valet et le Neuf sont les plus hauts atouts. C'est la version à 3 joueurs jouée près de Hambourg dans le nord de l'Allemagne.
 
 ---
 
-This page is based on a contribution from Günther Senst.
+Cette page est basée sur une contribution de Günther Senst.
 
 ## Introduction
 
-There are many related but slightly different games that go by names similar to Klabberjass. For example there is the international two-handed game Clobiosh, also known as **Klob**, **Bela** or (in some books) **Kalabriasz**, there is the Dutch national game Klaverjassen, and there is **Clabber**, a game played in Indiana, USA. There are also closely related games with other names - some of these are listed on the Jass group page.
+Il existe de nombreux jeux apparentés mais légèrement différents qui portent des noms similaires à Klabberjass. Par exemple, il y a le jeu international à deux joueurs Clobiosh, aussi connu sous le nom de **Klob**, **Bela** ou (dans certains livres) **Kalabriasz**, le jeu national néerlandais Klaverjassen, et le **Clabber**, un jeu joué dans l'Indiana, États-Unis. Il y a aussi des jeux étroitement apparentés sous d'autres noms — certains de ceux-ci sont listés sur la page du groupe Jass.
 
-This page describes the version of Klabberjass played in a specific region of northern Germany. "Das Alte Land" is a stretch of marshland 25km long and 8km wide on the southern bank of the lower Elbe river, between Hamburg and Stade. "Das Alte Land" literally translated means "The Old Country", but in this context the word "old" means that the land was considered worthless. Only after Dutch settlers drained it and protected it with dykes could it develop into the largest and most productive fruit growing region of northern Germany. In this region and on the edges of the neighbouring higher lying heathland, the people play Klabberjass. The game is so well-known there that tournaments are held.
+Cette page décrit la version du Klabberjass jouée dans une région spécifique du nord de l'Allemagne. « Das Alte Land » est une étendue de marais de 25 km de long et 8 km de large sur la rive sud du bas Elbe, entre Hambourg et Stade. « Das Alte Land » se traduit littéralement par « Le Vieux Pays », mais dans ce contexte le mot « vieux » signifie que la terre était considérée sans valeur. Ce n'est qu'après que des colons néerlandais l'ont drainée et protégée avec des digues qu'elle a pu se développer pour devenir la plus grande et la plus productive région de culture fruitière du nord de l'Allemagne. Dans cette région et sur les bords de la lande plus haute voisine, les gens jouent au Klabberjass. Le jeu est si bien connu là-bas que des tournois sont organisés.
 
-In spring 1990, Günther Senst took part in a tournament organised by Messrs S Koschinski and Karl-H Brückner. Each tournament is advertised in a local paper, and if enough people register interest it takes place. On that occasion the entry fee was DM 20. This money was used to buy various large hams and sausages for prizes for the winners. There was also a small sausage as a consolation prize for the loser.
+Au printemps 1990, Günther Senst a participé à un tournoi organisé par MM. S Koschinski et Karl-H Brückner. Chaque tournoi est annoncé dans un journal local, et si suffisamment de personnes manifestent leur intérêt, il a lieu. À cette occasion, les frais d'inscription étaient de 20 DM. Cet argent a été utilisé pour acheter divers grands jambons et saucisses pour les prix des gagnants. Il y avait aussi une petite saucisse comme prix de consolation pour le perdant.
 
-All the players who Günther Senst consulted considered that tournament Klabberjass, with three active players, was the most interesting version of the game; but after the tournament was over most people played Klaberjass for four or two players or played Skat. We know of no other written version of the tournament rules for Klabberjass, but among the players at the tournaments that Günther Senst has visited there was no doubt or disagreement about the rules; all were unanimous.
+Tous les joueurs que Günther Senst a consultés considéraient que le Klabberjass de tournoi, avec trois joueurs actifs, était la version la plus intéressante du jeu ; mais après la fin du tournoi, la plupart des gens jouaient au Klaberjass pour quatre ou deux joueurs ou au Skat. Nous ne connaissons aucune autre version écrite des règles de tournoi du Klabberjass, mais parmi les joueurs des tournois que Günther Senst a visités, il n'y avait aucun doute ni désaccord sur les règles ; tous étaient unanimes.
 
-## Rules for three-player tournament Klabberjass
+## Règles du Klabberjass de tournoi à trois joueurs
 
-### Players and cards
+### Joueurs et cartes
 
-The game is played with a 32 card French suited Skat pack - the suits are clubs, spades hearts and diamonds and the cards in each suit are ace, ten, king, queen, jack, nine, eight, seven. Where possible three players sit at each table. If the number of players is not divisible by three, the last one or two tables can have four players. At a four player table the dealer of each hand sits out while the other three play.
+Le jeu se joue avec un jeu de 32 cartes à enseignes françaises type Skat — les couleurs sont trèfles, piques, cœurs et carreaux, et les cartes de chaque couleur sont As, 10, Roi, Dame, Valet, 9, 8, 7. Dans la mesure du possible, trois joueurs s'assoient à chaque table. Si le nombre de joueurs n'est pas divisible par trois, la ou les dernières tables peuvent avoir quatre joueurs. À une table de quatre joueurs, le donneur de chaque main ne joue pas tandis que les trois autres jouent.
 
-### The deal
+### La donne
 
-The deal and play are clockwise. After the dealer has shuffled, the player to the dealer's right must cut. For the first game of a session the cards are dealt singly until everyone has 9 cards. In subsequent games the players still receive 9 cards but they are dealt in batches of three.
+La donne et le jeu se font dans le sens des aiguilles d'une montre. Après que le donneur a battu les cartes, le joueur à la droite du donneur doit couper. Pour la première partie d'une session, les cartes sont distribuées une à une jusqu'à ce que chacun ait 9 cartes. Dans les parties suivantes, les joueurs reçoivent toujours 9 cartes mais ils sont distribués par paquets de trois.
 
-The 5 cards remaining after the deal are stacked face-up on the table. The top card of the stack is turned crosswise so that the second card is also visible. The bottom three cards of the stack stay concealed and unknown to the players.
+Les 5 cartes restantes après la distribution sont empilées face visible sur la table. La carte du dessus de la pile est placée de travers pour que la deuxième carte soit aussi visible. Les trois cartes du bas de la pile restent cachées et inconnues des joueurs.
 
-### Ranking and point values of cards
+### Classement et valeurs en points des cartes
 
-Klabberjass is a point-trick game with trumps. The ranking and values of the cards are different in the trump suit from the other three suits, and there is yet another ranking that applies when the cards are melded in sequences. The rankings from high to low and the point calues are shown in the following table.
+Le Klabberjass est un jeu de levées à points avec atouts. Le classement et les valeurs des cartes sont différents dans la couleur d'atout par rapport aux trois autres couleurs, et il y a un autre classement qui s'applique lorsque les cartes sont annoncées en séquences. Les classements du plus haut au plus bas et les valeurs en points sont indiqués dans le tableau suivant.
 
-| in trumps | in non-trump suits | in melds |
+| dans les atouts | dans les autres couleurs | dans les annonces |
 | jass | 20 |
 | mi | 14 |
-| ace | 11 |
+| as | 11 |
 | 10 | 10 |
-| king | 4 |
-| queen | 3 |
+| roi | 4 |
+| dame | 3 |
 | 8 | 0 |
 | 7 | 0 |
 
-| ace | 11 |
+| as | 11 |
 | 10 | 10 |
-| king | 4 |
-| queen | 3 |
-| jack | 2 |
+| roi | 4 |
+| dame | 3 |
+| valet | 2 |
 | 9 | 0 |
 | 8 | 0 |
 | 7 | 0 |
 
-| ace |
-| king |
-| queen |
-| jack |
+| as |
+| roi |
+| dame |
+| valet |
 | 10 |
 | 9 |
 | 8 |
 | 7 |
 
-The *jass* is the jack of trumps and the *mi* is the nine of trumps.
+Le *jass* est le Valet d'atout et le *mi* est le 9 d'atout.
 
-Winning the last trick is worth an extra 10 points, so that there are a total of 162 points in the game if no combinations are melded.
+Remporter la dernière levée vaut 10 points supplémentaires, de sorte qu'il y a un total de 162 points dans le jeu si aucune combinaison n'est annoncée.
 
-### The auction
+### Les enchères
 
-There are one or two rounds of bidding.
+Il y a un ou deux tours d'enchères.
 
-**The first round of bidding**
-The top card of the stack determines the trump suit for the first round of bidding. Beginning with forehand (the player to the left of the dealer) and going around the table clockwise, each player can say whether he would like to play with this trump suit or whether he passes. If any player accepts this trump with the words "Ich spiele" (I play), the bidding ends. This player plays alone against the other two players, and there is no second round of bidding. If all three players pass, the second round of bidding begins.
-**The second round of bidding**
-Each player - again beginning with forehand - can say whether he wants to play "Ein Kleines" (a small game). This means that he will play alone with a trump suit other than the suit of the top card of the stack. If a player says "Ein Kleines", the right to play alone can only be taken from him by a subsequent player saying "Besser" (better), so undertaking to play alone with the priority suit clubs as trumps. It follows that if the top card of the stack was a club, then the second round of bidding ends as soon as someone says "Ein Kleines", because clubs is no longer available as a trump suit.
+**Le premier tour d'enchères**
+La carte du dessus de la pile détermine la couleur d'atout pour le premier tour d'enchères. En commençant par le joueur à la gauche du donneur et en tournant dans le sens des aiguilles d'une montre, chaque joueur peut dire s'il souhaite jouer avec cette couleur d'atout ou s'il passe. Si un joueur accepte cet atout en disant « Ich spiele » (je joue), les enchères prennent fin. Ce joueur joue seul contre les deux autres joueurs, et il n'y a pas de second tour d'enchères. Si les trois joueurs passent, le second tour d'enchères commence.
 
-If all players pass in both rounds, the same dealer deals again, as often as necessary until someone undertakes a game.
+**Le second tour d'enchères**
+Chaque joueur — en commençant à nouveau par le joueur à la gauche du donneur — peut dire s'il veut jouer « Ein Kleines » (un petit jeu). Cela signifie qu'il jouera seul avec une couleur d'atout autre que la couleur de la carte du dessus de la pile. Si un joueur dit « Ein Kleines », le droit de jouer seul ne peut lui être pris que par un joueur suivant disant « Besser » (mieux), s'engageant ainsi à jouer seul avec la couleur prioritaire trèfles comme atout. Il s'ensuit que si la carte du dessus de la pile était un trèfle, le second tour d'enchères se termine dès que quelqu'un dit « Ein Kleines », car les trèfles ne sont plus disponibles comme couleur d'atout.
 
-### Robbing and melding
+Si tous les joueurs passent aux deux tours, le même donneur redistribue, autant de fois que nécessaire jusqu'à ce que quelqu'un entreprenne un jeu.
 
-If the suit of the top card of the stack becomes trump, the player who holds the seven of this suit is allowed to exchange it for the top card of the stack. This exchange must be made (if at all) before the holder of the seven declares any meld or plays to the first trick.
+### Échange et annonces
 
-Declarations of the combinations "Terz" and "Halber" must also take place before the holder plays to the first trick. A **Terz** is a sequence of three consecutive cards; it is worth 20 points. A **Halber** (meaning half a hundred) is a sequence of four or more cards, and is worth 50 points.
+Si la couleur de la carte du dessus de la pile devient l'atout, le joueur qui détient le 7 de cette couleur est autorisé à l'échanger contre la carte du dessus de la pile. Cet échange doit être fait (le cas échéant) avant que le détenteur du 7 n'annonce une combinaison ou ne joue à la première levée.
 
-The player with the best sequence scores this and all the other sequences that he has in his hand; no other player can score for sequences. If more than one player has a sequence they are compared according to the following rules:
+Les déclarations des combinaisons « Terz » et « Halber » doivent aussi avoir lieu avant que le détenteur ne joue à la première levée. Un **Terz** est une séquence de trois cartes consécutives ; elle vaut 20 points. Un **Halber** (signifiant la moitié de cent) est une séquence de quatre cartes ou plus, et vaut 50 points.
 
-- Any Halber beats any Terz.
+Le joueur avec la meilleure séquence marque celle-ci et toutes les autres séquences qu'il a en main ; aucun autre joueur ne peut marquer pour les séquences. Si plus d'un joueur a une séquence, elles sont comparées selon les règles suivantes :
 
-- A Terz with a higher top card beats one with a lower top card (for example 9-10-jack beats 8-9-10). 
+- Tout Halber bat tout Terz.
 
-- Between equally high Terzen in diferent suits, a Terz in the trump suit is better.
+- Un Terz avec une carte supérieure plus haute bat un Terz avec une carte supérieure plus basse (par exemple 9-10-V bat 8-9-10).
 
-- Between equally high Terzen, neither of which is in trumps, the winning Terz is the one held by the player whose first to turn to play is earlier (i.e. forehand has highest priority and dealer lowest). 
+- Entre des Terzen de même hauteur dans des couleurs différentes, un Terz dans la couleur d'atout est meilleur.
 
-- The ranking order of Halben is determined in the same way as that of Terzen.
+- Entre des Terzen de même hauteur, dont aucun n'est dans les atouts, le Terz gagnant est celui détenu par le joueur dont le tour de jeu est le plus tôt (c'est-à-dire que le joueur à la gauche du donneur a la plus haute priorité et le donneur la plus basse).
 
-If you wish to declare a sequence, you just say that you have some meld, without specifying what, before playing your card to the first trick. When all three cards of the trick are on the table, players who have declared melds give sufficient information about their sequences to determine who has the best one. The holder of the best sequence then shows this and any other sequences he has, and the cards of the first trick are then collected by the winner of the trick.
+- L'ordre de classement des Halben est déterminé de la même manière que celui des Terzen.
 
-**"Belle"** - the king and queen of trumps - is also a meld worth 20 points. It is always scored, even if a different player has scored for the best Terz or Halbe. Unlike the other melds it is not declared until you play one of the cards to a trick. You then say "Von der Belle" to claim your 20 points. If you forget to declare it you cannot claim any points for it.
+Si vous souhaitez déclarer une séquence, dites simplement que vous avez une annonce, sans spécifier quoi, avant de jouer votre carte à la première levée. Quand les trois cartes de la levée sont sur la table, les joueurs qui ont déclaré des annonces donnent suffisamment d'informations sur leurs séquences pour déterminer qui a la meilleure. Le détenteur de la meilleure séquence la montre alors, ainsi que toutes les autres séquences qu'il a, et les cartes de la première levée sont ensuite ramassées par le gagnant de la levée.
 
-If you hold the king, queen and jack of trumps, then you have a Terz that is potentially worth 20, another 20 for the Belle, and another 20 for the jass, which is bound to win a trick as it is the highest trump. For this reason this combination is called a 60-Terz.
+**« Belle »** — le Roi et la Dame d'atout — est aussi une annonce valant 20 points. Elle est toujours marquée, même si un joueur différent a marqué pour le meilleur Terz ou Halbe. Contrairement aux autres annonces, elle n'est pas déclarée tant que vous ne jouez pas l'une des cartes à une levée. Vous dites alors « Von der Belle » pour réclamer vos 20 points. Si vous oubliez de la déclarer, vous ne pouvez pas réclamer de points pour celle-ci.
 
-All late declarations are invalid.
+Si vous détenez le Roi, la Dame et le Valet d'atout, vous avez alors un Terz qui vaut potentiellement 20, plus 20 pour la Belle, et plus 20 pour le jass, qui est sûr de gagner une levée car il est le plus haut atout. Pour cette raison, cette combinaison est appelée un 60-Terz.
 
-### The play of the tricks
+Toutes les déclarations tardives sont invalides.
 
-Forehand (the player to the dealer's left) leads to the first trick. It is compulsory to follow suit, to trump, to overtrump and to undertrump. This means that:
+### Le jeu des levées
 
-- You must play a card of the suit led if you have one; if trumps are led you must play a trump.
+Le joueur à la gauche du donneur entame la première levée. Il est obligatoire de suivre la couleur, de couper, de surcouper et de sous-couper. Cela signifie que :
 
-- If you cannot follow suit you must play a trump.
+- Vous devez jouer une carte de la couleur demandée si vous en avez une ; si les atouts sont demandés, vous devez jouer un atout.
 
-- If trumps are led, or if a side suit which you do not have has been led and trumped, you must if possible beat the highest trump so far played to the trick - even if this highest trump was played by your partner.
+- Si vous ne pouvez pas suivre la couleur, vous devez jouer un atout.
 
-- In the above situation, if you cannot beat the highest trump played, you must still play a trump even though your trump will not win the trick.
+- Si les atouts sont demandés, ou si une couleur que vous n'avez pas a été demandée et coupée, vous devez si possible battre le plus haut atout joué à la levée — même si ce plus haut atout a été joué par votre partenaire.
 
-- Only when you are unable to follow suit and you have no trumps are you allowed to play any card you wish from another suit.
+- Dans la situation ci-dessus, si vous ne pouvez pas battre le plus haut atout joué, vous devez quand même jouer un atout même si votre atout ne gagnera pas la levée.
 
-The trick is won by the highest trump played, or if contains no trumps, by the highest card of the suit led. The winner of a trick leads to the next. Each player collects their own tricks.
+- Ce n'est que lorsque vous ne pouvez pas suivre la couleur et que vous n'avez pas d'atout que vous êtes autorisé à jouer n'importe quelle carte d'une autre couleur.
 
-### The scoring
+La levée est remportée par le plus haut atout joué, ou si elle ne contient pas d'atout, par la carte la plus haute de la couleur demandée. Le gagnant d'une levée entame la suivante. Chaque joueur ramasse ses propres levées.
 
-Each player counts the total points in the tricks they have won, plus any meld they have scored. When counting points remember that the jass is worth 20 points, not 2 like the jacks of the other suits, and the mi is 14.
+### Le marquage des points
 
-In order to win, the lone player must have more points than either opponent individually. If either opponent has at least as many points as the declarer, the opponents win. Note that opponents wins ties. The value of the game (the amount scored for winning or losing) depends on the trump suit. The values are as follows:
+Chaque joueur compte le total des points dans les levées qu'il a remportées, plus toute annonce qu'il a marquée. En comptant les points, rappelez-vous que le jass vaut 20 points, non 2 comme les Valets des autres couleurs, et le mi vaut 14.
 
-| Original clubs |   +8 points |
-| Original spades |   +7 points |
-| Original hearts |   +6 points |
-| Original diamonds |   +5 points |
+Pour gagner, le joueur seul doit avoir plus de points que chacun de ses adversaires individuellement. Si l'un des adversaires a au moins autant de points que le déclarant, les adversaires gagnent. Notez que les adversaires gagnent les égalités. La valeur du jeu (le montant marqué pour gagner ou perdre) dépend de la couleur d'atout. Les valeurs sont les suivantes :
 
-| Small clubs |   +4 points |
-| Small spades |   +3 points |
-| Small hearts |   +2 points |
-| Small diamonds |   +1 point |
+| Original trèfles |   +8 points |
+| Original piques |   +7 points |
+| Original cœurs |   +6 points |
+| Original carreaux |   +5 points |
 
-"Original" means that the game is played in the suit of the card on top of the stack, "small" means another suit chosen in the second round of bidding.
+| Petit trèfles |   +4 points |
+| Petit piques |   +3 points |
+| Petit cœurs |   +2 points |
+| Petit carreaux |   +1 point |
 
-If the lone player wins, the value of the game is added to his score. If the opponents win, the lone player loses twice the value of the game **and** each opponent wins two extra points.
+« Original » signifie que le jeu se joue dans la couleur de la carte sur le dessus de la pile, « petit » signifie une autre couleur choisie lors du second tour d'enchères.
 
-At a three-player table, two series of 24 deals are played; at a four-player table two series of 32 deals. Each player's cumulative score is recorded in a column, and to the right is an extra column in which the value of the current game is noted. Here is an example for the first round of a three-player game. The players are A, B and C:
+Si le joueur seul gagne, la valeur du jeu est ajoutée à son score. Si les adversaires gagnent, le joueur seul perd deux fois la valeur du jeu **et** chaque adversaire gagne deux points supplémentaires.
 
-| | A | B | C | Spiel | |
-| 1. | -16 | +2 | +2 | -16 | (A loses an Orgi - i.e. Original - in Clubs) |
-| 2. | - | +9 | - | + 7 | (B wins an Orgi in Spades) |
-| 3. | - | - | +3 | + 1 | (C wins a small game in diamonds) |
+À une table de trois joueurs, on joue deux séries de 24 donnes ; à une table de quatre joueurs, deux séries de 32 donnes.
 
-### Additional tournament rules
+### Règles supplémentaires de tournoi
 
-- There is no Kontra or Re, and no giving up (in contrast to the informal games described below). 
+- Il n'y a pas de Kontra ou Re, et pas d'abandon possible (contrairement aux jeux informels décrits ci-dessous).
 
-- Every hand must be played out to the end.
+- Chaque main doit être jouée jusqu'à la fin.
 
-- Shortened game: in order to save time the declarer - but not an opponent - may place his hand face up on the table and play the remaining tricks with exposed cards. This does not oblige him to win all the remaining tricks.
+- Jeu raccourci : pour gagner du temps, le déclarant — mais pas un adversaire — peut poser sa main face visible sur la table et jouer les levées restantes avec des cartes exposées. Cela ne l'oblige pas à gagner toutes les levées restantes.
 
-- If anyone breaks the rules of play by failing to follow suit, trump or overtrump when required to, the opposing team immediately wins the game. 
+- Si quelqu'un enfreint les règles du jeu en omettant de suivre la couleur, couper ou surcouper, l'équipe adverse gagne immédiatement le jeu.
 
-- Any hint as to the distribution of the cards (such as an offer to give up), is punished by immediate loss of the game. 
+- Tout indice sur la distribution des cartes (comme une offre d'abandon) est puni par une perte immédiate du jeu.
 
-- Illegible or incorrect score-sheets are disallowed when awarding prizes. (Normally player No 1. at each table keeps score, but all players at the table are responsible for ensuring that the score is kept correctly.)
+- Les feuilles de score illisibles ou incorrectes ne sont pas acceptées pour l'attribution des prix.
 
-- The tournament director's decision is final. If necessary the tournament organiser can - after issuing a warning - disqualify a player from the tournament.
+- La décision du directeur du tournoi est définitive.
 
-## Three player Klabberjass - the money game
+## Klabberjass à trois joueurs — le jeu d'argent
 
-This is the informal version of the game, played between three individuals for money, rather than as an organised tournament.
+C'est la version informelle du jeu, jouée entre trois individus pour de l'argent, plutôt que comme un tournoi organisé.
 
-The game is played with kontra, re and the possibility of giving up (schenken), as in the four player game. Apart from this and the scoring, the rules are the same as in the tournament game described above.
+Le jeu se joue avec kontra, re et la possibilité d'abandonner (schenken), comme dans le jeu à quatre joueurs. À part cela et le marquage, les règles sont les mêmes que dans le jeu de tournoi décrit ci-dessus.
 
-Any Orgi costs DM 1,-- irrespective of the trump suit; any small game costs DM 0,50.
+N'importe quel Orgi coûte 1 DM, peu importe la couleur d'atout ; n'importe quel petit jeu coûte 0,50 DM.
 
-**Examples:** 
+**Exemples :**
 
-- **Orgi lost with Kontra and Re:** the declarer loses DM 16, that is Orgi costs DM 1, lost DM 2, Kontra DM 4, Re DM 8 - and he has to pay DM 8 to each opponent. 
+- **Orgi perdu avec Kontra et Re :** le déclarant perd 16 DM, c'est-à-dire que l'Orgi coûte 1 DM, la perte 2 DM, Kontra 4 DM, Re 8 DM — et il doit payer 8 DM à chaque adversaire.
 
-- **A small game won:** the declarer collects DM 0,50 from each opponent.
+- **Un petit jeu gagné :** le déclarant perçoit 0,50 DM de chaque adversaire.
 
-## Klabberjass for four
+## Klabberjass à quatre
 
-### The partnerships
+### Les partenariats
 
-To determine the partnerships, at the start one player deals out the cards face up in front of the players until an ace appears, and then continues dealing, omitting the player who received the first ace, until a second ace is found. The two players to whom the aces were dealt are partners against the other two. The players change seats if necessary so that partners are sitting opposite each other.
+Pour déterminer les partenariats, un joueur distribue les cartes face visible devant les joueurs jusqu'à ce qu'un As apparaisse, puis continue à distribuer, en omettant le joueur qui a reçu le premier As, jusqu'à ce qu'un second As soit trouvé. Les deux joueurs à qui les As ont été distribués sont partenaires contre les deux autres.
 
-### The deal and play
+### La donne et le jeu
 
-Each player receives eight cards, dealt in batches of three, two and three cards. The dealer exposes the second to last card - that is the middle card of the last batch of three - and places it face up on the table. The suit of this card is trump for the first round of bidding. After the first round of bidding, the dealer adds this exposed card to his hand.
+Chaque joueur reçoit huit cartes, distribuées en paquets de trois, deux et trois cartes. Le donneur expose l'avant-dernière carte — c'est-à-dire la carte du milieu du dernier paquet de trois — et la place face visible sur la table. La couleur de cette carte est l'atout pour le premier tour d'enchères. Après le premier tour d'enchères, le donneur ajoute cette carte exposée à sa main.
 
-The play of the cards follows the same rules as in three-player Klabberjass. Sequences are declared immediately before each player plays to the first trick, and the team which has the best sequence scores all the sequences held by both partners, the other team scoring nothing for sequences.
+Le jeu des cartes suit les mêmes règles que le Klabberjass à trois joueurs.
 
-### Kontra, Re and Schenken
+### Kontra, Re et Schenken
 
-The game is always played with Kontra and Re. If an opponent of the team that selects the trump suit thinks that the trump makers will lose, that player can double the score for the game by saying Kontra before playing a card to the first trick. Before play continues, either the trump maker or his partner can, if confident of winning, announce Re, which doubles the score again.
+Le jeu se joue toujours avec Kontra et Re. Si un adversaire de l'équipe qui a sélectionné la couleur d'atout pense que les créateurs d'atout vont perdre, ce joueur peut doubler le score du jeu en disant Kontra avant de jouer une carte à la première levée. Avant que le jeu ne continue, soit le créateur d'atout soit son partenaire peut, s'ils sont confiants de gagner, annoncer Re, qui double à nouveau le score.
 
-The players must agree before the session whether "Schenken" is allowed. Schenken is an offer to give up the game, and can be made only by an opponenet of the trump maker, immediately after the auction. If a player offers to give up, he thereby indicates that he has a weak hand. His partner can agree to give up or refuse. In any case he will know his partner's cards are weak and will be cautious about giving a Kontra.
+Les joueurs doivent convenir avant la session si le « Schenken » est autorisé. Schenken est une offre d'abandon, et ne peut être faite que par un adversaire du créateur d'atout, immédiatement après les enchères.
 
-### Scoring
+### Marquage
 
-Partners keep their tricks in a single heap and at the end each team counts the number of points they have won. The trump makers win if they have more points (in cards plus melds plus the last trick) than the opposing team - so in the absence of melds they need at least 82 points. If there is a tie for points, or the opponents of the trump makers have more, then the trump makers lose.
+Les partenaires gardent leurs levées dans un tas unique et à la fin chaque équipe compte le nombre de points qu'elle a remporté. Les créateurs d'atout gagnent s'ils ont plus de points (en cartes plus annonces plus la dernière levée) que l'équipe adverse — donc en l'absence d'annonces, ils ont besoin d'au moins 82 points. S'il y a égalité de points, ou si les adversaires des créateurs d'atout ont plus, alors les créateurs d'atout perdent.
 
-If the side that makes trump wins the game, they win one game point if there was no kontra. A kontra doubles the score to 2 game points and a rekontra doubles it again, making 4 game points. If the trump makers' opponents win, they score twice what the trump makers would have won - that is 2 points for a game without kontra, 4 points for a kontra'd game, and in 8 points for a rekontra'd game. It makes no difference to the score what suit is trumps or whether the trumps is made in the first or second round of the bidding.
+Il y a deux méthodes de tenue du score.
 
-There are two methods of keeping score.
+**Première méthode**
+La première équipe à accumuler six points de jeu ou plus sur autant de donnes que nécessaire gagne la partie et reçoit une mise fixe.
+**Deuxième méthode**
+Chaque main est payée séparément en argent, selon le nombre de points de jeu gagnés ou perdus.
 
-**First method**
-The first team to accumulate six or more game points over as many deals as it takes wins the game and is paid a fixed stake.
-The score is kept using two dice. Each team has a die in front of them, and the uppermost face indicates their current score. A 6 uppermost represents zero or six, so each team starts with their die showing 6. After each hand the winners turn their die to show their new score.
-**Second method**
-Each hand is paid for separately in cash, according to the number of game points won or lost. 
+## Klabberjass à deux
 
-## Klabberjass for two
+Au début, chaque joueur reçoit six cartes, en deux paquets de trois. La 13e carte est retournée face visible et placée de travers sous le talon de cartes non distribuées pour déterminer la couleur d'atout pour le premier tour d'enchères. Quand les enchères sont terminées et la couleur d'atout a été choisie, chaque joueur reçoit un autre paquet de trois cartes, de sorte qu'ils en ont neuf chacun.
 
-To begin with each player is dealt six cards, in two batches of three. The 13th card is turned face-up, and placed crosswise under the talon of undealt cards to determine the trump suit for the first round of bidding. When the bidding is over and the trump suit has been chosen, each player is dealt another batch of three cards, so that they have nine each.
-
-The play and scoring is the same as in the four-player game.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Jass group > Klabberjass
+Le jeu et le marquage sont les mêmes que dans le jeu à quatre joueurs.

@@ -4,178 +4,164 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐
 **Type :** Divers, Divers
-**But :** A popular card game with many names and variants. Players must follow number or suit, and some cards have special effects.
+**But :** Un jeu de cartes populaire avec de nombreux noms et variantes. Les joueurs doivent suivre le numéro ou la couleur, et certaines cartes ont des effets spéciaux.
 **Autres noms :** Kurnik
 
 ---
 
-## Introduction and Alternative Names
+## Introduction et noms alternatifs
 
-Crazy Eights is a game for two or more players, in which the object is to get rid of the cards in your hand onto a discard pile by matching the number or suit of the previous discard.
+Crazy Eights est un jeu pour deux joueurs ou plus, dans lequel le but est de se débarrasser des cartes de sa main sur une défausse en faisant correspondre le numéro ou la couleur de la carte précédente.
 
-There is a huge number of variations of this game, and many alternative names. It
-is sometimes called **Crates**, **Switch**, **Swedish Rummy**, **Last One** or **Rockaway**. In Germany it is **Mau-Mau**; in Switzerland it is **Tschausepp**; in the Netherlands it is Pesten. Some British players call it **Black Jack**, which is unfortunate as it can lead to confusion with the well-known American banking card game Blackjack.
+Il existe un nombre immense de variantes de ce jeu, et de nombreux noms alternatifs. Il est parfois appelé **Crates**, **Switch**, **Swedish Rummy**, **Last One** ou **Rockaway**. En Allemagne, c'est le **Mau-Mau** ; en Suisse, c'est **Tschausepp** ; aux Pays-Bas, c'est le Pesten. Certains joueurs britanniques l'appellent **Black Jack**, ce qui est malheureux car cela peut prêter à confusion avec le jeu de cartes bancaire américain bien connu Blackjack.
 
-## Basic Game
+## Jeu de base
 
-The basic game of Crazy Eights uses a standard 52 card pack, or two such packs shuffled together if there are a lot of players. The dealer deals (singly) five cards to each player (seven each if there are only two players). The remainder of the pack is stacked face down on the table as a stock from which cards will be drawn. The top card of the stock is turned face up and placed beside the stock to start the discard pile.
+Le jeu de base de Crazy Eights utilise un jeu standard de 52 cartes, ou deux jeux mélangés ensemble s'il y a beaucoup de joueurs. Le donneur distribue (une par une) cinq cartes à chaque joueur (sept chacun s'il n'y a que deux joueurs). Le reste du tas est empilé face cachée sur la table comme pioche à partir de laquelle les cartes seront tirées. La carte supérieure de la pioche est retournée et placée à côté pour commencer la défausse.
 
-Starting with the player to dealer's left, and continuing clockwise, each player in turn must either play a legal card face up on top of the discard pile, or draw a card from the undealt stock. The following plays are legal.
+En commençant par le joueur à la gauche du donneur et en continuant dans le sens horaire, chaque joueur à son tour doit soit jouer une carte légale face ouverte sur la défausse, soit piocher une carte de la pioche. Les joues suivantes sont légales :
 
-- If the top card of the discard pile is not an Eight, you may play any card which matches the rank or suit of the previous card (for example if the top card was the king of hearts you could play any king or any heart).
+- Si la carte du dessus de la défausse n'est pas un Huit, vous pouvez jouer n'importe quelle carte qui correspond au rang ou à la couleur de la carte précédente (par exemple, si la carte du dessus était le Roi de cœur, vous pourriez jouer n'importe quel Roi ou n'importe quel cœur).
 
-- An Eight may be played on any card, and the player of the Eight must nominate a suit. 
+- Un Huit peut être joué sur n'importe quelle carte, et le joueur du Huit doit nommer une couleur.
 
-- If an Eight is on top of the pile, you must play either another Eight or any card of the suit nominated by the person
-who played the Eight.
+- Si un Huit est sur le dessus de la défausse, vous devez jouer soit un autre Huit, soit n'importe quelle carte de la couleur nommée par la personne qui a joué le Huit.
 
-If an Eight is turned up by the dealer as the first card of the play pile, it is treated as though the dealer had played it. The dealer looks at his or her hand and nominates a suit, and the first player must play a card of that suit or another Eight.
+Si un Huit est retourné par le donneur comme première carte de la défausse, il est traité comme si le donneur l'avait joué. Le donneur regarde sa main et nomme une couleur, et le premier joueur doit jouer une carte de cette couleur ou un autre Huit.
 
-A player who has only one card left in their hand must alert the other players by saying "last card". A player who fails to do this before the next player takes their turn must draw two cards from the top of the stock as a penalty.
+Un joueur qui n'a plus qu'une carte dans sa main doit alerter les autres joueurs en disant « dernière carte ». Un joueur qui omet de le faire avant que le joueur suivant ne prenne son tour doit piocher deux cartes du dessus de la pioche comme pénalité.
 
-The first player who gets rid of all their cards wins, and the other players score penalty
-points according to the cards they have left in their hands - 50 for an eight,
-10 for a picture, and spot cards at face value (one point for an ace, two for a two and so on).
+Le premier joueur qui se débarrasse de toutes ses cartes gagne, et les autres joueurs marquent des points de pénalité selon les cartes qu'ils ont encore en main — 50 pour un huit, 10 pour une figure, et les cartes numériques à leur valeur faciale (un point pour un As, deux pour un deux, etc.).
 
-If the stock pile is exhausted, the played cards, except for the last card, are shuffled and stacked face down to make a new stock and the game continues. 
+Si la pioche est épuisée, les cartes jouées, sauf la dernière, sont mélangées et empilées face cachée pour former une nouvelle pioche et le jeu continue.
 
-## Special Cards
+## Cartes spéciales
 
-Apart from the Eights, usually there are other cards that have special effects when played. Typical rules are as follows.
+Outre les Huits, il y a généralement d'autres cartes qui ont des effets spéciaux lorsqu'elles sont jouées. Les règles typiques sont les suivantes.
 
-**Skip** 
-When a Queen is played, the next player in
-rotation misses a turn, and the turn passes to the following player. In a two-player game the opponent is skipped and the same player plays again.
-**Reverse direction** 
-When an Ace is played, the direction of
-play reverses, becoming anticlockwise if it had been clockwise, or vice versa. In a two-player game an Ace has no effect.
-**Draw cards** 
-When a Two is played the next player must either draw two cards or play
-another Two **(an Eight cannot be played in this case)**. If several Twos have been played by consecutive players, the next player must either play
-another Two or draw two cards for each two in the sequence. The penalty cards cannot be played in the same turn - after the penalty cards have been drawn, the turn passes to the following player, who can continue with any card of the same suit as the last Two, or another Two or an Eight to change suit. 
+**Passe**
+Lorsqu'une Dame est jouée, le joueur suivant dans l'ordre perd son tour, et le tour passe au joueur d'après. Dans un jeu à deux joueurs, l'adversaire est passé et le même joueur rejoue.
+**Inversion de direction**
+Lorsqu'un As est joué, la direction du jeu s'inverse, devenant antihoraire si elle était horaire, ou vice versa. Dans un jeu à deux joueurs, un As n'a aucun effet.
+**Pioche de cartes**
+Lorsqu'un Deux est joué, le joueur suivant doit soit piocher deux cartes, soit jouer un autre Deux **(un Huit ne peut pas être joué dans ce cas)**. Si plusieurs Deux ont été joués par des joueurs consécutifs, le joueur suivant doit soit jouer un autre Deux, soit piocher deux cartes pour chaque Deux de la séquence. Les cartes de pénalité ne peuvent pas être jouées dans le même tour — après que les cartes de pénalité ont été piochées, le tour passe au joueur suivant, qui peut continuer avec n'importe quelle carte de la même couleur que le dernier Deux, ou un autre Deux, ou un Huit pour changer de couleur.
 
-If one of these special cards is turned up as the first card of the play pile, it is treated as though the dealer had played it. If the turned up card is an Ace, play begins anticlockwise and the player to dealer's right has the first turn. If the turned up card is a Two the first player must play another Two or draw two cards. If the first card is a Queen, the first player is the the player two places to the left of the dealer.
+Si l'une de ces cartes spéciales est retournée comme première carte de la défausse, elle est traitée comme si le donneur l'avait jouée. Si la carte retournée est un As, le jeu commence dans le sens antihoraire et le joueur à la droite du donneur a le premier tour. Si la carte retournée est un Deux, le premier joueur doit jouer un autre Deux ou piocher deux cartes. Si la première carte est une Dame, le premier joueur est le joueur deux places à la gauche du donneur.
 
-If the last card played by the winner happens to be a special card, the special effect is ignored. For example the card on top of the play pile is the ![spade](../images/internat/spade.gif)10 and the next player's only remaining card is the ![spade](../images/internat/spade.gif)2. The player plays the ![spade](../images/internat/spade.gif)2 and immediately wins. The hands are scored as they are - no one has to draw cards as a result of the 2.
+Si la dernière carte jouée par le gagnant est une carte spéciale, l'effet spécial est ignoré. Par exemple, la carte sur le dessus de la défausse est le 10 de ![pique](../images/internat/spade.gif) et la seule carte restante du joueur suivant est le 2 de ![pique](../images/internat/spade.gif). Le joueur joue le 2 de ![pique](../images/internat/spade.gif) et gagne immédiatement. Les mains sont comptées telles quelles — personne n'a à piocher de cartes à cause du 2.
 
-## Variations
+## Variantes
 
-Crazy Eights is one of the easiest games to modify by adding variations. In particular the roles of the special cards are often changed, for example using a different card, such Jack instead of Queen to cause the next player to skip a turn, or Four instead of Ace to reverse direction. Sometimes there will be additional special cards with other effects - for example it may be agreed that the Queen of Spades requires the next player to draw 5 cards. The result is that almost every group of players has their own house rules, and it would be rare to find two groups that play exactly the same way.
+Crazy Eights est l'un des jeux les plus faciles à modifier en ajoutant des variantes. En particulier, les rôles des cartes spéciales sont souvent modifiés, par exemple en utilisant une carte différente, comme le Valet au lieu de la Dame pour faire passer le tour du joueur suivant, ou le Quatre au lieu de l'As pour inverser la direction. Parfois, il y aura des cartes spéciales supplémentaires avec d'autres effets — par exemple, on peut convenir que la Dame de pique oblige le joueur suivant à piocher 5 cartes. Il en résulte que presque chaque groupe de joueurs a ses propres règles de maison, et il serait rare de trouver deux groupes qui jouent exactement de la même manière.
 
-### Deal
+### Donne
 
-The number of cards dealt to each player initially may vary. For example some begin with eight cards each.
+Le nombre de cartes distribuées à chaque joueur au départ peut varier. Par exemple, certains commencent avec huit cartes chacun.
 
-### Drawing Cards
+### Pioche de cartes
 
-In the normal game, you may always use your turn to draw a card. However, some people play that you may only draw if you are unable to play - if you can play you must.
+Dans le jeu normal, vous pouvez toujours utiliser votre tour pour piocher une carte. Cependant, certains jouent que vous ne pouvez piocher que si vous ne pouvez pas jouer — si vous pouvez jouer, vous devez le faire.
 
-Some allow the drawn card to be played immediately if it is a legal play.
+Certains permettent de jouer immédiatement la carte piochée si c'est une joue légale.
 
-Some allow more than one card to be drawn - either up to a fixed number of cards, after which if you still cannot (or will not) play the turn passes to the next player. Others require you to continue drawing until either you can play or the deck is exhausted.
+Certains permettent de piocher plus d'une carte — soit jusqu'à un nombre fixe de cartes, après quoi si vous ne pouvez toujours pas (ou ne voulez pas) jouer, le tour passe au joueur suivant. D'autres exigent que vous continuiez à piocher jusqu'à ce que vous puissiez jouer ou que le jeu soit épuisé.
 
-### Changing Suit
+### Changement de couleur
 
-The special card that changes suit is nearly always the Eight, at least in places where the game is called Crazy Eights. In many countries and regions the equivalent game goes by other names and a different card may be used to change suit - for example in the British game Switch it is often the Ace, and some other variants use the Jack or the Seven.
+La carte spéciale qui change de couleur est presque toujours le Huit, du moins dans les endroits où le jeu est appelé Crazy Eights. Dans de nombreux pays et régions, le jeu équivalent porte d'autres noms et une carte différente peut être utilisée pour changer de couleur — par exemple, dans le jeu britannique Switch, c'est souvent l'As, et certaines autres variantes utilisent le Valet ou le Sept.
 
-Some play that you can only play an Eight that matches the previous card's suit or rank.
+Certains jouent que vous ne pouvez jouer un Huit que s'il correspond à la couleur ou au rang de la carte précédente.
 
-Some play that you can play an Eight at any time but when playing an Eight you do not nominate a suit. The next
-player must simply match the suit of the Eight you played or play another eight. 
+Certains jouent que vous pouvez jouer un Huit à tout moment mais qu'en jouant un Huit vous ne nommez pas de couleur. Le joueur suivant doit simplement correspondre à la couleur du Huit que vous avez joué ou jouer un autre Huit.
 
-One correspondent (Szu Kay Wong) gives the rule an Eight can be played on any card, but the player can only nominate a different suit if the Eight
-matches the rank or suit of the previous card. Some players use jacks or aces rather than
-eights as the cards which have the power to change suit. 
+Un correspondant (Szu Kay Wong) donne la règle qu'un Huit peut être joué sur n'importe quelle carte, mais que le joueur ne peut nommer une couleur différente que si le Huit correspond au rang ou à la couleur de la carte précédente. Certains joueurs utilisent des valets ou des as plutôt que des huits comme cartes ayant le pouvoir de changer de couleur.
 
-### Multiple Equal Cards
+### Cartes égales multiples
 
-Some allow a player holding two or more equal ranked cards to play them all at once, provided that the first of them is a legal play. If they are special cards all the special effects take place. For example if the top card of the play pile is the ![diamond](../images/internat/diamond.gif)5, the next player could play ![diamond](../images/internat/diamond.gif)9, ![club](../images/internat/club.gif)9 and ![heart](../images/internat/heart.gif)9 in that order, and the next player would have to play a 9 or a heart. If the equal cards are special cards all the special effects take place. For example if an Ace reverses direction, playing two Aces together will reverse it twice, leaving the direction of play unchanged. If a Queen skips the next player, a pair of Queens will skip two players (in a two-player game that would be your opponent's turn and your own next turn, leaving your opponent to play next). If a Two requires the next player to pick up twos cards, a pair of Twos will require the next player to pick up 4 cards (or play another Two).
+Certains permettent à un joueur détenant deux cartes ou plus de même rang de les jouer toutes à la fois, pourvu que la première soit une joue légale. Si ce sont des cartes spéciales, tous les effets spéciaux s'appliquent. Par exemple, si la carte du dessus de la défausse est le 5 de ![carreau](../images/internat/diamond.gif), le joueur suivant pourrait jouer le 9 de ![carreau](../images/internat/diamond.gif), le 9 de ![trèfle](../images/internat/club.gif) et le 9 de ![cœur](../images/internat/heart.gif) dans cet ordre, et le joueur suivant devrait jouer un 9 ou un cœur. Si les cartes égales sont des cartes spéciales, tous les effets spéciaux s'appliquent. Par exemple, si un As inverse la direction, jouer deux As ensemble l'inversera deux fois, laissant la direction de jeu inchangée. Si une Dame passe le joueur suivant, une paire de Dames passera deux joueurs (dans un jeu à deux joueurs, ce serait le tour de votre adversaire puis votre prochain tour, laissant votre adversaire jouer ensuite). Si un Deux oblige le joueur suivant à ramasser deux cartes, une paire de Deux obligera le joueur suivant à ramasser 4 cartes (ou à jouer un autre Deux).
 
-### Last Card
+### Dernière carte
 
-Some groups have a special word that must be said by a player when they have just one card left. On the other hand, some groups do not require a player with one card to warn the other players.
+Certains groupes ont un mot spécial qui doit être dit par un joueur lorsqu'il ne lui reste qu'une carte. D'un autre côté, certains groupes n'exigent pas qu'un joueur avec une carte prévienne les autres joueurs.
 
-### End of Stock Pile
+### Fin de la pioche
 
-When the stock pile is exhausted, the rules given in most books to not envisage shuffling the play pile to make a new stock. Instead they specify that play continues without drawing. A player who cannot or does not wish to play just passes. If all pass, the game is blocked. Play stops and everyone scores for the cards remaining in their hands. I think that in practice this version of the game is rarely played.
+Lorsque la pioche est épuisée, les règles données dans la plupart des livres n'envisagent pas de mélanger la défausse pour former une nouvelle pioche. Au lieu de cela, ils stipulent que le jeu continue sans pioche. Un joueur qui ne peut pas ou ne souhaite pas jouer passe simplement son tour. Si tous passent, le jeu est bloqué. Le jeu s'arrête et chacun compte des points pour les cartes restantes dans sa main. Je pense qu'en pratique, cette version du jeu est rarement jouée.
 
-## Crazy Eights Countdown
+## Crazy Eights à rebours
 
-This variant has become popular in North America. Each player begins the game with a score of 8, and eight cards are dealt to each player. When a player gets rid of all their cards, this does not end the play. Instead, the player subtracts 1 from their score, and is immediately dealt a new hand of cards equal in size to their new score. The other players keep the cards that they have and the play continues. The winner of the game is the first player who reduces their score to zero.
+Cette variante est devenue populaire en Amérique du Nord. Chaque joueur commence la partie avec un score de 8, et huit cartes sont distribuées à chaque joueur. Lorsqu'un joueur se débarrasse de toutes ses cartes, cela ne met pas fin au jeu. Au lieu de cela, le joueur soustrait 1 à son score, et reçoit immédiatement une nouvelle main de cartes dont la taille est égale à son nouveau score. Les autres joueurs conservent les cartes qu'ils ont et le jeu continue. Le gagnant de la partie est le premier joueur qui réduit son score à zéro.
 
-Each player's current score determines the rank of the card that is wild for them. So at the start of the game everyone has Eight as their wild card, and the game is like normal Crazy Eights. But later in the game it is possible for each player to have their own, different rank of wild card, which can be played on any card and allows the player to nominate the suit to be played next. Each time a player runs out of cards, their wild card changes, first from Eight to Seven, then Six and so on down to Ace. When a player with a score of 1 and Ace as wild card runs out of cards, their score becomes 0 and they win the game.
+Le score actuel de chaque joueur détermine le rang de la carte qui est joker pour lui. Ainsi, au début du jeu, tout le monde a le Huit comme carte joker, et le jeu est comme le Crazy Eights normal. Mais plus tard dans le jeu, il est possible que chaque joueur ait son propre rang de carte joker différent, qui peut être joué sur n'importe quelle carte et permet au joueur de nommer la couleur à jouer ensuite. Chaque fois qu'un joueur n'a plus de cartes, sa carte joker change, d'abord de Huit à Sept, puis Six, et ainsi de suite jusqu'à l'As. Lorsqu'un joueur avec un score de 1 et l'As comme carte joker n'a plus de cartes, son score devient 0 et il gagne la partie.
 
-The changing wild card introduces several new situations and players need to agree how to resolve these. The following rules are suggested.
+La carte joker changeante introduit plusieurs nouvelles situations et les joueurs doivent s'accorder sur la façon de les résoudre. Les règles suivantes sont suggérées.
 
-- When a wild card is played, the player nominates a suit. The next card played must either be a card of that suit or the player's own wild card. 
+- Lorsqu'une carte joker est jouée, le joueur nomme une couleur. La prochaine carte jouée doit soit être une carte de cette couleur, soit la propre carte joker du joueur.
 
-- **Example**. My score is 6. I play the ![spade](../images/internat/spade.gif)6 and nominate hearts. If the next player's score is 7 that player must either play a heart, or play a wild 7 to nominate a suit, or draw a card. The next player is **not** allowed to play (for example) the ![diamond](../images/internat/diamond.gif)6 even though the rank is the same as my wild Six.
+- **Exemple**. Mon score est 6. Je joue le 6 de ![pique](../images/internat/spade.gif) et nomme les cœurs. Si le score du joueur suivant est 7, ce joueur doit soit jouer un cœur, soit jouer un 7 joker pour nommer une couleur, soit piocher une carte. Le joueur suivant n'est **pas** autorisé à jouer (par exemple) le 6 de ![carreau](../images/internat/diamond.gif) même si le rang est le même que mon Six joker.
 
-- When a player's wild card rank also has a special effect, the player nominates a suit and the card also acts as a special effect card as follows.
+- Lorsque le rang de la carte joker d'un joueur a aussi un effet spécial, le joueur nomme une couleur et la carte agit aussi comme une carte à effet spécial comme suit.
 
-- **Wild / Skip**. The next player is skipped and the following player must play the nominated suit or a wild card. For example, suppose that our house rule is that 4 skips the next player, 4 is my wild card, and I play the ![club](../images/internat/club.gif)4 nominating diamonds. The next player is skipped and the player after that must play a diamond or one of their own wild cards.
+- **Joker / Passe**. Le joueur suivant est passé et le joueur d'après doit jouer la couleur nommée ou une carte joker. Par exemple, supposons que notre règle de maison est que le 4 passe le joueur suivant, que le 4 est ma carte joker, et que je joue le 4 de ![trèfle](../images/internat/club.gif) en nommant les carreaux. Le joueur suivant est passé et le joueur d'après doit jouer un carreau ou l'une de ses propres cartes joker.
 
-- **Wild / Reverse**. The direction is reversed and the next player in the new direction must play the nominated suit or a wild card. For example, suppose that Aces reverse direction. We are playing clockwise and I play the ![heart](../images/internat/heart.gif)A nominating spades. The direction reverses to anticlockwise and the player to my right must play a spade or one of their own wild cards.
+- **Joker / Inversion**. La direction est inversée et le joueur suivant dans la nouvelle direction doit jouer la couleur nommée ou une carte joker. Par exemple, supposons que les As inversent la direction. Nous jouons dans le sens horaire et je joue l'As de ![cœur](../images/internat/heart.gif) en nommant les piques. La direction s'inverse en antihoraire et le joueur à ma droite doit jouer un pique ou l'une de ses propres cartes joker.
 
-- **Wild / Draw Two**. The next player must either draw two cards or play a Two **of the nominated suit**. For example, the players in order and their scores are A(2), B(5), C(6). Player A plays the ![diamond](../images/internat/diamond.gif)2 nominating clubs. Now B must either play the ![club](../images/internat/club.gif)2 or draw two cards. If B plays the ![club](../images/internat/club.gif)2, C must either draw four cards or play **any** Two (since the ![club](../images/internat/club.gif)2 was not wild). If B draws 2 cards, C must play a club or a wild 6 or draw a card, since clubs was the suit nominated by A. Another example: player A plays the wild ![diamond](../images/internat/diamond.gif)2 and nominates diamonds. Assuming that we are playing with a single deck, player B is forced to draw two cards, and C will then have to play a diamond or a wild card. Playing with a double deck, B's only legal play to avoid drawing two cards would be the other ![diamond](../images/internat/diamond.gif)2.
+- **Joker / Pioche deux**. Le joueur suivant doit soit piocher deux cartes, soit jouer un Deux **de la couleur nommée**. Par exemple, les joueurs dans l'ordre et leurs scores sont A(2), B(5), C(6). Le joueur A joue le 2 de ![carreau](../images/internat/diamond.gif) en nommant les trèfles. Maintenant B doit soit jouer le 2 de ![trèfle](../images/internat/club.gif), soit piocher deux cartes. Si B joue le 2 de ![trèfle](../images/internat/club.gif), C doit soit piocher quatre cartes, soit jouer **n'importe quel** Deux (puisque le 2 de ![trèfle](../images/internat/club.gif) n'était pas joker). Si B pioche 2 cartes, C doit jouer un trèfle ou un 6 joker ou piocher une carte, puisque les trèfles était la couleur nommée par A. Un autre exemple : le joueur A joue le 2 de ![carreau](../images/internat/diamond.gif) joker et nomme les carreaux. En supposant que nous jouons avec un seul jeu, le joueur B est forcé de piocher deux cartes, et C devra ensuite jouer un carreau ou une carte joker. En jouant avec un double jeu, la seule joue légale de B pour éviter de piocher deux cartes serait l'autre 2 de ![carreau](../images/internat/diamond.gif).
 
-Here is a blog post and discussion about [Crazy-8-Countdown](https://hellostuff10.blogspot.co.uk/2011/08/crazy-8-countdown.html) describing a version in which Jacks skip the next player, Twos make the next player draw two cards or play another Two as usual, and the Queen of Spades makes the next player draw five cards. Multiple cards of equal rank can be played together. No 'reverse direction' card is mentioned. As in normal Crazy Eights, when multiple cards are played in one turn and some or all of them are special cards, the special effects apply even for cards that are covered, but it is the last card played that has to be followed by the next player.
+Voici un billet de blog et une discussion sur le [Crazy-8-Countdown](https://hellostuff10.blogspot.co.uk/2011/08/crazy-8-countdown.html) décrivant une version dans laquelle les Valets passent le joueur suivant, les Deux obligent le joueur suivant à piocher deux cartes ou à jouer un autre Deux comme d'habitude, et la Dame de pique oblige le joueur suivant à piocher cinq cartes. Plusieurs cartes de même rang peuvent être jouées ensemble. Aucune carte « d'inversion de direction » n'est mentionnée. Comme dans le Crazy Eights normal, lorsque plusieurs cartes sont jouées en un seul tour et que certaines ou toutes sont des cartes spéciales, les effets spéciaux s'appliquent même pour les cartes qui sont couvertes, mais c'est la dernière carte jouée qui doit être suivie par le joueur suivant.
 
-**Variant:** Some groups allow a card of equal rank to be played on a wild card even if it is not in the called suit. For example a wild ![heart](../images/internat/heart.gif)5 is played calling 'diamonds' but the next player plays ![club](../images/internat/club.gif)5 instead of a diamond, even though 5 is not wild for them. This rule is the most frequent cause of arguments in this game so it is a good idea to agree in advance whether your house rules allow this play or not.
+**Variante :** Certains groupes permettent de jouer une carte de même rang sur une carte joker même si elle n'est pas de la couleur appelée. Par exemple, un 5 de ![cœur](../images/internat/heart.gif) joker est joué en appelant « carreaux » mais le joueur suivant joue le 5 de ![trèfle](../images/internat/club.gif) au lieu d'un carreau, même si le 5 n'est pas joker pour lui. Cette règle est la cause la plus fréquente de disputes dans ce jeu, il est donc bon de s'accorder à l'avance sur la question de savoir si vos règles de maison autorisent cette joue ou non.
 
-## Other variants described on this and other websites
+## Autres variantes décrites sur ce site et d'autres sites
 
-See the following pages on this site:
+Voir les pages suivantes sur ce site :
 
-- Crates, described by Richard Hussong.
+- Crates, décrit par Richard Hussong.
 
-- Spoons, described by Bruce McCosar.
+- Spoons, décrit par Bruce McCosar.
 
-- Last One, contributed by Mark Alexander.
+- Last One, contribué par Mark Alexander.
 
-- Bartok, in which the rules are modified during the game.
+- Bartok, dans lequel les règles sont modifiées pendant le jeu.
 
-- Mao, in which the rules may not be discussed.
+- Mao, dans lequel les règles ne peuvent pas être discutées.
 
-More pages with rules of Crazy Eights variants:
+Plus de pages avec les règles des variantes de Crazy Eights :
 
-- Jose M. Carrillo-Muniz describes [Ocho Locos](https://web.archive.org/web/20250923175437/https://members.tripod.com/j_carrillo_vii/ocholoco.htm) (archive copy), a version of Crazy Eights played in Puerto Rico.
+- Jose M. Carrillo-Muniz décrit [Ocho Locos](https://web.archive.org/web/20250923175437/https://members.tripod.com/j_carrillo_vii/ocholoco.htm) (copie d'archive), une version de Crazy Eights jouée à Porto Rico.
 
-- Justin Tuijl's description of [Jack Change](https://web.archive.org/web/20200716095422/https://justintuijl.blogspot.com/2015/11/jack-change-card-game.html), another variation (archive copy).
+- La description de Justin Tuijl de [Jack Change](https://web.archive.org/web/20200716095422/https://justintuijl.blogspot.com/2015/11/jack-change-card-game.html), une autre variation (copie d'archive).
 
-- Jean-François Bustarret's site had rules of [Huit Américain](https://web.archive.org/web/20250114225652/https://www.jeuxdecartes.net/jeux-cartes/8-americain/) in French (archive copy).
+- Le site de Jean-François Bustarret avait les règles du [Huit Américain](https://web.archive.org/web/20250114225652/https://www.jeuxdecartes.net/jeux-cartes/8-americain/) en français (copie d'archive).
 
-- The site Cribbage.ca has a description of a French Canadian variation known simply as [Huit](https://www.cribbage.ca/jeux_de_cartes/jeu_huit.htm) (eight).
+- Le site Cribbage.ca propose une description d'une variante canadienne-française connue simplement sous le nom de [Huit](https://www.cribbage.ca/jeux_de_cartes/jeu_huit.htm) (huit).
 
-- [Crazy Eights rules](https://cardgameheaven.com/eights) are available on the Card Game Heaven site.
+- Les [règles de Crazy Eights](https://cardgameheaven.com/eights) sont disponibles sur le site Card Game Heaven.
 
-Several Crazy Eights variants contributed by readers are listed in the Invented Games section of this site.
+Plusieurs variantes de Crazy Eights contribuées par des lecteurs sont répertoriées dans la section Jeux inventés de ce site.
 
-There have been many commercial versions of eights, designed to be played with specially produced packs of cards. Probably the best known of these is Uno, for which there are also many invented variations.
+Il y a eu de nombreuses versions commerciales de jeux de Huit, conçues pour être jouées avec des jeux de cartes spécialement produits. La plus connue est probablement Uno, pour laquelle il existe également de nombreuses variations inventées.
 
-## Crazy Eights software and online games
+## Logiciels et jeux en ligne de Crazy Eights
 
-The collection 
-HOYLE Card Games for Windows or Mac OS X includes a Crazy Eights program, along with many other popular card games.
+La collection HOYLE Card Games pour Windows ou Mac OS X inclut un programme de Crazy Eights, ainsi que de nombreux autres jeux de cartes populaires.
 
-At [GameDuell](https://www.tkqlhce.com/click-4373756-10764831), you can play Crazy Eights online.
+Sur [GameDuell](https://www.tkqlhce.com/click-4373756-10764831), vous pouvez jouer à Crazy Eights en ligne.
 
-You can play Crazy Eights online at [CardzMania.com](https://www.cardzmania.com/Crazy8s)
+Vous pouvez jouer à Crazy Eights en ligne sur [CardzMania.com](https://www.cardzmania.com/Crazy8s).
 
-At Cardgame.com you can play [Crazy Eights](https://www.cardgame.com/game/Crazy%20Eights) or the corresponding Dutch game [Pesten](https://www.cardgame.com/game/Pesten) or German game [Mau Mau](https://www.cardgame.com/game/Mau+Mau) online against the server.
+Sur Cardgame.com, vous pouvez jouer au [Crazy Eights](https://www.cardgame.com/game/Crazy%20Eights) ou au jeu néerlandais correspondant [Pesten](https://www.cardgame.com/game/Pesten) ou au jeu allemand [Mau Mau](https://www.cardgame.com/game/Mau+Mau) en ligne contre le serveur.
 
-At Pieter Meijer's CardGames.club you can play [Crazy Eights](https://www.cardgames.club/crazy-eights) online against the computer.
+Sur le CardGames.club de Pieter Meijer, vous pouvez jouer au [Crazy Eights](https://www.cardgames.club/crazy-eights) en ligne contre l'ordinateur.
 
-You can download Laurent Pellenc's [Crazy Eights Program](http://www.pellencsoftware.com/crazy8.htm) for Windows from his page.
+Vous pouvez télécharger le [programme Crazy Eights](http://www.pellencsoftware.com/crazy8.htm) de Laurent Pellenc pour Windows depuis sa page.
 
-Games4All have published a [Crazy Eights game for Android](https://play.google.com/store/apps/details?id=org.games4all.android.games.crazy8s.prod).
+Games4All a publié un [jeu Crazy Eights pour Android](https://play.google.com/store/apps/details?id=org.games4all.android.games.crazy8s.prod).
 
-The Crazy Eights Deluxe program is available from [Unique Games](https://www.agcrump.com/)
+Le programme Crazy Eights Deluxe est disponible sur [Unique Games](https://www.agcrump.com/).
 
-[PlayOK](https://www.playok.com/en/switch/) (formerly known as Kurnik) offers the similar Polish game known as Makao (which is listed at PlayOK/Kurnik as Switch).
+[PlayOK](https://www.playok.com/en/switch/) (anciennement connu sous le nom de Kurnik) propose le jeu polonais similaire connu sous le nom de Makao (qui est répertorié sur PlayOK/Kurnik sous le nom de Switch).
 
-At [DKM Crazy Eights](https://dkmgames.com/CardSharp/CrazyEights/) from the CardSharp suite you can play two-player Crazy Eights online against a computer opponent.
+Sur [DKM Crazy Eights](https://dkmgames.com/CardSharp/CrazyEights/) de la suite CardSharp, vous pouvez jouer au Crazy Eights à deux joueurs en ligne contre un adversaire informatique.
 
-Einar Egilsson has published a free Java [Crazy Eights program](https://cardgames.io/crazyeights/) with which you can play online against one computer opponent. 
-
-Home Page > Classified Index > Matching games > Eights Group > Crazy Eights
+Einar Egilsson a publié un [programme Java gratuit de Crazy Eights](https://cardgames.io/crazyeights/) avec lequel vous pouvez jouer en ligne contre un adversaire informatique.

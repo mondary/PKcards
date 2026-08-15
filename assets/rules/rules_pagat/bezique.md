@@ -2,26 +2,24 @@
 
 **Difficulté :** —
 **Type :** Mariage, Mariage
-**But :** How to play Bexique. Links to rules for Winston Churchill's favourite two-player card game.
+**But :** Règles du Bezique. Liens vers les règles du jeu de cartes préféré de Winston Churchill.
 
 ---
 
-Bezique originated in France in the early 19th century as Bésigue. It was extremely fashionable in Britain in the early 20th century, and was Winston Churchill's favourite card game. Although its popularity declined in the late 20th century, it still has many devoted players.
+Le Bezique est originaire de France au début du XIXe siècle sous le nom de Bésigue. Il a été extrêmement à la mode en Grande-Bretagne au début du XXe siècle, et était le jeu de cartes préféré de Winston Churchill. Bien que sa popularité ait décliné à la fin du XXe siècle, il compte encore de nombreux joueurs fidèles.
 
-Bezique is a two-player card game, and the basic version is played with a double pack of 64 cards (two copies of A-K-Q-J-10-9-8-7 in each suit). In its heyday, variations for larger numbers of cards were invented. The American game Pinochle is very similar in structure, especially in its two-player form.
+Le Bezique est un jeu de cartes à deux joueurs, et la version de base se joue avec un double jeu de 64 cartes (deux exemplaires de A-R-D-V-10-9-8-7 dans chaque couleur). À son apogée, des variantes avec un plus grand nombre de cartes ont été inventées. Le jeu américain Pinochle est très similaire dans sa structure, notamment dans sa version à deux joueurs.
 
-Rules of Bezique, Polish Bezique, Chinese Bezique and Rubicon Bezique, archived from Howard Fosdick's website.
+Règles du Bezique, du Bezique polonais, du Bezique chinois et du Bezique Rubicon, archivées depuis le site de Howard Fosdick.
 
-Sharon Clarke's description of [Bezique: The Card Game](https://h2g2.com/edited_entry/A646724) is published on the Hitchhiker's Guide to the Galaxy web site.
+La description du Bezique par Sharon Clarke, [Bezique: The Card Game](https://h2g2.com/edited_entry/A646724), est publiée sur le site du Guide du voyageur galactique.
 
-Here is an archive copy of Chris Herring's rules for [Six Pack Bezique](https://web.archive.org/web/20040905084431/www.sit.wisc.edu/%7Ecdherring/bezique.htm).
+Voici une copie d'archive des règles de Chris Herring pour le [Six Pack Bezique](https://web.archive.org/web/20040905084431/www.sit.wisc.edu/%7Ecdherring/bezique.htm).
 
-[Rules of Bezique](https://cardgameheaven.com/bezique) are available on the Card Game Heaven site.
+Les [règles du Bezique](https://cardgameheaven.com/bezique) sont disponibles sur le site Card Game Heaven.
 
-Jean-François Bustarret's site has rules in French version for [Bésigue](https://web.archive.org/web/20250125180418/https://www.jeuxdecartes.net/jeux-cartes/besigue/) (archive copy)
+Le site de Jean-François Bustarret propose des règles en français pour le [Bésigue](https://web.archive.org/web/20250125180418/https://www.jeuxdecartes.net/jeux-cartes/besigue/) (copie d'archive).
 
-The Planet Haiti website included a page describing several versions of [Bésigue](https://web.archive.org/web/20170724091205/http://planetehaiti.com/ayitim/besigue-haitien/) played in Haiti.
+Le site Planet Haiti comprenait une page décrivant plusieurs versions du [Bésigue](https://web.archive.org/web/20170724091205/http://planetehaiti.com/ayitim/besigue-haitien/) joué en Haïti.
 
-The [Cardmaster](https://download.cnet.com/card-master/3000-18516_4-10200168.html) package includes a 4-pack Rubicon Bezique computer program.
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Marriage Group > Bezique
+Le paquet [Cardmaster](https://download.cnet.com/card-master/3000-18516_4-10200168.html) inclut un programme informatique de Bezique Rubicon à 4 jeux.

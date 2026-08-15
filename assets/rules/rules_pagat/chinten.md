@@ -3,149 +3,135 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** Known in China as Jian Hong Dian (pick up red spots) and the related Thai game Red Frog Black Frog.
+**But :** Connu en Chine sous le nom de Jian Hong Dian (ramasser les points rouges) et le jeu thaïlandais apparenté Red Frog Black Frog.
 
 ---
 
 ## Introduction
 
-In Chinese this game is known as Jiăn Hóng Diăn (pick up red spots) (揀紅點 or in simplified characters 拣红点). It is very similar to the Thai game Red Frog Black Frog (Gob Dum Gob Dang - กบดำกบแดง) and the Indonesian game Main Merah (play red). The playing process whereby a card is flipped from the face-down deck after each play from a player's hand is characteristic of Oriental fishing games.
+En chinois, ce jeu est connu sous le nom de Jiăn Hóng Diăn (ramasser les points rouges) (揀紅點 ou en caractères simplifiés 拣红点). Il est très semblable au jeu thaïlandais Red Frog Black Frog (Gob Dum Gob Dang — กบดำกบแดง) et au jeu indonésien Main Merah (jouer rouge). Le processus de jeu consistant à retourner une carte du jeu face cachée après chaque coup d'un joueur est caractéristique des jeux de pêche orientaux.
 
-The first version of the description below was based with permission on the account by Jen Minute (Bullock) on the page http://members.xoom.com/_XMCM/niferbee/frames/Cards/chinese.htm which unfortunately disappeared around the end of 2001 along with the whole of her 'House of Cards' site. Additional information was contributed by David Halber, Stephen Coleman, Florent Barraco and Kantaphon Tongmee.
+La première version de la description ci-dessous est basée, avec autorisation, sur le récit de Jen Minute (Bullock) sur la page http://members.xoom.com/_XMCM/niferbee/frames/Cards/chinese.htm qui a malheureusement disparu vers la fin de 2001 avec l'ensemble de son site « House of Cards ». Des informations supplémentaires ont été contribuées par David Halber, Stephen Coleman, Florent Barraco et Kantaphon Tongmee.
 
-## Players, Cards and Deal
+## Joueurs, cartes et donne
 
-The game is played with a standard 52-card pack. The number of cards dealt to players varies depending on how many are playing. For a game with two players, each player gets twelve cards. For a game with three players, each player gets eight cards. For a game with four players, each player gets six cards. It is easy to remember how many get dealt to each player by simply dividing 24 by the number of people who are playing (i.e. 24 divided by 2 = 12, each player gets 12 cards).
+Le jeu se joue avec un jeu standard de 52 cartes. Le nombre de cartes distribuées aux joueurs varie en fonction du nombre de joueurs. Pour un jeu à deux joueurs, chaque joueur reçoit douze cartes. Pour un jeu à trois joueurs, chaque joueur reçoit huit cartes. Pour un jeu à quatre joueurs, chaque joueur reçoit six cartes. Il est facile de mémoriser le nombre de cartes distribuées à chaque joueur en divisant simplement 24 par le nombre de joueurs (c'est-à-dire 24 divisé par 2 = 12, chaque joueur reçoit 12 cartes).
 
-After all the cards have been dealt, four cards are turned over face up from the remaining deck and placed in a layout like this:
+Après la distribution de toutes les cartes, quatre cartes sont retournées face visible à partir du jeu restant et placées en disposition comme suit :
 
 | | X | | X | | |
-| | | D | | | (X = card; D = deck) |
+| | | D | | | (X = carte ; D = jeu) |
 | | X | | X | | |
 
-The layout isn't that important, if you want your own setup, go right on ahead... (Just as long as you begin the game four cards out and the remaining deck on the table.)
+La disposition n'est pas très importante, si vous voulez votre propre disposition, allez-y... (Tant que vous commencez avec quatre cartes sur la table et le reste du jeu sur la table.)
 
-## Playing
+## Jeu
 
-The object of the play is to capture cards from the layout. A numeral card from Ace (1) to Nine captures another numeral card if their values add up to exactly ten - so for example Ace captures Nine, Nine captures Ace, Three captures Seven, a Five captures another Five, and so on. Tens and picture cards can only capture another card of the same rank: Ten captures Ten, Queen captures Queen, and so on. Suits don't matter for the purpose of capturing.
+Le but du jeu est de capturer des cartes de la disposition. Une carte numérale de l'As (1) au Neuf capture une autre carte numérale si leurs valeurs s'additionnent exactement à dix — par exemple, l'As capture le Neuf, le Neuf capture l'As, le Trois capture le Sept, un Cinq capture un autre Cinq, etc. Les Dix et les figures ne peuvent capturer qu'une autre carte du même rang : Dix capture Dix, Dame capture Dame, etc. Les couleurs n'ont pas d'importance pour la capture.
 
-At your turn you play one card from your hand. If it captures a card from the layout, you take both cards and place them face down in front of you in your pile of won cards; if not you leave it face up as a new layout card. Whether you captured or not, you next flip the top card of the face down deck face up. If this captures a card from the layout you take both cards; if not it remains in the layout. After you have played one card and flipped one card, whether you captured or not, the turn passes to the next player.
+À votre tour, vous jouez une carte de votre main. Si elle capture une carte de la disposition, vous prenez les deux cartes et les posez face cachée devant vous dans votre tas de cartes gagnées ; sinon, vous la laissez face visible comme nouvelle carte de disposition. Que vous ayez capturé ou non, vous retournez ensuite la carte du dessus du jeu face cachée face visible. Si cela capture une carte de la disposition, vous prenez les deux cartes ; sinon, elle reste dans la disposition. Après avoir joué une carte et retourné une carte, que vous ayez capturé ou non, le tour passe au joueur suivant.
 
-Note that each card played or turned up can only capture one card from the layout. If the initial layout is 3-3-6-Q and you play a Seven, you can only capture one of the Threes from the layout (3+7=10). If you play an Ace you do not capture anything (you cannot use 1+3+6=10 to capture two cards at once).
+Notez que chaque carte jouée ou retournée ne peut capturer qu'une seule carte de la disposition. Si la disposition initiale est 3-3-6-D et que vous jouez un Sept, vous ne pouvez capturer qu'un des Trois de la disposition (3+7=10). Si vous jouez un As, vous ne capturez rien (vous ne pouvez pas utiliser 1+3+6=10 pour capturer deux cartes à la fois).
 
-Note also that although the layout always begins with four cards, during the game there may often be more or fewer than four cards in the layout.
+Notez également que bien que la disposition commence toujours avec quatre cartes, au cours du jeu il peut y avoir souvent plus ou moins de quatre cartes dans la disposition.
 
-For another example, look at the following initial layout with the Jack of hearts, Ace of hearts, Six of clubs, and Two of hearts.
+Pour un autre exemple, considérez la disposition initiale suivante avec le Valet de cœurs, l'As de cœurs, le Six de trèfles et le Deux de cœurs.
 
-| | | |
-| | | |
-| | | |
+À votre tour (avec cette disposition), un joueur devrait jouer (de sa main) un Valet (sur le Valet), un Neuf (sur l'As), un Quatre (sur le Six), ou un Huit (sur le Deux). Supposons qu'il joue un Valet. Il prend la paire de Valets et les empile face cachée devant lui (pour évaluation ultérieure). Il retourne ensuite la carte du dessus du jeu et la pose face visible sur la table. Supposons que ce soit le Six de piques. Cela ne capture rien. C'est maintenant le tour du joueur suivant.
 
-To make a move on a turn (with this layout), a player would need to play (out of his hand) a Jack (on the Jack), a Nine (on the Ace), a Four (on the Six), or an Eight (on the Two). Suppose he plays a Jack. He takes the pair of Jacks and stacks them face down in front of him (for later evaluation). He next flips over the top card from the deck and places it face up on the table. Suppose it's the Six of spades. This does not capture anything. It is now the next player's turn and the new layout is:
+Si, après avoir capturé le Valet, le joueur avait retourné un Quatre, capturant le Six de la table, il ne resterait que deux cartes de disposition pour le début du tour du joueur suivant.
 
-| | | |
-| | | |
-| | | |
+Si les règles sont suivies correctement, vous devriez terminer sans cartes dans la main d'aucun joueur, sans cartes dans le jeu face cachée et sans cartes dans la disposition — lors du dernier coup, la dernière carte du jeu capturera toujours la dernière carte de la disposition.
 
-If, after capturing the Jack, the player had flipped a Four, capturing the Six from the table, then only two layout cards would remain for the beginning of the next player's turn:
+### Cas particuliers
 
-| | | |
-| | | |
-| | | |
+Si la disposition initiale contient trois rois, trois dames, trois valets, trois dix ou trois cinq, alors la quatrième carte de ce rang capture les trois cartes correspondantes.
 
-If the rules are followed correctly, then you should finish with no cards in any player's hand, no cards in the face-down deck and no cards in the layout - on the final play, the last card from the deck will always capture the last card from the layout.
+Si la disposition initiale se compose de quatre rois, quatre dames, quatre valets, quatre dix ou quatre cinq, le donneur capture automatiquement le carré.
 
-### Special cases
+Ces deux règles sont nécessaires pour éviter d'avoir des cartes dans la disposition qui ne peuvent jamais être capturées.
 
-If the initial layout contains three kings, three queens, three jacks, three tens or three fives, then the fourth card of that rank captures all three matching cards.
+## Comptage
 
-If the initial layout consists of four kings, four queens, four jacks, four tens or four fives, then the dealer automatically captures the four of a kind.
+À la fin du jeu, chaque joueur devrait avoir un tas de cartes à côté de lui. S'il y a deux joueurs, seules les cartes rouges ont une valeur ; s'il y a trois joueurs, l'As de piques compte aussi ; s'il y a quatre joueurs, les cartes rouges et les deux As noirs comptent. Les cartes noires autres que les As n'ont jamais de valeur. Les valeurs en points des cartes sont les suivantes :
 
-These two rules are necessary to avoid having cards in the layout that can never be captured.
+| Cartes | Valeur en points |
+| rouge 2 - 8 | valeur faciale |
+| rouge 9 - R | 10 points chacun |
+| As rouge | 20 points chacun |
+| As de piques | 30 points lorsqu'il y a trois ou quatre joueurs — sinon zéro |
+| As de trèfles | 40 points lorsqu'il y a quatre joueurs — sinon zéro |
 
-## Scoring
+Le score nul est
 
-At the end of the game, each player should have a stack of cards next to him. When there are two players, only the red cards have a value; when there are three players, the Ace of spades also scores; when there are four players the red cards and both black Aces score. Black cards other than Aces are always worthless. The point values of the cards are as follows:
+- 105 points dans un jeu à deux joueurs
 
-| Cards | Point Value |
-| red 2 - 8 | face value |
-| red 9 - King | 10 points each |
-| red Ace | 20 points each |
-| Ace of spades | 30 points when there are three or four players - otherwise zero |
-| Ace of clubs | 40 points when there are four players - otherwise zero |
+- 80 points dans un jeu à trois joueurs
 
-The tie score is 
+- 70 points dans un jeu à quatre joueurs.
 
-- 105 points in a two-player game 
+La différence entre votre score et le « score nul » est le montant que vous gagnez ou perdez. Si votre score est exactement le score nul, vous n'avez ni gagné ni perdu.
 
-- 80 points in a three-player game
+Exemple de comptage :
 
-- 70 points in a four-player game.
-
-The difference of your score from the "tie score" is the amount you win or lose by. If your score is exactly the tie score you have neither won nor lost.
-
-Example of scoring:
-
-Let's suppose a person had the following red cards in a two-player game: 
-K, Q, 9, 6, 7, 3, 4, 5, 5, and an Ace of Hearts.
-The points would add up as follows:
+Supposons qu'une personne avait les cartes rouges suivantes dans un jeu à deux joueurs :
+R, D, 9, 6, 7, 3, 4, 5, 5 et un As de Cœurs.
+Les points s'additionnent comme suit :
 10 + 10 + 10 + 6 + 7 + 3 + 4 + 5 + 5 + 20 = 80.
-This player has lost by 25 points (105 - 80 = 25), and the other player should have 130 points, winning by 25 (because 130 - 105 = 25).
+Ce joueur a perdu de 25 points (105 - 80 = 25), et l'autre joueur devrait avoir 130 points, gagnant de 25 (car 130 - 105 = 25).
 
-## Variations
+## Variantes
 
-### Taiwan variant
+### Variante taïwanaise
 
-Stephen Coleman describes a variation played in Taiwan. This is for four players. Deal and play are clockwise and the turn to deal passed to the left after each round (i.e. when all the cards have been played and scored). The dealer shuffles and the player to dealer's right cuts the deck and may look at the cut card, which will become the bottom card of the deck. The dealer plays first.
+Stephen Coleman décrit une variante jouée à Taïwan. C'est pour quatre joueurs. La donne et le jeu se font dans le sens horaire et le tour de donner passe à gauche après chaque tour (c'est-à-dire quand toutes les cartes ont été jouées et comptées). Le donneur bat et le joueur à droite du donneur coupe le jeu et peut regarder la carte de coupe, qui deviendra la carte du bas du jeu. Le donneur joue en premier.
 
-In this version the Ace of clubs is worth nothing; the Ace of spades is the only black card worth points (30). Red aces are 20 points, red K-9 are 10 points, red 8-2 are face value as above. The tie-score (or 'base') is 60 points. It is often played as a gambling game: Losers pay into the pot $1 (Taiwan dollar) for each point less than 60, and winners collect from the pot $1 for each point over 60.
+Dans cette version, l'As de trèfles ne vaut rien ; l'As de piques est la seule carte noire valant des points (30). Les As rouges valent 20 points, les R-9 rouges valent 10 points, les 8-2 rouges ont leur valeur faciale comme ci-dessus. Le score nul (ou « base ») est de 60 points. Il est souvent joué comme un jeu d'argent : les perdants paient 1 dollar taïwanais dans le pot pour chaque point en dessous de 60, et les gagnants collectent 1 dollar du pot pour chaque point au-dessus de 60.
 
-Red 5 Bonus. If a player manages to capture both red 5's in a single play, then the other players must each give him 10 of their points at the end of the round (by giving him one of their captured 10-point cards). [The strategy to avoid this, if you have no red 5's in your hand, is to lay down a black 5 as soon as possible, hopefully forcing another player to play his red 5 on a black one, preventing the bonus.]
+Bonus des 5 rouges. Si un joueur réussit à capturer les deux 5 rouges en un seul coup, les autres joueurs doivent chacun lui céder 10 de leurs points à la fin du tour (en lui donnant une de leurs cartes capturées de 10 points). [La stratégie pour éviter cela, si vous n'avez pas de 5 rouge en main, est de poser un 5 noir dès que possible, en espérant forcer un autre joueur à jouer son 5 rouge sur un noir, empêchant ainsi le bonus.]
 
-Florent Barraco describes a similar version for 2 or 4 players in which the red aces are worth only 10 points rather than 20, like the K-9, red 8-2 are face value and the ace of spades is 30. This gives a total of 220 points, so the tie-score is 110 with 2 players and 55 with 4 players. Players pay or receive according to their difference from the tie score, and in addition a player who captures a red 5 with the other red 5 is paid 10 points by each of the other players.
+Florent Barraco décrit une version similaire pour 2 ou 4 joueurs dans laquelle les As rouges ne valent que 10 points plutôt que 20, comme les R-9, les 8-2 rouges ont leur valeur faciale et l'As de piques vaut 30. Cela donne un total de 220 points, donc le score nul est de 110 avec 2 joueurs et 55 avec 4 joueurs. Les joueurs paient ou reçoivent selon leur différence par rapport au score nul, et de plus, un joueur qui capture un 5 rouge avec l'autre 5 rouge reçoit 10 points de chaque autre joueur.
 
-## Red Frog Black Frog (Gob Dum Gob Dang - กบดำกบแดง)
+## Red Frog Black Frog (Gob Dum Gob Dang — กบดำกบแดง)
 
-This Thai game, described to me by Kantaphon Tongmee, is played the same way as Chinese Ten, but the scoring is somewhat different.
+Ce jeu thaïlandais, décrit par Kantaphon Tongmee, se joue de la même manière que le Chinese Ten, mais le comptage est quelque peu différent.
 
-- Red cards are always worthless.
+- Les cartes rouges n'ont jamais de valeur.
 
-- Black cards 2-9 are worth face value.
+- Les cartes noires 2-9 ont leur valeur faciale.
 
-- Black 10-J-Q-K are worth 10 points each.
+- Les noires 10-V-D-R valent 10 points chacun.
 
-- The Ace of Clubs is worthless.
+- L'As de trèfles n'a pas de valeur.
 
-- The Ace of Spades is worth 50 points.
+- L'As de piques vaut 50 points.
 
 ## Main Merah
 
-This Indonesian version of the game is described on the [JB games](http://www.asikabis.com/jbga/) website, where it can also be played online. There are two or three players. 
+Cette version indonésienne du jeu est décrite sur le site [JB games](http://www.asikabis.com/jbga/), où l'on peut aussi y jouer en ligne. Il y a deux ou trois joueurs.
 
-- Two players are dealt 10 cards each and 12 cards are placed face up on the table, leaving 20 cards in the draw pile.
+- Deux joueurs reçoivent 10 cartes chacun et 12 cartes sont placées face visible sur la table, laissant 20 cartes dans le jeu à piocher.
 
-- Three players are dealt 7 cards each and 10 cards are placed face up on the table leaving 21 cards in the draw pile.
+- Trois joueurs reçoivent 7 cartes chacun et 10 cartes sont placées face visible sur la table, laissant 21 cartes dans le jeu à piocher.
 
-If there are three or four equal cards of rank King, Queen, Jack, Ten or Five face up on the table at the start, the game is considered unplayable. Since each of these cards can only be captured by another card of the same rank, it would be impossible to capture some of the table cards. In this case the whole pack is reshuffled and dealt again. 
+S'il y a trois ou quatre cartes de même rang — Roi, Dame, Valet, Dix ou Cinq — face visibles sur la table au départ, le jeu est considéré comme injouable. Puisque chacune de ces cartes ne peut être capturée que par une autre carte du même rang, il serait impossible de capturer certaines cartes de la table. Dans ce cas, le jeu entier est remélangé et redistribué.
 
-Tom Slater has pointed out that there are other initial layouts in which not all the table cards can be captured, specifically any layout which contains five or more cards from one of the 'capture groups' [A, 9], [2, 8], [3, 7], [4, 6]. For example if the initial table cards include 8, 8, 8, 2, 2 the fourth 8 captures one of the 2's and the two remaining 2's capture two of the 8's, but one 8 and one 2 will remain and cannot be taken. Players may like to redeal in these cases as well if they are noticed.
+Tom Slater a fait remarquer qu'il existe d'autres dispositions initiales dans lesquelles toutes les cartes de la table ne peuvent pas être capturées, notamment toute disposition contenant cinq cartes ou plus d'un des « groupes de capture » [A, 9], [2, 8], [3, 7], [4, 6]. Par exemple, si les cartes de table initiales comprennent 8, 8, 8, 2, 2, le quatrième 8 capture l'un des 2 et les deux 2 restants capturent deux des 8, mais il restera un 8 et un 2 qui ne pourront être pris. Les joueurs peuvent souhaiter redistribuer dans ces cas également s'ils sont remarqués.
 
-In the first deal, the dealer plays first. Subsequently the player with the worst score in the previous deal plays first. The method of playing and capturing cards is the same as in Chinese Ten.
+Lors de la première donne, le donneur joue en premier. Par la suite, le joueur ayant le pire score lors de la donne précédente joue en premier. La méthode de jeu et de capture des cartes est la même qu'au Chinese Ten.
 
-The card values are as follows:
+Les valeurs des cartes sont les suivantes :
 
-- All black cards are worthless
+- Toutes les cartes noires n'ont pas de valeur
 
-- Red Aces are worth 20 points.
+- Les As rouges valent 20 points.
 
-- Red K-Q-J-10-9 are worth 10 points each
+- Les R-D-V-10-9 rouges valent 10 points chacun
 
-- Res 8-7-6-5-4-3-2 are worth face value
+- Les rouge 8-7-6-5-4-3-2 ont leur valeur faciale
 
-The total value of cards in the deck is 210.
+La valeur totale des cartes du jeu est de 210.
 
-## Software
+## Logiciel
 
-Games4All has published a free [Chinese Ten app](https://play.google.com/store/apps/details?id=org.games4all.android.games.chinese10.prod) for the Android platform.
-
-Home Page > Classified Index > Fishing Games > Chinese Ten
+Games4All a publié une [application Chinese Ten gratuite](https://play.google.com/store/apps/details?id=org.games4all.android.games.chinese10.prod) pour la plateforme Android.

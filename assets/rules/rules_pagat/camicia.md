@@ -2,47 +2,32 @@
 
 **Difficulté :** —
 **Type :** Bataille, Bataille
-**But :** An Italian children's game for two players, similar to Beggar My Neighbour.
+**But :** Un jeu d'enfants italien pour deux joueurs, semblable à Beggar My Neighbour.
 
 ---
 
-*This description was contributed by Stefano Cirolini.*
+*Description contribuée par Stefano Cirolini.*
 
-Camicia is a game of pure luck for two players. It is the Italian version of Beggar My Neighbour, and like that game, it is a children's game. 
+Camicia est un jeu de pur hasard pour deux joueurs. C'est la version italienne de Beggar My Neighbour, et comme ce jeu, c'est un jeu d'enfants.
 
-## The cards
+## Les cartes
 
-An italian deck of 40 cards is used (you can use also a 52 cards deck - though I never did). Suits are ignored. There are two types
-of cards: aces, two and threes are **attack** cards, the other are **normal** (cannon-fodder) cards.
+On utilise un jeu italien de 40 cartes (on peut aussi utiliser un jeu de 52 cartes — bien que je ne l'aie jamais fait). Les couleurs sont ignorées. Il y a deux types de cartes : les as, les deux et les trois sont des cartes d'**attaque**, les autres sont des cartes **normales** (chair à canon).
 
-## The play
+## Le jeu
 
-All the cards are dealt to the two players, face down, so that they
-end up with a packet of 20 cards each. 
+Toutes les cartes sont distribuées aux deux joueurs, face cachée, de sorte qu'ils se retrouvent chacun avec un paquet de 20 cartes.
 
-The players then alternate to turn the top card of their packet face up and put it in a pile on the table. If the card is 'normal', no action is taken and the play passes to the other player.
+Les joueurs jouent ensuite à tour de rôle en retournant la carte du dessus de leur paquet face visible et en la posant dans un tas sur la table. Si la carte est « normale », aucune action n'est effectuée et le jeu passe à l'autre joueur.
 
-When an 'attack' card is played by one of the players, the other
-player has to play a number of cards corresponding to the face
-value of the attack card, that is one card for an ace, two cards for a two, and three cards for a three.
+Lorsqu'une carte d'« attaque » est jouée par l'un des joueurs, l'autre joueur doit jouer un nombre de cartes correspondant à la valeur faciale de la carte d'attaque, c'est-à-dire une carte pour un as, deux cartes pour un deux, et trois cartes pour un trois.
 
-If all the cards played in response to an attack are normal, the
-attacking player takes the pile of played cards and puts then 
-face down to the bottom of their packet.
+Si toutes les cartes jouées en réponse à une attaque sont normales, le joueur attaquant prend le tas de cartes jouées et les pose face cachée au-dessous de son paquet.
 
-If one of the cards played in response to an attack is an attack
-card itself, the former attack is null, and the new attack
-is processed. 
+Si l'une des cartes jouées en réponse à une attaque est elle-même une carte d'attaque, l'attaque précédente est annulée et la nouvelle attaque est traitée.
 
-When a player runs out of cards, that player loses the game.
+Lorsqu'un joueur n'a plus de cartes, il perd la partie.
 
-### Note
+### Remarque
 
-This game becomes a war of attrition, since as you win cards,
-your attack cards become more diluted in your packet, and you
-become more vulnerable to attacks. Moreover, the attack cards
-that give you the highest gain (the threes) are also the most
-vulnerable to counterattacks, while the aces, which can capture
-only a card a time, are more secure.
-
-Home Page > Classified Index > War group > Camicia
+Ce jeu devient une guerre d'usure, car à mesure que vous gagnez des cartes, vos cartes d'attaque se diluent davantage dans votre paquet et vous devenez plus vulnérable aux attaques. De plus, les cartes d'attaque qui vous procurent le gain le plus élevé (les trois) sont aussi les plus vulnérables aux contre-attaques, tandis que les as, qui ne capturent qu'une carte à la fois, sont plus sûrs.

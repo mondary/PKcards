@@ -3,48 +3,47 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A card game in which each player is dealt just one card, which may be exchanged with the next player in the hope of getting a better one.
+**But :** Un jeu de cartes dans lequel chaque joueur reçoit une seule carte, qui peut être échangée avec le joueur suivant dans l'espoir d'obtenir une meilleure carte.
+**Autres noms :** Chase the Ace, Ranter Go Round, Screw Your Neighbor
 
 ---
 
-**Cuckoo** is also known as **Chase the Ace** or sometimes **Ranter Go Round** in Britain. In the USA it is sometimes called **Screw Your Neighbor**, though (confusingly) this name is also sometimes used for other card games. Though related games are sometimes played with special cards, Cuckoo can be played with a standard 52 card pack. The direction of play differs in different countries - in what follows we assume clockwise. 
+Le **Cuckoo** est aussi connu sous le nom de **Chase the Ace** ou parfois **Ranter Go Round** en Grande-Bretagne. Aux États-Unis, il est parfois appelé **Screw Your Neighbor**, bien que (confusément) ce nom soit aussi parfois utilisé pour d'autres jeux de cartes. Bien que des jeux apparentés soient parfois joués avec des cartes spéciales, le Cuckoo peut se jouer avec un jeu standard de 52 cartes. La direction du jeu varie selon les pays — dans ce qui suit, nous supposons le sens horaire.
 
-Each player starts with an equal number of lives, say 3, and each puts a stake in the pot, which will be collected by the overall winner. Just one card is dealt to each player, and each player may look at their own card. The object is not to be left holding the lowest card. Suits are irrelevant and the cards rank K (high), Q, J, 10, 9, 8, 7, 6, 5, 4, 3, 2, A (low). 
+Chaque joueur commence avec un nombre égal de vies, disons 3, et chacun mise enjeu, qui sera collecté par le gagnant final. Une seule carte est distribuée à chaque joueur, et chaque joueur peut regarder sa propre carte. Le but est de ne pas se retrouver avec la carte la plus basse. Les couleurs sont sans importance et les cartes rangent R (haut), D, V, 10, 9, 8, 7, 6, 5, 4, 3, 2, A (bas).
 
-Each player has one turn, beginning with the player to dealer's left, continuing clockwise round the table and ending with the dealer. At your turn you may either keep your card or try to exchange it with your left hand neighbour, in the hope of getting a better card. Your neighbour must accept the exchange unless she has a king, in which case she exposes the king and you keep your card. The dealer, whose turn comes last, can try to exchange with a card cut from the undealt stock, but if the card obtained is a king, the dealer must keep her original card.
+Chaque joueur a un tour, commençant par le joueur à la gauche du donneur, continuant dans le sens horaire autour de la table et se terminant par le donneur. À votre tour, vous pouvez soit garder votre carte, soit essayer de l'échanger avec votre voisin de gauche, dans l'espoir d'obtenir une meilleure carte. Votre voisin doit accepter l'échange sauf s'il a un Roi, auquel cas il expose le Roi et vous gardez votre carte. Le donneur, dont le tour vient en dernier, peut essayer d'échanger avec une carte coupée du stock non distribué, mais si la carte obtenue est un Roi, le donneur doit garder sa carte d'origine.
 
-After everyone has had a turn, everyone exposes their card and whoever has the lowest card loses a life. If several players tie for lowest they all lose a life. Players who have lost all their lives are out of the game, and the last person left in wins.
+Après que tout le monde a eu un tour, tous exposent leur carte et celui qui a la carte la plus basse perd une vie. Si plusieurs joueurs sont à égalité pour la carte la plus basse, ils perdent tous une vie. Les joueurs qui ont perdu toutes leurs vies sont éliminés du jeu, et la dernière personne restante gagne.
 
-A problem occurs if both or all the remaining players have one life and they tie for lowest card, so that they are all eliminated from the game. There are at least five possible rules:
+Un problème survient si les deux ou tous les joueurs restants ont une vie et qu'ils sont à égalité pour la carte la plus basse, de sorte qu'ils sont tous éliminés du jeu. Il y a au moins cinq règles possibles :
 
-- These players are declared joint winners and split the pot equally between them.
+- Ces joueurs sont déclarés gagnants conjoints et partagent l'enjeu à parts égales entre eux.
 
-- These players keep their last lives and another deal is played between them.
+- Ces joueurs conservent leur dernière vie et une autre donne est jouée entre eux.
 
-- The tieing players cut cards and the one who draws the highest card takes the whole pot.
+- Les joueurs à égalité coupent des cartes et celui qui tire la carte la plus haute prend tout l'enjeu.
 
-- The game is declared undecided, and the pot is carried forward to the next game, each player adding a new stake to it.
+- Le jeu est déclaré indécis, et l'enjeu est reporté à la partie suivante, chaque joueur y ajoutant une nouvelle mise.
 
-- The game is declared undecided. The pot is carried forward to the next game, but nothing is added to it. 
+- Le jeu est déclaré indécis. L'enjeu est reporté à la partie suivante, mais rien n'y est ajouté.
 
-I would be interested in comments on which of these methods is correct or preferred - please let me know. Ideally players should agree in advance how such situations will be resolved, but I gather that in practice many groups just play without discussing this possibility until it happens, and then argue about it.
+Je serais intéressé par des commentaires sur la méthode correcte ou préférée — faites-le moi savoir. Idéalement, les joueurs devraient s'accorder à l'avance sur la façon de résoudre de telles situations, mais il semble que dans la pratique beaucoup de groupes jouent sans discuter de cette possibilité jusqu'à ce que cela arrive, puis argumentent à ce sujet.
 
-P.J. Ackerson reports an American version of **Screw Your Neighbor** for 3-26 players in which everyone starts with four lives, represented by four equal piles of money placed in front of them. The last person left in wins all the money. There are three possible rules on the way kings are used:
+P.J. Ackerson rapporte une version américaine du **Screw Your Neighbor** pour 3 à 26 joueurs dans laquelle tout le monde commence avec quatre vies, représentées par quatre piles égales d'argent placées devant eux. La dernière personne restante gagne tout l'argent. Il y a trois règles possibles concernant l'utilisation des Rois :
 
-- Some play that kings are traded like any other card and have no special effect.
+- Certains jouent que les Rois s'échangent comme n'importe quelle autre carte et n'ont aucun effet spécial.
 
-- Some play that anyone who is dealt a king must flip it face-up immediately after the deal. If there are any kings in the deal then no one is allowed to trade and whoever was dealt the lowest card(s) loses a life. 
+- Certains jouent que quiconque reçoit un Roi doit le retourner face ouverte immédiatement après la donne. S'il y a des Rois dans la donne, personne n'est autorisé à échanger et celui qui a reçu la ou les carte(s) la plus(s) basse(s) perd une vie.
 
-- Kings get flipped over when someone tries to trade with one and no further trading takes place on that deal.
+- Les Rois sont retournés lorsque quelqu'un essaie d'échanger avec un, et aucun échange ultérieur n'a lieu lors de cette donne.
 
-Some also play with special rules about queens and jacks:
+Certains jouent aussi avec des règles spéciales concernant les Dames et les Valets :
 
-- If someone tries to trade with you and you have a queen they instead must trade their card with the person on their right. (If that person also has a queen, the player between the queens is not allowed to trade).
+- Si quelqu'un essaie d'échanger avec vous et que vous avez une Dame, il doit à la place échanger sa carte avec la personne à sa droite. (Si cette personne a aussi une Dame, le joueur entre les Dames n'est pas autorisé à échanger.)
 
-- If you have a jack and someone tries to trade with you, you show them the jack and they are not allowed to trade. Trading continues with the person whose turn comes next.
+- Si vous avez un Valet et que quelqu'un essaie d'échanger avec vous, vous lui montrez le Valet et il n'est pas autorisé à échanger. Les échanges continuent avec la personne dont le tour vient ensuite.
 
-David Murphy reports another American variation in which if two or more players have the same ranking card at the end, they are safe from losing a life. If they end up lowest, the lowest unique rank loses. It is not quite clear what should happen in the rare case where no one has a unique rank - I suggest that it must be a draw, so that no one loses a life on that hand.
+David Murphy rapporte une autre variante américaine dans laquelle si deux joueurs ou plus ont la même carte de même rang à la fin, ils sont sauvés de la perte d'une vie. S'ils se retrouvent les plus bas, le rang unique le plus bas perd. Il n'est pas tout à fait clair ce qui devrait se passer dans le rare cas où personne n'a de rang unique — je suggère que ce doit être un match nul, donc personne ne perd une vie lors de cette main.
 
-There was a further description of Cuckoo (aka Screw Your Neighbor) on [Peter Sarrett's Game Report site](https://web.archive.org/web/20130512064644/gamereport.com/poker/nonpoker.html#ScrewYourNeighbor) (archive copy).
-
-Home Page > Classified Index > Comparing Single Cards > Cuckoo Group > Cuckoo
+Il y avait une description supplémentaire du Cuckoo (alias Screw Your Neighbor) sur le [site Game Report de Peter Sarrett](https://web.archive.org/web/20130512064644/gamereport.com/poker/nonpoker.html#ScrewYourNeighbor) (copie d'archive).

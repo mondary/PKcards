@@ -3,43 +3,40 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Memory or Concentration, a children's game in which players turn over cards from a face down layout and try to find matching pairs.
+**But :** Jeu de mémoire pour enfants dans lequel les joueurs retournent des cartes d'une disposition face cachée et essaient de trouver des paires assorties.
 
 ---
 
 ## Introduction
 
-This simple and popular memory game is also known as Concentration or Memory. In Japan it is called Shinkei-suijaku. In Britain it is called Pelmanism after Christopher Louis Pelman, who founded the "Pelman Institute for the Scientific Development of Mind, Memory and Personality" in London in 1899.
+Ce jeu de mémoire simple et populaire est aussi connu sous le nom de Concentration ou Memory. Au Japon, il est appelé Shinkei-suijaku. En Grande-Bretagne, il est appelé Pelmanism, du nom de Christopher Louis Pelman, qui a fondé le « Pelman Institute for the Scientific Development of Mind, Memory and Personality » à Londres en 1899.
 
-## Players and Cards
+## Joueurs et cartes
 
-Two or more people can play. A standard Anglo-American 52-card pack can be used, or any other kind of cards, provided that the backs are indistinguishable and the faces can be matched up in pairs or quartets.
+Deux personnes ou plus peuvent jouer. Un jeu de 52 cartes anglo-américain standard peut être utilisé, ou tout autre type de cartes, à condition que les dos soient indistinguables et que les faces puissent être appariées en paires ou en carrés.
 
-## Preparation
+## Préparation
 
-The cards are thoroughly mixed and spread face down on the playing surface - table or floor. The cards should not overlap, and can be arranged in a regular pattern or spread irregularly as desired.
+Les cartes sont soigneusement mélangées et étalées face cachée sur la surface de jeu — table ou sol. Les cartes ne doivent pas se chevaucher et peuvent être disposées en un motif régulier ou étalées irrégulièrement selon le souhait.
 
-## Play
+## Jeu
 
-Players take turns to play. At your turn you turn face up two cards of your choice from the layout. If they match, you take these two cards, store them in front of you, and take another turn. If they do not match, you turn them face down, without changing their position in the layout, and it is the next player's turn.
+Les joueurs jouent à tour de rôle. À votre tour, vous retournez deux cartes de votre choix de la disposition. Si elles correspondent, vous prenez ces deux cartes, les rangez devant vous, et rejouez. Si elles ne correspondent pas, vous les retournez face cachée, sans changer leur position dans la disposition, et c'est le tour du joueur suivant.
 
-When playing with an ordinary 52-card pack, cards "match" if they have the same denomination - a six matches a six, a king matches a king and so on. Suits are ignored.
+Quand on joue avec un jeu de 52 cartes ordinaire, les cartes « correspondent » si elles ont la même dénomination — un six correspond à un six, un roi correspond à un roi, etc. Les couleurs sont ignorées.
 
-Play continues until all the cards from the layout have been taken as matched pairs.
+Le jeu continue jusqu'à ce que toutes les cartes de la disposition aient été prises comme paires assorties.
 
-## Scoring
+## Marque
 
-Each player scores one point for each pair taken. The player with most points is the winner - if two or more tie for most points they all win.
+Chaque joueur marque un point pour chaque paire prise. Le joueur avec le plus de points est le gagnant — si deux ou plusieurs sont à égalité pour le plus de points, ils gagnent tous.
 
-## Variations
+## Variantes
 
-Some special packs for this game have only two identical cards of each type, making it harder to match cards at the beginning. Since the game in any case becomes easier the fewer cards that remain in the layout, it seems preferable to reduce this effect by having four of each card, so that the first card of a new type has three possible pairings rather than just one. But those who prefer to play with just two cards of each type using a standard pack can agree that cards only match if they are of the same denomination and the same colour.
+Certains jeux spéciaux pour ce jeu n'ont que deux cartes identiques de chaque type, ce qui rend plus difficile l'appariement au début. Puisque le jeu devient de toute façon plus facile au fur et à mesure que les cartes restent dans la disposition, il semble préférable de réduire cet effet en ayant quatre cartes de chaque type, de sorte que la première carte d'un nouveau type a trois appariements possibles plutôt qu'un seul. Mais ceux qui préfèrent jouer avec seulement deux cartes de chaque type en utilisant un jeu standard peuvent convenir que les cartes ne correspondent que si elles sont de la même dénomination et de la même couleur.
 
-## Other sites and software
+## Autres sites et logiciels
 
-The Wikipedia article on [Concentration](https://en.wikipedia.org/wiki/Concentration_(game)) explains several variants of this game.
+L'article Wikipedia sur [Concentration](https://en.wikipedia.org/wiki/Concentration_(game)) explique plusieurs variantes de ce jeu.
 
-The collection 
-HOYLE Card Games for Windows or Mac OS X includes "Memory Match", a version of Pelmanism featuring wild cards and bonuses, which can be played Solitaire or by two players, along with many other popular card games. 
-
-Home Page > Classified Index > Miscellaneous Games > Pelmanism
+La collection HOYLE Card Games pour Windows ou Mac OS X inclut « Memory Match », une version du Pelmanism avec des cartes joker et des bonus, qui peut être jouée en solitaire ou à deux joueurs, avec de nombreux autres jeux de cartes populaires.

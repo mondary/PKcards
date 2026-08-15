@@ -2,120 +2,118 @@
 
 **Difficulté :** —
 **Type :** Euchre, Plis
-**But :** Rules for Charlemagne, a Euchre-like game for four players, played in Eastern Canada.
+**But :** Règles du Charlemagne, un jeu semblable à l'Euchre pour quatre joueurs, joué dans l'est du Canada.
 
 ---
 
-*This page is mainly based on information from Michael Baker, Adam Gregson and Fabien Tremblay.*
+*Cette page est principalement basée sur des informations de Michael Baker, Adam Gregson et Fabien Tremblay.*
 
 ## Introduction
 
-Charlemagne is a trick-taking game played in Eastern Canada and across the border in Maine. It is clear from the card ranking that it is based on Euchre, and it could be considered as a version of Bid Euchre. In Canada it is played with two Jokers as top trumps, ranking above the trump Jacks. In the US rules that I have seen, there are no Jokers and instead the trump 9 is the top trump. The Canadian form of the game will be described first.
+Charlemagne est un jeu de plis joué dans l'est du Canada et de l'autre côté de la frontière, dans le Maine. L'ordre des cartes montre clairement qu'il est basé sur l'Euchre, et il peut être considéré comme une variante du Bid Euchre. Au Canada, on y joue avec deux Jokers comme atouts suprêmes, classés au-dessus des Valets d'atout. Dans les règles américaines que j'ai vues, il n'y a pas de Jokers et le 9 d'atout est l'atout le plus fort. La forme canadienne du jeu sera décrite en premier.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are four players, two against two, in fixed partnership, with partners sitting opposite each other. The deal, bidding and play are clockwise.
+Il y a quatre joueurs, deux contre deux, en partenariat fixe, les partenaires étant assis en face l'un de l'autre. La donne, les enchères et le jeu se font dans le sens horaire.
 
-A 34-card pack is used, consisting of cards from Ace down to Seven in all four suits, plus two distinguishable Jokers. If one Joker is coloured and the other not, then traditionally the uncoloured Joker is the top trump and the coloured Joker is second. If the Jokers look the same, they must be marked to show which is bigger.
+On utilise un jeu de 34 cartes, comprenant les cartes de l'As au Sept dans les quatre couleurs, plus deux Jokers distincts. Si un Joker est coloré et l'autre non, traditionnellement le Joker non coloré est l'atout le plus haut et le Joker coloré est le deuxième. Si les Jokers se ressemblent, ils doivent être marqués pour indiquer lequel est le plus fort.
 
-In trumps, the Jokers are highest, followed by the Jack of trumps (Big Jack), then the Jack of the other suit that is the same colour as trumps (Little Jack), then A, K, Q, J, 10, 9, 8, 7. In French, the Jack of trumps is called *"le bar"* and the Little Jack is *"le petit bar"*. The word *"bar"* is clearly adapted from *"bower"*, the term for the trump Jacks in Euchre, which is in turn derived from the German word *"Bauer"*, which also means a peasant or a playing-card Jack.
+Dans les atouts, les Jokers sont les plus forts, suivis du Valet d'atout (Grand Valet), puis du Valet de l'autre couleur de même couleur que l'atout (Petit Valet), puis A, R, D, V, 10, 9, 8, 7. En français, le Valet d'atout est appelé *« le bar »* et le Petit Valet *« le petit bar »*. Le mot *« bar »* est clairement adapté de *« bower »*, terme désignant les Valets d'atout à l'Euchre, lui-même dérivé du mot allemand *« Bauer »*, qui signifie aussi un paysan ou un Valet.
 
-In non-trump suits the cards rank from high to low A, K, Q, (J,) 10, 9, 8, 7. The suit that is the same colour as the trump suit has only 7 cards, omitting the Jack, which is transferred to the trump suit.
+Dans les couleurs non atouts, les cartes se classent de haut en bas A, R, D, (V,) 10, 9, 8, 7. La couleur de même couleur que l'atout n'a que 7 cartes, le Valet étant transféré à la couleur d'atout.
 
-**Example**. When hearts are trump the suits rank as follows, from high to low.
+**Exemple**. Lorsque les cœurs sont atouts, les couleurs se classent comme suit, de haut en bas.
 
-- **Hearts**: uncoloured Joker, coloured Joker, ![heart](../images/internat/heart.gif)J, ![diamond](../images/internat/diamond.gif)J, ![heart](../images/internat/heart.gif)A, ![heart](../images/internat/heart.gif)K, ![heart](../images/internat/heart.gif)Q, ![heart](../images/internat/heart.gif)10, ![heart](../images/internat/heart.gif)9, ![heart](../images/internat/heart.gif)8, ![heart](../images/internat/heart.gif)7
+- **Cœurs** : Joker non coloré, Joker coloré, ![cœur](../images/internat/heart.gif)V, ![carreau](../images/internat/diamond.gif)V, ![cœur](../images/internat/heart.gif)A, ![cœur](../images/internat/heart.gif)R, ![cœur](../images/internat/heart.gif)D, ![cœur](../images/internat/heart.gif)10, ![cœur](../images/internat/heart.gif)9, ![cœur](../images/internat/heart.gif)8, ![cœur](../images/internat/heart.gif)7
 
-- **Diamonds**: ![diamond](../images/internat/diamond.gif)A, ![diamond](../images/internat/diamond.gif)K, ![diamond](../images/internat/diamond.gif)Q, ![diamond](../images/internat/diamond.gif)10, ![diamond](../images/internat/diamond.gif)9, ![diamond](../images/internat/diamond.gif)8, ![diamond](../images/internat/diamond.gif)7
+- **Carreaux** : ![carreau](../images/internat/diamond.gif)A, ![carreau](../images/internat/diamond.gif)R, ![carreau](../images/internat/diamond.gif)D, ![carreau](../images/internat/diamond.gif)10, ![carreau](../images/internat/diamond.gif)9, ![carreau](../images/internat/diamond.gif)8, ![carreau](../images/internat/diamond.gif)7
 
-- **Clubs**: ![club](../images/internat/club.gif)A, ![club](../images/internat/club.gif)K, ![club](../images/internat/club.gif)Q, ![club](../images/internat/club.gif)J, ![club](../images/internat/club.gif)10, ![club](../images/internat/club.gif)9, ![club](../images/internat/club.gif)8, ![club](../images/internat/club.gif)7
+- **Trèfles** : ![trèfle](../images/internat/club.gif)A, ![trèfle](../images/internat/club.gif)R, ![trèfle](../images/internat/club.gif)D, ![trèfle](../images/internat/club.gif)V, ![trèfle](../images/internat/club.gif)10, ![trèfle](../images/internat/club.gif)9, ![trèfle](../images/internat/club.gif)8, ![trèfle](../images/internat/club.gif)7
 
-- **Spades**: ![spade](../images/internat/spade.gif)A, ![spade](../images/internat/spade.gif)K, ![spade](../images/internat/spade.gif)Q, ![spade](../images/internat/spade.gif)J, ![spade](../images/internat/spade.gif)10, ![spade](../images/internat/spade.gif)9, ![spade](../images/internat/spade.gif)8, ![spade](../images/internat/spade.gif)7 
+- **Piques** : ![pique](../images/internat/spade.gif)A, ![pique](../images/internat/spade.gif)R, ![pique](../images/internat/spade.gif)D, ![pique](../images/internat/spade.gif)V, ![pique](../images/internat/spade.gif)10, ![pique](../images/internat/spade.gif)9, ![pique](../images/internat/spade.gif)8, ![pique](../images/internat/spade.gif)7
 
-## Deal
+## Donnée
 
-Any player may deal first, and the turn to deal passes to the left after each hand.
+N'importe quel joueur peut donner en premier, et le tour de donner passe à gauche après chaque main.
 
-The dealer shuffles, the player to dealer's right cuts and the dealer deals eight cards to each player. The method of dealing varies - for example the cards could be dealt two at a time. At some point during the deal the dealer places two cards face down in the middle of the table to form the kitty. 
+Le donneur bat les cartes, le joueur à droite du donneur coupe, et le donneur distribue huit cartes à chaque joueur. La méthode de distribution varie — par exemple, les cartes peuvent être distribuées deux par deux. À un moment donné pendant la donne, le donneur place deux cartes face cachée au milieu de la table pour former le talon (kitty).
 
-## Bidding
+## Enchères
 
-There is a single round of bidding, beginning with the player to dealer's left and ending with the dealer. Each player in turn either passes or names a bid, which must be higher than the previous bid if any. The possible bids in ascending order and their meanings are as follows:
+Il y a un seul tour d'enchères, commençant par le joueur à gauche du donneur et se terminant par le donneur. Chaque joueur à son tour passe ou nomme une enchère, qui doit être supérieure à l'enchère précédente le cas échéant. Les enchères possibles par ordre croissant et leurs significations sont les suivantes :
 
-- **5**: the bidder's team tries to win at least 5 tricks
+- **5** : l'équipe de l'enchérisseur tente de gagner au moins 5 plis
 
-- **6**: the bidder's team tries to win at least 6 tricks
+- **6** : l'équipe de l'enchérisseur tente de gagner au moins 6 plis
 
-- **7**: the bidder's team tries to win at least 7 tricks
+- **7** : l'équipe de l'enchérisseur tente de gagner au moins 7 plis
 
-- **8**: the bidder's team tries to win all 8 tricks
+- **8** : l'équipe de l'enchérisseur tente de gagner les 8 plis
 
-- **Mulot**: the bidder plays alone without the help of the kitty and tries to lose every trick
+- **Mulot** : l'enchérisseur joue seul sans l'aide du talon et tente de perdre tous les plis
 
-- **Charlemagne**: the bidder plays alone with the help of the kitty and a card from partner and tries to win every trick. Also known as *'Petit Charles'*.
+- **Charlemagne** : l'enchérisseur joue seul avec l'aide du talon et d'une carte de son partenaire et tente de gagner tous les plis. Aussi connu sous le nom *« Petit Charles »*.
 
-- **Gros Mulot**: similar to *Mulot*, but the bidder must play with exposed cards
+- **Gros Mulot** : semblable au *Mulot*, mais l'enchérisseur doit jouer cartes visibles
 
-- **Gros Charlemagne**: similar to *Charlemagne* but the bidder can either use the kitty or ask partner for a card, not both.
+- **Gros Charlemagne** : semblable au *Charlemagne*, mais l'enchérisseur peut soit utiliser le talon soit demander une carte à son partenaire, mais pas les deux.
 
-## Play
+## Jeu
 
-If the bid was **5, 6, 7** or **8**, the bidder picks up the two kitty cards without showing them to make a hand of 10 cards, discards any two unwanted cards face down, and names the trump suit. The player to the left of the bidder then leads to the first trick.
+Si l'enchère est **5, 6, 7** ou **8**, l'enchérisseur ramasse les deux cartes du talon sans les montrer pour former une main de 10 cartes, défausse deux cartes de son choix face cachée, et nomme la couleur d'atout. Le joueur à gauche de l'enchérisseur mène alors au premier pli.
 
-If the bid was **Mulot** there are no trumps except the two Jokers, and all the suits rank from high to low A-K-Q-J-10-9-8-7. The kitty is not touched. The bidder's partner discards his or her cards face down and takes no part in the play. The bidder leads to the first trick. 
+Si l'enchère est **Mulot**, il n'y a pas d'atout à part les deux Jokers, et toutes les couleurs se classent de haut en bas A-R-D-V-10-9-8-7. Le talon n'est pas touché. Le partenaire de l'enchérisseur défausse ses cartes face cachée et ne participe pas au jeu. L'enchérisseur mène au premier pli.
 
-The procedure for **Gros Mulot** is the same as for Mulot except that at the **end** of the first trick the bidder's hand is spread face up on the table so that everyone can see the bidder's cards. Play then continues with the bidder playing cards in turn from the table.
+La procédure pour le **Gros Mulot** est la même que pour le Mulot, sauf qu'à la **fin** du premier pli, la main de l'enchérisseur est étalée face visible sur la table pour que tout le monde puisse voir ses cartes. Le jeu continue ensuite avec l'enchérisseur jouant ses cartes à tour de rôle depuis la table.
 
-If the bid was **Charlemagne**, the bidder picks up the kitty and the bidder's partner pass the bidder one card. The card is passed face down and without discussion between the players. The bidder then discards 3 cards, names trump and leads to the first trick. The bidder's partner discards his or her cards face down and takes no part in the play.
+Si l'enchère est **Charlemagne**, l'enchérisseur ramasse le talon et le partenaire de l'enchérisseur passe une carte à l'enchérisseur. La carte est passée face cachée et sans discussion entre les joueurs. L'enchérisseur défausse ensuite 3 cartes, nomme l'atout et mène au premier pli. Le partenaire de l'enchérisseur défausse ses cartes face cachée et ne participe pas au jeu.
 
-The procedure for **Gros Charlemagne** is the same as for Charlemagne except that the bidder **either** takes the kitty **or** asks partner for a card, and then discards 2 cards or 1 card respectively before naming the trump suit ands leading to the first trick.
+La procédure pour le **Gros Charlemagne** est la même que pour le Charlemagne, sauf que l'enchérisseur **soit** prend le talon **soit** demande une carte à son partenaire, puis défausse respectivement 2 ou 1 carte avant de nommer la couleur d'atout et de mener au premier pli.
 
-Players must follow suit if possible, and for this purpose the Little Jack belongs to the trump suit, not to the suit printed on it, as do the jokers. A player who cannot follow suit may play any card. The highest trump wins the trick. If no trumps are played to the trick the highest card of the suit led wins it. The winner of the trick leads to the next.
+Les joueurs doivent suivre la couleur si possible, et à cette fin le Petit Valet appartient à la couleur d'atout, non à la couleur imprimée dessus, tout comme les Jokers. Un joueur qui ne peut pas suivre peut jouer n'importe quelle carte. Le plus fort atout remporte le pli. Si aucun atout n'est joué, la carte la plus forte de la couleur menée remporte le pli. Le vainqueur du pli mène au suivant.
 
-In Mulot and Gros Mulot, the rules of play for Jokers are different. A player who has a Joker **must** play it if unable to follow suit. If a Joker is led, the holder of the other Joker must play it, and anyone who does not have a Joker is free to play any card. Because the bidder leads to the first trick in Mulot, it can be bid holding the coloured Joker, which the bidder will lead, forcing the holder of the other Joker to take the trick (but failing if the other Joker was in the kitty).
+Au Mulot et au Gros Mulot, les règles de jeu pour les Jokers sont différentes. Un joueur qui a un Joker **doit** le jouer s'il ne peut pas suivre. Si un Joker est mené, le détenteur de l'autre Joker doit le jouer, et toute personne qui n'a pas de Joker peut jouer n'importe quelle carte. Comme l'enchérisseur mène au premier pli au Mulot, on peut enchérir en tenant le Joker coloré, que l'enchérisseur mènera, forçant le détenteur de l'autre Joker à prendre le pli (mais cela échoue si l'autre Joker se trouvait dans le talon).
 
-## Scoring
+## Comptage
 
-A cumulative score is kept for each team. The score depends only on whether the bid was successful or not. If the bid succeeds, the bidding team adds the appropriate number of points to their score; if it fails the opposing team gets points. The scores are as follows.
+Un score cumulatif est conservé pour chaque équipe. Le score dépend uniquement de la réussite ou non de l'enchère. Si l'enchère réussit, l'équipe qui a enchéri ajoute le nombre de points approprié à son score ; si elle échoue, l'équipe adverse marque des points. Les scores sont les suivants.
 
-- **5, 6, 7, 8**: The bidding team scores the amount of the bid if it succeeds. If it fails the other team scores the amount of the bid. Note that there is no credit for winning more tricks than you bid: if you bid 5 and win 7 tricks, you just score 5 points, the same as if you had won only 5 tricks.
+- **5, 6, 7, 8** : l'équipe qui a enchéri marque le montant de l'enchère si elle réussit. Si elle échoue, l'autre équipe marque le montant de l'enchère. Notez qu'il n'y a pas de crédit supplémentaire pour gagner plus de plis que l'enchère : si vous avez enchéri 5 et gagnez 7 plis, vous marquez simplement 5 points, comme si vous n'aviez gagné que 5 plis.
 
-- **Mulot**: The bidding team scores **15 points** if it succeeds; if not the other team scores **7 points**.
+- **Mulot** : l'équipe qui a enchéri marque **15 points** si elle réussit ; sinon l'autre équipe marque **7 points**.
 
-- **Charlemagne**: The bidding team scores **16 points** if it succeeds; if not the other team scores **8 points**. 
+- **Charlemagne** : l'équipe qui a enchéri marque **16 points** si elle réussit ; sinon l'autre équipe marque **8 points**.
 
-- **Gros Mulot**: The bidding team scores **30 points** if it succeeds; if not the other team scores **15 points**.
+- **Gros Mulot** : l'équipe qui a enchéri marque **30 points** si elle réussit ; sinon l'autre équipe marque **15 points**.
 
-- **Gros Charlemagne**: The bidding team scores **32 points** if it succeeds; if it fails the other team scores **16 points**. 
+- **Gros Charlemagne** : l'équipe qui a enchéri marque **32 points** si elle réussit ; si elle échoue, l'autre équipe marque **16 points**.
 
-The first team that achieves a cumulative score of 32 or more points wins the game. Therefore a successful bid of Gros Charlemagne wins the game whatever your previous score. 
+La première équipe qui atteint un score cumulatif de 32 points ou plus gagne la partie. Par conséquent, une enchère réussie de Gros Charlemagne gagne la partie quel que soit le score précédent.
 
-## Variations
+## Variantes
 
-### 32-card game without a kitty
+### Jeu de 32 cartes sans talon
 
-In the St. John River valley of northern Maine, USA, a different version of Charlemagne is played, without Jokers and with no kitty. The deck has just 32 cards, from Ace down to 7 in each suit and the players are dealt 8 cards each in batches of 4 at a time.
+Dans la vallée de la rivière Saint-Jean, dans le nord du Maine (USA), une version différente de Charlemagne est jouée, sans Jokers et sans talon. Le jeu ne comprend que 32 cartes, de l'As au Sept dans chaque couleur, et 8 cartes sont distribuées à chaque joueur par groupes de 4.
 
-In this version the **Nine of trumps** is the top trump, followed by the Big Jack (Jack of trumps), Little Jack (the other Jack of the same colour as trumps), then A, K, Q, 10, 8, 7. The ranking of the non-trump suits is from Ace down to Seven as in the Canadian game described above.
+Dans cette version, le **Neuf d'atout** est l'atout le plus fort, suivi du Grand Valet (Valet d'atout), du Petit Valet (l'autre Valet de la même couleur que l'atout), puis A, R, D, 10, 8, 7. Le classement des couleurs non atout est de l'As au Sept, comme dans le jeu canadien décrit ci-dessus.
 
-The possible bids are numbers up to 7, Le Petit, High Card No Trump and Charlemagne.
+Les enchères possibles sont des nombres allant jusqu'à 7, Le Petit, High Card No Trump et Charlemagne.
 
-The minimum number bid allowed is 1, but the dealer is compelled to bid 5 if no one else has bid more than 4. Therefore bids below 5 are never played, and are used only to convey information. When bidding a number, the player also names a trump suit along with the bid, for example 5 diamonds, 6 spades and so on. There is no hierarchy of suits: each bid must be numerically higher than the last.
+Le nombre minimum enchéri autorisé est 1, mais le donneur est obligé d'enchérir 5 si personne d'autre n'a enchéri plus de 4. Par conséquent, les enchères inférieures à 5 ne sont jamais jouées et ne servent qu'à transmettre des informations. Lors d'une enchère numérique, le joueur nomme également une couleur d'atout en même temps que l'enchère, par exemple 5 carreaux, 6 piques, etc. Il n'y a pas de hiérarchie des couleurs : chaque enchère doit être numériquement supérieure à la précédente.
 
-**La Petite** is the equivalent of Mulot in the Canadian game: the bidder plays alone, partner's hand being discarded face down, and the bidder must lose every trick to succeed. There are no trumps and all suits rank from high to low A-K-Q-J-10-9-8-7.
+**La Petite** est l'équivalent du Mulot dans le jeu canadien : l'enchérisseur joue seul, la main du partenaire étant défaussée face cachée, et l'enchérisseur doit perdre tous les plis pour réussir. Il n'y a pas d'atout et toutes les couleurs se classent de haut en bas A-R-D-V-10-9-8-7.
 
-Next above Le Petit comes **High Card No Trump**, which is a bid to win all eight tricks playing with a partner but with no trump suit.
+Juste au-dessus de La Petite vient **High Card No Trump**, qui est une enchère de gagner les huit plis en jouant avec un partenaire mais sans couleur d'atout.
 
-The highest bid is **Charlemagne**, a bid to win eight tricks with a trump suit and a partner. The bidder also has the option to ask partner for a card and play Charlemagne alone. This is done by saying something like "Give me an Ace or a diamond" at your turn to bid. That would signify a bid of Charlemagne with diamonds as trump. The bidder's partner gives a card to the bidder face down and the rest of the partner's hand is discarded face down, along with one unwanted card discarded by the bidder, who must then win all eight tricks playing alone with the named suit as trump. The bidder is only allowed to ask for a trump or Ace, not for other cards, and the partner should then use judgment to give whatever card seems likely to be most useful to the bidder. If the bidder plays alone, the opponents have the option also to exchange a card face down after which one of them plays alone against the lose bidder.
+L'enchère la plus élevée est **Charlemagne**, une enchère de gagner les huit plis avec une couleur d'atout et un partenaire. L'enchérisseur a également la possibilité de demander une carte à son partenaire et de jouer Charlemagne seul. Cela se fait en disant quelque chose comme « Donne-moi un As ou un carreau » à votre tour d'enchérir. Cela signifierait une enchère de Charlemagne avec les carreaux comme atout. Le partenaire de l'enchérisseur donne une carte face cachée à l'enchérisseur et le reste de la main du partenaire est défaussé face cachée, ainsi qu'une carte non désirée défaussée par l'enchérisseur, qui doit alors gagner les huit plis en jouant seul avec la couleur nommée comme atout. L'enchérisseur n'est autorisé à demander qu'un atout ou un As, pas d'autres cartes, et le partenaire doit alors faire preuve de jugement pour donner la carte qui semble la plus utile à l'enchérisseur. Si l'enchérisseur joue seul, les adversaires ont la possibilité d'échanger également une carte face cachée, après quoi l'un d'eux joue seul contre l'enchérisseur.
 
-The bidder always leads to the first trick, even in a number bid. Players must follow suit as usual, the Little Jack counting for all purposes as a trump. At any turn to play a player may knock the table as a request to partner to lead the suit of the card played at the next opportunity.
+L'enchérisseur mène toujours au premier pli, même lors d'une enchère numérique. Les joueurs doivent suivre la couleur comme d'habitude, le Petit Valet comptant à toutes fins comme un atout. À tout moment de jouer, un joueur peut frapper la table pour demander à son partenaire de mener la couleur de la carte jouée à la prochaine occasion.
 
-- If the final bid was a number, the bidding team score the amount of the bid if successful; if not, the other team scores the same amount.
+- Si l'enchère finale est un nombre, l'équipe qui a enchéri marque le montant de l'enchère en cas de réussite ; sinon, l'autre équipe marque le même montant.
 
-- If the final bid was Le Petit or High Card No Trump the bidding team scores 8 points if successful. If the bid fails the other team scores 8 points.
+- Si l'enchère finale est La Petite ou High Card No Trump, l'équipe qui a enchéri marque 8 points en cas de réussite. Si l'enchère échoue, l'autre équipe marque 8 points.
 
-- A successful bid of Charlemagne wins the whole game if it succeeds and loses the whole game otherwise.
+- Une enchère réussie de Charlemagne gagne toute la partie si elle réussit, et la perd dans le cas contraire.
 
-In the absence of a Charlemagne bid, the game is won by the first team with a cumulative score of 21 points.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Euchre Group > Charlemagne
+En l'absence d'une enchère Charlemagne, la partie est gagnée par la première équipe atteignant un score cumulatif de 21 points.

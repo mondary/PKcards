@@ -2,19 +2,20 @@
 
 **Difficulté :** —
 **Type :** Rami, Rami
-**But :** A card game with many names and variants. Each deal has a different minimum requirement of sets and runs to meld.
+**But :** Un jeu de cartes avec de nombreux noms et variantes. Chaque donne a un minimum différent de séries et de suites à poser.
+**Autres noms :** Liverpool Rummy, May I?, Shanghai Rummy, Progressive Rummy
 
 ---
 
-*This page is partly based on contributions from Magnus and Greg Petras.*
+*Cette page est en partie basée sur des contributions de Magnus et Greg Petras.*
 
 ## Introduction
 
-Contract Rummy is a version of Rummy consisting of a series of rounds. In each round there is a different **contract**: players have to collect a particular combination of groups and sequences before they are allowed to meld. The contracts become progressively more demanding on each deal.
+Le Contract Rummy est une version du Rami composée d'une série de manches. Dans chaque manche, il y a un **contrat** différent : les joueurs doivent collecter une combinaison particulière de groupes et de suites avant d'être autorisés à poser. Les contrats deviennent progressivement plus exigeants à chaque donne.
 
-## Alternative Names and Variants
+## Noms alternatifs et variantes
 
-This page describes several games which are so similar that they can almost be regarded as variations of or alternative names for the same game. They are:
+Cette page décrit plusieurs jeux si similaires qu'ils peuvent presque être considérés comme des variantes ou des noms alternatifs du même jeu. Ce sont :
 
 - **Contract Rummy**
 
@@ -26,369 +27,339 @@ This page describes several games which are so similar that they can almost be r
 
 - **Progressive Rummy**
 
-The original game of the group was Zioncheck, invented by Ruth Armson in the 1930's, which had just six contracts. 
+Le jeu original du groupe était le Zioncheck, inventé par Ruth Armson dans les années 1930, qui ne comptait que six contrats.
 
-Links to several other web pages with rules of various Contract Rummy games can be found at the end of this page.
+Des liens vers plusieurs autres pages web avec les règles de divers jeux de Contract Rummy se trouvent à la fin de cette page.
 
 ## Contract Rummy
 
-*This description is based on a contribution from Magnus.*
+*Cette description est basée sur une contribution de Magnus.*
 
-### Players
+### Joueurs
 
-The game is best played by three to five players; the optimum number is four. 
+Le jeu se joue au mieux avec trois à cinq joueurs ; le nombre optimal est quatre.
 
-### Cards
+### Cartes
 
-Contract Rummy is played with two standard decks of 52 cards, plus jokers.
-The number of jokers used should be one fewer than the number of players, so
-three players play with 106 cards, four players with 107 and five with 108.
+Le Contract Rummy se joue avec deux jeux standard de 52 cartes, plus des jokers. Le nombre de jokers utilisés doit être inférieur de un au nombre de joueurs, donc trois joueurs jouent avec 106 cartes, quatre joueurs avec 107 et cinq avec 108.
 
-### The Deal
+### La donne
 
-There are seven rounds altogether. The first dealer is chosen randomly, and thereafter the turn to deal rotates clockwise. The deal itself is clockwise, one card at a time. In the first three rounds, the players receive 10 cards each; in the last four they receive 12 cards each.
+Il y a sept manches au total. Le premier donneur est choisi au hasard, et ensuite le tour de donner tourne dans le sens horaire. La distribution se fait dans le sens horaire, une carte à la fois. Lors des trois premières manches, les joueurs reçoivent 10 cartes chacun ; lors des quatre dernières, ils reçoivent 12 cartes chacun.
 
-The cards remaining after the deal are placed face down on the table to form the
-**stock pile**, the top card of which is turned face up and placed alongside
-to start the **discard pile**.
+Les cartes restantes après la distribution sont placées face cachée sur la table pour former la **pioche**, dont la carte supérieure est retournée et placée à côté pour commencer la **défausse**.
 
-### Object of the Game
+### But du jeu
 
-The object of each round is to dispose of all your cards by a
-combination of melding, laying off, and discarding. In order to do any
-melding or laying off, you must begin by fulfilling your contract for 
-the round currently being played. 
+Le but de chaque manche est de se débarrasser de toutes vos cartes par une combinaison de poses, d'ajouts et de défausses. Pour pouvoir poser ou ajouter, vous devez d'abord remplir votre contrat pour la manche en cours.
 
-There are two kind of melds, sequences (also called runs) and groups (also called sets or books).
+Il y a deux types de combinaisons : les suites (aussi appelées séquences) et les groupes (aussi appelés séries ou livres).
 
-- A **sequence** or **run**, in this game, consists of at least **four** consecutive cards of the same suit, such as ![club](../images/internat/club.gif)4 ![club](../images/internat/club.gif)5 ![club](../images/internat/club.gif)6 ![club](../images/internat/club.gif)7. 
-An ace can count as low or high but not both at the same time. So 
-**![diamond](../images/internat/diamond.gif)A ![diamond](../images/internat/diamond.gif)2 ![diamond](../images/internat/diamond.gif)3 ![diamond](../images/internat/diamond.gif)4** and 
-**![club](../images/internat/club.gif)J ![club](../images/internat/club.gif)Q ![club](../images/internat/club.gif)K ![club](../images/internat/club.gif)A** are both valid sequences, but **![spade](../images/internat/spade.gif)Q ![spade](../images/internat/spade.gif)K ![spade](../images/internat/spade.gif)A ![spade](../images/internat/spade.gif)2** is not valid.
+- Une **suite** ou **séquence**, dans ce jeu, consiste en au moins **quatre** cartes consécutives de la même couleur, comme le 4 de ![trèfle](../images/internat/club.gif) le 5 de ![trèfle](../images/internat/club.gif) le 6 de ![trèfle](../images/internat/club.gif) le 7 de ![trèfle](../images/internat/club.gif). Un As peut compter comme bas ou haut mais pas les deux en même temps. Ainsi **A de ![carreau](../images/internat/diamond.gif) 2 de ![carreau](../images/internat/diamond.gif) 3 de ![carreau](../images/internat/diamond.gif) 4 de ![carreau](../images/internat/diamond.gif)** et **V de ![trèfle](../images/internat/club.gif) D de ![trèfle](../images/internat/club.gif) R de ![trèfle](../images/internat/club.gif) A de ![trèfle](../images/internat/club.gif)** sont toutes deux des suites valides, mais **D de ![pique](../images/internat/spade.gif) R de ![pique](../images/internat/spade.gif) A de ![pique](../images/internat/spade.gif) 2 de ![pique](../images/internat/spade.gif)** n'est pas valide.
 
-- A **group**, **set** or **book** consists three cards of the same rank, irrespective of suit, such as ![diamond](../images/internat/diamond.gif)5 ![diamond](../images/internat/diamond.gif)5 ![spade](../images/internat/spade.gif)5.
+- Un **groupe**, **série** ou **livre** consiste en trois cartes de même rang, quelle que soit la couleur, comme le 5 de ![carreau](../images/internat/diamond.gif) le 5 de ![carreau](../images/internat/diamond.gif) le 5 de ![pique](../images/internat/spade.gif).
 
-Once it has been melded, a sequence can be extended by adding further consecutive cards 
-at either end, as far as the ace in either direction; the longest theoretically possible sequence being 14 cards long with an ace at each end. A group can be extended by adding further equal ranking cards. 
+Une fois posée, une suite peut être étendue en ajoutant d'autres cartes consécutives à l'une ou l'autre extrémité, jusqu'à l'As dans les deux directions ; la suite la plus longue possible étant de 14 cartes avec un As à chaque extrémité. Un groupe peut être étendu en ajoutant d'autres cartes de même rang.
 
-When a player goes out, by disposing of all their cards, the other players score penalty
-points for all the cards remaining in their hands. The object of the game is to be the 
-player with the lowest score at the end of the series of seven rounds.
+Lorsqu'un joueur se débarrasse de toutes ses cartes, les autres joueurs marquent des points de pénalité pour toutes les cartes restantes dans leur main. Le but du jeu est d'être le joueur avec le score le plus bas à la fin de la série de sept manches.
 
-### The Contracts
+### Les contrats
 
-The contracts in each successive round are as the following.
+Les contrats de chaque manche successive sont les suivants :
 
-- Two Groups of 3 (6 cards)
+- Deux groupes de 3 (6 cartes)
 
-- One Group of 3 and One Sequence of 4 (7 cards)
+- Un groupe de 3 et une suite de 4 (7 cartes)
 
-- Two Sequences of 4 (8 cards)
+- Deux suites de 4 (8 cartes)
 
-- Three Groups of 3 (9 cards)
+- Trois groupes de 3 (9 cartes)
 
-- Two Groups of 3 and One Sequence of 4 (10 cards)
+- Deux groupes de 3 et une suite de 4 (10 cartes)
 
-- One Group of 3 and Two Sequences of 4 (11 cards)
+- Un groupe de 3 et deux suites de 4 (11 cartes)
 
-- Three Sequences of 4 and No Discard (explained later)
+- Trois suites de 4 sans défausse (expliqué plus tard)
 
-### The Play
+### Le jeu
 
-The player to dealer's left takes the first turn. A turn consists of:
+Le joueur à la gauche du donneur prend le premier tour. Un tour se compose de :
 
-**1. The Draw**
-The player **must** either draw the top card of the stock pile
-or take the top card of the discard pile. A player who chooses to draw a card from the
-stock pile must first give any other player who wishes the opportunity to take the
-discard (see below).
-**2. Melding**
-The player may place groups or sequences from hand face up on the table. 
-This can only be done once by each player during each round. When melding, you must
-lay down exactly the combination of groups or sequences which is required by the contract for the round 
-you are in. For example, you cannot lay down one group if you need two, or if you need a
-sequence also. When you meld, you can only meld the minimum number of cards required. 
-For example if you have a sequence of a greater number of cards than four, or a group of more 
-than three, you must wait until your next turn before you can lay off the additional cards.
-Melding is **optional** - you are not required to meld as soon as you are able to.
-**3. Laying off**. 
-Laying off is adding cards to groups or sequences which have already been melded - 
-both your own and those melded by your opponents. You may lay off only if you have already 
-melded in some previous turn of the current round. You may not lay off before or on 
-the same turn in which you meld. There is no limit as to how many cards you may lay off 
-in one turn. Laying off is **optional** - you are never obliged to lay off cards
-if you do not wish to.
-**4. The Discard**. 
-At the end of your turn, you **must** discard one card from your hand and 
-placed it face up on top of the discard pile (except at the end of round 7 - see below).
+**1. La pioche**
+Le joueur **doit** soit piocher la carte supérieure de la pioche, soit prendre la carte supérieure de la défausse. Un joueur qui choisit de piocher une carte de la pioche doit d'abord donner à tout autre joueur qui le souhaite l'opportunité de prendre la défausse (voir ci-dessous).
+**2. La pose**
+Le joueur peut placer des groupes ou des suites de sa main face ouverte sur la table. Cela ne peut être fait qu'une seule fois par chaque joueur lors de chaque manche. Lors de la pose, vous devez poser exactement la combinaison de groupes ou de suites requise par le contrat de la manche en cours. Par exemple, vous ne pouvez pas poser un seul groupe si vous en avez besoin de deux, ou si vous avez aussi besoin d'une suite. Lors de la pose, vous ne pouvez poser que le nombre minimum de cartes requis. Par exemple, si vous avez une suite de plus de quatre cartes, ou un groupe de plus de trois, vous devez attendre votre prochain tour avant de pouvoir ajouter les cartes supplémentaires. La pose est **facultative** — vous n'êtes pas obligé de poser dès que vous le pouvez.
+**3. L'ajout**
+L'ajout consiste à ajouter des cartes à des groupes ou des suites déjà posés — les vôtres et ceux posés par vos adversaires. Vous ne pouvez ajouter que si vous avez déjà posé lors d'un tour précédent de la manche en cours. Vous ne pouvez pas ajouter avant ou lors du même tour où vous posez. Il n'y a pas de limite au nombre de cartes que vous pouvez ajouter en un seul tour. L'ajout est **facultatif** — vous n'êtes jamais obligé d'ajouter des cartes si vous ne le souhaitez pas.
+**4. La défausse**
+À la fin de votre tour, vous **devez** défausser une carte de votre main et la placer face ouverte sur le dessus de la défausse (sauf à la fin de la manche 7 — voir ci-dessous).
 
-Play continues with players taking turns clockwise around the table until one person has got rid of all the cards from their hand. 
+Le jeu continue avec les joueurs prenant leur tour dans le sens horaire autour de la table jusqu'à ce qu'une personne se soit débarrassée de toutes les cartes de sa main.
 
-It can occasionally happen that the stock pile runs out of cards. If a player wishes to draw a card when there are no cards left in the stock pile, then you take all the cards of the discard pile except the top one, shuffle them together, and place them face down to make a new stock. The top card of the old discard pile remains face up to start the new discard pile. Play then continues as before.
+Il peut arriver occasionnellement que la pioche soit épuisée. Si un joueur souhaite piocher une carte alors qu'il n'y a plus de cartes dans la pioche, on prend toutes les cartes de la défausse sauf la carte du dessus, on les mélange et on les place face cachée pour former une nouvelle pioche. La carte du dessus de l'ancienne défausse reste face ouverte pour commencer la nouvelle défausse. Le jeu continue ensuite comme avant.
 
-If there are a lot of "May I?"'s (see below), it is just conceivable that both the stock pile and the discard pile might run out of cards. In that case the play ends. There is no winner and everyone scores penalty points according to the cards that they have in their hands (see scoring).
+S'il y a beaucoup de « May I ? » (voir ci-dessous), il est conceivable que la pioche et la défausse puissent toutes deux être épuisées. Dans ce cas, le jeu s'arrête. Il n'y a pas de gagnant et chacun marque des points de pénalité selon les cartes qu'il a dans sa main (voir notation).
 
-### Taking the Discard Out of Turn (the "May I?")
+### Prendre la défausse hors tour (le « May I? »)
 
-If at the start of your turn you choose to draw from the stock rather than take the discard, any player who desires the card on the top of the discard pile may ask for it (hence the name "May I?" of the version described later). If several people want the discard, it goes to the earliest in turn to play after the person who is about to draw from the stock. The player who takes the discard in this way must take in addition the top card from the stock as a penalty card. 
+Si au début de votre tour vous choisissez de piocher de la pioche plutôt que de prendre la défausse, tout joueur qui désire la carte du dessus de la défausse peut la demander (d'où le nom « May I? » de la version décrite plus tard). Si plusieurs personnes veulent la défausse, elle va à celui dont le tour de jouer vient le plus tôt après la personne qui s'apprête à piocher de la pioche. Le joueur qui prend la défausse de cette façon doit également prendre la carte supérieure de la pioche comme carte de pénalité.
 
-After someone has taken the discard out of turn, it is possible for a different player to take the next card of the discard pile in the same way, also taking a penalty card from the stock pile along with it. There is no limit as to how many times this can be done, but the same player is not allowed to take two successive cards from the discard pile in this way.
+Après que quelqu'un a pris la défausse hors tour, il est possible qu'un autre joueur prenne la carte suivante de la défausse de la même manière, en prenant également une carte de pénalité de la pioche. Il n'y a pas de limite au nombre de fois que cela peut être fait, mais le même joueur n'est pas autorisé à prendre deux cartes consécutives de la défausse de cette façon.
 
-Only when the other players have had the opportunity to take any cards they want from the top of the discard pile does the person who was about to play draw from the stock and continue their turn. Note that the play resumes from its original point - the turn to play does not jump to the person who takes the discard.
+Ce n'est que lorsque les autres joueurs ont eu l'opportunité de prendre toutes les cartes qu'ils souhaitent du dessus de la défausse que la personne qui s'apprêtait à jouer pioche de la pioche et continue son tour. Notez que le jeu reprend à partir de son point d'origine — le tour de jouer ne saute pas à la personne qui prend la défausse.
 
-Note also that if the player whose turn it is to play wishes to take the card at the top of the discard pile they may do so, without taking a penalty card from the stock pile, and no one else then has the chance to take any discards.
+Notez également que si le joueur dont c'est le tour souhaite prendre la carte du dessus de la défausse, il peut le faire, sans prendre de carte de pénalité de la pioche, et personne d'autre n'a alors la chance de prendre des défausses.
 
 ### Jokers
 
-Jokers may be used in either sequences or groups, to substitute for any missing card. 
+Les jokers peuvent être utilisés dans les suites ou les groupes, en remplacement de n'importe quelle carte manquante.
 
-If a joker is played in a sequence, any player who has the card which the joker is representing, and who has already melded their contract on a previous turn, may, during the laying off phase of their turn to play, take the joker, replacing it in the meld with the card it represents. Any joker gained in this manner must be laid off in the current turn - it cannot be saved for play in a later turn.
+Si un joker est posé dans une suite, tout joueur qui détient la carte que le joker représente, et qui a déjà posé son contrat lors d'un tour précédent, peut, pendant la phase d'ajout de son tour, prendre le joker, en le remplaçant dans la combinaison par la carte qu'il représente. Tout joker obtenu de cette manière doit être ajouté lors du tour en cours — il ne peut pas être conservé pour être joué lors d'un tour ultérieur.
 
-Jokers played as part of a group are considered "dead"; they cannot be reclaimed and played elsewhere.
+Les jokers posés dans un groupe sont considérés comme « morts » ; ils ne peuvent pas être récupérés et joués ailleurs.
 
-### Special Rules for Particular Rounds
+### Règles spéciales pour certaines manches
 
-**Rounds 1,2,3**
-Dealer deals 10 Cards.
-**Rounds 4,5,6,7**
-Dealer Deals 12 Cards.
-**Rounds 3,6,7**
-In rounds in which the contract requires multiple sequences, you are not allowed to meld two sequences in the same suit which are contiguous. For example **![heart](../images/internat/heart.gif)3 ![heart](../images/internat/heart.gif)4 ![heart](../images/internat/heart.gif)5 ![heart](../images/internat/heart.gif)6**
-and **![heart](../images/internat/heart.gif)7 ![heart](../images/internat/heart.gif)8 ![heart](../images/internat/heart.gif)9 ![heart](../images/internat/heart.gif)10** are not acceptable as two sequences in a contract. To be valid, sequences in the same suit must either have a gap between them or overlap. The following are valid as a pair of sequences:
+**Manches 1, 2, 3**
+Le donneur distribue 10 cartes.
+**Manches 4, 5, 6, 7**
+Le donneur distribue 12 cartes.
+**Manches 3, 6, 7**
+Dans les manches où le contrat nécessite plusieurs suites, vous n'êtes pas autorisé à poser deux suites de la même couleur qui soient contiguës. Par exemple **3 de ![cœur](../images/internat/heart.gif) 4 de ![cœur](../images/internat/heart.gif) 5 de ![cœur](../images/internat/heart.gif) 6 de ![cœur](../images/internat/heart.gif)** et **7 de ![cœur](../images/internat/heart.gif) 8 de ![cœur](../images/internat/heart.gif) 9 de ![cœur](../images/internat/heart.gif) 10 de ![cœur](../images/internat/heart.gif)** ne sont pas acceptables comme deux suites dans un contrat. Pour être valides, les suites de la même couleur doivent avoir un écart entre elles ou se chevaucher. Les suivantes sont valides comme paire de suites :
 
-- **![heart](../images/internat/heart.gif)3 ![heart](../images/internat/heart.gif)4 ![heart](../images/internat/heart.gif)5 ![heart](../images/internat/heart.gif)6** and **![heart](../images/internat/heart.gif)5 ![heart](../images/internat/heart.gif)6 ![heart](../images/internat/heart.gif)7 ![heart](../images/internat/heart.gif)8**
+- **3 de ![cœur](../images/internat/heart.gif) 4 de ![cœur](../images/internat/heart.gif) 5 de ![cœur](../images/internat/heart.gif) 6 de ![cœur](../images/internat/heart.gif)** et **5 de ![cœur](../images/internat/heart.gif) 6 de ![cœur](../images/internat/heart.gif) 7 de ![cœur](../images/internat/heart.gif) 8 de ![cœur](../images/internat/heart.gif)**
 
-- **![heart](../images/internat/heart.gif)3 ![heart](../images/internat/heart.gif)4 ![heart](../images/internat/heart.gif)5 ![heart](../images/internat/heart.gif)6** and **![heart](../images/internat/heart.gif)8 ![heart](../images/internat/heart.gif)9 ![heart](../images/internat/heart.gif)10 ![heart](../images/internat/heart.gif)J**
+- **3 de ![cœur](../images/internat/heart.gif) 4 de ![cœur](../images/internat/heart.gif) 5 de ![cœur](../images/internat/heart.gif) 6 de ![cœur](../images/internat/heart.gif)** et **8 de ![cœur](../images/internat/heart.gif) 9 de ![cœur](../images/internat/heart.gif) 10 de ![cœur](../images/internat/heart.gif) V de ![cœur](../images/internat/heart.gif)**
 
-The above restriction applies only to sequences melded by a single player as part of a contract. You are allowed to meld a sequence which is contiguous with a sequence melded by a different player, and it does not matter if your sequences which were originally separated by a gap become contiguous as a result of cards laid off by yourself or another player.
+La restriction ci-dessus s'applique uniquement aux suites posées par un seul joueur dans le cadre d'un contrat. Vous êtes autorisé à poser une suite contiguë à une suite posée par un autre joueur, et il n'importe pas si vos suites qui étaient à l'origine séparées par un écart deviennent contiguës suite à des ajouts par vous-même ou un autre joueur.
 
-Round 7
-In the final round, you must meld all your cards at once. In this round only, the sequences you meld are allowed to be longer than four cards - in fact one of them will have to be longer, as you have at least 13 cards after drawing. As you have melded all your cards, there is no discard - play ends immediately after the meld.
+**Manche 7**
+Dans la manche finale, vous devez poser toutes vos cartes d'un coup. Dans cette manche uniquement, les suites que vous posez peuvent être plus longues que quatre cartes — en fait, l'une d'entre elles devra être plus longue, car vous avez au moins 13 cartes après avoir pioché. Comme vous avez posé toutes vos cartes, il n'y a pas de défausse — le jeu s'arrête immédiatement après la pose.
 
-### Scoring
+### Notation
 
-When someone **goes out** by getting rid of all their cards, play ends and the other players score penalty points for all the cards remaining in their hands, the cards scoring as follows:
+Lorsqu'un joueur **se débarrasse** de toutes ses cartes, le jeu s'arrête et les autres joueurs marquent des points de pénalité pour toutes les cartes restantes dans leur main, les cartes se comptant comme suit :
 
-| Face cards (K,Q,J) | 10 Points |
-| Ace | 15 Points |
-| Joker | 15 Points |
-| Number Cards are worth their spot (index) value. |
+| Cartes à figures (R, D, V) | 10 points |
+| As | 15 points |
+| Joker | 15 points |
+| Les cartes numériques valent leur valeur nominale. |
 
-At the end of the seventh and last round, the player with the lowest total score wins. 
+À la fin de la septième et dernière manche, le joueur avec le score total le plus bas gagne.
 
 ### Variation
 
-The game can be played without jokers.
+Le jeu peut se jouer sans jokers.
 
 ## Liverpool Rummy
 
-Paul Welty reports that Liverpool Rummy is the same as Contract Rummy, except that the player to the right of the dealer **must** cut the deck before the deal. If this player manages to cut the exact number of cards required to deal the hand and leave a face-up card, then the cutting player's score is reduced by 50 points (which is good).
+Paul Welty rapporte que le Liverpool Rummy est identique au Contract Rummy, sauf que le joueur à la droite du donneur **doit** couper le jeu avant la donne. Si ce joueur réussit à couper exactement le nombre de cartes nécessaires pour distribuer la main et laisser une carte face ouverte, le score du coupeur est réduit de 50 points (ce qui est bon).
 
 ## May I?
 
-This is related to Contract Rummy, described above, but according to Greg Petras there are the following differences:
+Ce jeu est apparenté au Contract Rummy décrit ci-dessus, mais selon Greg Petras, il y a les différences suivantes :
 
-- In "May-I?", one deck of cards is used per 2 people playing, including both jokers from each deck of cards.
+- Au « May-I? », on utilise un jeu de cartes pour 2 joueurs, y compris les deux jokers de chaque jeu.
 
-- The sequences or groups in your initial meld can contain more than the minimum number of cards. For example, in round 3, if you have, say, **3-4-5-6-7** and **2-3-4-5-6-7**, you may lay down all of these cards at once in your melding turn. You do not have to put down, for example, just **3-4-5-6** and **2-3-4-5** first and then wait until your next turn to then to lay off the left over **7** and **6-7**. The same applies to groups - the initial meld may have as many cards as you like (minimum 3) of the same rank.
+- Les suites ou groupes de votre pose initiale peuvent contenir plus que le nombre minimum de cartes. Par exemple, dans la manche 3, si vous avez, disons, 3-4-5-6-7 et 2-3-4-5-6-7, vous pouvez poser toutes ces cartes d'un coup lors de votre tour de pose. Vous n'êtes pas obligé de poser, par exemple, d'abord juste 3-4-5-6 et 2-3-4-5 puis d'attendre votre prochain tour pour ajouter le 7 et le 6-7 restants. La même chose s'applique aux groupes — la pose initiale peut avoir autant de cartes que vous le souhaitez (minimum 3) du même rang.
 
-- Jokers which have been melded cannot be reused. For example, if someone has put down a sequence **3-4-joker-6,** and you have the **5** of that suit, you may not take the joker out in exchange for your **5**.
+- Les jokers qui ont été posés ne peuvent pas être réutilisés. Par exemple, si quelqu'un a posé une suite 3-4-joker-6, et que vous avez le 5 de cette couleur, vous ne pouvez pas reprendre le joker en échange de votre 5.
 
-- In the rounds where the contract has more than one sequence (rounds 3, 6, and 7)
-there is no prohibition against contiguous sequences. For example it **is** acceptable to meld **3-4-5-6** and **7-8-9-10** of the same suit as two sequences.
+- Dans les manches où le contrat a plus d'une suite (manches 3, 6 et 7), il n'y a pas d'interdiction contre les suites contiguës. Par exemple, il **est** acceptable de poser 3-4-5-6 et 7-8-9-10 de la même couleur comme deux suites.
 
-- The special rules for round 7 do not apply. The player melding may have more than 12 cards: if they have said ""May-I?" during that round they will have two extra cards in their hand for each "May-I?" they said. It is not necessary to use all the cards in your hand in your 3 sequences, and if the player melding has cards left over, then play continues as in other rounds.
+- Les règles spéciales de la manche 7 ne s'appliquent pas. Le joueur qui pose peut avoir plus de 12 cartes : s'il a dit « May-I? » pendant cette manche, il aura deux cartes supplémentaires dans sa main pour chaque « May-I? » qu'il a dit. Il n'est pas nécessaire d'utiliser toutes les cartes de votre main dans vos 3 suites, et si le joueur qui pose a des cartes restantes, le jeu continue comme dans les autres manches.
 
-- The Joker is worth 25 points, not 15 points.
+- Le Joker vaut 25 points, et non 15 points.
 
 ## Shanghai Rummy
 
-There are several versions of Shanghai Rummy. There is also a rummy game known to some people as Shanghai, which is not a contract game, but a type of Carousel or Manipulation rummy - this will be found on the Carousel page.
+Il existe plusieurs versions du Shanghai Rummy. Il existe aussi un jeu de rami connu de certains sous le nom de Shanghai, qui n'est pas un jeu à contrat, mais un type de rami Carousel ou Manipulation — que l'on trouvera sur la page Carousel.
 
-*The description below has been put together mainly from a description by Mark Allen Davis, with variations supplied by Tahelia Powe and Deb Kolsov.*
+*La description ci-dessous a été principalement constituée à partir d'une description de Mark Allen Davis, avec des variantes fournies par Tahelia Powe et Deb Kolsov.*
 
-The basic rules are as in Contract Rummy; the description below concentrates on the differences.
+Les règles de base sont celles du Contract Rummy ; la description ci-dessous se concentre sur les différences.
 
-### Players, Cards, Deal and Contracts
+### Joueurs, cartes, donne et contrats
 
-The game is for 3 to 5 players. The game is played with two standard decks including four jokers (108 cards). As in Contract Rummy, 11 cards are dealt to each player and there are seven contracts: 
+Le jeu est pour 3 à 5 joueurs. On utilise deux jeux standard incluant quatre jokers (108 cartes). Comme au Contract Rummy, 11 cartes sont distribuées à chaque joueur et il y a sept contrats :
 
-- two books
+- deux livres
 
-- one book, one run
+- un livre, une suite
 
-- two runs
+- deux suites
 
-- three books
+- trois livres
 
-- two books, one run
+- deux livres, une suite
 
-- one book, two runs
+- un livre, deux suites
 
-- three runs with no discard
+- trois suites sans défausse
 
-### Melding Rules
+### Règles de pose
 
-In a run, aces are high only. A-2-3-4 is not a run. When putting down runs, consecutive runs in the same suit (such as 6-7-8-9 and 10-J-Q-K) cannot be put down by the same player in the initial meld. Runs can, however, become consecutive later, when they are extended by adding extra cards.
+Dans une suite, les As ne sont que hauts. A-2-3-4 n'est pas une suite. Lors de la pose de suites, les suites consécutives de la même couleur (comme 6-7-8-9 et 10-V-D-R) ne peuvent pas être posées par le même joueur lors de la pose initiale. Les suites peuvent cependant devenir consécutives plus tard, lorsqu'elles sont étendues par l'ajout de cartes supplémentaires.
 
-A player cannot put down two books of the same rank - six eights do not make two books.
+Un joueur ne peut pas poser deux livres du même rang — six huits ne font pas deux livres.
 
-A joker can be used in a meld as a substitute for a missing card. A book or run cannot contain more than one joker (but a player can meld more than one joker provided that they are used in different books or runs).
+Un joker peut être utilisé dans une combinaison en remplacement d'une carte manquante. Un livre ou une suite ne peut pas contenir plus d'un joker (mais un joueur peut poser plus d'un joker à condition qu'ils soient utilisés dans différents livres ou suites).
 
-Further cards can be added to your initial meld and to other players melds in the same turn that the initial meld is laid down or in later turns.
+Des cartes supplémentaires peuvent être ajoutées à votre pose initiale et aux combinaisons des autres joueurs lors du même tour que la pose initiale ou lors de tours ultérieurs.
 
-### The "May I?"
+### Le « May I? »
 
-Each player can take the discard out of turn **at most two times** in each round. It is convenient to use pennies or other tokens to keep track of this. The player who wants the discard must also take the top **two** cards from the face down stock, and does not meld or discard. Play then reverts to the person whose turn was interrupted.
+Chaque joueur peut prendre la défausse hors tour **au maximum deux fois** dans chaque manche. Il est pratique d'utiliser des pièces ou d'autres jetons pour garder le compte. Le joueur qui veut la défausse doit également prendre les **deux** cartes supérieures de la pioche face cachée, et ne pose ni ne défausse. Le jeu revient ensuite à la personne dont le tour a été interrompu.
 
-You can only take the discard by a "May I?" if the player whose turn it is does not want it. If more than one player wants to "May I?" the same card, the one whose turn to play would be sooner has priority.
+Vous ne pouvez prendre la défausse par un « May I? » que si le joueur dont c'est le tour ne la veut pas. Si plus d'un joueur veut faire un « May I? » sur la même carte, celui dont le tour de jouer viendrait le plus tôt a la priorité.
 
-### The Shanghai
+### Le Shanghai
 
-This occurs when a card is discarded which could be added to one of the melds that is already on the table. There are two situations:
+Cela se produit lorsqu'une carte est défaussée et qu'elle pourrait être ajoutée à l'une des combinaisons déjà sur la table. Il y a deux situations :
 
-- If you deliberately discard a card which could be added to an existing meld, you can call "Shanghai" as you discard it. This prevents it from being picked up by the next player or being "May I?"d in that player's turn. This can happen, for example, when you have not yet made your initial meld, but wish to get rid of a card from your hand which happens to fit one of the other players' melds.
+- Si vous défaussez délibérément une carte qui pourrait être ajoutée à une combinaison existante, vous pouvez annoncer « Shanghai » en la défaussant. Cela empêche qu'elle soit ramassée par le joueur suivant ou fasse l'objet d'un « May I? » lors du tour de ce joueur. Cela peut arriver, par exemple, lorsque vous n'avez pas encore fait votre pose initiale, mais souhaitez vous débarrasser d'une carte de votre main qui se trouve correspondre à l'une des combinaisons d'un autre joueur.
 
-- If you discard a card which could be added to an existing meld without calling Shanghai, then any other player (even a player who has not yet put down their contract) may call "Shanghai", and add the discard to a meld. The calling player then offers their hand to you face down, and you must draw a card from it and place it in your own hand. The player to your left then takes their turn as normal.
+- Si vous défaussez une carte qui pourrait être ajoutée à une combinaison existante sans annoncer Shanghai, alors tout autre joueur (même un joueur qui n'a pas encore posé son contrat) peut annoncer « Shanghai » et ajouter la défausse à une combinaison. Le joueur qui a appelé Shanghai tend alors sa main face cachée, et vous devez piocher une carte de celle-ci et la placer dans votre propre main. Le joueur à votre gauche prend ensuite son tour normalement.
 
-Note that a "Shanghai" takes precedence over a "May I?". If a player calls "Shanghai" to protect a discard or to take a discard and add it to a meld on the table, this stops any other player taking that card with a "May I?" on that turn.
+Notez qu'un « Shanghai » prend le pas sur un « May I? ». Si un joueur annonce « Shanghai » pour protéger une défausse ou pour prendre une défausse et l'ajouter à une combinaison sur la table, cela empêche tout autre joueur de prendre cette carte avec un « May I? » lors de ce tour.
 
-### The Scoring
+### La notation
 
-The penalty points for cards remaining in players' hands when someone goes out are as follows:
+Les points de pénalité pour les cartes restantes dans les mains des joueurs lorsqu'un joueur se débarrasse de ses cartes sont les suivants :
 
-| 2 - 7 | 5 points each |
-| 8 - K | 10 points each |
-| aces | 20 points each |
-| jokers | 50 points each |
+| 2 - 7 | 5 points chacun |
+| 8 - R | 10 points chacun |
+| As | 20 points chacun |
+| Jokers | 50 points chacun |
 
-### Variations
+### Variantes
 
-Tahelia Powe's version has the following differences:
+La version de Tahelia Powe présente les différences suivantes :
 
-- Only 10 cards are dealt to each player.
+- Seules 10 cartes sont distribuées à chaque joueur.
 
-- There is an additional contract of 4 books of 3 inserted at the seventh deal; on the eighth and last deal you need three runs of 4.
+- Il y a un contrat supplémentaire de 4 livres de 3 inséré à la septième donne ; à la huitième et dernière donne, il vous faut trois suites de 4.
 
-- When going out, you are never allowed to discard; all the cards from your hand must be played on the table.
+- Lorsqu'on se débarrasse de ses cartes, on n'est jamais autorisé à défausser ; toutes les cartes de la main doivent être posées sur la table.
 
-- A player cannot meld more than one run in the same suit.
+- Un joueur ne peut pas poser plus d'une suite de la même couleur.
 
-- "May I?"s are called **buys**. 
+- Les « May I? » sont appelés des **achats**.
 
-- There is no Shanghai.
+- Il n'y a pas de Shanghai.
 
-Deb Kolsov's version has a different sequence of contracts:
+La version de Deb Kolsov a une séquence différente de contrats :
 
-- two sets of 3
+- deux séries de 3
 
-- set of 3, run of 4
+- série de 3, suite de 4
 
-- two runs of 4
+- deux suites de 4
 
-- three sets of 3 
+- trois séries de 3
 
-- set of 3, run of 7
+- série de 3, suite de 7
 
-- two sets of 3, run of 5
+- deux séries de 3, suite de 5
 
-- three runs of 4
+- trois suites de 4
 
-- set of 3, run of 10
+- série de 3, suite de 10
 
-- three sets of 3, run of 5
+- trois séries de 3, suite de 5
 
-- three runs of 5
+- trois suites de 5
 
 ## Progressive Rummy
 
-*This section is based on a contribution from John Eveleigh*
+*Cette section est basée sur une contribution de John Eveleigh*
 
-Unless otherwise stated the rules are the same as for Contract Rummy.
+Sauf indication contraire, les règles sont les mêmes que pour le Contract Rummy.
 
-### Players, Cards, Deal and Contracts
+### Joueurs, cartes, donne et contrats
 
-Two packs of cards are used, with 4 jokers (108 cards in all). 11 cards are dealt to each player.
+On utilise deux jeux de cartes, avec 4 jokers (108 cartes au total). 11 cartes sont distribuées à chaque joueur.
 
-There are fifteen contracts; the sequence is as follows:
+Il y a quinze contrats ; la séquence est la suivante :
 
-| ROUND | CONTRACT | BUYING |
-| 1 | 2 sets of 3 | |
-| 2 | 1 set of 3 and 1 run of 4 | |
-| 3 | 2 sets of 4 | |
-| 4 | 2 runs of 4 | |
-| 5 | 2 sets of 3 and 1 run of 4 | |
-| 6 | 1 set of 4 and 1 run of 5 | |
-| 7 | 2 sets of 5 | |
-| 8 | 2 runs of 5 | |
-| 9 | 4 sets of 3 | BUY 1 |
-| 10 | 3 runs of 4 | BUY 1 |
-| 11 | 3 sets of 4 | BUY 1 |
-| 12 | 5 runs of 3 | BUY 2 and TAKE 2 |
-| 13 | 5 sets of 3 | BUY 2 and TAKE 2 |
-| 14 | 1 set of 5, 1 run of 5 and 1 pair | BUY 1 |
-| 15 | 2 sets of 3 and 1 run of 5 | |
+| MANCHE | CONTRAT | ACHAT |
+|--------|---------|-------|
+| 1 | 2 séries de 3 | |
+| 2 | 1 série de 3 et 1 suite de 4 | |
+| 3 | 2 séries de 4 | |
+| 4 | 2 suites de 4 | |
+| 5 | 2 séries de 3 et 1 suite de 4 | |
+| 6 | 1 série de 4 et 1 suite de 5 | |
+| 7 | 2 séries de 5 | |
+| 8 | 2 suites de 5 | |
+| 9 | 4 séries de 3 | ACHAT 1 |
+| 10 | 3 suites de 4 | ACHAT 1 |
+| 11 | 3 séries de 4 | ACHAT 1 |
+| 12 | 5 suites de 3 | ACHAT 2 et PRENDRE 2 |
+| 13 | 5 séries de 3 | ACHAT 2 et PRENDRE 2 |
+| 14 | 1 série de 5, 1 suite de 5 et 1 paire | ACHAT 1 |
+| 15 | 2 séries de 3 et 1 suite de 5 | |
 
-### Melding Rules
+### Règles de pose
 
-The above table shows the initial meld requirements. Having laid down your initial meld you can add more cards to your own and other players' melds in the same or subsequent turns.
+Le tableau ci-dessus indique les exigences de pose initiale. Après avoir posé votre combinaison initiale, vous pouvez ajouter d'autres cartes à vos propres combinaisons et à celles des autres joueurs lors du même tour ou de tours ultérieurs.
 
-In runs, aces count high or low but not both. J-Q-K-A and A-2-3-4 are allowed but K-A-2-3 is not. There is no rule against a player laying down two consecutive runs in the same suit, such as 3-4-5-6 and 7-8-9-10 of hearts, as separate runs, but once they are on the table separate runs must remain separate - runs cannot be joined or split.
+Dans les suites, les As comptent haut ou bas mais pas les deux. V-D-R-A et A-2-3-4 sont autorisés mais R-A-2-3 ne l'est pas. Il n'y a pas de règle contre un joueur posant deux suites consécutives de la même couleur, comme 3-4-5-6 et 7-8-9-10 de cœurs, comme suites séparées, mais une fois sur la table, les suites séparées doivent rester séparées — les suites ne peuvent être ni jointes ni séparées.
 
-A set can consist of any three or more cards of the same rank - identical cards can be included. A pair (needed for hand 14) is two cards of the same rank. There is no rule against a player melding two sets of the same rank.
+Une série peut consister en n'importe quelles trois cartes ou plus de même rang — les cartes identiques peuvent être incluses. Une paire (nécessaire pour la manche 14) est deux cartes de même rang. Il n'y a pas de règle contre un joueur posant deux séries du même rang.
 
-Jokers **and twos** are wild. A set or run may contain any number of wild cards to substitute for missing cards. The player must specify (if it is not clear) whether the meld is a run or a set, the rank of the set, and the rank and suit of a run. Wild cards once melded cannot be moved - a player who holds the real card represented by a melded wild card is **not** allowed to substitute the real card for the wild card.
+Les jokers **et les deux** sont jokers. Une série ou une suite peut contenir n'importe quel nombre de cartes joker pour remplacer des cartes manquantes. Le joueur doit spécifier (si ce n'est pas clair) si la combinaison est une suite ou une série, le rang de la série, et le rang et la couleur d'une suite. Les cartes joker une fois posées ne peuvent pas être déplacées — un joueur qui détient la vraie carte représentée par une carte joker posée n'est **pas** autorisé à substituer la vraie carte à la carte joker.
 
-### Buying
+### Achat
 
-To make up the number of cards required for hands 9-14 it is necessary to 'buy' the face-up card from the discard pile. Each card bought costs one penny, paid to a kitty, and you place the bought card in your hand. In hands 9-11 and 14 you can buy on one occasion during the hand; in hands 12 and 13 you are allowed to buy twice. In hands 12 and 13, at the same time you buy the up-card you also take the next blind card from the face-down stock.
+Pour atteindre le nombre de cartes requis pour les manches 9 à 14, il est nécessaire d'« acheter » la carte face ouverte de la défausse. Chaque carte achetée coûte un penny, versé à une cagnotte, et vous placez la carte achetée dans votre main. Dans les manches 9 à 11 et 14, vous pouvez acheter une fois pendant la manche ; dans les manches 12 et 13, vous êtes autorisé à acheter deux fois. Dans les manches 12 et 13, en même temps que vous achetez la carte face ouverte, vous prenez aussi la carte suivante face cachée de la pioche.
 
-If it is your turn you have the right to buy first if you wish and then take your normal turn. If it is not your turn you have to state that you wish to buy the card. The current player may only stop you if they wish to take (or buy) the card themselves. If several players want to buy the face up card, the one whose next turn to play comes soonest has priority, so any player to your right, up to the current player can opt to buy the card you wanted.
+Si c'est votre tour, vous avez le droit d'acheter en premier si vous le souhaitez, puis de prendre votre tour normal. Si ce n'est pas votre tour, vous devez déclarer que vous souhaitez acheter la carte. Le joueur actuel ne peut vous en empêcher que s'il souhaite prendre (ou acheter) la carte lui-même. Si plusieurs joueurs veulent acheter la carte face ouverte, celui dont le prochain tour vient le plus tôt a la priorité, donc tout joueur à votre droite, jusqu'au joueur actuel, peut choisir d'acheter la carte que vous vouliez.
 
-When a card has been bought, the face up card underneath it is then available to be bought.
+Lorsqu'une carte a été achetée, la carte face ouverte en dessous est alors disponible pour être achetée.
 
-You can only buy in hands 9-14, and you only get one or two opportunities to buy depending on the hand, as detailed on the score sheet.
+Vous ne pouvez acheter que dans les manches 9 à 14, et vous n'avez qu'une ou deux opportunités d'achat selon la manche, comme indiqué sur la feuille de score.
 
-### Scoring
+### Notation
 
-Play ends when a player "goes out" by getting rid of all the cards from their hand. This can be done by putting down all the cards in melds or by discarding one's last card. Each of the other players scores penalty points for the cards they are holding:
+Le jeu s'arrête lorsqu'un joueur « se débarrasse » de toutes les cartes de sa main. Cela peut se faire en posant toutes les cartes en combinaisons ou en défaussant sa dernière carte. Chacun des autres joueurs marque des points de pénalité pour les cartes qu'il détient :
 
-| Wild cards (Jokers and 2s) | 20 |
-| Aces | 15 |
-| Picture cards | 10 |
-| 3s to 10s | 5 |
+| Cartes joker (Jokers et 2) | 20 |
+| As | 15 |
+| Figures | 10 |
+| 3 à 10 | 5 |
 
-At the end of the 15 deals, the player with the lowest score is the winner, the next lowest is second, etc. The players settle up in pennies according to their position - for example for a four player game the payments are as follows:
+À la fin des 15 donnes, le joueur avec le score le plus bas est le gagnant, le suivant le plus bas est deuxième, etc. Les joueurs règlent leurs comptes en pennies selon leur position — par exemple, pour un jeu à quatre joueurs, les paiements sont les suivants :
 
-- Winner: Receives 12
+- Gagnant : reçoit 12
 
-- 2nd: Pays 2
+- 2e : paie 2
 
-- 3rd: Pays 4
+- 3e : paie 4
 
-- 4th: Pays 6
+- 4e : paie 6
 
-In addition the winner takes all the pennies paid to the kitty for buying cards. 
+De plus, le gagnant remporte tous les pennies versés à la cagnotte pour l'achat de cartes.
 
-Other schedules of amounts are possible. Also, by prior agreement, the kitty can be split between the winner and second player - two thirds for the winner and one third for second.
+D'autres barèmes de montants sont possibles. De plus, par accord préalable, la cagnotte peut être partagée entre le gagnant et le deuxième joueur — deux tiers pour le gagnant et un tiers pour le deuxième.
 
-## Other Contract Rummy web pages
+## Autres pages web sur le Contract Rummy
 
-The variation **[6-7-8-9-10](https://www.alanhoyle.com/678910.html)** - which was played in Pittsburgh in the late 1940's, is described on a web page by Alan Hoyle.
+La variante [6-7-8-9-10](https://www.alanhoyle.com/678910.html) — qui était jouée à Pittsburgh à la fin des années 1940 — est décrite sur une page web d'Alan Hoyle.
 
-A variation called [Continental Rummy](https://web.archive.org/web/home.att.net/%7Emgaston/continental/rules.htm) is described on an archive copy of Mike Gaston's page.
+Une variante appelée [Continental Rummy](https://web.archive.org/web/home.att.net/%7Emgaston/continental/rules.htm) est décrite sur une copie d'archive de la page de Mike Gaston.
 
-Rummy.com (archive copy) had rules for [Contract Rummy](https://web.archive.org/web/20170606042926/http://rummy.com/contractrummy.html) and [Russian Rummy](https://web.archive.org/web/20170606104755/http://rummy.com/russianrummy.html).
+Rummy.com (copie d'archive) avait les règles du [Contract Rummy](https://web.archive.org/web/20170606042926/http://rummy.com/contractrummy.html) et du [Russian Rummy](https://web.archive.org/web/20170606104755/http://rummy.com/russianrummy.html).
 
-[12-Step Rummy](https://www.bic.mni.mcgill.ca/users/kate/12step_rummy.html) is described on Kate Hanratty's page.
+Le [12-Step Rummy](https://www.bic.mni.mcgill.ca/users/kate/12step_rummy.html) est décrit sur la page de Kate Hanratty.
 
-Archive copy of Bill Whitnack's description of a version which he calls [Rummy Rummy](https://web.archive.org/web/20130602131114/http://www.members.shaw.ca/bvwhit/rumrum.html).
+Copie d'archive de la description par Bill Whitnack d'une version qu'il appelle [Rummy Rummy](https://web.archive.org/web/20130602131114/http://www.members.shaw.ca/bvwhit/rumrum.html).
 
-The [Contract Rummy pages of Randy Rasa'a Rummy-Games.com site](http://www.rummy-games.com/rules/contract-rummy.html) describe several versions.
+Les [pages Contract Rummy du site Rummy-Games.com de Randy Rasa](http://www.rummy-games.com/rules/contract-rummy.html) décrivent plusieurs versions.
 
-[Rummy.ch](https://web.archive.org/web/20220802155937/http://www.rummy.ch/pages/de/home.php) (archive copy) was a German language site offering rules for Contract Rummy and many other rummy games, plus strategy articles and reviews of online rummy sites and a forum.
+[Rummy.ch](https://web.archive.org/web/20220802155937/http://www.rummy.ch/pages/de/home.php) (copie d'archive) était un site en allemand offrant les règles du Contract Rummy et de nombreux autres jeux de rami, ainsi que des articles de stratégie et des critiques de sites de rami en ligne et un forum.
 
-Several games described on other pages of pagat.com are closely related to Contract Rummy but with definite differences. 
+Plusieurs jeux décrits sur d'autres pages de pagat.com sont étroitement liés au Contract Rummy mais présentent des différences définies.
 
 - **Carioca / Loba**
 
@@ -397,5 +368,3 @@ Several games described on other pages of pagat.com are closely related to Contr
 - **Push Rummy**
 
 - **Toonerville Rook**
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Contract Rummy

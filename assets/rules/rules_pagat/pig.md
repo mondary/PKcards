@@ -3,122 +3,120 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A children's card game in which you pass a card to your neighbour and try to collect a set of four. Also known as Donkey, Spoons, etc.
+**But :** Jeu de cartes pour enfants dans lequel vous passez une carte à votre voisin et essayez de collecter un carré. Aussi appelé Donkey, Spoons, etc.
 **Autres noms :** Donkey
 
 ---
 
 ## Introduction
 
-These are very simple and enjoyable games for a large number of players. Up to 13 can take part using a standard 52 card pack; more if two or more packs are used. The players sit in a circle, and are dealt four cards each. The object is to collect four cards of the same rank, by passing cards one at a time to your left-hand neighbour while receiving cards from the player to your right.
+Ce sont des jeux très simples et amusants pour un grand nombre de joueurs. Jusqu'à 13 peuvent participer avec un jeu de 52 cartes standard ; plus si deux jeux ou plus sont utilisés. Les joueurs s'assoient en cercle et reçoivent quatre cartes chacun. Le but est de collecter quatre cartes de même rang, en passant des cartes une à la fois à votre voisin de gauche tout en recevant des cartes du joueur à votre droite.
 
-There are two different ways of playing: with or without a stock pile. There are also two different ways to end each hand: in Pig the players touch their noses, while in Spoons they grab a token from a central stock which contains one fewer token than there are players.
+Il y a deux façons différentes de jouer : avec ou sans stock de cartes. Il y a aussi deux façons différentes de terminer chaque main : dans Pig les joueurs touchent leur nez, tandis que dans Spoons ils attrapent un jeton d'un stock central qui contient un jeton de moins qu'il n'y a de joueurs.
 
-Normally the loser of each hand loses a life, though in some versions they are eliminated immediately. In the versions with lives, each life lost gives the player a letter of a word, and players drop out when they complete the word. The word usually corresponds to the name of the game, so in Pig, each player has three lives while in Donkey they have six.
+Normalement, le perdant de chaque main perd une vie, bien que dans certaines versions il soit éliminé immédiatement. Dans les versions avec vies, chaque vie perdue donne au joueur une lettre d'un mot, et les joueurs abandonnent lorsqu'ils complètent le mot. Le mot correspond généralement au nom du jeu, donc dans Pig, chaque joueur a trois vies tandis que dans Donkey ils en ont six.
 
-## Pig with no stock pile
+## Pig sans stock de cartes
 
-This version of the game requires four cards of one rank for each person playing. For example, with seven players you could use all the aces, kings, queens, jacks, tens, nines and eights from a standard pack (28 cards). With four you could just use the aces, kings, queens and jacks (16 cards). The cards are shuffled and dealt out to the players so that everyone has four cards.
+Cette version du jeu nécessite quatre cartes d'un même rang pour chaque joueur. Par exemple, avec sept joueurs, vous pourriez utiliser tous les as, rois, dames, valets, dix, neuf et huit d'un jeu standard (28 cartes). Avec quatre, vous pourriez simplement utiliser les as, rois, dames et valets (16 cartes). Les cartes sont mélangées et distribuées aux joueurs pour que chacun ait quatre cartes.
 
-All players simultaneously place one unwanted card face down to their left, and then pick up the card that the player to their right has placed. Then they do the same again, and continue until someone collects four of a kind. There are no turns - the passing happens as fast as the players wish, but during the play cards must only be passed one at a time, and you must never have more than four cards in your hand at one time, so you are not allowed to pick up a new card from your right-hand neighbour until you have reduced your cards to three by discarding one to your left.
+Tous les joueurs placent simultanément une carte indésirable face cachée à leur gauche, puis ramassent la carte que le joueur à leur droite a placée. Puis ils font de même, et continuent jusqu'à ce que quelqu'un collecte quatre d'un même rang. Il n'y a pas de tours — le passage se fait aussi vite que les joueurs le souhaitent, mais pendant le jeu les cartes doivent être passées une à la fois, et vous ne devez jamais avoir plus de quatre cartes en main à la fois, vous n'êtes donc pas autorisé à ramasser une nouvelle carte de votre voisin de droite avant d'avoir réduit vos cartes à trois en en défaussant une à votre gauche.
 
-If you manage to collect four of a kind you do not say anything. Instead you quietly touch the end of your nose with your index finger, and stay in that position. As soon as one player touches his or her nose, all the other players may do the same, even if they do not have four of a kind themselves. The last player to touch his or her nose loses. It is surprising how players will sometimes continue to study their cards for quite a long time, not noticing that everyone else is touching their noses.
+Si vous réussissez à collecter quatre d'un même rang, vous ne dites rien. Au lieu de cela, vous touchez discrètement le bout de votre nez avec votre index, et vous maintenez cette position. Dès qu'un joueur touche son nez, tous les autres joueurs peuvent faire de même, même s'ils n'ont pas quatre d'un même rang eux-mêmes. Le dernier joueur à toucher son nez perd. Il est surprenant de voir comment les joueurs continuent parfois à étudier leurs cartes pendant longtemps, sans remarquer que tout le monde touche son nez.
 
-Many play that the loser now drops out of the game, and the next deal is played with one fewer player - of course four cards of one rank must be removed from the pack each time a player drops out. When there are only two players left, they are the joint winners.
+Beaucoup jouent que le perdant est ensuite éliminé du jeu, et la distribution suivante se joue avec un joueur de moins — bien sûr, quatre cartes d'un même rang doivent être retirées du jeu à chaque fois qu'un joueur est éliminé. Quand il ne reste que deux joueurs, ils sont les vainqueurs ex æquo.
 
-For a longer game, you can give everyone three lives. Players only drop out when they have lost three times. The lives can be represented by letters of the word PIG: the first time you lose you get a 'P', the second time an 'I', and the third time a 'G', and you drop out. Some play that it is illegal to talk to a PIG - that is, someone who has lost three lives. Anyone who does so becomes a PIG themselves. This gives the players who have been knocked out something to do - they can distract the surviving players and try to persude them to talk to them.
+Pour un jeu plus long, vous pouvez donner trois vies à tout le monde. Les joueurs ne sont éliminés que lorsqu'ils ont perdu trois fois. Les vies peuvent être représentées par les lettres du mot PIG : la première fois vous perdez, vous obtenez un « P », la deuxième fois un « I », et la troisième fois un « G », et vous abandonnez. Certains jouent qu'il est interdit de parler à un PIG — c'est-à-dire à quelqu'un qui a perdu trois vies. Quiconque le fait devient un PIG lui-même. Cela donne aux joueurs qui ont été éliminés quelque chose à faire — ils peuvent distraire les joueurs survivants et essayer de les persuader de leur parler.
 
-In Australia the game is sometimes called Hog rather than Pig. The loser of each deal is the Pig, and a player who has been a Pig three times becomes a Hog and drops out of the game.
+En Australie, le jeu est parfois appelé Hog plutôt que Pig. Le perdant de chaque distribution est le Pig, et un joueur qui a été un Pig trois fois devient un Hog et quitte le jeu.
 
-## Pig with a stock pile
+## Pig avec stock de cartes
 
-This version is played with a full pack of 52 cards, or more than one pack if there are more than 12 players. Four cards are dealt to each player and the remaining stock of undealt cards is placed to the right of the dealer.
+Cette version se joue avec un jeu complet de 52 cartes, ou plus d'un jeu s'il y a plus de 12 joueurs. Quatre cartes sont distribuées à chaque joueur et le stock restant de cartes non distribuées est placé à la droite du donneur.
 
-The game is played in the same way as the version without a stock, described above, except that the dealer draws cards from the stock, and the player to dealer's right placed unwanted cards face down on a discard pile. The rule that you can never hold more than four cards at a time still holds, and you can only discard and draw one card at a time. The dealer can discard cards and draw replacements from the stock as fast as he or she likes. The other players are restricted only by the speed at which the player before them passes on cards. When the stock is exhausted the discard pile is used as a new stock.
+Le jeu se déroule de la même manière que la version sans stock décrite ci-dessus, sauf que le donneur pioche des cartes du stock et le joueur à droite du donneur place les cartes indésirables face cachée dans une pile de défausse. La règle selon laquelle on ne peut jamais avoir plus de quatre cartes à la fois s'applique toujours, et on ne peut défausser et piocher qu'une carte à la fois. Le donneur peut défausser des cartes et piocher des remplacements du stock aussi vite qu'il le souhaite. Les autres joueurs sont limités uniquement par la vitesse à laquelle le joueur qui les précède passe les cartes. Quand le stock est épuisé, la pile de défausse est utilisée comme nouveau stock.
 
-The object of the game is the same as in the game without a stock - to collect four of a kind. The first player to collect four of a kind touches his or her nose, and the other players then do the same, the last to do so being the loser. There is a slight advantage in dealing in this version of the game, since as dealer you don't have to wait for your right-hand neighbour to discard. Therefore it is usually agreed that the winner of each hand (the first to collect four of a kind) deals the next.
+Le but du jeu est le même que dans la version sans stock — collecter quatre d'un même rang. Le premier joueur qui collecte quatre d'un même rang touche son nez, et les autres joueurs font de même, le dernier à le faire étant le perdant. Il y a un léger avantage à distribuer dans cette version, car en tant que donneur vous n'avez pas à attendre que votre voisin de droite défausse. Par conséquent, il est généralement convenu que le gagnant de chaque main (le premier à collecter quatre d'un même rang) distribue la suivante.
 
-As in the game without a stock, the loser may be eliminated from the game; alternatively the loser may lose a life, players who lose three lives being eliminated. It is not necessary to adjust the deck as players leave the game, and it is possible to play for a single winner, who is the first to collect four of a kind when only two players remain.
+Comme dans la version sans stock, le perdant peut être éliminé du jeu ; alternativement, le perdant peut perdre une vie, les joueurs ayant perdu trois vies étant éliminés. Il n'est pas nécessaire d'ajuster le jeu au fur et à mesure que les joueurs quittent, et il est possible de jouer pour un seul vainqueur, qui est le premier à collecter quatre d'un même rang quand il ne reste que deux joueurs.
 
-Variations
-Some players deal five cards each rather than four. The cards are still passed one at a time and the aim is to collect four of a kind among your five cards. Others deal only three cards each, and the aim is then to collect three of a kind.
+Variantes
+Certains joueurs distribuent cinq cartes chacun plutôt que quatre. Les cartes sont toujours passées une à la fois et le but est de collecter quatre d'un même rang parmi vos cinq cartes. D'autres ne distribuent que trois cartes chacun, et le but est alors de collecter trois d'un même rang.
 
 ## Spoons
 
-For this game, in addition to cards and people, you need a collection of spoons, with one fewer spoon than the number of players. The spoons are placed in the centre of the circle of players and the cards are dealt and played the same way as in Pig - the game can be played either with a stock or without a stock.
+Pour ce jeu, en plus des cartes et des joueurs, vous avez besoin d'une collection de cuillères, avec une cuillère de moins que le nombre de joueurs. Les cuillères sont placées au centre du cercle de joueurs et les cartes sont distribuées et jouées de la même manière qu'au Pig — le jeu peut être joué soit avec un stock, soit sans stock.
 
-A player who collects four of a kind takes one of the spoons. As soon as a spoon has been taken, all the other players are entitled to take a spoon each, even if they do not have four of a kind. Since there is one spoon fewer than the number of players, one player will be left without a spoon. This player is the loser of this deal.
+Un joueur qui collecte quatre d'un même rang prend une des cuillères. Dès qu'une cuillère a été prise, tous les autres joueurs ont le droit de prendre une cuillère chacun, même s'ils n'ont pas quatre d'un même rang. Puisqu'il y a une cuillère de moins que le nombre de joueurs, un joueur restera sans cuillère. Ce joueur est le perdant de cette distribution.
 
-A series of deals can be played in which the loser, or a player who has lost three times, is eliminated from the game. Each time a player is eliminated you must remove one spoon from the game; if playing without a stock you also remove one set of four equal cards from the pack.
+Une série de distributions peut être jouée dans laquelle le perdant, ou un joueur qui a perdu trois fois, est éliminé du jeu. Chaque fois qu'un joueur est éliminé, vous devez retirer une cuillère du jeu ; si vous jouez sans stock, vous retirez aussi un ensemble de quatre cartes égales du jeu.
 
-There are more dangerous versions of this game known as Forks and Knives, using those utensils instead of spoons.
+Il existe des versions plus dangereuses de ce jeu, connues sous le nom de Fourchettes et Couteaux, utilisant ces ustensiles au lieu des cuillères.
 
-## Vatra and Magarac
+## Vatra et Magarac
 
-Vatra (Fire) and Magarac (Jackass) are versions of Pig without a stock that are played in Bosnia and Herzegovina. The basic game is similar to the game above, except that players pass cards in turn rather than simultaneously. There is also a somewhat more challenging variant that is played an extra "travelling card". 
+Vatra (Feu) et Magarac (Âne) sont des versions du Pig sans stock jouées en Bosnie-Herzégovine. Le jeu de base est similaire à celui décrit ci-dessus, sauf que les joueurs passent les cartes à tour de rôle plutôt que simultanément. Il existe aussi une variante un peu plus difficile qui se joue avec une « carte voyageuse » supplémentaire.
 
-The basic game is for 3 to 13 players using a deck of 4 cards of the same rank for each player: for example 4 players will use 16 cards, and you would use the full 52 card deck for 13 players. The players sit in a circle and the randomly chosen dealer shuffles and deals all the cards, clockwise one at a time, so that each player has four. Player to the left of the dealer begins the game by passing one card to the left. Each player in clockwise order, after receiving a card from the right, checks to see whether he has four-of-a-kind, and if not passes one card to the left. Any card may be passed, including the card the player just received. So the player to dealer's left has four cards during his turn and three cards otherwise, while the other players have five cards during their turn and four cards otherwise. he then must choose one of his cards and pass it to the player on his left, face down. 
+Le jeu de base se joue à 3 à 13 joueurs avec un jeu de 4 cartes de même rang pour chaque joueur : par exemple, 4 joueurs utiliseront 16 cartes, et vous utiliseriez le jeu complet de 52 cartes pour 13 joueurs. Les joueurs s'assoient en cercle et le donneur choisi au hasard mélange et distribue toutes les cartes, dans le sens horaire une à la fois, de sorte que chaque joueur en a quatre. Le joueur à gauche du donneur commence le jeu en passant une carte à gauche. Chaque joueur dans le sens horaire, après avoir reçu une carte de la droite, vérifie s'il a un carré, et sinon passe une carte à gauche. N'importe quelle carte peut être passée, y compris la carte que le joueur vient de recevoir. Le joueur à gauche du donneur a donc quatre cartes pendant son tour et trois cartes le reste du temps, tandis que les autres joueurs ont cinq cartes pendant leur tour et quatre cartes le reste du temps. Il doit alors choisir une de ses cartes et la passer au joueur à sa gauche, face cachée.
 
-A player who has four-of-a-kind may inmmediately anounce it by laying or slamming his hand (meaning both the cards and the hand holding them) onto the playing surface and yelling "Vatra!" *("Fire!")*. Once this has happened, all other players must do the same thing as soon as they can: the last player to do this is the loser of the hand. Note that a player must put his hand down **and** yell "Fire!" to be safe from losing, doing just one thing but not the other doesn't count. The loser of the hand is punished as described below, and the turn to deal passes to the left.
+Un joueur qui a un carré peut immédiatement l'annoncer en posant ou en claquant sa main (les cartes et la main qui les tient) sur la surface de jeu en criant « Vatra ! » (« Feu ! »). Une fois cela fait, tous les autres joueurs doivent faire la même chose dès que possible : le dernier à le faire est le perdant de la main. Notez qu'un joueur doit poser sa main **et** crier « Feu ! » pour être sauvé de la défaite, ne faire qu'une seule chose mais pas l'autre ne compte pas. Le perdant de la main est puni comme décrit ci-dessous, et le tour de distribution passe à gauche.
 
-### The Travelling Card
+### La carte voyageuse
 
-The travelling card is an extra card that is added to the deck. Usually it is the 7 of diamonds but if the four sevens are in play some other odd card can be used, for example a joker. The deal will now end with the player to dealer's left, who will have five cards at the start. Before play begins, the holder of the travelling card must turn it around so all the other players can see it and know where it started. The travelling card is then turned back facing its owner, who then shuffles his cards under the table or behind his back.
+La carte voyageuse est une carte supplémentaire ajoutée au jeu. C'est généralement le 7 de carreau mais si les quatre sept sont en jeu, une autre carte impaire peut être utilisée, par exemple un joker. La distribution se terminera maintenant avec le joueur à gauche du donneur, qui aura cinq cartes au départ. Avant le début du jeu, le détenteur de la carte voyageuse doit la retourner pour que tous les autres joueurs la voient et sachent où elle a commencé. La carte voyageuse est ensuite retournée face à son propriétaire, qui mélange alors ses cartes sous la table ou derrière son dos.
 
-As in the basic game, the player to dealer's left begins. Playera will have four cards except during their turn, after receiving a card and before passing one on, when they will have five. When a card is passed, the player to whom it is given can refuse it, provided that he has not yet seen what it is: the player to his right must in that case pass a different card, which **cannot** be refused. 
+Comme dans le jeu de base, le joueur à gauche du donneur commence. Les joueurs auront quatre cartes sauf pendant leur tour, après avoir reçu une carte et avant d'en passer une, moment où ils en auront cinq. Quand une carte est passée, le joueur à qui elle est donnée peut la refuser, à condition qu'il ne l'ait pas encore vue : le joueur à sa droite doit dans ce cas passer une autre carte, qui **ne peut pas** être refusée.
 
-If a player manages to complete a four-of-a-kind, but his fifth card is the travelling card, then that player **cannot** yell "Fire!" and win. Instead he must pass a card. If he succeeds in passing the travelling card (either immediately or after his first offer is refused), keeping only his four-of-a-kind, he can **then** yell "Fire!" and win. 
+Si un joueur réussit à compléter un carré mais que sa cinquième carte est la carte voyageuse, il **ne peut pas** crier « Feu ! » et gagner. Il doit plutôt passer une carte. S'il réussit à passer la carte voyageuse (soit immédiatement soit après que sa première offre a été refusée), ne gardant que son carré, il peut **alors** crier « Feu ! » et gagner.
 
-### Punishment
+### Punition
 
-The two versions of the game, **Vatra** and **Magarac**, differ according to how the loser is punished.
+Les deux versions du jeu, **Vatra** et **Magarac**, diffèrent selon la façon dont le perdant est puni.
 
-In **Magarac**, the loser of each hand gets one letter of the word *Magarac* (which means Jackass, which conveniently also has 7 letters). The game continues until a player has lost 7 times, spelling out the whole word. This player loses the whole game and is mockingly called jackass by other players.
+Dans **Magarac**, le perdant de chaque main obtient une lettre du mot *Magarac* (qui signifie Âne, qui a aussi commodément 7 lettres). Le jeu continue jusqu'à ce qu'un joueur ait perdu 7 fois, épelant le mot entier. Ce joueur perd la partie et est moqueusement appelé âne par les autres joueurs.
 
-**Vatra** uses a more authentic form of punishment, but is usually only played by young boys. One of the players gathers up the cards and shuffles them and another player, usually the winner of the hand, is chosen to issue the punishment. The loser names one of the cards in the deck (other than the travelling card), stating its rank and suit, and also chooses whether to begin from the top or the bottom of the deck. The player who shuffled takes cards one by one from the top or bottom as specified by the loser and shows them, continuing until the card selected by the loser appears. Meanwhile the loser places his hand palm down on the table. Each card that appears, up to and excluding the named card, results in a punishment according to its suit:
+**Vatra** utilise une forme plus authentique de punition, mais n'est généralement joué que par de jeunes garçons. Un des joueurs rassemble les cartes et les mélange et un autre joueur, généralement le gagnant de la main, est choisi pour infliger la punition. Le perdant nomme une des cartes du jeu (autre que la carte voyageuse), en indiquant son rang et sa couleur, et choisit aussi s'il commence par le haut ou le bas du jeu. Le joueur qui a mélangé prend les cartes une par une par le haut ou le bas selon ce qu'a choisi le perdant et les montre, en continuant jusqu'à ce que la carte choisie par le perdant apparaisse. Pendant ce temps, le perdant pose sa main paume vers le bas sur la table. Chaque carte qui apparaît, jusqu'à et excluant la carte nommée, entraîne une punition selon sa couleur :
 
-- **Spade** - The punisher hits the loser's hand with his fist, like a hammer. (The punisher should not hit with his knuckles, because there is then a risk of breaking bones).
+- **Pique** — Le punisseur frappe la main du perdant avec son poing, comme un marteau. (Le punisseur ne doit pas frapper avec ses jointures, car il y a alors un risque de casser des os.)
 
-- **Club** - The punisher runs his knuckles over the loser's hand twice in the shape of a cross.
+- **Trèfle** — Le punisseur fait passer ses jointures sur la main du perdant deux fois en forme de croix.
 
-- **Diamond** - The punisher twists the skin on the back of the loser's hand.
+- **Carreau** — Le punisseur tord la peau sur le dos de la main du perdant.
 
-- **Heart** - The punisher pats the loser's hand as one would pat a dog or a cat.
+- **Cœur** — Le punisseur tapote la main du perdant comme on tapoterait un chien ou un chat.
 
-When the loser's card comes up, his punishment is over and the new hand is dealt. 
+Quand la carte du perdant apparaît, sa punition est terminée et une nouvelle main est distribuée.
 
-### Some Tips
+### Quelques conseils
 
-If you have good reflexes, keep your eyes and ears open for a player yelling "Fire!" and react quickly enough you will never lose, but there are plenty of other things you can do to improve your chances.
+Si vous avez de bons réflexes, gardez les yeux et les oreils ouverts pour un joueur qui crie « Feu ! » et réagissez assez vite, vous ne perdrez jamais, mais il y a beaucoup d'autres choses que vous pouvez faire pour améliorer vos chances.
 
-- To maximise your prospects of collecting four-of-a-kind, never pass a card that's part of a pair unless your other 3 cards are a three-of-a-kind.
+- Pour maximiser vos chances de collecter un carré, ne passez jamais une carte qui fait partie d'une paire à moins que vos 3 autres cartes soient un brelan.
 
-- Observe whether the player to your left keeps the card you give him or passes it on. You will then know whether he wants the cards of that rank or not.
+- Observez si le joueur à votre gauche garde la carte que vous lui donnez ou la passe. Vous saurez alors s'il veut les cartes de ce rang ou non.
 
-- In a 3 or 4 player game it is possible to collect one card of each rank, making it impossible for other players to win.
+- Dans un jeu à 3 ou 4 joueurs, il est possible de collecter une carte de chaque rang, rendant impossible pour les autres joueurs de gagner.
 
-- If playing with a travelling card, watch your opponents closely, and you may be able to guess from their behaviour where the travelling card is.
+- Si vous jouez avec une carte voyageuse, observez vos adversaires de près, et vous pourrez peut-être deviner à partir de leur comportement où se trouve la carte voyageuse.
 
-- When playing with a travelling card, sometimes it is worth refusing the first card you are offered if you know the travelling card is not to your right. This may force your right-hand opponent to give you a card that he wanted to keep.
+- Quand vous jouez avec une carte voyageuse, il vaut parfois la peine de refuser la première carte qui vous est offerte si vous savez que la carte voyageuse n'est pas à votre droite. Cela peut forcer votre adversaire de droite à vous donner une carte qu'il voulait garder.
 
-- If you lose when playing Vatra, it is worth watching carefully as the cards are gathered and shuffled: you might be able to estimate the position of a certain card. Do not choose a heart, since the card you choose does not cause a punishment, and so you would as many as possible of the cards **before** your card to be hearts.
+- Si vous perdez en jouant à Vatra, il vaut la peine de regarder attentivement quand les cartes sont rassemblées et mélangées : vous pourrez peut-être estimer la position d'une certaine carte. Ne choisissez pas un cœur, puisque la carte que vous choisissez ne cause pas de punition, et vous voudriez donc que le plus possible de cartes **avant** la vôtre soient des cœurs.
 
-- If you are the winner or punisher, do not be too agressive: players who hit the losing player really hard usually get hit hard themselves in return when they lose.
+- Si vous êtes le gagnant ou le punisseur, ne soyez pas trop agressif : les joueurs qui frappent le perdant très fort sont généralement frappés durement en retour quand ils perdent à leur tour.
 
-## Other variations and web pages
+## Autres variantes et pages web
 
-The French equivalent of Spoons known as Bouchon (meaning cork) is played with corks. The loser of each hand gets a letter of the word B-O-U-C-H-O-N, so you are not eliminated until you have lost six times.
+L'équivalent français de Spoons connu sous le nom de Bouchon (signifiant bouchon) se joue avec des bouchons. Le perdant de chaque main obtient une lettre du mot B-O-U-C-H-O-N, de sorte que vous n'êtes pas éliminé avant d'avoir perdu six fois.
 
-In Australia, Donkey is a game similar to Spoons played without a stock but with 5-card hands, so that a player who has 4-of a kind can continue playing after surreptitiously claiming a token. As you would expect, the loser of each hand gets a letter of the word D-O-N-K-E-Y. It is described on Adrian Morgan's [Donkey page](https://outerhoard.wordpress.com/2006/10/17/donkey/).
+En Australie, Donkey est un jeu similaire à Spoons joué sans stock mais avec des mains de 5 cartes, de sorte qu'un joueur qui a un carré peut continuer à jouer après avoir subrepticement réclamé un jeton. Comme on pourrait s'y attendre, le perdant de chaque main obtient une lettre du mot D-O-N-K-E-Y. Il est décrit sur la [page Donkey](https://outerhoard.wordpress.com/2006/10/17/donkey/) d'Adrian Morgan.
 
-The Romanian version Popa Prostul is played without a stock pile but with an extra card, a joker called Popa Prostul. The dealer begins with five cards of which he immediately discards one to the left, and the other players with four each. Subsequently players must not hold more than four cards - they must always discard one to the left before picking up the one passed from their right. A player who picks up the joker must keep it for one turn, passing a different card, before passing the joker on after picking up the next card. A player who has four of a kind puts his cards face down after which everyone does the same, the last to do so being the loser.
+La version roumaine Popa Prostul se joue sans stock de cartes mais avec une carte supplémentaire, un joker appelé Popa Prostul. Le donneur commence avec cinq cartes dont il se défait immédiatement d'une à gauche, et les autres joueurs avec quatre chacun. Par la suite, les joueurs ne doivent pas garder plus de quatre cartes — ils doivent toujours en défausser une à gauche avant de ramasser celle passée de leur droite. Un joueur qui ramasse le joker doit le garder pendant un tour, en passant une autre carte, avant de passer le joker après avoir ramassé la carte suivante. Un joueur qui a un carré pose ses cartes face cachée après quoi tout le monde fait de même, le dernier à le faire étant le perdant.
 
-## Software and Online Games
+## Logiciel et jeux en ligne
 
-You can play Spoons (Pig) online at [pickup.cards](https://pickup.cards/).
+Vous pouvez jouer à Spoons (Pig) en ligne sur [pickup.cards](https://pickup.cards/).
 
-## Acknowledgement
+## Remerciements
 
-My thanks to the many people who sent me descriptions of these games, including Kerry Allemann, Craig Daniel, Chris Davis, Karen Emery, Keith Forrest, Peter Foster, Garnell, Lisa Gartland, Daniel Grad, Carla Jean, Yale Kozinski, Doris Leung, Brian Lipinski, Veselko Kelava, Dean Morbeck, Adrian Morgan, Rob O'Keefe, Evan Parsley, Doughy Satan, Alan Stevenson, Steven Wyckoff and several anonymous correspondents.
-
-Home Page > Classified Index > Card Passing Games > Pig, Spoons
+Mes remerciements aux nombreuses personnes qui m'ont envoyé des descriptions de ces jeux, notamment Kerry Allemann, Craig Daniel, Chris Davis, Karen Emery, Keith Forrest, Peter Foster, Garnell, Lisa Gartland, Daniel Grad, Carla Jean, Yale Kozinski, Doris Leung, Brian Lipinski, Veselko Kelava, Dean Morbeck, Adrian Morgan, Rob O'Keefe, Evan Parsley, Doughy Satan, Alan Stevenson, Steven Wyckoff et plusieurs correspondants anonymes.

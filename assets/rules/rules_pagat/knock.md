@@ -3,90 +3,89 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Rami, Rami
-**But :** A fast moving card game for 2 to 5 players in which a player who thinks they have the best score can knock and end the play.
+**But :** Un jeu de cartes rapide pour 2 à 5 joueurs dans lequel un joueur qui pense avoir le meilleur score peut frapper et mettre fin au jeu.
+**Autres noms :** Poker Rum
 
 ---
 
 ## Introduction
 
-**Knock Rummy**, sometimes known as **Poker Rum**, is a fast moving Rummy game for two or more players in which any player may choose to end the play ('knock') at the end of any turn. It is played in a similar way to basic Rummy: the objective is, by drawing and discarding, to collect sets of 3 or 4 equal cards and runs of 3 or more consecutive cards in a suit. When a player knocks all players expose their hands and the player with the lowest value of unmatched cards wins. 
+Le **Knock Rummy**, parfois connu sous le nom de **Poker Rum**, est un jeu de rami rapide pour deux joueurs ou plus dans lequel tout joueur peut choisir de mettre fin au jeu (« frapper ») à la fin de n'importe quel tour. Il se joue de manière similaire au rami de base : l'objectif est, en piochant et en défaussant, de collecter des ensembles de 3 ou 4 cartes de même rang et des suites de 3 cartes consécutives ou plus de la même couleur. Quand un joueur frappe, tous les joueurs exposent leurs mains et le joueur avec la plus faible valeur de cartes non associées gagne.
 
-The main description on this page is based on a version found in many North American card game manuals, and this is followed by a few variants that have been reported.
+La description principale de cette page est basée sur une version que l'on trouve dans de nombreux manuels nord-américains de jeux de cartes, suivie de quelques variantes qui ont été signalées.
 
-## Players and Cards
+## Joueurs et cartes
 
-The game is suitable for 2 to 5 players. A standard international 52-card pack is used. Aces are low, so the ranking order of cards in each suit is A-2-3-4-5-6-7-8-9-10-J-Q-K. 
+Le jeu convient à 2 à 5 joueurs. On utilise un jeu international standard de 52 cartes. Les As sont bas, donc l'ordre de classement des cartes dans chaque couleur est A-2-3-4-5-6-7-8-9-10-V-D-R.
 
-Deal and play are clockwise. The game is normally played for small stakes, each hand being a separate event. The stake per point should therefore be agreed in advance.
+La donne et le jeu se font dans le sens des aiguilles d'une montre. Le jeu se joue normalement pour de petites mises, chaque main étant un événement séparé. La mise par point doit donc être convenue à l'avance.
 
-Valid card combinations are:
+Les combinaisons valides sont :
 
-- a **set** of 3 or 4 equal ranked cards, such as ![spade](../images/internat/spade.gif)5-![diamond](../images/internat/diamond.gif)5-![club](../images/internat/club.gif)5 or ![heart](../images/internat/heart.gif)Q-![club](../images/internat/club.gif)Q-![diamond](../images/internat/diamond.gif)Q-![spade](../images/internat/spade.gif)Q.
+- un **ensemble** de 3 ou 4 cartes de même rang, comme ![pique](../images/internat/spade.gif)5-![carreau](../images/internat/diamond.gif)5-![trèfle](../images/internat/club.gif)5 ou ![cœur](../images/internat/heart.gif)D-![trèfle](../images/internat/club.gif)D-![carreau](../images/internat/diamond.gif)D-![pique](../images/internat/spade.gif)D.
 
-- a **run** of 3 or more consecutive cards of the same suit such as ![heart](../images/internat/heart.gif)A-![heart](../images/internat/heart.gif)2-![heart](../images/internat/heart.gif)3 or ![diamond](../images/internat/diamond.gif)7-![diamond](../images/internat/diamond.gif)8-![diamond](../images/internat/diamond.gif)9-![diamond](../images/internat/diamond.gif)10-![diamond](../images/internat/diamond.gif)J. Note that ![club](../images/internat/club.gif)Q-![club](../images/internat/club.gif)K-![club](../images/internat/club.gif)A is not a valid run since Aces are always low.
+- une **suite** de 3 cartes consécutives ou plus de la même couleur comme ![cœur](../images/internat/heart.gif)A-![cœur](../images/internat/heart.gif)2-![cœur](../images/internat/heart.gif)3 ou ![carreau](../images/internat/diamond.gif)7-![carreau](../images/internat/diamond.gif)8-![carreau](../images/internat/diamond.gif)9-![carreau](../images/internat/diamond.gif)10-![carreau](../images/internat/diamond.gif)V. Notez que ![trèfle](../images/internat/club.gif)D-![trèfle](../images/internat/club.gif)R-![trèfle](../images/internat/club.gif)A n'est pas une suite valide car les As sont toujours bas.
 
-## Deal
+## La donne
 
-Any player may deal first. The dealer shuffles, the player to dealer's right cuts, and the dealer deals the cards one at a time, clockwise, 10 cards each if there are 2 players, or 7 cards each if there are 3 or more.
+N'importe quel joueur peut distribuer en premier. Le donneur bat les cartes, le joueur à la droite du donneur coupe, et le donneur distribue les cartes une à la fois, dans le sens des aiguilles d'une montre, 10 cartes chacun s'il y a 2 joueurs, ou 7 cartes chacun s'il y en a 3 ou plus.
 
-The dealer then stacks the remainder of the pack face down as a drawing stock, turns up the top card of the stock, and places it face up beside the stock to begin the discard pile.
+Le donneur empile ensuite le reste du jeu face cachée comme pioche, retourne la carte du dessus de la pioche, et la place face visible à côté pour commencer la pile de défausse.
 
-The turn to deal passes to the left after each hand.
+Le tour de donne passe à la gauche après chaque main.
 
-## Play
+## Le jeu
 
-The player to dealer's left begins and the turn to play passes clockwise. 
+Le joueur à la gauche du donneur commence et le tour de jeu passe dans le sens des aiguilles d'une montre.
 
-Each player begins their turn by taking either the top card of the face-down stock pile or the top card of the face-up discard pile and adding it to their hand. They must then either
+Chaque joueur commence son tour en prenant soit la carte du dessus de la pioche face cachée, soit la carte du dessus de la pile de défausse face visible, et l'ajoutant à sa main. Il doit ensuite soit
 
-- discard one card from their hand **face up** on the discard pile, after which the turn passes to the next player, or
+- défausser une carte de sa main **face visible** sur la pile de défausse, après quoi le tour passe au joueur suivant, ou
 
-- '**knock**' by discarding one card from their hand **face down** on top of the discard pile, ending the play.
+- **« frapper »** en défaussant une carte de sa main **face cachée** sur la pile de défausse, mettant fin au jeu.
 
-As in most rummy games, a player who takes the top card from the discard pile is not allowed to discard the same card, leaving the the discard pile exactly as it was before.
+Comme dans la plupart des jeux de rami, un joueur qui prend la carte du dessus de la pile de défausse n'est pas autorisé à défausser la même carte, laissant la pile de défausse exactement comme elle était avant.
 
-Note that a player may knock on any turn, even on their first turn of the game. Therefore some players may not have a turn at all before the play ends.
+Notez qu'un joueur peut frapper à n'importe quel tour, même à son premier tour du jeu. Par conséquent, certains joueurs peuvent ne pas avoir de tour du tout avant que le jeu ne se termine.
 
-In this game players tend to knock early, so it is very unusual for the stock pile to run out. If the stock is empty and the next player does not wish to draw from the discard pile, the play ends and the hand is scored with no bonus or penalty for the knock.
+Dans ce jeu, les joueurs ont tendance à frapper tôt, il est donc très rare que la pioche s'épuise. Si la pioche est vide et que le joueur suivant ne souhaite pas piocher dans la pile de défausse, le jeu s'arrête et la main est comptée sans bonus ni pénalité pour le frappe.
 
-## Scoring
+## Marquage des points
 
-When a player knocks, all players place their cards face up on the table and arrange them into set, runs and other cards. Unmatched cards that are not part of any set or run are known as 'deadwood'. Each player counts the total value of their deadwood. Aces count 1 point, cards 2-10 face value, picture cards (J, Q, K) count 10 each.
+Quand un joueur frappe, tous les joueurs posent leurs cartes face visible sur la table et les arrangent en ensembles, suites et autres cartes. Les cartes non associées qui ne font partie d'aucun ensemble ou suite sont appelées « deadwood ». Chaque joueur compte la valeur totale de son deadwood. Les As comptent 1 point, les cartes 2-10 leur valeur faciale, les figures (V, D, R) comptent 10 chacune.
 
-The winner is the player with the lowest deadwood value. Each of the other players pays to the winner the difference between the value of their deadwood and that of the winner. In addition, if the player who knocked does not win, the knocker must pay an extra 10 points to the winner.
+Le gagnant est le joueur avec la valeur de deadwood la plus faible. Chacun des autres joueurs paie au gagnant la différence entre la valeur de son deadwood et celle du gagnant. De plus, si le joueur qui a frappé ne gagne pas, le frappeur doit payer 10 points supplémentaires au gagnant.
 
-**Example.** Player A knocks and the players' hands are 
+**Exemple.** Le joueur A frappe et les mains des joueurs sont
 
-- **A**: ![heart](../images/internat/heart.gif)8 ![heart](../images/internat/heart.gif)9 ![heart](../images/internat/heart.gif)10 ![heart](../images/internat/heart.gif)J ![heart](../images/internat/heart.gif)Q ![club](../images/internat/club.gif)5 ![club](../images/internat/club.gif)7 (deadwood 12)
+- **A** : ![cœur](../images/internat/heart.gif)8 ![cœur](../images/internat/heart.gif)9 ![cœur](../images/internat/heart.gif)10 ![cœur](../images/internat/heart.gif)V ![cœur](../images/internat/heart.gif)D ![trèfle](../images/internat/club.gif)5 ![trèfle](../images/internat/club.gif)7 (deadwood 12)
 
-- **B**: ![club](../images/internat/club.gif)2 ![club](../images/internat/club.gif)3 ![diamond](../images/internat/diamond.gif)3 ![diamond](../images/internat/diamond.gif)4 ![heart](../images/internat/heart.gif)5 ![spade](../images/internat/spade.gif)5 ![spade](../images/internat/spade.gif)6 (deadwood 28 - no sets or runs)
+- **B** : ![trèfle](../images/internat/club.gif)2 ![trèfle](../images/internat/club.gif)3 ![carreau](../images/internat/diamond.gif)3 ![carreau](../images/internat/diamond.gif)4 ![cœur](../images/internat/heart.gif)5 ![pique](../images/internat/spade.gif)5 ![pique](../images/internat/spade.gif)6 (deadwood 28 - aucun ensemble ni suite)
 
-- **C**: ![heart](../images/internat/heart.gif)6 ![diamond](../images/internat/diamond.gif)6 ![club](../images/internat/club.gif)6 ![club](../images/internat/club.gif)7 ![club](../images/internat/club.gif)8 ![heart](../images/internat/heart.gif)2 ![spade](../images/internat/spade.gif)7 (deadwood 21. No card can be used simultaneously in a set and a run. C therefore counts the two red 6's as deadwood, which is cheaper than claiming a set of 6's and leaving the 7-8 of clubs unmatched)
+- **C** : ![cœur](../images/internat/heart.gif)6 ![carreau](../images/internat/diamond.gif)6 ![trèfle](../images/internat/club.gif)6 ![trèfle](../images/internat/club.gif)7 ![trèfle](../images/internat/club.gif)8 ![cœur](../images/internat/heart.gif)2 ![pique](../images/internat/spade.gif)7 (deadwood 21. Aucune carte ne peut être utilisée simultanément dans un ensemble et une suite. C compte donc les deux 6 rouges comme deadwood, ce qui coûte moins cher que de revendiquer un ensemble de 6 et de laisser les 7 et 8 de trèfle sans suite)
 
-- **D**: ![heart](../images/internat/heart.gif)A ![club](../images/internat/club.gif)A ![spade](../images/internat/spade.gif)2 ![diamond](../images/internat/diamond.gif)6 ![diamond](../images/internat/diamond.gif)9 ![club](../images/internat/club.gif)9 ![spade](../images/internat/spade.gif)9 (deadwood 10)
+- **D** : ![cœur](../images/internat/heart.gif)A ![trèfle](../images/internat/club.gif)A ![pique](../images/internat/spade.gif)2 ![carreau](../images/internat/diamond.gif)6 ![carreau](../images/internat/diamond.gif)9 ![trèfle](../images/internat/club.gif)9 ![pique](../images/internat/spade.gif)9 (deadwood 10)
 
-So D is the winner and the net result (including the 10 point penalty that A has to pay to D) is A: -12, B: -18, C: -11, D: +41.
+Donc D est le gagnant et le résultat net (y compris la pénalité de 10 points que A doit payer à D) est A : -12, B : -18, C : -11, D : +41.
 
-In case of a tie for least deadwood between the knocker and another player, the other player collects winnings from the players with more deadwood and the knocker neither pays nor receives anything. In case of a tie between players other than the knocker they divide the winnings (including the knocker's penalty of 10) equally between them.
+En cas d'égalité pour le moins de deadwood entre le frappeur et un autre joueur, l'autre joueur perçoit les gains des joueurs ayant plus de deadwood et le frappeur ne paie ni ne reçoit rien. En cas d'égalité entre des joueurs autres que le frappeur, ils se partagent les gains (y compris la pénalité de 10 points du frappeur) à parts égales.
 
-Knocking with no deadwood is called *'***going rum***'*. In this case the knocker wins, even in the unusual case where another player also has zero deadwood (which will only happen when two players are dealt hands with no deadwood). Each of the other players pays the knocker the value of their deadwood plus 25 points. 
+Frapper sans deadwood est appelé *« rami »*. Dans ce cas, le frappeur gagne, même dans le cas inhabituel où un autre joueur a aussi zéro deadwood (ce qui ne se produira que lorsque deux joueurs reçoivent des mains sans deadwood). Chacun des autres joueurs paie au frappeur la valeur de son deadwood plus 25 points.
 
-## Variations
+## Variantes
 
-Some play that when the a player other than the knocker wins, the knocker must pay the winner double.
+Certains jouent que lorsqu'un joueur autre que le frappeur gagne, le frappeur doit payer le double au gagnant.
 
-Guillaume Carcaro from the Grenoble region describes a variant of '*Rami*' (which is simply the French word for Rummy), which differs from North American Knock Rummy as follows: 
+Guillaume Carcaro de la région de Grenoble décrit une variante du « Rami » (qui est simplement le mot français pour Rummy), qui diffère du Knock Rummy nord-américain comme suit :
 
-- Two Jokers are added to the 52-card pack. These are wild cards that can represent any desired card, but not more than one Joker can be used in any set or run. Unmatched Jokers count as 25 points when a hand is scored.
+- Deux Joker sont ajoutés au jeu de 52 cartes. Ce sont des cartes sauvages qui peuvent représenter n'importe quelle carte souhaitée, mais pas plus d'un Joker ne peut être utilisé dans un ensemble ou une suite. Les Joker non associés comptent 25 points lorsqu'une main est comptée.
 
-- At the start, each player places an equal stake in the pool.
+- Au début, chaque joueur place une mise égale dans la cagnotte.
 
-- A player is not allowed to knock at their first turn to play - knocking is only allowed after every player has had at least one complete turn.
+- Un joueur n'est pas autorisé à frapper à son premier tour de jeu — le frappe n'est autorisé qu'après que chaque joueur a eu au moins un tour complet.
 
-- A cumulative score is kept for each player, starting at zero. When a hand is scored each player adds the value of their deadwood to their cumulative score. There is no extra penalty for knocking and not having the least deadwood. A player who has no deadwood subtracts 10 from their score.
+- Un score cumulatif est tenu pour chaque joueur, commençant à zéro. Lorsqu'une main est comptée, chaque joueur ajoute la valeur de son deadwood à son score cumulatif. Il n'y a pas de pénalité supplémentaire pour avoir frappé sans avoir le moins de deadwood. Un joueur qui n'a pas de deadwood soustrait 10 de son score.
 
-- A player who has a score of 100 points or more is eliminated from the game, or can choose to re-enter by paying to the pool half of its total contents. The re-entering player is given a score equal to the highest of those still in the game. Each player may re-enter only once during a game.
+- Un joueur qui a un score de 100 points ou plus est éliminé du jeu, ou peut choisir de réintégrer en payant à la cagnotte la moitié de son contenu total. Le joueur réintégré reçoit un score égal au plus élevé de ceux encore dans le jeu. Chaque joueur ne peut réintégrer qu'une seule fois pendant une partie.
 
-- When all but one player have been eliminated, the last surviving player collects the whole pool.
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Knock Rummy
+- Quand tous les joueurs sauf un ont été éliminés, le dernier joueur survivant ramasse toute la cagnotte.

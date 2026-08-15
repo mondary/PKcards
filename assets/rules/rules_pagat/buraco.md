@@ -3,150 +3,148 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Rami, Rami
-**But :** Rules for Buraco, a partnership card game for four players from Brazil, also known as Canastra, Biriba or Perida.
-**Autres noms :** Canastra
+**But :** Règles du Buraco, un jeu de cartes en partenariat pour quatre joueurs originaire du Brésil.
+**Autres noms :** Canastra, Biriba, Perida
 
 ---
 
 ## Introduction
 
-This page is about the card game Buraco as played in **Brazil**. Similar games are played in some other countries, and there are separate pages about:
+Cette page traite du jeu de cartes Buraco tel qu'il est joué au **Brésil**. Des jeux similaires se jouent dans d'autres pays, et il existe des pages séparées pour :
 
-- the Italian card game Burraco
+- le jeu de cartes italien Burraco
 
-- the Argentinean tile game Burako
+- le jeu de tuiles argentin Burako
 
-Buraco is a four-player partenrship game related to Canasta, and in some ways similar to Samba, in that the aim is to meld combinations of seven or more cards that can be either **sets** of equal rank or **sequences** in a suit. As in several of the newer games of this family each team is dealt an extra hand of cards which is picked up by the first member the team who plays all the cards from their initial hand.
+Le Buraco est un jeu de partenariat à quatre joueurs apparenté au Canasta, et à certains égards semblable au Samba, dans la mesure où le but est de constituer des combinaisons de sept cartes ou plus qui peuvent être soit des **suites** de rangs égaux, soit des **séquences** dans une couleur. Comme dans plusieurs des jeux plus récents de cette famille, chaque équipe reçoit une main supplémentaire de cartes qui est ramassée par le premier membre de l'équipe qui joue toutes les cartes de sa main initiale.
 
-**Buraco** originated in South America, probably in the 1940's, and is still widely played there. A similar game Burako is played in Argentina using tiles instead of cards, and since the 1990's a variation Burraco has become extremely popular in Italy. 
+Le **Buraco** est originaire d'Amérique du Sud, probablement dans les années 1940, et y est encore largement joué. Un jeu similaire, le Burako, se joue en Argentine avec des tuiles au lieu de cartes, et depuis les années 1990, une variante appelée Burraco est devenue extrêmement populaire en Italie.
 
-Several versions of Buraco are played in Brazil, where the game is also known as **Canastra**, **Biriba **or **Perida**. **Buraco Aberto** (open buraco) will be described first, then the differences in **Buraco Fechado** (closed buraco), and finally some other variants.
+Plusieurs versions du Buraco se jouent au Brésil, où le jeu est aussi connu sous les noms de **Canastra**, **Biriba** ou **Perida**. Le **Buraco Aberto** (buraco ouvert) sera d'abord décrit, puis les différences du **Buraco Fechado** (buraco fermé), et enfin d'autres variantes.
 
-## Players and Cards
+## Joueurs et cartes
 
-There are normally 4 players in two fixed partnerships. The deal and play are clockwise. A 108-card pack is used, consisting of two standard 52-card packs with four wild jokers, known as *curingão*. The twos, known as *curinga* can be used either as wild cards or as natural twos in sequences. The card values are:
+Il y a normalement 4 joueurs en deux partenariats fixes. La donne et le jeu se font dans le sens horaire. On utilise un jeu de 108 cartes, composé de deux jeux standard de 52 cartes avec quatre jokers sauvages, appelés *curingão*. Les deux, appelés *curinga*, peuvent être utilisés soit comme cartes sauvages soit comme deux naturels dans les séquences. Les valeurs des cartes sont :
 
-- Each joker: 20 points
+- Chaque joker : 20 points
 
-- Each two: 10 points
+- Chaque deux : 10 points
 
-- Each ace: 15 points
+- Chaque as : 15 points
 
-- Each K, Q, J, 10, 9 or 8: 10 points
+- Chaque R, D, V, 10, 9 ou 8 : 10 points
 
-- Each 7, 6, 5, 4 or 3: 5 points.
+- Chaque 7, 6, 5, 4 ou 3 : 5 points.
 
-## Deal
+## Donnée
 
-The first dealer is chosen by drawing cards and thereafter the turn to deal passes to the left. The player to dealer's right cuts the cards and forms two 11-card piles (*mortos*) from the cut portion: these are put aside to be taken by the first player of each team who runs out of cards. The dealer deals the cards one at a time from the remainder of the pack: 11 to each player. The remaining 42 cards are stacked face down to form the draw pile (*monte*). The game begins with the discard pile (*lixo* or *bagaço*) empty.
+Le premier donneur est choisi par tirage au sort et ensuite le tour de donner passe à gauche. Le joueur à droite du donneur coupe les cartes et forme deux tas de 11 cartes (*mortos*) à partir de la partie coupée : ceux-ci sont mis de côté pour être pris par le premier joueur de chaque équipe qui se retrouve sans cartes. Le donneur distribue les cartes une à la fois à partir du reste du jeu : 11 à chaque joueur. Les 42 cartes restantes sont empilées face cachée pour former la pioche (*monte*). Le jeu commence avec la pile de défausse (*lixo* ou *bagaço*) vide.
 
-## Melds
+## Combinaisons
 
-The aim of the game is to score points by putting down melds. Each team keeps its melds together. Players can add cards to their own team's melds but not to melds put down by their opponents.
+Le but du jeu est de marquer des points en posant des combinaisons. Chaque équipe conserve ses combinaisons ensemble. Les joueurs peuvent ajouter des cartes aux combinaisons de leur propre équipe mais pas à celles posées par leurs adversaires.
 
-A meld consists of a **sequence** *(seguida)* of three or more consecutive cards of a suit. For this purpose the cards rank A-2-3-4-5-6-7-8-9-10-J-Q-K-A. It is possible to have a 14-card sequence with an ace at each end. A meld can contain at most one wild card (a joker or a two) as a substitute for a missing card. A two of the correct suit can alternatively be used as a natural card, immediately below the three, and it is possible for a sequence to contain a wild two or joker in addition to a natural two.
+Une combinaison se compose d'une **séquence** (*seguida*) de trois cartes consécutives ou plus d'une même couleur. À cet effet, les cartes se classent A-2-3-4-5-6-7-8-9-10-V-D-R-A. Il est possible d'avoir une séquence de 14 cartes avec un as à chaque extrémité. Une combinaison peut contenir au plus une carte sauvage (un joker ou un deux) en remplacement d'une carte manquante. Un deux de la bonne couleur peut alternativement être utilisé comme carte naturelle, juste en dessous du trois, et il est possible qu'une séquence contienne un deux sauvage ou un joker en plus d'un deux naturel.
 
-A sequence that contains a wild card is **dirty** *(suja)*: a sequence consisting entirely of natural cards is **clean** *(limpa)*. A sequence of seven or more cards is called a *canastra*, and the team scores a bonus for this.
+Une séquence contenant une carte sauvage est **sale** (*suja*) : une séquence composée uniquement de cartes naturelles est **propre** (*limpa*). Une séquence de sept cartes ou plus est appelée *canastra*, et l'équipe marque un bonus pour cela.
 
-In Buraco Aberto there are **no sets of equal cards**, only sequences.
+Dans le Buraco Aberto, il n'y a **pas de suites de cartes égales**, uniquement des séquences.
 
-## Play
+## Jeu
 
-The first player, to the right of the dealer, takes the top card of the draw pile, looks at it, and decides whether or not to keep it. The options for the first player are:
+Le premier joueur, à la droite du donneur, prend la carte du dessus de la pioche, la regarde et décide de la garder ou non. Les options pour le premier joueur sont :
 
-- Keep the first card; possibly put down one or more melds; discard one card from hand face up to end the first player's turn.
+- Garder la première carte ; éventuellement poser une ou plusieurs combinaisons ; défausser une carte de sa main face visible pour terminer le tour du premier joueur.
 
-- Discard the first card face up; take a second card from the draw pile; possibly put down one or more melds; discard a second card face up on top of the first to end turn.
+- Défausser la première carte face visible ; prendre une deuxième carte de la pioche ; éventuellement poser une ou plusieurs combinaisons ; défausser une deuxième carte face visible par-dessus la première pour terminer le tour.
 
-Thereafter, the turn to play passes counter-clockwise and each turn consists of:
+Ensuite, le tour de jouer passe dans le sens antihoraire et chaque tour consiste à :
 
-- Taking either the top card of the face-down draw pile or the **whole** of the face-up discard pile.
+- Prendre soit la carte du dessus de la pioche face cachée, soit la **totalité** de la pile de défausse face visible.
 
-- Optionally putting down melds or adding cards to melds already put down by the player's team.
+- Poser éventuellement des combinaisons ou ajouter des cartes aux combinaisons déjà posées par l'équipe du joueur.
 
-- Discarding one card face up on the discard pile.
+- Défausser une carte face visible sur la pile de défausse.
 
-In this open game, the cards of the discard pile are overlapped, so that all their values can be seen.
+Dans ce jeu ouvert, les cartes de la pile de défausse sont chevauchées, de sorte que toutes leurs valeurs puissent être vues.
 
-**Note:** the special procedure for the first player is almost equivalent to having turned up a card after the deal to start the discard pile and giving the first player a normal turn, choosing between this and drawing an unknown card from the stock pile. The only real difference is that if the first player keeps the first card drawn, the other players do not know what it was.
+**Remarque :** la procédure spéciale pour le premier joueur est presque équivalente à avoir retourné une carte après la donne pour commencer la pile de défausse et donner au premier joueur un tour normal, avec le choix entre celle-ci et piocher une carte inconnue de la pioche. La seule vraie différence est que si le premier joueur garde la première carte piochée, les autres joueurs ne savent pas ce qu'elle était.
 
-The first player who gets rid of the last card from his or her hand picks up takes the first *morto* of 11 cards to use as a new hand. The second *morto* is taken by the first player of the other team who runs out of cards. Running out of cards is known as a *batida* and there are two types:
+Le premier joueur qui se débarrasse de la dernière carte de sa main prend le premier *morto* de 11 cartes pour l'utiliser comme nouvelle main. Le deuxième *morto* est pris par le premier joueur de l'autre équipe qui se retrouve sans cartes. Se retrouver sans cartes est appelé une *batida* et il y en a deux types :
 
-- ***batida direta*** (or ***batida seco***) in which all the player's cards are melded. The player picks up the *morto* and carries on melding, until the turn is ended by discarding from the new hand.
+- ***batida direta*** (ou ***batida seco***) dans laquelle toutes les cartes du joueur sont combinées. Le joueur prend le *morto* et continue à combiner, jusqu'à ce que le tour se termine par une défausse de la nouvelle main.
 
-- ***batida indireta***: when a player discards his or her last card to claim a *morto*, the new 11-card hand cannot be used until the player's next turn. 
+- ***batida indireta*** : lorsqu'un joueur défausse sa dernière carte pour réclamer un *morto*, la nouvelle main de 11 cartes ne peut être utilisée qu'au prochain tour du joueur.
 
-When a team has taken its *morto*, either player of that team can end the play with a second *batida* if the following conditions are fulfilled:
+Lorsqu'une équipe a pris son *morto*, n'importe quel joueur de cette équipe peut terminer le jeu avec une deuxième *batida* si les conditions suivantes sont remplies :
 
-- The player melds all but one card from hand, and discards this last card.
+- Le joueur combine toutes les cartes de sa main sauf une, et défausse cette dernière carte.
 
-- The team has melded at least one *canastra limpa* - a clean sequence of seven or more cards **without a wild card**.
+- L'équipe a combiné au moins une *canastra limpa* — une séquence propre de sept cartes ou plus **sans carte sauvage**.
 
-If the draw pile runs out before both the *mortos* have been taken, then a *morto* is converted into a new draw pile of 11 cards, and play continues. If the draw pile becomes empty and both *mortos* have been used, the play ends. The turn of the player who took the last card from the draw pile is completed, and the points are then counted.
+Si la pioche s'épuise avant que les deux *mortos* aient été pris, un *morto* est converti en nouvelle pioche de 11 cartes, et le jeu continue. Si la pioche devient vide et que les deux *mortos* ont été utilisés, le jeu s'arrête. Le tour du joueur qui a pris la dernière carte de la pioche est complété, et les points sont alors comptés.
 
-## Scoring
+## Comptage
 
-When the play ends, both teams score as follows:
+À la fin du jeu, les deux équipes comptent comme suit :
 
-| cards in melds on the table | plus card value |
-| cards in players' hands | minus card value |
-| canastra limpa (clean sequence of 7+ cards) | 200 points extra |
-| canastra suja (7+ card sequence including wild card) | 100 points extra |
-| canastra meia real (clean 13-card sequence) | 500 points extra |
-| canastra real (clean 14-card sequence) | 1000 points extra |
-| for going out (closing) | 100 points extra |
-| if one team has not taken its morto, that team scores | minus 100 points |
+| cartes en combinaison sur la table | plus la valeur des cartes |
+| cartes dans la main des joueurs | moins la valeur des cartes |
+| canastra limpa (séquence propre de 7+ cartes) | 200 points en bonus |
+| canastra suja (séquence de 7+ cartes incluant une carte sauvage) | 100 points en bonus |
+| canastra meia real (séquence propre de 13 cartes) | 500 points en bonus |
+| canastra real (séquence propre de 14 cartes) | 1000 points en bonus |
+| pour être sorti (fermeture) | 100 points en bonus |
+| si une équipe n'a pas pris son morto, cette équipe marque | moins 100 points |
 
-If a player takes a *morto* after discarding (*batida indireta*), but never plays a turn with it because someone else goes out before the player's next turn, the team is charged the 100 point penalty for the unused *morto*, rather than adding up the values of the cards in it. Note that if neither team has taken its *morto*, the 100-point penalty does not apply to either side.
+Si un joueur prend un *morto* après avoir défaussé (*batida indireta*), mais ne joue jamais un tour avec parce que quelqu'un d'autre sort avant son prochain tour, l'équipe se voit infliger la pénalité de 100 points pour le *morto* inutilisé, plutôt que d'additionner les valeurs des cartes qu'il contient. Notez que si aucune équipe n'a pris son *morto*, la pénalité de 100 points ne s'applique à aucune des deux équipes.
 
-The game is normally played to 3000 points: when a team reaches or passes this total, the team with the higher score wins.
+Le jeu se joue normalement jusqu'à 3000 points : lorsqu'une équipe atteint ou dépasse ce total, l'équipe ayant le score le plus élevé gagne.
 
-A team whose cumulative score is at least half the target score (at least 1500 when playing to 3000) is said to be **vulnerable**. The first meld(s) put down by a vulnerable team must have a card value of at least 75 points.
+Une équipe dont le score cumulatif est au moins la moitié du score cible (au moins 1500 en jouant à 3000) est dite **vulnérable**. La ou les premières combinaisons posées par une équipe vulnérable doivent avoir une valeur en cartes d'au moins 75 points.
 
 ## Buraco Fechado
 
-This game is called "closed buraco" because the cards of the discard pile are stacked so that only the top card is visible. It is usually played with several other differences from the above rules.
+Ce jeu est appelé « buraco fermé » car les cartes de la pile de défausse sont empilées de sorte que seule la carte du dessus est visible. Il se joue généralement avec plusieurs autres différences par rapport aux règles ci-dessus.
 
-- It is possible to meld a set of three or more equal cards, known as a *lavadeira* or *charuto* or *tripa*. At most one wild card can be included in the set. A set of seven or more forms a *canastra suja* or *canastra limpa*, depending on whether it contains a wild card, and scores accordingly. It is possible to meld a set of twos, and a *canastra* of twos scores 1000 points extra instead of 100 or 200.
+- Il est possible de combiner une suite de trois cartes ou plus de même rang, appelée *lavadeira* ou *charuto* ou *tripa*. Au plus une carte sauvage peut être incluse dans la suite. Une suite de sept cartes ou plus forme une *canastra suja* ou *canastra limpa*, selon qu'elle contient ou non une carte sauvage, et marque en conséquence. Il est possible de combiner une suite de deux, et une *canastra* de deux rapporte 1000 points en bonus au lieu de 100 ou 200.
 
-- The discard pile can only be taken if its top card is immediately used in a meld. This meld can include other cards from the pile, and if the team is vulnerable, meldable cards from the pile can be used towards the 75 points to justify its first meld. If the top card of the discard pile is a wild card (two or joker), the pile can only be taken is the wild card is used as part of a **new** meld.
+- La pile de défausse ne peut être prise que si sa carte du dessus est immédiatement utilisée dans une combinaison. Cette combinaison peut inclure d'autres cartes de la pile, et si l'équipe est vulnérable, les cartes combinables de la pile peuvent être utilisées pour atteindre les 75 points afin de justifier sa première combinaison. Si la carte du dessus de la pile de défausse est une carte sauvage (deux ou joker), la pile ne peut être prise que si la carte sauvage est utilisée dans une **nouvelle** combinaison.
 
-- A player can go out if the player's team has taken its *morto* and made at least one *canastra* - the *canastra* does **not** have to be clean.
+- Un joueur peut sortir si l'équipe du joueur a pris son *morto* et a réalisé au moins une *canastra* — la *canastra* n'a **pas** besoin d'être propre.
 
-## Variations
+## Variantes
 
-Some play to a target of 2000 or 3500 points rather than 3000.
+Certains jouent à un objectif de 2000 ou 3500 points plutôt que 3000.
 
-Some players round all scores up to a multiples of 10 - for example 485 is recorded as 490.
+Certains joueurs arrondissent tous les scores à la dizaine supérieure — par exemple, 485 est enregistré comme 490.
 
-Some play without vulnerability - there is no minimum meld value.
+Certains jouent sans vulnérabilité — il n'y a pas de valeur minimale de combinaison.
 
-Some play that jokers are worth 50 points each rather than 20. 
+Certains jouent que les jokers valent 50 points chacun plutôt que 20.
 
-Some play without jokers, so with 106 cards only. In this version the only wild cards are the twos.
+Certains jouent sans jokers, donc avec seulement 106 cartes. Dans cette version, les seules cartes sauvages sont les deux.
 
-Some score 150 for a dirty canastra and 300 for a clean canastra.
+Certains marquent 150 pour une canastra sale et 300 pour une canastra propre.
 
-In *buraco fechado*, some count any clean set of all 8 cards of a rank, such as eight 9's, as a *canastra real*, worth 1000 points.
+Au *buraco fechado*, certains comptent toute suite propre des 8 cartes d'un même rang, comme huit 9, comme une *canastra real*, valant 1000 points.
 
-In *buraco aberto*, some allow a set of three of more aces to be melded, but no ranks other than aces.
+Au *buraco aberto*, certains autorisent une suite de trois As ou plus à être combinée, mais aucun autre rang.
 
-Some award a bonus of 100 points to the non-dealing team if the player making the cut does so in such a way as to leave exactly 44 cards, so that the dealer has exactly enough cards to deal to the players. However, when playing with this rule, if the cutter leaves the dealer with fewer than 44 cards, the cutter's team is charged a 100-point penalty.
+Certains accordent un bonus de 100 points à l'équipe non donneuse si le joueur qui coupe le jeu le fait de manière à laisser exactement 44 cartes, de sorte que le donneur ait exactement assez de cartes pour distribuer. Cependant, en jouant avec cette règle, si le coupeur laisse au donneur moins de 44 cartes, l'équipe du coupeur se voit infliger une pénalité de 100 points.
 
-Some play that the person who cuts the deck can look at the bottom card from the upper portion of the cut. If that card is a joker or a 2 (that is, any wild card), they can keep it as a card for their hand. Dealing happens normally, but the person who cut and already has their first card is skipped during the first dealing round.
+Certains jouent que la personne qui coupe le jeu peut regarder la carte du bas de la partie supérieure de la coupe. Si cette carte est un joker ou un 2 (c'est-à-dire n'importe quelle carte sauvage), elle peut la garder comme carte pour sa main. La donne se déroule normalement, mais la personne qui a coupé et a déjà sa première carte est ignorée lors du premier tour de donne.
 
-## Other Brazilian Buraco websites
+## Autres sites brésiliens sur le Buraco
 
-There is a description of Buraco on [Portuguese Wikipedia](https://pt.wikipedia.org/wiki/Buraco_(jogo_de_cartas))
+Il existe une description du Buraco sur [Wikipédia en portugais](https://pt.wikipedia.org/wiki/Buraco_(jogo_de_cartas))
 
-You can play Buraco on line at
+Vous pouvez jouer au Buraco en ligne sur
 
-- the Brazilian [Megajogos](https://www.megajogos.com.br) site
+- le site brésilien [Megajogos](https://www.megajogos.com.br)
 
-- The Brazilian [Jogatina](https://www.jogatina.com) site, which offers two versions of Buraco and a related game Tranca.
+- Le site brésilien [Jogatina](https://www.jogatina.com), qui propose deux versions du Buraco et un jeu apparenté, le Tranca.
 
-- The Brazilian [Ludopoli](https://www.ludopoli.br.com) site, where you can play buraco aberto and fechado, tranca and other card games.
+- Le site brésilien [Ludopoli](https://www.ludopoli.br.com), où vous pouvez jouer au buraco aberto et fechado, au tranca et à d'autres jeux de cartes.
 
 - [Game Desire](https://www.gamedesire.com/games/card-games)
-
-Home Page > Classified Index > Draw and Discard Games > Rummy Games > Buraco

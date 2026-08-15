@@ -3,207 +3,203 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** An old English card game also played in America, in which players who take no tricks must match the pot.
+**But :** Un ancien jeu de cartes anglais aussi joué en Amérique, dans lequel les joueurs qui ne remportent aucune levée doivent payer la cagnotte.
+**Autres noms :** Lanterlu, Lue, Lou
 
 ---
 
 ## Introduction
 
-Loo is a trick-taking game using a standard 52-card pack which originated in England and also became popular in America. Although 'Loo' has become the standard spelling, the name of the game, which began as a short form of 'Lanterlu', is sometimes written as 'Lue' or 'Lou'. The earliest known description dates from the 17th century and Loo is included in most general English and American card game manuals until the end of the 19th century. In Britain it was then superseded by Nap and in America it was said to have been displaced by Poker, though in fact Loo survives there to the present day as an option in some home Poker games.
+Le Loo est un jeu de levées utilisant un jeu standard de 52 cartes qui a pris naissance en Angleterre et est aussi devenu populaire en Amérique. Bien que « Loo » soit devenu l'orthographe standard, le nom du jeu, qui a commencé comme une forme abrégée de « Lanterlu », s'écrit parfois « Lue » ou « Lou ». La plus ancienne description connue date du 17e siècle et le Loo est inclus dans la plupart des manuels généraux anglais et américains de jeux de cartes jusqu'à la fin du 19e siècle. En Grande-Bretagne, il a ensuite été supplanté par le Nap et en Amérique, on a dit qu'il avait été déplacé par le Poker, bien qu'en fait le Loo y survive jusqu'à aujourd'hui comme option dans certains jeux de Poker à domicile.
 
-Loo is played with either three-card or five-card hands. From the literature it seems that five-card Loo was the more popular game in the 18th century, but by the late 19th century three-card Loo was preferred. Players can opt to play with the cards they are dealt, or try to improve their hand by drawing cards or exchanging with a dummy hand, or to drop out to avoid the penalty for taking no tricks. At the end of the play, the contents of the pool are divided between the players in proportion to the number of tricks taken, and any player who stayed in but took no tricks at all is 'looed', meaning that they have to pay an amount to the pool which may be fixed (in 'Limited Loo') or equal to what it contains (in 'Unlimited Loo').
+Le Loo se joue avec des mains de trois ou cinq cartes. D'après la littérature, il semble que le Loo à cinq cartes était le jeu le plus populaire au 18e siècle, mais à la fin du 19e siècle, le Loo à trois cartes était préféré. Les joueurs peuvent choisir de jouer avec les cartes qui leur sont distribuées, d'essayer d'améliorer leur main en piochant des cartes ou en échangeant avec une main muette, ou de se retirer pour éviter la pénalité de n'avoir pris aucune levée. À la fin du jeu, le contenu de la cagnotte est divisé entre les joueurs proportionnellement au nombre de levées remportées, et tout joueur qui est resté mais n'a remporté aucune levée est « looé », c'est-à-dire qu'il doit payer un montant à la cagnotte qui peut être fixe (dans le « Loo limité ») ou égal à ce qu'elle contient (dans le « Loo illimité »).
 
-It is clear from the variety of published descriptions that there were numerous variants of Loo, both in the management of the stakes and in the rules for playing the cards. On this page we first describe what seems to have become the standard version of three-card limited Loo by the end of the 19th century and list some of the variations. There follows a description of five-card Loo as played in America in the early 19th century, and then a modern version of five-card Loo played as an option in Dealer's Choice Poker.
+Il ressort clairement de la variété des descriptions publiées qu'il existait de nombreuses variantes du Loo, tant dans la gestion des mises que dans les règles de jeu des cartes. Sur cette page, nous décrivons d'abord ce qui semble être devenu la version standard du Loo limité à trois cartes vers la fin du 19e siècle, puis nous listons quelques variantes. Suit une description du Loo à cinq cartes tel qu'il était joué en Amérique au début du 19e siècle, puis une version moderne du Loo à cinq cartes joué comme option dans le Poker au choix du donneur.
 
-## Three-Card Loo
+## Loo à trois cartes
 
-### Players and Equipment
+### Joueurs et matériel
 
-The game is said to be best for from 5 to 8 players, but it is possible for a smaller or greater number to play by the same rules.
+Le jeu convient idéalement pour 5 à 8 joueurs, mais il est possible pour un nombre plus petit ou plus grand de jouer avec les mêmes règles.
 
-A standard international 52-card pack is used, the cards in each suit ranking from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2.
+On utilise un jeu international standard de 52 cartes, les cartes de chaque couleur étant classées de haut en bas A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-A supply of chips is needed. Traditionally these are red and while, each red chip being equal in value to three white chips. The value of the chips is agreed in advance. One player is appointed as the banker, who sells chips to the players at the start and during the game as required, and buys them back at the end of the game. It is recommended that each player begins the game by buying the equivalent of 20 red chips.
+Un stock de jetons est nécessaire. Traditionnellement, ceux-ci sont rouges et blancs, chaque jeton rouge ayant une valeur égale à trois jetons blancs. La valeur des jetons est convenue à l'avance. Un joueur est désigné comme banquier, qui vend des jetons aux joueurs au début et pendant le jeu selon les besoins, et les rachète à la fin du jeu. Il est recommandé que chaque joueur commence le jeu en achetant l'équivalent de 20 jetons rouges.
 
-Deal and play are clockwise and the turn to deal passes to the left after each hand. The first dealer can be chosen by any convenient random method, for example by dealing single cards face up around the table until a Jack appears.
+La donne et le jeu se font dans le sens des aiguilles d'une montre et le tour de donne passe à la gauche après chaque main. Le premier donneur peut être choisi par n'importe quelle méthode aléatoire appropriée, par exemple en distribuant des cartes face visible autour de la table jusqu'à ce qu'un Valet apparaisse.
 
-### Deal and Announcements
+### Donne et annonces
 
-Before dealing, the dealer must always place three red chips in the pool. If the pool was previously empty, it is now a **simple pool** containing just three red chips. If it already contained chips from the previous deal, the dealer adds three red chips to it and it is now a **double pool**. Any player may shuffle the cards, the dealer having the right to shuffle last, after which the player to dealer's right cuts the cards. The deal and play differ slightly depending whether the pool is simple or double.
+Avant de distribuer, le donneur doit toujours placer trois jetons rouges dans la cagnotte. Si la cagnotte était précédemment vide, elle est maintenant une **cagnotte simple** contenant juste trois jetons rouges. Si elle contenait déjà des jetons de la donne précédente, le donneur ajoute trois jetons rouges et elle devient une **cagnotte double**. N'importe quel joueur peut battre les cartes, le donneur ayant le droit de battre en dernier, après quoi le joueur à la droite du donneur coupe les cartes. La donne et le jeu diffèrent légèrement selon que la cagnotte est simple ou double.
 
-### Simple Pool
+### Cagnotte simple
 
-The dealer deals the cards one at a time until each player has a hand of three cards. When there is a simple pool the trump suit is initially unknown and players have no opportunity to drop out.
+Le donneur distribue les cartes une à la fois jusqu'à ce que chaque joueur ait une main de trois cartes. Lorsqu'il y a une cagnotte simple, la couleur d'atout est initialement inconnue et les joueurs n'ont pas la possibilité de se retirer.
 
-The player to dealer's left leads any card to the first trick, and the other players in turn must follow suit if they can, and if possible must beat the highest card so far played to the trick. If everyone follows suit the highest card of the suit led wins the trick and the winner of the trick leads to the next.
+Le joueur à la gauche du donneur entame n'importe quelle carte à la première levée, et les autres joueurs à tour de rôle doivent suivre la couleur s'ils le peuvent, et si possible battre la carte la plus haute jouée à la levée. Si tout le monde suit la couleur, la carte la plus haute de la couleur demandée remporte la levée et le gagnant entame la suivante.
 
-If a player is unable to follow suit they may play any card, and after everyone has played to the trick the dealer turns up the top card of the stack of undealt cards. The suit of this turned up card becomes trumps, and if any card of the trump suit was played, the highest trump wins the trick. If no trumps were played the highest card of the suit led wins it.
+Si un joueur est incapable de suivre la couleur, il peut jouer n'importe quelle carte, et après que tout le monde a joué à la levée, le donneur retourne la carte du dessus de la pile de cartes non distribuées. La couleur de cette carte retournée devient l'atout, et si une carte de l'atout a été jouée, le plus haut atout remporte la levée. Si aucun atout n'a été joué, la carte la plus haute de la couleur demandée remporte la levée.
 
-After a trump card has been turned up, the rules of play change slightly. The winner of the previous trick must lead a trump if possible. Players must still follow suit and subject to this rule must beat the highest card so far played to the trick if they can. If a non-trump is led, a player who is unable to follow suit must play a trump that is high enough to beat any trumps already played to the trick if they can. If they cannot follow suit and have no trump high enough to head the trick they may play any card. As before the trick is won by the highest trump in it, or if none were played the highest card of the suit that was led, and the winner leads to the next trick, leading a trump if possible.
+Après qu'une carte d'atout a été retournée, les règles du jeu changent légèrement. Le gagnant de la levée précédente doit entamer un atout si possible. Les joueurs doivent toujours suivre la couleur et, sous réserve de cette règle, doivent battre la carte la plus haute jouée à la levée s'ils le peuvent. Si une couleur non-atout est demandée, un joueur incapable de suivre la couleur doit jouer un atout suffisamment haut pour battre tous les atouts déjà joués à la levée s'il le peut. S'il ne peut pas suivre la couleur et n'a pas d'atout assez haut pour prendre la tête de la levée, il peut jouer n'importe quelle carte. Comme auparavant, la levée est remportée par le plus haut atout, ou s'il n'y en a pas, par la carte la plus haute de la couleur demandée, et le gagnant entame la levée suivante, entamant un atout si possible.
 
-Traditionally the winner of the trick does not gather up the cards as in most other trick-taking games. Players play their cards face up in front of themselves, where they remain until the end of the play.
+Traditionnellement, le gagnant de la levée ne ramasse pas les cartes comme dans la plupart des autres jeux de levées. Les joueurs jouent leurs cartes face visible devant eux, où elles restent jusqu'à la fin du jeu.
 
-When all three tricks have been played, players take one third of the pool (one red chip) for each trick they have won. Players who did not win any tricks are 'looed' and must each pay three red chips to the next pool. The next dealer will add three more red chips to these creating a 'double pool'.
+Lorsque les trois levées ont été jouées, les joueurs prennent un tiers de la cagnotte (un jeton rouge) pour chaque levée qu'ils ont remportée. Les joueurs qui n'ont remporté aucune levée sont « looés » et doivent chacun payer trois jetons rouges à la cagnotte suivante. Le donneur suivant ajoutera trois autres jetons rouges à ceux-ci, créant une « cagnotte double ».
 
-### Double Pool
+### Cagnotte double
 
-As well as a three-card hand for each player, an additional three-card hand, sometimes known as the **miss** or **widow** or **dumby**, is dealt immediately to dealer's left. The cards are dealt one at a time and the second to last card in each round to the miss. When everyone has been dealt a hand, the dealer places the next card of the pack face up on the table to indicate the trump suit. The remainder of the pack is stacked face down and not used until the next deal.
+En plus d'une main de trois cartes pour chaque joueur, une main supplémentaire de trois cartes, parfois appelée le **miss** ou le **muet**, est distribuée immédiatement à la gauche du donneur. Les cartes sont distribuées une à la fois, l'avant-dernière carte de chaque tour allant au miss. Quand tout le monde a reçu une main, le donneur place la carte suivante du jeu face visible sur la table pour indiquer la couleur d'atout. Le reste du jeu est empilé face caché et n'est pas utilisé jusqu'à la donne suivante.
 
-Now beginning with the player to dealer's left and continuing clockwise each player picks up their hand, looks at it and announces what they wish to do. (It is illegal to look at your cards before it is your turn to act). There are three options.
+Maintenant, en commençant par le joueur à la gauche du donneur et continuant dans le sens des aiguilles d'une montre, chaque joueur ramasse sa main, la regarde et annonce ce qu'il souhaite faire. (Il est interdit de regarder ses cartes avant votre tour d'agir). Il y a trois options.
 
-- **Stand**. The player keeps their three cards and plays them. 
+- **Rester**. Le joueur conserve ses trois cartes et les joue.
 
-- **Pass**. The player throws in their cards and does not take part in the play. A player who passes cannot win any part of the pool on this deal, but does not risk having to pay anything to the pool.
+- **Passer**. Le joueur jette ses cartes et ne participe pas au jeu. Un joueur qui passe ne peut gagner aucune partie de la cagnotte lors de cette donne, mais ne risque pas d'avoir à payer quoi que ce soit à la cagnotte.
 
-- **T****ake the miss**. The player throws in their original hand face down and takes the unseen spare hand in its place. A player who takes the miss cannot drop out - they must play with these cards no matter how good or bad they are.
+- **Prendre le miss**. Le joueur jette sa main d'origine face cachée et prend la main de réserve non vue à sa place. Un joueur qui prend le miss ne peut pas se retirer — il doit jouer avec ces cartes quelles que soient leur qualité.
 
-There are a few special cases.
+Il y a quelques cas spéciaux.
 
-- If everyone passes except the dealer, then the dealer can simply collect the pool without playing the cards - the dealer wins all three tricks by default. The next player creates a new simple pool of three red chips and deals a new hand.
+- Si tout le monde passe sauf le donneur, le donneur peut simplement ramasser la cagnotte sans jouer les cartes — le donneur gagne les trois levées par défaut. Le joueur suivant crée une nouvelle cagnotte simple de trois jetons rouges et distribue une nouvelle main.
 
-- If one player other than the dealer stands and all the others pass then the dealer is not allowed to pass but can either stand or take the miss in the normal way. If not wishing to risk either of these the dealer must **defend the pool**. A dealer who defends the pool plays with the miss (the dealer's original cards are thrown in), but neither collects not loses any chips irrespective of the number of tricks taken. Any payment for tricks won by the dealer remains in the pool.
+- Si un seul joueur autre que le donneur reste et tous les autres passent, le donneur n'est pas autorisé à passer mais peut soit rester soit prendre le miss de la manière normale. S'il ne souhaite risquer aucune de ces options, le donneur doit **défendre la cagnotte**. Un donneur qui défend la cagnotte joue avec le miss (les cartes d'origine du donneur sont jetées), mais ne gagne ni ne perd aucun jeton indépendamment du nombre de levées remportées. Tout paiement pour les levées remportées par le donneur reste dans la cagnotte.
 
-- If just one player other than the dealer takes the miss and the others all pass, then the dealer can either play with their own cards, or pass and give the whole pool to the player who took the miss. There is no option for the dealer to 'defend the pool' without risk in this case.
+- Si un seul joueur autre que le donneur prend le miss et les autres passent tous, le donneur peut soit jouer avec ses propres cartes, soit passer et donner la totalité de la cagnotte au joueur qui a pris le miss. Il n'y a pas d'option pour le donneur de « défendre la cagnotte » sans risque dans ce cas.
 
-The player to dealer's left, or if this player has passed the next player in clockwise order who has not passed leads to the first trick and as usual the winner of each trick leads to the next.
+Le joueur à la gauche du donneur, ou si ce joueur a passé le prochain joueur dans le sens des aiguilles d'une montre qui n'a pas passé, entame la première levée, et comme d'habitude le gagnant de chaque levée entame la suivante.
 
-With a double pool the trump suit is known from the start, and in each trick the player who has the lead **must lead a trump** if they have one. Moreover if they have the Ace of trumps, or if they have the King of trumps when the Ace was turned up, they must lead this top trump. Players must follow suit, and subject to that restriction they must beat the highest card so far played to the trick if they can. That includes playing a trump if they are unable to follow suit, unless the trick has already been trumped and the player has no trump high enough to overtake the highest trump so far played.
+Avec une cagnotte double, la couleur d'atout est connue dès le début, et à chaque levée le joueur qui a l'entame **doit entamer un atout** s'il en a un. De plus, s'il a l'As d'atout, ou s'il a le Roi d'atout quand l'As a été retourné, il doit entamer cet atout suprême. Les joueurs doivent suivre la couleur et, sous réserve de cette restriction, doivent battre la carte la plus haute jouée à la levée s'ils le peuvent. Cela inclut jouer un atout s'ils sont incapables de suivre la couleur, sauf si la levée a déjà été coupée et le joueur n'a pas d'atout assez haut pour dépasser le plus haut atout joué.
 
-### Payments
+### Paiements
 
-At the end of the play, each player takes one third of the contents of the pool for each trick they have won. Any player who played and took no tricks is looed and pays three red chips into the pool for the next deal.
+À la fin du jeu, chaque joueur prend un tiers du contenu de la cagnotte pour chaque levée remportée. Tout joueur qui a joué et n'a remporté aucune levée est looé et paie trois jetons rouges dans la cagnotte pour la donne suivante.
 
-In the case where the dealer 'defends the pool' the other player takes one third of the pool for each trick won, and the rest of the pool remains for the next deal, which will again be double. At this point it is usual to exchage each red chip remaining in the pool for three white chips, so that the new pool can easily be divided into three equal parts. If the dealer defends the pool and takes no tricks, the other player takes the whole pool but the dealer has nothing to pay and the next pool will be a simple pool. If the dealer defends the pool and takes all three tricks, the whole pool remains, the other player is looed and pays three red chips to it, and the next dealer's three red chips are added to that.
+Dans le cas où le donneur « défend la cagnotte », l'autre joueur prend un tiers de la cagnotte pour chaque levée remportée, et le reste de la cagnotte reste pour la donne suivante, qui sera à nouveau double. À ce stade, il est d'usage d'échanger chaque jeton rouge restant dans la cagnotte contre trois jetons blancs, pour que la nouvelle cagnotte puisse être facilement divisée en trois parts égales. Si le donneur défend la cagnotte et ne remporte aucune levée, l'autre joueur prend toute la cagnotte mais le donneur n'a rien à payer et la cagnotte suivante sera simple. Si le donneur défend la cagnotte et remporte les trois levées, toute la cagnotte reste, l'autre joueur est looé et paie trois jetons rouges, et les trois jetons rouges du donneur suivant sont ajoutés à cela.
 
-**Note**. The only purpose of the white chips is to enable the pool to be divided into three equal parts, even after a hand in which a player is not entitled to remove chips from the pool for a trick that they won. This can happen when the dealer defends the pool, or as a result of the penalty for a breaking the rules of play (by revoking , playing out of turn, etc.) in which case the offender is looed and cannot win anything from the pool. If such events happen in successive deals it can happen that the amount left in the pool includes one or two odd white chips and the pool for the next hand cannot be exactly divided by three. These odd white chips remain in the pool until a player wins the entire pool.
+**Note.** Le seul but des jetons blancs est de permettre à la cagnotte d'être divisée en trois parts égales, même après une main où un joueur n'est pas autorisé à retirer des jetons de la cagnotte pour une levée qu'il a remportée. Cela peut se produire lorsque le donneur défend la cagnotte, ou à la suite d'une pénalité pour violation des règles de jeu (renoncement, jeu hors tour, etc.), auquel cas le contrevenant est looé et ne peut rien gagner de la cagnotte. Si de tels événements se produisent lors de donnes successives, il peut arriver que le montant restant dans la cagnotte comprenne un ou deux jetons blancs impairs et que la cagnotte pour la main suivante ne puisse pas être exactement divisée par trois. Ces jetons blancs impairs restent dans la cagnotte jusqu'à ce qu'un joueur gagne la totalité de la cagnotte.
 
-### Variations
+### Variantes
 
-Unlimited Loo
-The game described above is known as 'Limited Loo' because the cost of being looed is always to pay just three red chips to the pool. In 'Unlimited Loo' a player who is looed must match the pool - that is, pay into the new pool an amount equal to the whole of the old pool. With this rule the size of the pool can increase rapidly, turning Loo into a dangerous gambling game in which even starting with apparently small stakes the pot can build over a few deals to an unaffordable sum.
-Mixed Loo
-This is a compromise between Limited and Unlimited Loo. A player who is looed matches the pot subject to an a agreed limit - say 30 red chips. When the pool contains more than 30 red chips the cost of being looed is just 30.
+Loo illimité
+Le jeu décrit ci-dessus est connu comme le « Loo limité » car le coût d'être looé est toujours de payer seulement trois jetons rouges à la cagnotte. Dans le « Loo illimité », un joueur qui est looé doit égaliser la cagnotte — c'est-à-dire payer dans la nouvelle cagnotte un montant égal à la totalité de l'ancienne cagnotte. Avec cette règle, la taille de la cagnotte peut augmenter rapidement, transformant le Loo en un jeu d'argent dangereux où même en commençant avec des mises apparemment faibles, la cagnotte peut atteindre une somme inabordable en quelques donnes.
+Loo mixte
+C'est un compromis entre le Loo limité et le Loo illimité. Un joueur qui est looé égalise la cagnotte sous réserve d'une limite convenue — par exemple 30 jetons rouges. Quand la cagnotte contient plus de 30 jetons rouges, le coût d'être looé est juste de 30.
 Club Law
-Some played that when a club was turned for trumps in a double pool, the miss was shuffled back into the deck and all players were forced to stand.
-Flushes
-A 'flush' in this game is a hand of three trumps. After all players have declared whether they will play or not, a player who holds a flush declares it and automatically wins the whole pool. Any other players who decided to play are looed (even if they could in principle have won a trick). If two or more players have flushes, the flush that is first in clockwise order beginning at dealer's left wins the pool, irrespective of the ranks of the cards in the flushes. Other flush holders are not looed in this case - they neither pay nor receive any chips. Any players without flushes who chose to play are looed as usual.
-Trump Leads
-Some play that if a player whose turn it is to lead holds more than one trump, they must lead their highest trump.
-Irish Loo
-In this variant there is no distinction between single and double pools and no miss, but players can replace some or all of their cards by drawing new ones. The dealer adds three red chips to the pool, deals three cards to each player and turns up a card to indicate the trump suit. Players declare in turn, beginning to dealer's left, whether they will play or drop out. The dealer then asks those who decided to play, in the same order, how many cards they would like to exchange. Each of them in turn may either play with their original cards or discard 1, 2 or all 3 of their cards face down, in which case the dealer gives them an equal number of replacement cards from the deck. Anyone who discards and draws cards must play - it is not possible to drop out after discarding and drawing. The play and payments then continue as described above for a double pool.
-Initial Trump and Miss with Simple Pool
-Some play that the deal when there is a simple pool is the same as with a double pool - an extra hand (the 'miss' or 'dumby') is dealt and a card is turned for trump immediately after the deal. As usual in a simple pool no one is allowed to pass, but in this version the player to dealer's left (and only this player) has the option either to play with the cards they were originally dealt or to exchange them for the miss (dumby) hand. The cards are then played under the same rules as for a double pool.
-Undivided Loo
-The game and variants described above are all versions of what is sometimes called **Division Loo**, because the pool is divided between the players in proportion to the tricks they win. In Undivided Loo the pool is never divided and is only won by a player who wins all three tricks: otherwise it remains in place, and the payments of players who are looed and of the next dealer are added to it. The cost of a loo in this game is usually set at twice the amount added to the pool by the dealer for each deal. 
+Certains jouent que lorsqu'un trèfle est retourné comme atout dans une cagnotte double, le miss est remis dans le jeu et tous les joueurs sont forcés de rester.
+Colorations
+Une « couleur » dans ce jeu est une main de trois atouts. Après que tous les joueurs ont déclaré s'ils vont jouer ou non, un joueur qui détient une couleur la déclare et gagne automatiquement toute la cagnotte. Tous les autres joueurs qui ont décidé de jouer sont looés (même s'ils auraient pu en principe gagner une levée). Si deux joueurs ou plus ont des couleurs, la couleur qui est première dans l'ordre des aiguilles d'une montre à partir de la gauche du donneur remporte la cagnotte, indépendamment des rangs des cartes dans les couleurs.
+Entames d'atout
+Certains jouent que si un joueur dont c'est le tour d'entamer détient plus d'un atout, il doit entamer son atout le plus haut.
+Loo irlandais
+Dans cette variante, il n'y a pas de distinction entre cagnotte simple et double et pas de miss, mais les joueurs peuvent remplacer certaines ou toutes leurs cartes en piochant de nouvelles. Le donneur ajoute trois jetons rouges à la cagnotte, distribue trois cartes à chaque joueur et retourne une carte pour indiquer la couleur d'atout. Les joueurs déclarent à tour de rôle, en commençant à la gauche du donneur, s'ils vont jouer ou se retirer. Le donneur demande ensuite à ceux qui ont décidé de jouer, dans le même ordre, combien de cartes ils souhaitent échanger. Chacun à son tour peut soit jouer avec ses cartes d'origine soit écarter 1, 2 ou ses 3 cartes face cachée, auquel cas le donneur leur donne un nombre égal de cartes de remplacement tirées du jeu. Quiconque écarter et pioche des cartes doit jouer — il n'est pas possible de se retirer après avoir écarté et pioché.
+Atout initial et miss avec cagnotte simple
+Certains jouent que la donne lorsqu'il y a une cagnotte simple est la même qu'avec une cagnotte double — une main supplémentaire (le « miss » ou « muet ») est distribuée et une carte est retournée pour l'atout immédiatement après la donne. Comme d'habitude avec une cagnotte simple, personne n'est autorisé à passer, mais dans cette version, le joueur à la gauche du donneur (et seulement ce joueur) a l'option soit de jouer avec les cartes qui lui ont été distribuées à l'origine soit de les échanger contre la main du miss (muet). Les cartes sont alors jouées sous les mêmes règles que pour une cagnotte double.
+Loo indivis
+Le jeu et les variantes décrits ci-dessus sont toutes des versions de ce qu'on appelle parfois le **Loo divisé**, car la cagnotte est divisée entre les joueurs proportionnellement aux levées qu'ils gagnent. Dans le Loo indivis, la cagnotte n'est jamais divisée et n'est gagnée que par un joueur qui remporte les trois levées : sinon elle reste en place, et les paiements des joueurs looés et du donneur suivant y sont ajoutés. Le coût d'un loo dans ce jeu est généralement fixé au double du montant ajouté à la cagnotte par le donneur pour chaque donne.
 
-## Five-Card Loo
+## Loo à cinq cartes
 
-### Players and Equipment
+### Joueurs et matériel
 
-Five-card Loo is a game for 4 to 7 players, said to be best for 5 or 6. 
+Le Loo à cinq cartes est un jeu pour 4 à 7 joueurs, convient idéalement pour 5 ou 6.
 
-It is played with a standard international 52-card pack, and as in three-card Loo the cards of each suit rank from highest to lowest A K Q J 10 9 8 7 6 5 4 3 2 with one exception. The Jack of clubs, known in this game as **Pam**, is the highest card in the deck, beating all other cards including trumps.
+Il se joue avec un jeu international standard de 52 cartes, et comme au Loo à trois cartes, les cartes de chaque couleur sont classées de la plus haute à la plus basse A R D V 10 9 8 7 6 5 4 3 2 avec une exception. Le Valet de trèfle, connu dans ce jeu sous le nom de **Pam**, est la carte la plus haute du jeu, battant toutes les autres cartes y compris les atouts.
 
-A supply of chips is needed. One player acts as banker, who sells chips to the players at the start and during the game as required, and buys them back at the end of the game. It is recommended that each player begins the game by buying the equivalent of 50 chips.
+Un stock de jetons est nécessaire. Un joueur agit comme banquier, qui vend des jetons aux joueurs au début et pendant le jeu selon les besoins, et les rachète à la fin du jeu. Il est recommandé que chaque joueur commence le jeu en achetant l'équivalent de 50 jetons.
 
-Deal and play are clockwise.
+La donne et le jeu se font dans le sens des aiguilles d'une montre.
 
-### Deal, Announcements and Card Exchange
+### Donne, annonces et échange de cartes
 
-The first dealer is chosen by any convenient random method - for example each player draws a card from the shuffled deck and the lowest deals. The turn to deal passes to the left after each hand.
+Le premier donneur est choisi par n'importe quelle méthode aléatoire appropriée — par exemple chaque joueur tire une carte du jeu battu et le plus bas distribue. Le tour de donne passe à la gauche après chaque main.
 
-Before dealing the dealer must always place **5 chips** in the pool, adding them to any chips remaining from the previous deal. The dealer then shuffles, the player to dealer's right cuts, and the dealer deals a hand of five cards to each player. The cards may be dealt one at a time, or a batch of two each followed by a batch of three each, or by any other fair method the dealer prefers provided that each player in rotation receives the same number of cards in each round of the deal. The dealer then places the next card face up on the table to indicate the trump suit. 
+Avant de distribuer, le donneur doit toujours placer **5 jetons** dans la cagnotte, en les ajoutant aux jetons restants de la donne précédente. Le donneur bat ensuite les cartes, le joueur à sa droite coupe, et le donneur distribue une main de cinq cartes à chaque joueur. Les cartes peuvent être distribuées une à la fois, ou par paquet de deux suivi d'un paquet de trois, ou par toute autre méthode équitable que le donneur préfère pourvu que chaque joueur à tour de rôle reçoive le même nombre de cartes à chaque tour de donne. Le donneur place ensuite la carte suivante face visible sur la table pour indiquer la couleur d'atout.
 
-Each player in turn starting with the player to dealer's left now announces whether they will **stand** or **pass**. A player who stands must take part in the play and is looed unless they take at least one trick. A player who passes throws in their cards face down, takes no part in the play, cannot win any part of the pot and cannot be looed. If only one player stood there is no play and that player takes the whole pool.
+Chaque joueur à tour de rôle, en commençant par le joueur à la gauche du donneur, annonce s'il va **rester** ou **passer**. Un joueur qui reste doit participer au jeu et est looé s'il ne remporte pas au moins une levée. Un joueur qui passe jette ses cartes face cachée, ne participe pas au jeu, ne peut gagner aucune partie de la cagnotte et ne peut pas être looé. Si un seul joueur reste, il n'y a pas de jeu et ce joueur remporte toute la cagnotte.
 
-If more than one player stood, the dealer asks the players who stood in clockwise order, starting with the nearest to dealer's left, how many cards they wish to exchange. A player who stood may exchange 0, 1, 2, 3, 4 or all 5 of their cards. They discard that number of cards face down and the dealer gives them an equal number of new cards from the top of the undealt part of the pack. The trump indicator card belongs to the dealer. If the dealer stood then at their turn they pick up the trump, discard at least one card, and draw one card fewer than they discarded so as to have a hand of five cards to play.
+Si plus d'un joueur reste, le donneur demande aux joueurs qui sont restés dans l'ordre des aiguilles d'une montre, en commençant par le plus proche à la gauche du donneur, combien de cartes ils souhaitent échanger. Un joueur qui est resté peut échanger 0, 1, 2, 3, 4 ou ses 5 cartes. Il écarte ce nombre de cartes face cachée et le donneur lui donne un nombre égal de nouvelles cartes tirées de la partie non distribuée du jeu. La carte indicatrice d'atout appartient au donneur. Si le donneur est resté, il ramasse l'atout à son tour, écarte au moins une carte et pioche une carte de moins qu'il en a écartées pour avoir une main de cinq cartes à jouer.
 
-With 7 or even 6 players it is theoretically possible to run out of replacement cards, though this will not happen unless the players are particularly reckless. If the deck does run out, the dealer shuffles the discards and uses these to replenish the hands of any remaining players. There is no second exchange and no opportunity for a player to drop out after exchanging, however bad the new cards they receive.
+Avec 7 ou même 6 joueurs, il est théoriquement possible de manquer de cartes de remplacement, bien que cela n'arrivera que si les joueurs sont particulièrement téméraires. Si le jeu vient à manquer, le donneur bat les cartes écartées et les utilise pour reconstituer les mains des joueurs restants. Il n'y a pas de second échange et aucune possibilité pour un joueur de se retirer après l'échange, aussi mauvaises que soient les nouvelles cartes reçues.
 
-### Flushes
+### Colorations
 
-A flush is a hand of five cards of the same suit, or four cards of the same suit plus the Pam. After all players who stood have had their opportunity to exchange cards, any player who stood and now holds a flush declares it. If more than one player has a flush, a flush containing Pam is best, followed by a flush of five trumps, followed by a five-card flush in any other suit. The rank of the cards in a trump or suit flush is irrelevant: if two players have a trump flush or two players have a suit flush, the one which is earlier in clockwise order beginning to dealer's left is better. 
+Une coloration est une main de cinq cartes de la même couleur, ou quatre cartes de la même couleur plus le Pam. Après que tous les joueurs qui sont restés ont eu l'opportunité d'échanger des cartes, tout joueur qui est resté et détient maintenant une coloration la déclare. Si plus d'un joueur a une coloration, une coloration contenant Pam est la meilleure, suivie d'une coloration de cinq atouts, suivie d'une coloration de cinq cartes dans toute autre couleur. Le rang des cartes dans une coloration d'atout ou de couleur est sans importance : si deux joueurs ont une coloration d'atout ou deux joueurs ont une coloration de couleur, celle qui est la première dans l'ordre des aiguilles d'une montre à partir de la gauche du donneur l'emporte.
 
-If anyone has a flush the cards are not played. The player with the best flush takes the whole pool and all players who stood but do not have flushes are looed: they must each pay five chips to the pool. A player whose flush is beaten by a better flush neither wins nor pays anything.
+Si quelqu'un a une coloration, les cartes ne sont pas jouées. Le joueur avec la meilleure coloration remporte toute la cagnotte et tous les joueurs qui sont restés mais n'ont pas de coloration sont looés : ils doivent chacun payer cinq jetons à la cagnotte. Un joueur dont la coloration est battue par une meilleure coloration ne gagne ni ne paie rien.
 
-### Play of the Cards
+### Jeu des cartes
 
-If there was no flush, the player to dealer's left, or if this player passed the next player in clockwise order who did not pass, leads to the first trick and must if possible lead a trump. Players must follow suit if they can. Each trick is won by the highest trump in it, or if it contains no trump by the highest card of the suit led. The winner of each trick leads to the next and may lead any card.
+S'il n'y a pas de coloration, le joueur à la gauche du donneur, ou si ce joueur a passé le prochain joueur dans le sens des aiguilles d'une montre qui n'a pas passé, entame la première levée et doit si possible entamer un atout. Les joueurs doivent suivre la couleur s'ils le peuvent. Chaque levée est remportée par le plus haut atout, ou si elle n'en contient pas, par la carte la plus haute de la couleur demandée. Le gagnant de chaque levée entame la suivante et peut jouer n'importe quelle carte.
 
-Pam (the ![club](../images/internat/club.gif)**J**) always wins the trick to which it is played. Pam is exempt from the rule of following suit and may be played to any trick, whatever was led irrespective of what other cards the player holds, with one exception. A player who leads the Ace of trumps may announce 'Pam, be civil!' in which case the player who holds Pam must not play it to that trick. If Pam is led, the other players must play trumps if they can.
+Pam (le ![trèfle](../images/internat/club.gif)**V**) remporte toujours la levée à laquelle il est joué. Pam est exempté de la règle de suivi de couleur et peut être joué à n'importe quelle levée, quelle que soit la carte demandée et indépendamment des autres cartes que le joueur détient, avec une exception. Un joueur qui entame l'As d'atout peut annoncer « Pam, sois civil ! » auquel cas le joueur qui détient Pam ne doit pas le jouer à cette levée. Si Pam est entamé, les autres joueurs doivent jouer des atouts s'ils le peuvent.
 
-Note that in five-card Loo (unlike three-card Loo), players are not normally required to lead trumps (other than to the first trick) nor to overtake the highest card in the trick (*but see Variations below*).
+Notez qu'au Loo à cinq cartes (contrairement au Loo à trois cartes), les joueurs ne sont normalement pas tenus d'entamer des atouts (autre qu'à la première levée) ni de dépasser la carte la plus haute de la levée (*mais voir Variantes ci-dessous*).
 
-### Payments
+### Paiements
 
-When all five tricks have been played, the pool is shared between the players who have taken at least one trick, each of them taking one fifth of the pool for each trick they won. Any player who stood but won no tricks is looed and must pay five chips into the pool for the next deal.
+Lorsque les cinq levées ont été jouées, la cagnotte est partagée entre les joueurs qui ont remporté au moins une levée, chacun d'eux prenant un cinquième de la cagnotte pour chaque levée remportée. Tout joueur qui est resté mais n'a remporté aucune levée est looé et doit payer cinq jetons dans la cagnotte pour la donne suivante.
 
-**Note. **Descriptions of this game quite often specify that there should be two denominations of chip, each red chip being equivalent to five white chips. In that case the dealer pays 5 red chips to the pool before dealing and a player who is looed pays 5 red chips to the pool. In regular play the number of red chips in the pool will always be divsible by 5. The white chips have no use unless an irregularity occurs in which the offender is not allowed to collect chips from the pool for any tricks that they won. In that case the unclaimed red chips are changed for 5 white each so that the pool can be divided evenly according to tricks won in the next deal.
+**Note.** Les descriptions de ce jeu spécifient assez souvent qu'il devrait y avoir deux dénominations de jetons, chaque jeton rouge équivalant à cinq jetons blancs. Dans ce cas, le donneur paie 5 jetons rouges à la cagnotte avant de distribuer et un joueur qui est looé paie 5 jetons rouges à la cagnotte. En jeu normal, le nombre de jetons rouges dans la cagnotte sera toujours divisible par 5. Les jetons blancs n'ont aucune utilisation sauf en cas d'irrégularité où le contrevenant n'est pas autorisé à récolter des jetons de la cagnotte pour les levées qu'il a remportées.
 
-### Variations
+### Variantes
 
-Limited, Unlimited or Mixed
-Like three-card Loo, the five-card game can be Limited, Unlimited or Mixed. The above description is of the Limited game in which a player who is looed pays 5 chips to the pool. In the Unlimited game, a player who is looed must pay an amount equal to the whole pool that was being played for, which can cause the pool to grow at an alarming rate if players are looed in several consecutive deals, reaching an unaffordable size even if the initial stakes are small. Therefore it is more prudent to play Mixed Loo in which there is a limit - say 25 chips - on the amount to be paid to the pool. A player who is looed pays the amount of the whole pool or the limit, whichever is smaller.
-Indicator card does not belong to dealer
-Many play that the card turned up to indicate the trump suit does not belong to the dealer. The dealer, like the other players, discards 0-5 cards and draws an equal number of new cards in exchange.
+Limité, illimité ou mixte
+Comme le Loo à trois cartes, le jeu à cinq cartes peut être limité, illimité ou mixte. La description ci-dessus est du jeu limité dans lequel un joueur qui est looé paie 5 jetons à la cagnotte.
+La carte indicatrice n'appartient pas au donneur
+Beaucoup jouent que la carte retournée pour indiquer la couleur d'atout n'appartient pas au donneur. Le donneur, comme les autres joueurs, écarte 0 à 5 cartes et pioche un nombre égal de nouvelles cartes en échange.
 Blaze
-A blaze is a hand of 5 picture cards (any combination of Kings, Queens and Jacks), which in America was often recognised as a winning hand and treated similarly to a flush. If it includes the ![club](../images/internat/club.gif)**J** it is a 'Pam blaze' and beats any flush. If not it ranks below a suit flush. 
-Lead and play restrictions
-Some played that it was always compulsory to lead a trump is any were held. Some late 19th century descriptions give the same rules of play as in three-card Loo, requiring players always to beat the highest card so far played to the trick when possible, including playing a trump when holding no card of the suit led.
-Rules for playing Pam
-Published descriptions of Loo give a variety of different rules for playing Pam, treating it to a greater or lesser extent as a card of the trump suit. All agree that when Pam is led the other players must play trumps. Some also require Pam to be played on a trump lead if no other trumps are held, even to the extent of disobeying the announcement 'Pam be civil' when Pam is the only trump held. Some imply, even if they do not explicitly state, that Pam cannot be played on a lead of a non-trump suit unless the holder has no card of that suit.
-Pam be Civil
-The use of the *'Pam be Civil'* announcement changed over time. In earlier descriptions it is a 'request' and the holder of Pam was 'expected' not to play Pam on the Ace of trumps if asked not to. Later this was hardened to a rule that the holder of Pam, when asked to be civil, was not allowed to play it on the Ace of trumps, often with an exception when no other trumps were held. Towards the end of the 19th century the announcement was dropped altogether as redundant, since it was always made, and the rule was simply that when the Ace of trumps was led Pam could not be played unless it was the player's only trump.
+Un blaze est une main de 5 figures (n'importe quelle combinaison de Rois, Dames et Valets), qui en Amérique était souvent reconnue comme une main gagnante et traitée de la même manière qu'une coloration. S'il inclut le ![trèfle](../images/internat/club.gif)**V**, c'est un « blaze Pam » qui bat n'importe quelle coloration. Sinon, il se classe en dessous d'une coloration de couleur.
+Restrictions d'entame et de jeu
+Certains jouent qu'il était toujours obligatoire d'entamer un atout si l'on en tenait.
+Règles pour jouer Pam
+Les descriptions publiées du Loo donnent une variété de règles différentes pour jouer Pam, le traitant plus ou moins comme une carte de la couleur d'atout.
+Pam sois civil
+L'utilisation de l'annonce « Pam sois civil » a évolué au fil du temps. Dans les descriptions les plus anciennes, c'est une « demande » et le détenteur de Pam était « invité » à ne pas jouer Pam sur l'As d'atout si on le lui demandait. Plus tard, cela a été durci en une règle selon laquelle le détenteur de Pam, invité à être civil, n'était pas autorisé à le jouer sur l'As d'atout.
+Pam courant
+Il s'agit d'une variante dans laquelle Pam est le Valet de la couleur retournée pour l'atout, plutôt que le Valet de trèfle.
 
-An interesting explanation of the early rule, where Pam is requested to be civil but not obliged to comply, 
-is given in [Hoyle's Improved Edition (Borradaile, New York, 1830)](https://www.google.co.uk/books/edition/_/zllVAAAAcAAJ). In this version the request 'Pam be civil' is only permitted when the player leading the high trump has another certain trick - for example when leading the Ace of trumps and also holding the King, or also later in the game when leading the King of trumps from King-Queen after the Ace has been played. It is part of the tactic of 'playing for the good of the loo', whereby a player who is 'safe' (having a sure trick) should aim to build a large pool for the next deal by looing as many opponents as possible. So the player who leads the Ace from Ace-King of trumps says 'Pam be civil' to inform the holder of Pam that it is not worth winning this trick, since the leader of the Ace of trumps is already safe, and that it would be better to save the Pam to win some other trick, hopefully increasing the chance of looing a third player. The holder of Pam should normally be happy to comply with the request. Note that in this relatively early version of the game the holder of Pam need not play it on a trump lead, even if holding no other trump. 
-Running Pam
-This is a variant in which Pam is the Jack of the suit that is turned for trumps, rather than the Jack of clubs,
+## Loo comme jeu de Poker au choix du donneur
 
-## Loo as a Dealer's Choice Poker Game
+Il s'avère que le Loo survit dans certains endroits comme l'un des jeux autorisés dans le Poker au choix du donneur, où il offre une option similaire au Bourré (ou Booray).
 
-From the card game literature it might appear that Loo died out at the beginning of the 20th century, but it turns out that it survives in some places as one of the games allowed in Dealer's Choice Poker, where it provides an option similar to Bourré (or Booray). As one might expect, the rules have evolved somewhat over the last hundred years. The following description is based on an option in Arthur Budericks' Dealer's Choice Poker rules, where the name is spelled **'Lou'** (as in the short form of the given name Louis, Lewis or Louise).
+Cette version est un Loo à 5 cartes, mais sans Pam, sans coloration ni blaze. Les cartes sont classées de haut en bas A-R-D-D-10-9-8-7-6-5-4-3-2 dans toutes les couleurs. Rester est un engagement à gagner au moins **deux levées** — quiconque reste et ne gagne qu'une seule levée ou aucune est « brûlé » et doit égaliser la cagnotte. Quand le donneur choisit ce jeu, une série de mains en est jouée, le tour de donne passant à la gauche après chaque main, et continue jusqu'à ce qu'un joueur reste et gagne toute la cagnotte sans jouer, tous les autres joueurs s'étant couchés.
 
-This is a version of 5-card Loo, but with no Pam and no Flush or Blaze. The cards rank from high to low A-K-Q-K-10-9-8-7-6-5-4-3-2 in all suits. Standing is a commitment to win at least **two tricks** - anyone who stands and wins only one trick or none is 'burned' and has to match the pot. When the dealer chooses this game, a series of hands of it is played, the turn to deal passing to the left after each hand, and continues until a player stands and wins the whole pot without play, all the other players having folded. The turn to deal then passes to the next player after the one who named Lou as the game to be played. When choosing this game the dealer should specify whether it will be played with or without card exchange.
+### Donne et déclarations
 
-### Deal and Declarations
+Pour la première donne uniquement, le donneur mise 1 $, puis tous les joueurs y compris le donneur ajoutent 5 $ à la cagnotte. Pour les donnes suivantes, rien n'est ajouté à la cagnotte : elle se compose uniquement des montants payés par les joueurs qui ont été brûlés lors de la donne précédente.
 
-For the first deal only, the dealer antes $1, and then all players including the dealer add $5 to the pot. For subsequent deals nothing is added to the pot: it just consists of the amounts paid by the players who were burned in the previous deal. The system of payments in this version ensures that if more than one player stands, at least one player must be burned.
+Le donneur bat les cartes, le joueur à sa droite coupe, et le donneur distribue les cartes une à une fois jusqu'à ce que chacun ait une main de 5 cartes. La carte suivante est placée face visible pour indiquer la couleur d'atout.
 
-The dealer shuffles, the player to dealer's right cuts, and the dealer deals the cards out one at a time until everyone has a hand of 5 cards. The next card is placed face up to indicate the trump suit. (Some players prefer to have the player to dealer's left to cut the undealt portion of the pack before turning up the top card for trumps).
+À la première donne, tout le monde est forcé de rester (jouer).
 
-In the first deal everyone is forced to stand (play). 
+À la deuxième donne et aux suivantes, tous les joueurs regardent leurs cartes et décident de **rester** (participer au jeu) ou de **se coucher** (se retirer du jeu). Selon leur décision, chaque joueur tient une pièce pour se coucher ou deux pièces pour rester dans un poing fermé. Quand tout le monde est prêt, toutes les décisions sont révélées simultanément. Les joueurs qui se sont couchés jettent leurs cartes face cachée dans une pile de défausse, ne participent pas au jeu, et ne gagnent ni ne paient rien à la cagnotte pour cette donne.
 
-In the second and subsequent deals, all players look at their cards and decide whether to **stand** (take part in their play) or **fold** (drop out of the play). According to their decision each playe holds one coin to fold or or two coins to stand in a closed fist. When everyone is ready all decisions are revealed simultaneously. Players who folded throw their cards face down into a discard heap, take no part in the play, and neither win anything from nor pay anything to the pot for this deal.
+- Si tout le monde se couche, la cagnotte reste en jeu, et les cartes sont battues et redistribuées par le même donneur.
 
-- If everyone folds the pot remains in play, and the cards are shuffled and redealt by the same dealer. 
+- Si un seul joueur reste et tous les autres se couchent, le donneur prend toute la cagnotte, mettant fin au jeu.
 
-- If only one player stands and all the others fold the dealer takes the whole pot, ending the game.
+- Si deux joueurs ou plus restent, ces joueurs ont l'opportunité d'échanger des cartes (si spécifié par le donneur lors du choix du jeu), puis les cartes sont jouées en levées.
 
-- If two or more players stand, these players have the opportunity to exchange some cards (if specified by the dealer when choosing the game) and then the cards are played out in tricks.
+### Échange de cartes et jeu
 
-### Card Exchange and Play
+Si l'échange est autorisé, chaque joueur qui est resté, dans le sens des aiguilles d'une montre à partir de la gauche du donneur, écarte 0, 1, 2 ou 3 cartes face cachée et reçoit un nombre égal de cartes de remplacement de la pile de cartes non distribuées.
 
-If exchange is allowed each player who stood, in clockwise order from dealer's left, discards 0, 1, 2 or 3 cards face down and is dealt an equal number of replacement cards from the stack of undealt cards. *[**Note**. If there are more than 6 players at the table, then it is quite likely that in the first deal, when it is compulsory to stand, there will not be enough cards left in the deck to deal replacements. Therefore I recommend that when 7 play, players are limited to discarding at most 2 cards in the first deal. If there are 8 players, which is really too many for this game, the first deal should be played with no exchange. JM]*
+Le premier joueur dans l'ordre des aiguilles d'une montre à partir de la gauche du donneur entame n'importe quelle carte à la première levée. Les joueurs dans l'ordre des aiguilles d'une montre doivent suivre la couleur si possible. Un joueur qui n'a pas de carte de la couleur demandée peut jouer n'importe quelle carte — soit un atout, soit une carte d'une autre couleur non-atout. Chaque levée est remportée par le plus haut atout, ou si elle n'en contient pas, par la carte la plus haute de la couleur demandée. Le gagnant de chaque levée entame n'importe quelle carte à la levée suivante.
 
-The first player in clockwise order from dealer's left leads any card to the first trick. Players in clockwsie order must follow suit if possible. A player who has no card of the suit that was led may play any card - either a trump or a card of a different non-trump suit. Each trick is won by the highest trump in it, or if it contains to trump by the highest card of the suit that was led. The winner of each trick leads any card to the next trick.
+Dans cette version du Loo, il n'y a aucune obligation d'entamer un atout ni de dépasser les cartes précédemment jouées à la levée.
 
-In this version of Loo there is no requirement to lead a trump or to overtake cards previously played to the trick.
+### Paiements
 
-### Payments
+**Dans toutes les donnes**, un joueur qui gagne **trois levées ou plus** remporte la totalité de la cagnotte.
 
-**In all deals**, a player who wins **three or more tricks** takes the whole of the pot.
+**Dans toutes les donnes**, un joueur qui est resté mais ne gagne **aucune levée** ou seulement **une levée** est **brûlé** et doit égaliser la cagnotte — c'est-à-dire payer un montant égal à ce qu'elle contenait au début du jeu. Ces paiements forment la cagnotte pour la donne suivante. Le paiement pour être brûlé est soumis à un maximum qui devrait être convenu à l'avance, par exemple 50 $. Si la cagnotte contient plus de 50 $, quiconque est brûlé ne cotisera que 50 $ à la cagnotte suivante.
 
-**In all deals** a player who stood but wins **no tricks** or just **one trick** is **burned** and has to match the pot - that is pay an amount equal to what was in it at the start of play. These payments form the pot for the next deal. The payment for being burned is subject to a maximum which should be agreed in advance, for example $50. If the pot contains more than $50 then anyone who is burned will just contribute $50 to the next pot.
+**Dans la première donne**, lorsque rester est obligatoire, si personne ne prend trois levées, la cagnotte est gagnée par le(s) joueur(s) qui a(ont) remporté **deux levées** (partagées à parts égales s'ils sont deux). Si un joueur gagne trois levées et un autre en gagne deux, le joueur avec deux levées ne gagne rien de la cagnotte mais n'est pas brûlé. Si cinq joueurs prennent chacun une levée, tout le monde est brûlé.
 
-**In the first deal**, when standing is compulsory, if no player takes three tricks then the pot is won by the player(s) who won **two tricks** (shared equally if there are two of them). If one player wins three tricks and another wins two, then the player with two tricks wins nothing fron the pot but is not burned. If five players take one trick each them everyone is burned.
+**Dans la deuxième donne et les suivantes**, lorsque rester est volontaire, si personne ne gagne au moins trois levées, la cagnotte reste pour la donne suivante, et les paiements des joueurs brûlés y sont ajoutés. Un joueur qui gagne **deux levées** ne gagne rien de la cagnotte mais n'est pas brûlé **sauf** dans le cas où seuls deux joueurs sont restés.
 
-**In the second and subsequent deals**, when standing is voluntary, if no one wins as many as three tricks the pot remains for the next deal, and the payments of any players who were burned are added to it. A player who wins **two tricks** wins nothing from the pot but is not burned **except** in the case where only two players stood. When just two players stand, the player who takes three or more tricks wins the pot and the other player is burned and provides the pot for the next deal (subject to the agreed maximum).
+Si un joueur renonce (ne suit pas la couleur alors qu'il le pouvait), il est immédiatement brûlé. Les cartes sont jetées, battues et redistribuées par le même donneur, en omettant le contrevenant qui doit s'asseoir pendant la main.
 
-If a player reneges (fails to follow suit when able to do so) they are immediately burned. The cards are thrown in, shuffled and redealt by the same dealer, omitting the offender who must sit out of the hand.
+## Autres pages web sur le Loo
 
-## Other Loo Web Pages
-
-[David Parlett's Loo page](https://www.parlettgames.uk/histocs/loo.html) has information on the history of Loo and rules for the British 3-card and 5-card versions.
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Rams Group > Loo
+La [page Loo de David Parlett](https://www.parlettgames.uk/histocs/loo.html) contient des informations sur l'histoire du Loo et des règles pour les versions britanniques à 3 et 5 cartes.

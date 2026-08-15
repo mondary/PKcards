@@ -3,143 +3,142 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** How to play the Middle Eastern fishing card game Basra. Cards or sets of cards on the table (or floor) are captured by matching from a player's hand.
+**But :** Comment jouer au Basra, jeu de cartes de pêche du Moyen-Orient. Les cartes ou ensembles de cartes sur la table (ou le sol) sont capturées en les associant depuis la main d'un joueur.
 
 ---
 
 ## Introduction
 
-**Basra** is a Middle Eastern fishing game, somewhat similar to the Western game Casino. This page is based mainly on four accounts: 
+Le **Basra** est un jeu de pêche du Moyen-Orient, assez similaire au jeu occidental Casino. Cette page est principalement basée sur quatre témoignages :
 
-- The first is from Bonnie Smith, who was taught the game by an Egyptian, but says that it is widely played in coffee houses throughout the Middle East; 
+- Le premier vient de Bonnie Smith, qui a appris le jeu de la part d'un Égyptien, mais précise qu'il est largement joué dans les cafés de tout le Moyen-Orient ;
 
-- The second was contributed by Alexey Lobashev, based on a description by Mr. Akabat Ibragim Khusim from the town of Sana, Yemen, who had played Basra for several years, also with a teacher from Egypt. Another name for the game is **Assaba-al'-Komi**. Adults only play it, not children. 
+- Le second a été contribué par Alexey Lobashev, d'après une description de M. Akabat Ibragim Khusim, de la ville de Sana, au Yémen, qui jouait au Basra depuis plusieurs années, également avec un enseignant égyptien. Un autre nom pour ce jeu est **Assaba-al'-Komi**. Seuls les adultes y jouent, pas les enfants.
 
-- The third is a description of the version played in the Lebanon, contributed by Toni Matni.
+- Le troisième est une description de la version jouée au Liban, contribué par Toni Matni.
 
-- Thierry Depaulis has found another short description Lebanese Basra by Fuad I. Khuri, which is reproduced near the end of the page; the book from which this comes also gives the alternative name **Ashush**. 
+- Thierry Depaulis a trouvé une autre courte description du Basra libanais par Fuad I. Khuri, reproduite vers la fin de la page ; le livre dont elle est tirée donne également le nom alternatif **Ashush**.
 
-I would be interested to hear from anyone who can tell me more about Basra or Ashush or Assaba-al'-Komi; corrections or further variations of the rules, details of where the game is played, or any other relevant information would be welcome. 
+Je serais intéressé d'entendre quiconque pourrait m'en dire davantage sur le Basra, l'Ashush ou l'Assaba-al'-Komi ; corrections ou variantes supplémentaires des règles, détails sur les lieux où le jeu est pratiqué, ou toute autre information pertinente seraient les bienvenus.
 
-## Players and cards
+## Joueurs et cartes
 
-A standard 52 card pack is used. The descriptions I have been given of the Egyptian version are for two or four players. If there are four players, partners sit opposite each other.
+On utilise un jeu standard de 52 cartes. Les descriptions que j'ai reçues de la version égyptienne concernent deux ou quatre joueurs. S'il y a quatre joueurs, les partenaires sont assis en face l'un de l'autre.
 
-## Deal and Play
+## Donne et jeu
 
-The cards are shuffled and the person to the left of the dealer cuts. The dealer may look at the bottom card of the pack after it has been cut. 
+Les cartes sont mélangées et la personne à la gauche du donneur coupe. Le donneur peut regarder la carte du bas du paquet après la coupe.
 
-The dealer then gives the four cards to each player, beginning with his right hand opponent, going around the table anticlockwise, and ending with himself. The next 4 cards are turned face up in the middle of the table. The area where the face up cards are set out is known as the "floor" - maybe the game was originally played on the floor, though nowadays it is normal to play on a table. If the cards on the floor include any jacks or the seven of diamonds, the dealer buries these cards in the undealt pack and replaces them by dealing new cards to the floor from the top of the undealt cards. 
+Le donneur distribue ensuite quatre cartes à chaque joueur, commençant par son adversaire de droite, puis dans le sens antihoraire, et terminant par lui-même. Les quatre cartes suivantes sont retournées face visible au milieu de la table. L'endroit où les cartes face visible sont étalées est appelé le « sol » — le jeu était peut-être joué à l'origine sur le sol, bien qu'aujourd'hui il soit normal de jouer sur une table. Si les cartes au sol comprennent des valets ou le 7 de carreau, le donneur enterre ces cartes dans le paquet non distribué et les remplace en distribuant de nouvelles cartes au sol depuis le sommet du paquet non distribué.
 
-The player to dealer's right plays first and the turn to play passes anticlockwise. Each turn consists of playing one card face up to the floor and possibly capturing some of the cards that are there. Captured cards are placed face down in front of the player who captured them. When there are four players, partners keep the cards they have captured together in a single pile. When all players have played their four cards, the dealer gives them each another batch of four from the undealt cards (but no more cards are dealt to the floor) and play continues. When the whole pack has been dealt and the players have played their last four cards the play ends. The hand is scored and the turn to deal passes to the right.
+Le joueur à la droite du donneur joue en premier et le tour de jeu passe dans le sens antihoraire. Chaque tour consiste à jouer une carte face visible sur le sol et éventuellement à capturer certaines des cartes qui s'y trouvent. Les cartes capturées sont placées face cachée devant le joueur qui les a capturées. Quand il y a quatre joueurs, les partenaires conservent les cartes qu'ils ont capturées ensemble dans un seul tas. Quand tous les joueurs ont joué leurs quatre cartes, le donneur leur distribue une autre série de quatre cartes depuis le paquet non distribué (mais aucune carte n'est distribuée au sol) et le jeu continue. Quand tout le paquet a été distribué et que les joueurs ont joué leurs quatre dernières cartes, le jeu s'arrête. La main est comptabilisée et le tour de donne passe à droite.
 
-## Capturing and the Basra
+## Capture et Basra
 
-If you play a card whose rank matches one of the cards on the floor, you capture that card, and place both the card you played and the captured card face down in front of you. For example a 7 captures a 7, a queen captures a queen, and so on.
+Si vous jouez une carte dont la valeur correspond à l'une des cartes au sol, vous capturez cette carte, et placez la carte que vous avez jouée et la carte capturée face cachée devant vous. Par exemple, un 7 capture un 7, une dame capture une dame, etc.
 
-If you play a numeral card whose value is equal to the sum of the values of some cards on the floor, then your card captures that group of cards. For example if the floor contains 3, 4, 5 and 8 and you play a 9, you capture the 5 and 4 and place the 5, 4 and 9 in your capture pile. Aces have a capture value of 1, so if the floor contains A, 2, 6 you can capture the ace and two by playing a 3, or ace and 6 with a 7 or all three cards with a 9.
+Si vous jouez une carte numérale dont la valeur est égale à la somme des valeurs de certaines cartes au sol, votre carte capture ce groupe de cartes. Par exemple, si le sol contient 3, 4, 5 et 8 et que vous jouez un 9, vous capturez le 5 et le 4, et vous placez le 5, le 4 et le 9 dans votre tas de capture. Les as ont une valeur de capture de 1, donc si le sol contient A, 2, 6, vous pouvez capturer l'as et le deux en jouant un 3, ou l'as et le 6 avec un 7, ou les trois cartes avec un 9.
 
-It is possible to make more than one capture with the same play. For example, if the floor shows a 4, 6, 10 and 3 and you play a 10, you capture the 10 and the 4 and the 6 from the floor along with the 10 that you played. Or if after the initial deal the floor contains two kings, playing a king will capture both of them.
+Il est possible de faire plusieurs captures avec le même jeu. Par exemple, si le sol montre un 4, 6, 10 et 3 et que vous jouez un 10, vous capturez le 10, le 4 et le 6 du sol ainsi que le 10 que vous avez joué. Ou si après la donne initiale le sol contient deux rois, jouer un roi capturera les deux.
 
-If you play a card that does not match anything, it stays face up on the floor, and is available for capture in future turns. 
+Si vous jouez une carte qui ne correspond à rien, elle reste face visible sur le sol, et est disponible pour une capture lors des tours suivants.
 
-Note that there is no obligation to play a card that makes a capture just because you can - if you have a card that does not match, you can add it to the floor if you wish to. However, if you play a card which does make a capture, you must make the capture.
+Notez qu'il n'y a aucune obligation de jouer une carte qui effectue une capture simplement parce que vous le pouvez — si vous avez une carte qui ne correspond pas, vous pouvez l'ajouter au sol si vous le souhaitez. Cependant, si vous jouez une carte qui effectue une capture, vous devez la faire.
 
-Queens and kings have no numerical value. A queen can capture or be captured by a queen and a king can capture or be captured by a king. The only other way to capture a queen or king is to play a special card (jack or seven of diamonds - see below).
+Les dames et les rois n'ont pas de valeur numérique. Une dame peut capturer ou être capturée par une dame, et un roi peut capturer ou être capturé par un roi. Le seul autre moyen de capturer une dame ou un roi est de jouer une carte spéciale (valet ou 7 de carreau — voir ci-dessous).
 
-A **basra** occurs when a player captures all the cards from the floor, leaving it empty. The player scores a 10 point bonus for this, and the capturing card is placed faced up in the player's capture pile, as a way of remembering the bonus when the time comes to score the hand.
+Un **basra** se produit lorsqu'un joueur capture toutes les cartes du sol, le laissant vide. Le joueur marque un bonus de 10 points pour cela, et la carte de capture est placée face visible dans le tas de capture du joueur, comme moyen de se souvenir du bonus au moment de comptabiliser la main.
 
-**Jacks** have a special property. If you play a jack when there are cards on the floor, it captures all the cards from the floor, leaving it empty, but this does **not** count as a basra and scores no bonus. If you play a jack when the floor is empty it does not capture anything, but just remains on the floor.
+Les **valets** ont une propriété spéciale. Si vous jouez un valet alors qu'il y a des cartes au sol, il capture toutes les cartes du sol, le laissant vide, mais cela ne compte **pas** comme un basra et ne rapporte aucun bonus. Si vous jouez un valet quand le sol est vide, il ne capture rien, mais reste simplement sur le sol.
 
-The **seven of diamonds** behaves in a similar way to a jack - it captures everything on the floor. If the cards on the floor are all numerals, and their values add up to 10 or less, this counts as a basra, and scores the 10 point bonus. If the floor adds up to more than ten, or includes picture cards, the **![diamond](../images/internat/diamond.gif)7** still takes all the cards but it does **not** count as a basra. If you play the **![diamond](../images/internat/diamond.gif)7** to an empty floor it stays there (and can be captured later just like a normal seven).
+Le **7 de carreau** se comporte de manière similaire au valet — il capture tout ce qui se trouve sur le sol. Si les cartes sur le sol sont toutes numérales et que leur valeur totale est de 10 ou moins, cela compte comme un basra et rapporte le bonus de 10 points. Si le sol totalise plus de dix, ou comprend des figures, le **![carreau](../images/internat/diamond.gif)7** prend quand même toutes les cartes mais cela ne compte **pas** comme un basra. Si vous jouez le **![carreau](../images/internat/diamond.gif)7** sur un sol vide, il y reste (et peut être capturé plus tard comme un 7 normal).
 
-After the last card has been played, any cards that remain on the floor are taken by the player who last made a capture, but this does not count as a basra.
+Après que la dernière carte a été jouée, les cartes qui restent sur le sol sont prises par le joueur qui a effectué la dernière capture, mais cela ne compte pas comme un basra.
 
-## Scoring
+## Comptage des points
 
-When all 52 cards have been played, the cards in each team's stack are counted. The team that has the majority of the cards (27 or more) scores 30 points. If it is a tie, each team having 26 cards, these 30 points are held in abeyance, and added to the score for the majority of cards on the next hand. So on the next hand, the team which takes more cards will win 60 points (30+30). 
+Quand les 52 cartes ont été jouées, les cartes dans le tas de chaque équipe sont comptées. L'équipe qui a la majorité des cartes (27 ou plus) marque 30 points. S'il y a égalité, chaque équipe ayant 26 cartes, ces 30 points sont mis en suspens, et ajoutés au score de la majorité des cartes lors de la main suivante. Ainsi, à la main suivante, l'équipe qui prend le plus de cartes gagnera 60 points (30+30).
 
-In addition one point is scored for each jack and each ace in your pile, two points for the **![club](../images/internat/club.gif)2** and 3 points for the **![diamond](../images/internat/diamond.gif)10**, plus 10 points for each basra, as already mentioned. Thus the total points to be scored in each hand are 43 plus 10 for each basra. 
+En outre, on marque un point pour chaque valet et chaque as dans votre tas, deux points pour le **![trèfle](../images/internat/club.gif)2** et 3 points pour le **![carreau](../images/internat/diamond.gif)10**, plus 10 points pour chaque basra, comme mentionné précédemment. Ainsi, le total des points à marquer à chaque main est de 43 plus 10 pour chaque basra.
 
-Whichever team reaches a score of 101 points first wins the game. It is possible that both teams reach 101 in the same hand. In that case the team with the higher score wins, and in case of a tie, more hands are played until the tie is broken. 
+L'équipe qui atteint en premier un score de 101 points gagne la partie. Il est possible que les deux équipes atteignent 101 lors de la même main. Dans ce cas, l'équipe avec le score le plus élevé gagne, et en cas d'égalité, d'autres mains sont jouées jusqu'à ce que l'égalité soit départagée.
 
-It is usual to play the best of five games - the player who wins three games wins the match and the loser pays for the shisa and beverages which have been consumed in great quantities all through play. If after four games, the players have won two each, then by common agreement decisive fifth game is played to 150 points rather than 101.
+Il est courant de jouer au meilleur des cinq — le joueur qui gagne trois manches gagne le match et le perdant paie le shisha et les boissons qui ont été consommés en grande quantité tout au long du jeu. Si après quatre manches les joueurs ont gagné deux chacune, alors d'un commun accord une cinquième manche décisive est jouée à 150 points plutôt qu'à 101.
 
-## Customs and Tactics
+## Coutumes et tactiques
 
-It is important to remember the cards that have been played. Towards the end you know what cards your opponent is likely to have and what has already been played and you can use this knowledge to collect valuable cards. An important tactic is to clear the floor with a jack when you know that your opponent's next play to the empty floor is likely to give you a basra. In the last deal of the hand, if both players have been concentrating they will each know exactly what four cards the other has and can play accordingly.
+Il est important de se souvenir des cartes qui ont été jouées. Vers la fin, vous savez quelles cartes votre adversaire est susceptible d'avoir et ce qui a déjà été joué, et vous pouvez utiliser cette connaissance pour collecter des cartes précieuses. Une tactique importante consiste à nettoyer le sol avec un valet quand vous savez que le prochain jeu de votre adversaire sur le sol vide risque de vous donner un basra. Lors de la dernière donne de la main, si les deux joueurs se sont concentrés, chacun saura exactement quelles quatre cartes l'autre a et pourra jouer en conséquence.
 
-Bonnie Smith writes that experts normally play in a constant state of movement - of themselves, of the cards - cards are moving all the time; much like a shell game. There is no overt cheating - it is drama and an attempt to distract the concentration of the opponent.
+Bonnie Smith écrit que les experts jouent généralement dans un état de mouvement constant — d'eux-mêmes, des cartes — les cartes bougent tout le temps ; un peu comme dans un jeu de bonneteau. Il n'y a pas de triche évidente — c'est du théâtre et une tentative de distraire la concentration de l'adversaire.
 
-## Variations
+## Variantes
 
-In the version reported by Bonnie Smith (which is for two players), the bottom card of the pack is shown to both players after the cut so that each knows what the last card will be.
+Dans la version rapportée par Bonnie Smith (qui est pour deux joueurs), la carte du bas du paquet est montrée aux deux joueurs après la coupe afin que chacun sache quelle sera la dernière carte.
 
-Muntaha Haddad describes a variant played in Jordan, in which the score for a basra is twice the face value of the card used to make the capture, picture cards counting as 10 for this purpose. For example a basra with a 7 scores 14 points and a basra in which a Queen captures a lone Queen from the table score 20 points. The rest of the rules are the same as in the main description above. 
+Muntaha Haddad décrit une variante jouée en Jordanie, dans laquelle le score d'un basra est le double de la valeur faciale de la carte utilisée pour effectuer la capture, les figures comptant comme 10 à cet effet. Par exemple, un basra avec un 7 rapporte 14 points et un basra dans lequel une dame capture une dame seule sur la table rapporte 20 points. Le reste des règles est le même que dans la description principale.
 
-In the version described by Alexey Lobashev, there are the following differences: 
+Dans la version décrite par Alexey Lobashev, il y a les différences suivantes :
 
-- Although the capturing of all the cards from the floor by a jack does not normally count as a basra, there is one exception. If you play a jack when there is only one card on the floor and this card is also a jack, this counts as a 'double basra', and it is counted as 20 rather than 10. It is not clear whether this rule is used in Egypt, or whether it is a variation from Yemen. 
+- Bien que la capture de toutes les cartes du sol par un valet ne compte normalement pas comme un basra, il y a une exception. Si vous jouez un valet alors qu'il n'y a qu'une seule carte sur le sol et que cette carte est également un valet, cela compte comme un « double basra », et il est compté comme 20 plutôt que 10. Il n'est pas clair si cette règle est utilisée en Égypte ou s'il s'agit d'une variante venue du Yémen.
 
-- When the seven of diamonds is played, it counts as a basra in the following cases:
+- Quand le 7 de carreau est joué, il compte comme un basra dans les cas suivants :
 
-- The total value of the cards on the floor is **less than** 10 (not if it is equal to 10)
+- La valeur totale des cartes au sol est **inférieure** à 10 (non si elle est égale à 10)
 
-- The only card(s) on the floor are tens, queens and kings
+- Les seules carte(s) sur le sol sont des 10, des dames et des rois
 
-- The cards on the floor can be divided into two or more groups which score an equal number of points, less than 10. For example capturing A-2-7-8 with the ![diamond](../images/internat/diamond.gif)7 would be a basra, because (1+8)=(2+7)=9.
+- Les cartes sur le sol peuvent être divisées en deux groupes ou plus qui comptent un nombre égal de points, inférieur à 10. Par exemple, capturer A-2-7-8 avec le **![carreau](../images/internat/diamond.gif)7** serait un basra, car (1+8)=(2+7)=9.
 
-- The Egyptian game was said to be played to a target of 121 points, though the target in Yemen was 101 points. 
+- Le jeu égyptien était dit joué jusqu'à un objectif de 121 points, bien que l'objectif au Yémen soit de 101 points.
 
-## Basra in Lebanon
+## Le Basra au Liban
 
-The game is for two or four players. Four play in teams of two against two, partners sitting opposite. A standard international 52 card pack is used. The turn to deal rotates. The dealer deals 6 cards to each player - all at once - and four cards face up to the middle of the table. The rest of the deck is put to one side to be dealt when the first six cards have been played.
+Le jeu est pour deux ou quatre joueurs. À quatre, on joue en équipes de deux contre deux, les partenaires assis en face. On utilise un jeu international standard de 52 cartes. Le tour de donne tourne. Le donneur distribue 6 cartes à chaque joueur — d'un coup — et quatre cartes face visible au milieu de la table. Le reste du jeu est mis de côté pour être distribué quand les six premières cartes auront été jouées.
 
-The scoring values of the cards are: 
+Les valeurs de comptage des cartes sont :
 
-- **3 points** for the **![diamond](../images/internat/diamond.gif)10**
+- **3 points** pour le **![carreau](../images/internat/diamond.gif)10**
 
-- **2 points** for the **![club](../images/internat/club.gif)2** 
+- **2 points** pour le **![trèfle](../images/internat/club.gif)2**
 
-- **1 point** for **each jack**
+- **1 point** pour **chaque valet**
 
-- **1 point** for **each ace**
+- **1 point** pour **chaque as**
 
-- **3 points** for whichever player (or team) takes the **majority of the cards** (if they have 26 cards each, no one gets these points).
+- **3 points** pour le joueur (ou l'équipe) qui prend la **majorité des cartes** (s'ils ont 26 cartes chacun, personne ne marque ces points).
 
-Thus there are 16 points available altogether unless there is a tie for most cards, in which case there are only 13 points. Note that the majority of cards is worth only 3 (not 30 as in Egypt and Yemen). 
+Ainsi il y a 16 points disponibles au total sauf s'il y a égalité pour le plus grand nombre de cartes, auquel cas il n'y a que 13 points. Notez que la majorité des cartes ne vaut que 3 (et non 30 comme en Égypte et au Yémen).
 
-The play is begun by the player who received the first cards in the deal (that is the non-dealer if there are two players and the player to dealer's right if there are four). Then the turn to play rotates. The procedure for playing and capturing cards is as described above: a numeral card can capture an equal card or a set of cards that add up to its rank, or both; a jack captures everything on the table; a queen can only capture queens and a king can only capture kings. In this version the **![diamond](../images/internat/diamond.gif)7** has no special power.
+Le jeu est commencé par le joueur qui a reçu les premières cartes lors de la donne (c'est-à-dire le non-donneur s'il y a deux joueurs et le joueur à la droite du donneur s'il y en a quatre). Ensuite, le tour de jeu tourne. La procédure pour jouer et capturer les cartes est comme décrite ci-dessus : une carte numérale peut capturer une carte égale ou un ensemble de cartes dont la somme correspond à sa valeur, ou les deux ; un valet capture tout sur la table ; une dame ne peut capturer que des dames et un roi ne peut capturer que des rois. Dans cette version, le **![carreau](../images/internat/diamond.gif)7** n'a aucun pouvoir spécial.
 
-In the Lebanese game, a **Basra** occurs only in the following two cases:
+Dans le jeu libanais, un **Basra** ne se produit que dans les deux cas suivants :
 
-- A single card is left alone on the table - either because all the other cards were captured, or because the table was cleared (perhaps with a jack), forcing the next player to play a single card. If the following player can match this single card (thereby capturing it), this counts as a Basra and scores 10 points. Capturing a lone card other than a jack by playing a jack does not count as a Basra; capturing a lone jack with another jack counts as an ordinary single Basra, not a double one.
+- Une carte seule est laissée seule sur la table — soit parce que toutes les autres cartes ont été capturées, soit parce que la table a été nettoyée (peut-être avec un valet), forçant le joueur suivant à jouer une seule carte. Si le joueur suivant peut faire correspondre cette carte seule (et donc la capturer), cela compte comme un Basra et rapporte 10 points. Capturer une carte seule autre qu'un valet en jouant un valet ne compte pas comme un Basra ; capturer un valet seul avec un autre valet compte comme un Basra simple normal, pas un double.
 
-- There is a single card alone on the table, the next player plays a card that does not capture it, and the following player is able to clear the table by playing a card equal to the sum of these two cards. For example, the table contains a lone 3. The next player plays a 4 (perhaps having no other card). If the following player can play a 7, capturing the 3 + 4, this is a Basra, worth 10 points.
+- Il y a une carte seule sur la table, le joueur suivant joue une carte qui ne la capture pas, et le joueur d'après est capable de nettoyer la table en jouant une carte égale à la somme de ces deux cartes. Par exemple, la table contient un 3 seul. Le joueur suivant joue un 4 (n'ayant peut-être pas d'autre carte). Si le joueur d'après peut jouer un 7, capturant le 3 + 4, c'est un Basra, valant 10 points.
 
-After the players have played all their cards the dealer deals another six cards each (but no more to the table) and play continues. In the two-player game it takes four deals to exhaust the pack; in the four player game there will only be two deals.
+Après que les joueurs ont joué toutes leurs cartes, le donneur distribue six autres cartes à chacun (mais pas au tableau) et le jeu continue. Dans le jeu à deux joueurs, il faut quatre donnes pour épuiser le paquet ; dans le jeu à quatre joueurs, il n'y aura que deux donnes.
 
-After the last card has been played, any cards that remain on the table are taken by the player who last made a capture. Then each player or team scores the cards taken plus basras. Further hands are played until either player or team reaches 101 or more points. Then the player or team with the higher score wins.
+Après que la dernière carte a été jouée, les cartes qui restent sur la table sont prises par le joueur qui a effectué la dernière capture. Ensuite, chaque joueur ou équipe comptabilise les cartes prises plus les basras. D'autres mains sont jouées jusqu'à ce qu'un joueur ou une équipe atteigne 101 points ou plus. Ensuite, le joueur ou l'équipe avec le score le plus élevé gagne.
 
-Here is a description of the same Lebanese game found by Thierry Depaulis in *Fuad I. Khuri: "Tents and pyramids: games and ideology in Arab culture from backgammon to autocratic rule." Saqi books, London, 1990, Appendix F, p145-6.* It seems that the only difference from the version described above is the possibility of playing with 3 people, in which case the deal would have to be 4 cards at a time rather than 6.
+Voici une description du même jeu libanais trouvée par Thierry Depaulis dans *Fuad I. Khuri : « Tents and pyramids : games and ideology in Arab culture from backgammon to autocratic rule. » Saqi books, Londres, 1990, Annexe F, p.145-6.* Il semble que la seule différence avec la version décrite ci-dessus soit la possibilité de jouer à 3 personnes, auquel cas la donne serait de 4 cartes à la fois plutôt que 6.
 
-*Basra* (or *ashush*)
+*Basra* (ou *ashush*)
 
-Like many card games, *basra* can be played with 2, 3 or 4 players. If with 4, 2 players normally team up against the other 2. But in order to increase the element of competition, people often play as individuals, without teams.
+Comme beaucoup de jeux de cartes, le *basra* peut se jouer à 2, 3 ou 4 joueurs. S'ils sont 4, 2 joueurs font généralement équipe contre les 2 autres. Mais pour augmenter l'esprit de compétition, les gens jouent souvent en individuels, sans équipe.
 
-In *basra*, or *ashush*, cards are distributed to every player in one hump, in sets of 4 or 6 cards at a time. Four other cards are laid face upwards on the floor. The first player, that is the one sitting on the right of the dealer, tries to match the cards on the floor with the cards in his hand: ace matches ace, nine matches nine, king matches king, and so on. The card in the hand 'eats' the card it matches on the floor. If no cards match, the player then has to throw another card on the floor and the next player takes over. The right to deal rotates at every shuffle.
-A card in the hand could match the sum of the cards on the floor. For example, 9 matches 6 and 3, 2 and 7, 1 and 8, and 5 and 4. The knave (jack), which is called *ashush*, matches everything; it is an imam that 'eats' everything else on the floor, which is exactly what the term means in colloquial Arabic. In Bahrain, I have heard people referring to the knave as imam.
+Au *basra*, ou *ashush*, les cartes sont distribuées à chaque joueur d'un coup, par séries de 4 ou 6 cartes. Quatre autres cartes sont posées face visible sur le sol. Le premier joueur, c'est-à-dire celui assis à la droite du donneur, essaie d'associer les cartes du sol avec celles de sa main : l'as correspond à l'as, le neuf au neuf, le roi au roi, etc. La carte en main « mange » la carte correspondante au sol. Si aucune carte ne correspond, le joueur doit alors jeter une autre carte sur le sol et le joueur suivant prend le relais. Le droit de donner tourne à chaque mélange.
 
-If a card is laid or left alone on the floor, it becomes vulnerable and could be taken as *basra* should it match a card in the hand. This could happen by manipulating the jack that eats everything else, thus forcing the next player to throw a lone card on the floor (vulnerability of isolation).
+Une carte en main peut correspondre à la somme des cartes au sol. Par exemple, un 9 correspond au 6 et au 3, au 2 et au 7, au 1 et au 8, et au 5 et au 4. Le valet, appelé *ashush*, correspond à tout ; c'est un imam qui « mange » tout le reste sur le sol, ce qui correspond exactement à ce que le terme signifie en arabe dialectal. À Bahreïn, j'ai entendu des gens appeler le valet imam.
 
-The *basra* counts as 10, the ace 1, the knave 1; the 10 of diamonds counts as 3, the 2 of clubs as 2, and the player who gets the most cards wins 3 points. The game is won once a player accumulates the sum of 101 points. Aside from the specific cards mentioned above, other cards carry equivalent values with no distinction made between diamonds or hearts, clubs or spades, kings or queens, sevens or fours. The highest value obviously is placed upon the *basra*, which is a captured lone card, or a 'hostage'.
+Si une carte est posée ou laissée seule sur le sol, elle devient vulnérable et peut être prise comme *basra* si elle correspond à une carte en main. Cela peut se produire en manipulant le valet qui mange tout le reste, forçant ainsi le joueur suivant à jeter une carte seule sur le sol (vulnérabilité de l'isolement).
 
-## Software and Online Games
+Le *basra* compte 10, l'as 1, le valet 1 ; le 10 de carreau compte 3, le 2 de trèfle compte 2, et le joueur qui obtient le plus de cartes gagne 3 points. La partie est gagnée lorsqu'un joueur accumule un total de 101 points. Hormis les cartes spécifiques mentionnées ci-dessus, les autres cartes ont des valeurs équivalentes sans distinction entre carreaux ou cœurs, trèfles ou piques, rois ou dames, septs ou quatre. La valeur la plus élevée est bien sûr attribuée au *basra*, qui est une carte seule capturée, ou un « otage ».
 
-Basra can be played online at the [Jawaker](https://www.jawaker.com/en) website.
+## Logiciels et jeux en ligne
 
-You can play Basra online against a computer opponent at [Kongregate](https://www.kongregate.com/en/games/mhdside/the-basra).
+Le Basra peut être joué en ligne sur le site [Jawaker](https://www.jawaker.com/en).
 
-You can download freeware Basra and Ashush programs from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
+Vous pouvez jouer au Basra en ligne contre un adversaire informatique sur [Kongregate](https://www.kongregate.com/en/games/mhdside/the-basra).
 
-Home Page > Classified Index > Fishing Games > Basra
+Vous pouvez télécharger des programmes gratuits de Basra et Ashush sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).

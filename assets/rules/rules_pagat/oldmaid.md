@@ -3,55 +3,44 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Black Peter and King Escapes, in which the final holder of the odd Queen, Jack or King loses.
+**But :** Jeu d'enfants dans lequel le détenteur final de la reine, du valet ou du roi impair perd.
 
 ---
 
 ## Introduction
 
-This children's game is known by various names in many parts of the world, for example it is **Schwarzer Peter** (Black Peter) in Germany, **Vieux Garçon** or **Le Pouilleux** in France, **Ekae** in Thailand and **Papaz kaçtı** in Turkey.
+Ce jeu d'enfants est connu sous divers noms dans de nombreuses régions du monde : il est **Schwarzer Peter** (Pierre noir) en Allemagne, **Vieux Garçon** ou **Le Pouilleux** en France, **Ekae** en Thaïlande et **Papaz kaçtı** en Turquie.
 
-## Players and Cards
+## Joueurs et cartes
 
-It can be played by two or more players. From a standard 52 card pack remove one queen leaving 51 cards. It is also possible to play with a special pack - see variations below. Deal and play are clockwise. 
+Il peut être joué par deux joueurs ou plus. Retirez une dame d'un jeu de 52 cartes standard, laissant 51 cartes. Il est aussi possible de jouer avec un jeu spécial — voir variantes ci-dessous. La distribution et le jeu se font dans le sens horaire.
 
-## Play
+## Jeu
 
-The dealer deals out all the cards to the players (generally some will have one more card than others - this does not matter). The players all look at their cards and discard any pairs they have (a pair is two cards of equal rank, such as two sevens or two kings).
+Le donneur distribue toutes les cartes aux joueurs (certains auront généralement une carte de plus que d'autres — cela n'a pas d'importance). Les joueurs regardent tous leurs cartes et se défont de toutes les paires qu'ils ont (une paire est deux cartes de même rang, comme deux sept ou deux rois).
 
-The dealer begins. At your turn you must offer your cards spread face down to the player to your left. That player selects a card from your hand without seeing it, and adds it to her hand. If it makes a pair in her hand she discards the pair. The player who just took a card then offers her hand to the next player to her left, and so on.
+Le donneur commence. À votre tour, vous devez offrir vos cartes étalées face cachée au joueur à votre gauche. Ce joueur choisit une carte de votre main sans la voir et l'ajoute à sa main. Si cela forme une paire dans sa main, il se défait de la paire. Le joueur qui vient de prendre une carte offre alors sa main au joueur suivant à sa gauche, et ainsi de suite.
 
-If you get rid of all your cards you are safe and you take no further part. The turn passes to the next player to your left, who spreads his or her cards for the following player to draw one. Eventually all the cards will have been discarded except one queen (the old maid) and the holder of this queen loses.
+Si vous vous débarrassez de toutes vos cartes, vous êtes sauvé et ne participez plus. Le tour passe au joueur suivant à votre gauche, qui étale ses cartes pour que le joueur suivant en tire une. Finalement, toutes les cartes auront été défaussées sauf une dame (la vieille fille) et le détenteur de cette dame perd.
 
-## Variations
+## Variantes
 
-In some countries, where the game has a male name, such as Black Peter, it is a Jack that is removed rather than a Queen, and the loser is the holder of the odd Jack at the end.
+Dans certains pays, où le jeu porte un nom masculin, comme Black Peter, c'est un valet qui est retiré plutôt qu'une dame, et le perdant est le détenteur du valet impair à la fin.
 
-It is also possible to play a reversed version of Old Maid. The mechanism of the game is exactly the same, but when everyone else has run out of cards the holder of the odd card (the last Queen or Jack or the Old Maid card) is the **winner**.
+Il est aussi possible de jouer une version inversée du Old Maid. Le mécanisme du jeu est exactement le même, mais quand tout le monde est à court de cartes, le détenteur de la carte impaire (la dernière dame ou valet ou la carte Old Maid) est le **gagnant**.
 
-Old Maid is sometimes played with a special pack of cards: all the cards come in matching pairs except for a single Old Maid card, whose holder at the end is the loser. Some German sets of Quartett cards come with a Black Peter card so that they can also be used for this game. Several types of Old Maid cards can be obtained individually or in collections of childrens' games from amazon.com, from whom I receive a small commission on orders.
-
-[![6 in 1 fun pack](../images/com/6in1.jpg)](https://amzn.to/2U8kc6W)
-
-[6 in 1 Fun Pack](https://amzn.to/2U8kc6W)
-
-[![CLASSIC CARD GAMES SET](../images/com/uncles_12777.jpg)](https://www.amazon.com/gp/product/B001HFY22E/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001HFY22E&linkCode=as2&tag=cardgames)
-
-[Melissa & Doug Classic Card Game Set](https://www.amazon.com/gp/product/B001HFY22E/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B001HFY22E&linkCode=as2&tag=cardgames)
+Old Maid se joue parfois avec un jeu de cartes spécial : toutes les cartes viennent en paires assorties sauf une seule carte Old Maid, dont le détenteur à la fin est le perdant. Certains jeux allemands de cartes Quartett sont livrés avec une carte Pierre noir pour pouvoir aussi les utiliser à ce jeu.
 
 ## Schwarzer Peter
 
-The equivalent game to Old Maid in Germany and several other European countries is called 'Black Peter'. Originally it was played with a standard pack (often a 32-card pack) from which a black jack was removed. The final holder of the odd jack when all other cards had been paired was the loser. However, it is more often played with a special pack of 31 or 37 cards in which the Schwarzer Peter card depicts a black cat or a chimney sweep. Before the game, one end of a (real) cork is carefully blackened by holding it over a candle flame. This is used to draw a black mark on the loser's face. Sometimes a Schwarzer Peter card is included with a pack of Quartet cards, so that the deck can be used for either game.
+Le jeu équivalent au Old Maid en Allemagne et dans plusieurs autres pays européens s'appelle « Pierre noir ». À l'origine, il se jouait avec un jeu standard (souvent un jeu de 32 cartes) duquel un valet noir avait été retiré. Le détenteur final du valet impair lorsque toutes les autres cartes avaient été appariées était le perdant. Cependant, on le joue plus souvent avec un jeu spécial de 31 ou 37 cartes dans lequel la carte Schwarzer Peter représente un chat noir ou un ramoneur. Avant le jeu, une extrémité d'un vrai bouchon est soigneusement noircie en la tenant au-dessus d'une flamme de bougie. Cela sert à tracer une marque noire sur le visage du perdant. Parfois, une carte Schwarzer Peter est incluse avec un jeu de cartes Quartet, de sorte que le jeu peut servir à l'un ou l'autre jeu.
 
 ## Papaz Kaçtı
 
-This game, whose name means 'the king escapes', is the Turkish equivalent of Old Maid. It is played with a pack of 49 cards - a standard 52-card deck from which three Kings have been removed. As usual players discard all pairs. Play is anti-clockwise. Beginning with the dealer each player in turn offers their cards to their right-hand opponent. The player who is left with the odd King after all other cards have been paired and discarded is eliminated from the game, which continues with further deals until there is only one survivor. Alternatively (according to the archived description at [iskambilci.com](https://web.archive.org/web/20210728142024/https://www.iskambilci.com/how-to-play-king-escaped/)), the player who ends with the King scores a penalty point and further deals are played until some player has 5 penalty points, at which time the game ends and the player with fewest points is the winner.
+Ce jeu, dont le nom signifie « le roi s'échappe », est l'équivalent turc du Old Maid. Il se joue avec un jeu de 49 cartes — un jeu de 52 cartes standard duquel trois rois ont été retirés. Comme d'habitude, les joueurs se défont de toutes les paires. Le jeu se joue dans le sens antihoraire. En commençant par le donneur, chaque joueur à tour de rôle offre ses cartes à son adversaire de droite. Le joueur qui reste avec le roi impair après que toutes les autres cartes ont été appariées et défaussées est éliminé du jeu, qui continue avec d'autres distributions jusqu'à ce qu'il ne reste qu'un survivant. Alternativement (selon la description archivée sur [iskambilci.com](https://web.archive.org/web/20210728142024/https://www.iskambilci.com/how-to-play-king-escaped/)), le joueur qui termine avec le roi marque un point de pénalité et d'autres distributions sont jouées jusqu'à ce qu'un joueur atteigne 5 points de pénalité, moment auquel le jeu se termine et le joueur avec le moins de points est le gagnant.
 
-## Other websites and software
+## Autres sites et logiciels
 
-The collection 
-HOYLE Card Games for Windows or Mac OS X includes an Old Maid program, along with many other popular card games.
+La collection HOYLE Card Games pour Windows ou Mac OS X inclut un programme Old Maid, ainsi que de nombreux autres jeux de cartes populaires.
 
-The Card Game Heaven site has a page of [rules for Old Maid](https://cardgameheaven.com/old-maid).
-
-Home Page > Classified Index > Card Passing Games > Old Maid
+Le site Card Game Heaven a une page de [règles pour Old Maid](https://cardgameheaven.com/old-maid).

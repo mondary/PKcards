@@ -4,128 +4,123 @@
 **Nombre de cartes :** 40
 **Difficulté :** ⭐⭐⭐
 **Type :** Pêche, Pêche
-**But :** A game from Ecuador in which a card can capture a matching card or set of cards from the table, and also a sequence of cards.
+**But :** Un jeu d'Équateur dans lequel une carte peut capturer une carte correspondante ou un ensemble de cartes sur la table, ainsi qu'une séquence de cartes.
 
 ---
 
 ## Introduction
 
-Cuarenta is played in Ecuador, mostly by people from the mountains, including the cities of Cuenca and Quito (the capital). Cuarenta means "40" in Spanish; this is the number of cards in the deck as well as the points required to win. The play is supposed to be full of bravado, loud, exciting, even silly. 
+Le Cuarenta se joue en Équateur, principalement par les gens de la montagne, y compris les villes de Cuenca et Quito (la capitale). Cuarenta signifie « 40 » en espagnol ; c'est le nombre de cartes dans le jeu ainsi que le nombre de points requis pour gagner. Le jeu est censé être plein de bravade, bruyant, passionnant, voire absurde.
 
-*This page is based on a contribution from Paul J. Welty.*
+*Cette page est basée sur une contribution de Paul J. Welty.*
 
-## The Players
+## Les joueurs
 
-Cuarenta can be played by 2 or 4 people. If there are 4 players, then there are two teams (partners sit across from each other). One of the team mates keeps the score; the other collects cards as they are won.
+Le Cuarenta peut se jouer à 2 ou 4 joueurs. S'il y a 4 joueurs, il y a deux équipes (les partenaires sont assis en face l'un de l'autre). L'un des partenaires garde le score ; l'autre collecte les cartes au fur et à mesure qu'elles sont gagnées.
 
-## The Deck
+## Le jeu de cartes
 
-Cuarenta is played with 40 cards from a standard 52 card deck. The eights, nines and tens are removed leaving the numbers ace-2-3-4-5-6-7 (ace is low) and the pictures.
+Le Cuarenta se joue avec 40 cartes d'un jeu standard de 52 cartes. Les 8, 9 et 10 sont retirés, ne laissant que les numéros As-2-3-4-5-6-7 (l'As est bas) et les figures.
 
-The removed 8's 9's and 10's are not used in the play, but they are used to keep score. At the start of the game they are placed in a face up stack between the two players who will be keeping score for their teams. 
+Les 8, 9 et 10 retirés ne sont pas utilisés dans le jeu, mais ils servent à compter les points. Au début du jeu, ils sont placés dans un tas face ouverte entre les deux joueurs qui garderont le score pour leurs équipes.
 
-## The Deal and Initial Announcements
+## La donne et les annonces initiales
 
-Since the dealer usually has an advantage, the first dealer is determined by shuffling the deck and dealing face-up cards to each player in order. The first player to receive a diamond is the first dealer. After each complete hand (consisting of two or four deals) the turn to deal passes to the left.
+Puisque le donneur a généralement un avantage, le premier donneur est déterminé en mélangeant le jeu et en distribuant des cartes face ouverte à chaque joueur dans l'ordre. Le premier joueur à recevoir un carreau est le premier donneur. Après chaque main complète (comprenant deux ou quatre donnes), le tour de donner passe à gauche.
 
-Five cards are dealt to each player, in a single batch of five, beginning with the player to dealer's left, going around the table clockwise and ending with the dealer. If there are **any** irregularities in the deal, the dealer's team loses the entire game. The cards which left over from the deal are kept in a face down stack to be dealt out later.
+Cinq cartes sont distribuées à chaque joueur, en un seul bloc de cinq, en commençant par le joueur à la gauche du donneur, dans le sens horaire autour de la table et en terminant par le donneur. S'il y a **la moindre** irrégularité dans la donne, l'équipe du donneur perd toute la partie. Les cartes restantes après la donne sont conservées dans un tas face cachée pour être distribuées plus tard.
 
-After everyone has played their five cards (see play below), the dealer deals another five cards to each player in the same way from the remaining stock of undealt cards. If there are 4 players, each deal consumes 20 of the 40 cards, so there will be two deals in all during a hand. If there are 2 players, 10 cards are used each time, so there will be four deals.
+Après que tout le monde a joué ses cinq cartes (voir le jeu ci-dessous), le donneur distribue cinq autres cartes à chaque joueur de la même manière à partir du stock de cartes non distribuées restant. S'il y a 4 joueurs, chaque donne consomme 20 des 40 cartes, il y aura donc deux donnes au total lors d'une main. S'il y a 2 joueurs, 10 cartes sont utilisées chaque fois, il y aura donc quatre donnes.
 
-There are two special announcements that can be made immediately after any deal:
+Il y a deux annonces spéciales qui peuvent être faites immédiatement après chaque donne :
 
-**1. Four of a kind**
-If any one player is dealt 4 cards of the same rank, the cards are shown and that player's team wins the entire game immediately.
+**1. Carré**
+Si un joueur reçoit 4 cartes de même rang, les cartes sont montrées et l'équipe de ce joueur gagne immédiatement toute la partie.
 
 **2. Ronda**
-A player who has received 3 cards of the same rank immediately says
-**Ronda** (= round, like in singing in rounds). The player's team then collects 4 points (but does not reveal the rank of the ronda). The player sitting to the left of the ronda should take note, because if that player can find out the rank of the ronda, and capture one of its cards by a caída, they can claim a bonus.
+Un joueur qui a reçu 3 cartes de même rang dit immédiatement **Ronda** (= ronde, comme dans le chant en canon). L'équipe du joueur collecte alors 4 points (mais ne révèle pas le rang de la ronda). Le joueur assis à la gauche de la ronda devrait prendre note, car si ce joueur peut découvrir le rang de la ronda et capturer l'une de ses cartes par une caída, il peut réclamer un bonus.
 
-## The Play
+## Le jeu
 
-The player to dealer's left begins and the turn to play passes clockwise. Each player in turn must play a card from hand face up on the table. This play may result in some cards being captured from the table, in which case the played card **and** the captured card(s) are taken and stacked face down in front of one member of the player's team (like a trick). If the played card does not capture anything, it stays face up on the table and may itself be captured by a later play.
+Le joueur à la gauche du donneur commence et le tour de jouer passe dans le sens horaire. Chaque joueur à son tour doit jouer une carte de sa main face ouverte sur la table. Cette joue peut entraîner la capture de certaines cartes sur la table, auquel cas la carte jouée **et** la ou les cartes capturées sont prises et empilées face cachée devant un membre de l'équipe du joueur (comme un pli). Si la carte jouée ne capture rien, elle reste face ouverte sur la table et peut elle-même être capturée par une joue ultérieure.
 
-There are three ways in which a played card can capture cards from the table:
+Il y a trois façons dont une carte jouée peut capturer des cartes sur la table :
 
-**1. Matching**
-If the played card is the same rank as a card on the table, the matching card can be captured. So if for example if the table contains a queen and you play a queen, you can capture the queen from the table and place both queens in your trick pile.
+**1. Correspondance**
+Si la carte jouée est du même rang qu'une carte sur la table, la carte correspondante peut être capturée. Ainsi, par exemple, si la table contient une Dame et que vous jouez une Dame, vous pouvez capturer la Dame de la table et placer les deux Dames dans votre tas de plis.
 **2. Addition**
-If the played card is a number card, it can capture a set of cards whose values add up to that of the played card. The values are the obvious ones: ace = 1, two = 2, three = 3, etc. up to seven = 7. Jacks, queens and kings have no numerical value; they cannot capture or be captured by addition. For example, if the table contains a two and a three and you play a five, you can capture the 3 and the 2 and put all three cards in your trick pile. If the table contains ace, 2, 4 you can capture all three of these cards by playing a seven.
-**3. Sequence**
-When a capture is made by matching or addition, a card next higher in rank than the **played** card may also be picked up from the table, along with any further cards from the table forming an unbroken upward sequence. The ranking order from lowest to highest is **A-2-3-4-5-6-7-J-Q-K**. So, if a player matches a 2 on the table by playing a 2 from hand, that player may also collect a 3, if one is on the table. This collection of sequential cards may continue until the sequence is broken. If the face up cards on the table are **2, 3, 4, 5, 7, J** then by playing a **2** you can capture **2, 3, 4, 5** - the 2 by matching and the 3, 4 and 5 by sequence. This leaves the 7 and jack on the table. You cannot capture the 7 or the jack because the 6 is missing from the sequence. If the same cards **2, 3, 4, 5, 7, J** are on the table and you play a **6**, you can capture **2, 4, 7, J** - the 2 and 4 by addition and the 7 and the jack by sequence (note that the jack immediately follows the seven in the ranking order). 
+Si la carte jouée est une carte numérique, elle peut capturer un ensemble de cartes dont les valeurs s'additionnent pour donner celle de la carte jouée. Les valeurs sont les évidentes : As = 1, deux = 2, trois = 3, etc. jusqu'à sept = 7. Les Valets, Dames et Rois n'ont pas de valeur numérique ; ils ne peuvent pas capturer ou être capturés par addition. Par exemple, si la table contient un deux et un trois et que vous jouez un cinq, vous pouvez capturer le 3 et le 2 et mettre les trois cartes dans votre tas de plis. Si la table contient As, 2, 4, vous pouvez capturer les trois cartes en jouant un sept.
+**3. Séquence**
+Lorsqu'une capture est faite par correspondance ou addition, une carte immédiatement supérieure en rang à la carte **jouée** peut également être ramassée sur la table, ainsi que toute autre carte sur la table formant une séquence ascendante ininterrompue. L'ordre des rangs du plus bas au plus haut est **A-2-3-4-5-6-7-V-D-R**. Ainsi, si un joueur correspond à un 2 sur la table en jouant un 2 de sa main, ce joueur peut aussi ramasser un 3, s'il y en a un sur la table. Cette collection de cartes séquentielles peut continuer jusqu'à ce que la séquence soit interrompue. Si les cartes face ouverte sur la table sont **2, 3, 4, 5, 7, V**, alors en jouant un **2** vous pouvez capturer **2, 3, 4, 5** — le 2 par correspondance et le 3, le 4 et le 5 par séquence. Cela laisse le 7 et le Valet sur la table. Vous ne pouvez pas capturer le 7 ou le Valet parce que le 6 manque dans la séquence. Si les mêmes cartes **2, 3, 4, 5, 7, V** sont sur la table et que vous jouez un **6**, vous pouvez capturer **2, 4, 7, V** — le 2 et le 4 par addition et le 7 et le Valet par séquence (notez que le Valet suit immédiatement le sept dans l'ordre des rangs).
 
-If the table is empty, as for example at the start of the game, then obviously there is nothing to capture, and the played card will just remain on the table.
+Si la table est vide, comme par exemple au début du jeu, il n'y a évidemment rien à capturer, et la carte jouée reste simplement sur la table.
 
-If a card can make more than one possible matching or addition capture, the player can choose which capture to make, but can only choose one of the possibilities. If the cards on the table are ace, 2, 3, 4 and you play a four, you can capture the 3 and the ace by addition, **or** you can capture the 4 by matching, but not both at once. If you play a five you can capture the 2 and the 3 **or** the 4 and the ace by addition, but not both sets.
+Si une carte peut faire plus d'une capture possible par correspondance ou addition, le joueur peut choisir laquelle faire, mais ne peut choisir qu'une seule des possibilités. Si les cartes sur la table sont As, 2, 3, 4 et que vous jouez un quatre, vous pouvez capturer le 3 et l'As par addition, **ou** vous pouvez capturer le 4 par correspondance, mais pas les deux à la fois. Si vous jouez un cinq, vous pouvez capturer le 2 et le 3 **ou** le 4 et l'As par addition, mais pas les deux ensembles.
 
-A sequence capture can **only** be made if the played card makes a matching or addition capture at the same time. If a 5 is on the table, playing a 4 does not capture the 5 unless the 4 also makes a capture by matching or addition.
+Une capture par séquence ne peut être faite **que** si la carte jouée effectue en même temps une capture par correspondance ou addition. Si un 5 est sur la table, jouer un 4 ne capture pas le 5 à moins que le 4 n'effectue aussi une capture par correspondance ou addition.
 
-If a player captures by matching or addition, but fails to take all or part of a sequence capture that is available at the same time, the players on the other team may take the sequence cards for themselves. For example the table contains 2, 3, 6, 7, J, Q. You play a 5 capturing the 2 and 3 by addition and the 6 and 7 by sequence, but forget to take the jack and queen. Your opponents can now take the jack and queen. However, there is no such penalty for missing a matching or addition capture. If in the same example you played a 5 but did not notice that you could capture anything at all, the opponents could not take any cards. All the cards would remain on the table.
+Si un joueur capture par correspondance ou addition, mais omet de prendre tout ou partie d'une capture par séquence disponible en même temps, les joueurs de l'autre équipe peuvent prendre les cartes de séquence pour eux-mêmes. Par exemple, la table contient 2, 3, 6, 7, V, D. Vous jouez un 5 capturant le 2 et le 3 par addition et le 6 et le 7 par séquence, mais vous oubliez de prendre le Valet et la Dame. Vos adversaires peuvent maintenant prendre le Valet et la Dame. Cependant, il n'y a pas de pénalité pour avoir manqué une capture par correspondance ou addition. Si dans le même exemple vous jouiez un 5 mais ne remarquiez pas que vous pouviez capturer quoi que ce soit du tout, les adversaires ne pourraient prendre aucune carte. Toutes les cartes resteraient sur la table.
 
 ### Caída
 
-Capturing the card just played by the previous player by matching it is called a **caída** (a fall). The team which makes the capture scores two extra points. Note that a capture is only a caída if the card is captured by **matching** by the **next** player in turn, immediately after the captured card was played. Taking the previous player's card by addition or sequence is not a caída.
+Capturer la carte qui vient d'être jouée par le joueur précédent en la faisant correspondre est appelé une **caída** (une chute). L'équipe qui effectue la capture marque deux points supplémentaires. Notez qu'une capture n'est une caída que si la carte est capturée par **correspondance** par le joueur **suivant** dans le tour, immédiatement après que la carte capturée a été jouée. Prendre la carte du joueur précédent par addition ou séquence n'est pas une caída.
 
 ### Limpia
 
-If a player clears the table of all cards, that player's team recevies 2
-points for a **limpia** (clean). It often happens that one player puts a card down on an empty table, and the next player makes a caída on that card and takes it off the table, which also has the effect of cleaning the table (there was only one card). In this case, the capturing team gets 4 points: 2 for caída and 2 for limpia.
+Si un joueur nettoie la table de toutes les cartes, l'équipe de ce joueur reçoit 2 points pour une **limpia** (nettoyage). Il arrive souvent qu'un joueur pose une carte sur une table vide, et que le joueur suivant fasse une caída sur cette carte et l'enlève de la table, ce qui a aussi pour effet de nettoyer la table (il n'y avait qu'une seule carte). Dans ce cas, l'équipe qui capture obtient 4 points : 2 pour la caída et 2 pour la limpia.
 
-### New deals
+### Nouvelles donnes
 
-Play continues until everyone has played their 5 cards, and then if there are undealt cards remaining in the pack, another 5 cards are dealt to each player. There may be cards left on the table after everyone has played their cards from the first deal. These cards are available for capture after the new deal. Thus the first player gets a chance to collect some easy points if the table was not cleaned from the previous hand.
+Le jeu continue jusqu'à ce que tout le monde ait joué ses 5 cartes, puis s'il reste des cartes non distribuées dans le jeu, 5 nouvelles cartes sont distribuées à chaque joueur. Il peut rester des cartes sur la table après que tout le monde a joué ses cartes de la première donne. Ces cartes sont disponibles pour la capture après la nouvelle donne. Ainsi, le premier joueur a l'opportunité de marquer quelques points faciles si la table n'a pas été nettoyée de la main précédente.
 
-However, it does **not** count as a caída if the first player after a new deal matches and captures the last card played by the dealer at the end of the previous deal.
+Cependant, cela ne compte **pas** comme une caída si le premier joueur après une nouvelle donne correspond et capture la dernière carte jouée par le donneur à la fin de la donne précédente.
 
-### End of the play
+### Fin du jeu
 
-After all 40 cards have been played (which takes two deals if there are 4 players, and 4 deals if there are 2 players), the hand ends and the teams score for the cards that they have taken. Unless the very last play was a limpia, there will be uncaptured cards left in the centre of the table, and these do not count for either team.
+Après que les 40 cartes ont été jouées (ce qui prend deux donnes s'il y a 4 joueurs, et 4 donnes s'il y a 2 joueurs), la main s' termine et les équipes marquent pour les cartes qu'elles ont prises. Sauf si la toute dernière joue était une limpia, il y aura des cartes non capturées au centre de la table, et celles-ci ne comptent pour aucune équipe.
 
-## Scoring
+## Notation
 
-Each team counts its collected cards. A team with 20 cards scores 6 points. A team with more than 20 cards scores one extra point for each extra card, rounded up to the next even number. So a team with 21 or 22 cards score 8 points, 23 or 24 cards score 10 points, and so on. If both teams take 20 cards, then only the **non**-dealing team scores 6 points.
+Chaque équipe compte ses cartes collectées. Une équipe avec 20 cartes marque 6 points. Une équipe avec plus de 20 cartes marque un point supplémentaire pour chaque carte supplémentaire, arrondi au nombre pair supérieur. Ainsi, une équipe avec 21 ou 22 cartes marque 8 points, 23 ou 24 cartes marquent 10 points, et ainsi de suite. Si les deux équipes prennent 20 cartes, seule l'équipe **non** donneuse marque 6 points.
 
-If neither team gets as many as 20 cards, the team with the greater number of cards scores just 2 points. When both teams have the same number of captured cards but fewer than 20 each, the **non**-dealing team scores 2 points.
+Si aucune équipe n'atteint 20 cartes, l'équipe avec le plus grand nombre de cartes marque seulement 2 points. Lorsque les deux équipes ont le même nombre de cartes capturées mais moins de 20 chacune, l'équipe **non** donneuse marque 2 points.
 
-The first team to reach 40 points wins the game.
+La première équipe à atteindre 40 points gagne la partie.
 
-### Special Scoring Rules
+### Règles de notation spéciales
 
-If a player makes a caída by capturing a card that was part of a ronda, and remembers this event and the rank of the ronda cards, the capturing player's team gets 10 points. The announcement of the remembered event is made at the **end** of the hand. The bonus cannot be collected once the next deal has begun. It is therefore not advisable for a ronda team to remind their opponents of what has happened.
+Si un joueur fait une caída en capturant une carte qui faisait partie d'une ronda, et s'en souvient ainsi que du rang des cartes de la ronda, l'équipe du joueur qui capture obtient 10 points. L'annonce de l'événement mémorisé est faite à la **fin** de la main. Le bonus ne peut être collecté une fois que la donne suivante a commencé. Il n'est donc pas conseillé à une équipe avec une ronda de rappeler à ses adversaires ce qui s'est passé.
 
-A team which has 30 or more points cannot score for rondas, nor for capturing a card of the opponents' ronda by means of a caída. However, if the opposing team have less than 30 points, they may still collect 10 points if they capture a card of an "unannounced" ronda by a caída, and they notice this.
+Une équipe qui a 30 points ou plus ne peut pas marquer pour les rondas, ni pour la capture d'une carte de la ronda des adversaires par une caída. Cependant, si l'équipe adverse a moins de 30 points, elle peut encore collecter 10 points si elle capture une carte d'une ronda « non annoncée » par une caída, et qu'elle le remarque.
 
-A team which has 38 points cannot collect for limpia. This has the result that a team
-can only win the game by counting cards or with a caída.
+Une équipe qui a 38 points ne peut pas collecter pour la limpia. Cela a pour conséquence qu'une équipe ne peut gagner la partie qu'en comptant les cartes ou avec une caída.
 
-However, a team has 36 points **can** still score 4 points for a **caída y limpia**, thus winning the game.
+Cependant, une équipe qui a 36 points **peut** encore marquer 4 points pour une **caída y limpia**, remportant ainsi la partie.
 
-### Keeping score using the eights, nines and tens
+### Comptage des points avec les 8, 9 et 10
 
-Each of these cards represents 2 points when face up. One of these cards face-down represents ten points (called a *perro* [dog]). The score could just as well be kept on paper, but this traditional method is easier and more fun. 
+Chacune de ces cartes représente 2 points face ouverte. Une de ces cartes face cachée représente dix points (appelée *perro* [chien]). Le score pourrait tout aussi bien être tenu sur papier, mais cette méthode traditionnelle est plus facile et plus amusante.
 
-All the scoring cards start in a face-up stack between the scorers. Each scorer takes cards from the stack to represent their points as they score them. When you have five face up cards you should trade them in for a *perro*, otherwise the scoring cards will run out. When you reach 38, this is indicated by returning **all** your score cards to the face-up stack. This way there are just enough cards to keep score in all situations.
+Toutes les cartes de score commencent dans un tas face ouverte entre les scoreurs. Chaque scoreur prend des cartes du tas pour représenter ses points au fur et à mesure qu'il les marque. Lorsque vous avez cinq cartes face ouverte, vous devriez les échanger contre un *perro*, sinon les cartes de score seront épuisées. Lorsque vous atteignez 38, cela est indiqué en retournant **toutes** vos cartes de score dans le tas face ouverte. De cette façon, il y a juste assez de cartes pour compter les points dans toutes les situations.
 
-## Tactics
+## Tactiques
 
-When the table is empty, the player whose turn it is is in trouble. A caída y limpia is likely (and 4 points is a lot; and it leaves partner in the same position). This is one reason why the dealer is somewhat at an advantage. So generally you try to play one card of a pair in your hand, to minimize the chance of a caída. Of course, this doesn't always work. You should count the cards, so that if you don't have a pair, you know what has and what has not been played, and can play something that has already been played. When even this fails, you try to play something that can't be used against you. Playing an Ace is bad because it adds up with just about anything. Face cards are a good option when you don't know what to do.
+Lorsque la table est vide, le joueur dont c'est le tour est en difficulté. Une caída y limpia est probable (et 4 points, c'est beaucoup ; et cela laisse le partenaire dans la même position). C'est une des raisons pour lesquelles le donneur est quelque peu avantagé. Donc, en général, vous essayez de jouer une carte d'une paire dans votre main, pour minimiser la chance d'une caída. Bien sûr, cela ne fonctionne pas toujours. Vous devriez compter les cartes, pour que si vous n'avez pas de paire, vous sachiez ce qui a été joué et ce qui ne l'a pas été, et pouvoir jouer quelque chose qui a déjà été joué. Même cela échoue, vous essayez de jouer quelque chose qui ne peut pas être utilisé contre vous. Jouer un As est mauvais car cela s'additionne avec presque n'importe quoi. Les figures sont un bon choix quand vous ne savez pas quoi faire.
 
-When the table has some cards on it, but the player can't make a match, you can still follow the above recommendations, but don't play something that will easily add. **Don't** play a card that will begin a sequence of cards. This can make a caída into a caída y limpia because of the picking up in sequence rule. Again, an already-played-card or face-card is a good choice.
+Lorsque la table a quelques cartes, mais que le joueur ne peut pas faire de correspondance, vous pouvez toujours suivre les recommandations ci-dessus, mais ne jouez pas quelque chose qui s'additionnera facilement. **Ne** jouez pas une carte qui commencera une séquence de cartes. Cela peut transformer une caída en caída y limpia à cause de la règle de capture en séquence. Encore une fois, une carte déjà jouée ou une figure est un bon choix.
 
-**Hunches count!** Sometimes you can tell what the person to your right is hanging onto. So, you keep that card until the end to capture it. Of course the person to your left will do the same to you.
+**Les pressentiments comptent !** Parfois, vous pouvez dire ce que la personne à votre droite garde en main. Ainsi, vous conservez cette carte jusqu'à la fin pour la capturer. Bien sûr, la personne à votre gauche fera la même chose avec vous.
 
-## Customs
+## Coutumes
 
-When making a caída, a special flourish is employed. The card is sometimes "snapped" down on top of the captured card with great vigor and from well above the surface of the table. Then, both cards are taken as usual. This is a purely friendly, but nonetheless rib-poking, gesture.
+Lors d'une caída, un geste spécial est employé. La carte est parfois « claquée » sur la carte capturée avec beaucoup de vigueur et de bien au-dessus de la surface de la table. Ensuite, les deux cartes sont prises comme d'habitude. C'est un geste purement amical, mais tout de même taquin.
 
-Near the end of the deal, a player occasionally "predicts" an upcoming caída by taking a card from his hand and holding it face down near the playing surface in anticipation of the right hand opponent's play. It may not often work, but, if you really count the cards, you can do this consistently. Another silly variation is to taunt the opponent by putting the card you expect to use as a caída on your forehead (facing you, of course).
+Vers la fin de la donne, un joueur « prédit » parfois une caída à venir en prenant une carte de sa main et en la tenant face cachée près de la surface de jeu en anticipation de la joue de l'adversaire à sa droite. Cela peut ne pas souvent marcher, mais si vous comptez vraiment les cartes, vous pouvez le faire de manière cohérente. Une autre variation absurde est de taunter l'adversaire en posant la carte que vous prévoyez d'utiliser comme caída sur votre front (face vers vous, bien sûr).
 
-It is said that, in Ecuador, the really good players can tell exactly what you have in your hand by how you hesitate before a play.
+On dit qu'en Équateur, les vraiment bons joueurs peuvent dire exactement ce que vous avez dans votre main d'après la façon dont vous hésitez avant de jouer.
 
-## Other Cuarenta WWW Pages, Software and Online Games
+## Autres pages Cuarenta sur le web, logiciels et jeux en ligne
 
-Cristina Abad Robalino, Rafael Bonilla Armijos, César Salazar Tovar and Profesor Ing. Glenn Maldonado Vaca of Guayaquil, Ecuador published a [Cuarenta web site](https://web.archive.org/web/20091027040833/http://www.geocities.com/SiliconValley/Heights/5344) in Spanish (archive copy), which includes rules and information about the World Championship.
+Cristina Abad Robalino, Rafael Bonilla Armijos, César Salazar Tovar et Profesor Ing. Glenn Maldonado Vaca de Guayaquil, Équateur, ont publié un [site web Cuarenta](https://web.archive.org/web/20091027040833/http://www.geocities.com/SiliconValley/Heights/5344) en espagnol (copie d'archive), qui inclut les règles et des informations sur le Championnat du Monde.
 
-[Cuarenta](https://tabletopia.com/games/cuarenta) can be played online at Tabletopia.
-
-Home Page > Classified Index > Fishing Games > Cuarenta
+Le [Cuarenta](https://tabletopia.com/games/cuarenta) peut être joué en ligne sur Tabletopia.

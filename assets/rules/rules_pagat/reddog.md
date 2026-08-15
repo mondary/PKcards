@@ -3,71 +3,69 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Banque, Banque
-**But :** A banking card game also known as High Card pool, and its variants Slippery Sam, Shoot and Polish Red Dog.
+**But :** Jeu de cartes bancaire, aussi connu sous le nom de High Card pool, et ses variantes Slippery Sam, Shoot et Polish Red Dog.
 **Autres noms :** High Card pool
 
 ---
 
-Red Dog was originally a banking game in which punters bet on whether any card in their hand would be the same suit as and higher than a card to be dealt from the pack. This game, also called **High Card Pool**, and its variations **Slippery Sam**, **Shoot** and **Polish Red Dog** (also called **Stitch** or **Polski Pachuck**) are described on this page:
+Red Dog était à l'origine un jeu bancaire dans lequel les parieurs misent sur le fait qu'une carte de leur main serait de la même couleur et plus haute qu'une carte à distribuer du jeu. Ce jeu, aussi appelé **High Card Pool**, et ses variantes **Slippery Sam**, **Shoot** et **Polish Red Dog** (aussi appelé **Stitch** ou **Polski Pachuck**) sont décrits sur cette page :
 
-In American Casinos, the name Red Dog is now used for a different banking game (also called **Ace-Deuce**, **In Between** or **Yablon**) in which two cards are dealt face up, and the player bets on whether a third card will rank between the first two cards. That game is described on the In Between page.
+Dans les casinos américains, le nom Red Dog est maintenant utilisé pour un jeu bancaire différent (aussi appelé **Ace-Deuce**, **In Between** ou **Yablon**) dans lequel deux cartes sont distribuées face visible, et le joueur parie sur le fait qu'une troisième carte se classera entre les deux premières cartes. Ce jeu est décrit sur la page In Between.
 
-In the card games literature, there is quite a lot of variation as to which of the names Red Dog, Slippery Sam and Shoot are applied to which version of the game. If you have views as to whether the names on this page are correctly assigned to the variations, or if you are familiar with other versions, please let me know.
+Dans la littérature des jeux de cartes, il y a pas mal de variations quant à savoir à quelle version du jeu les noms Red Dog, Slippery Sam et Shoot sont appliqués. Si vous avez des opinions sur la question de savoir si les noms sur cette page sont correctement attribués aux variantes, ou si vous êtes familier avec d'autres versions, n'hésitez pas à me le faire savoir.
 
 ## Red Dog / High Card Pool
 
-A standard 52 card pack is used with cards ranking from ace (high) down to two (low). There can be from three to about eight players; each in turn will be the dealer - the first dealer is chosen at random.
+Un jeu de 52 cartes standard est utilisé avec les cartes se classant de l'as (haut) au deux (bas). On peut jouer de trois à environ huit joueurs ; chacun à son tour sera le donneur — le premier donneur est choisi au hasard.
 
-Before the deal each player puts an equal stake (ante) into the pot. The dealer then deals five cards to each player, and the players look at their hands.
+Avant la distribution, chaque joueur met une mise égale (ante) dans le pot. Le donneur distribue alors cinq cartes à chaque joueur, et les joueurs regardent leurs mains.
 
-Starting with the player to dealer's left, going around the table clockwise and ending with the dealer, each player has a chance to bet. At your turn you choose how much to bet - you must bet at least the amount of the ante, and may bet anything up to the entire pot - and you place your stake next to the pot. When you have bet, the dealer burns one card (i.e. takes it from the top of the deck, shows it to the players, and adds it face up to the bottom of the deck) and then deals one card face up in front of you. 
+En commençant par le joueur à gauche du donneur, en allant autour de la table dans le sens horaire et en terminant par le donneur, chaque joueur a une chance de miser. À votre tour, vous choisissez combien miser — vous devez miser au moins le montant de l'ante, et pouvez miser n'importe quoi jusqu'au pot entier — et vous placez votre mise à côté du pot. Quand vous avez misé, le donneur brûle une carte (c'est-à-dire la prend du haut du jeu, la montre aux joueurs, et l'ajoute face visible au bas du jeu) puis distribue une carte face visible devant vous.
 
-- If you have a card in your hand which is the same suit as the dealt card and higher in rank, you show this card, take back your stake, and the dealer gives you an equal amount out of the pot. 
+- Si vous avez une carte dans votre main qui est de la même couleur que la carte distribuée et de rang supérieur, vous montrez cette carte, reprenez votre mise, et le donneur vous donne un montant égal provenant du pot.
 
-- If you have no card which is the same suit as and higher than the dealt card, you must show your whole hand, and the dealer sweeps your stake into the pot.
+- Si vous n'avez aucune carte qui soit de la même couleur et supérieure à la carte distribuée, vous devez montrer toute votre main, et le donneur balaye votre mise dans le pot.
 
-Your cards and the dealt card are now set aside face down and it is the next player's turn to bet against the pot, whatever it now contains. If the pot is empty, or contains less than the minimum bet, each player immediately puts in the initial stake again. 
+Vos cartes et la carte distribuée sont maintenant mises de côté face cachée et c'est le tour du joueur suivant de miser contre le pot, quel que soit son contenu actuel. Si le pot est vide ou contient moins que la mise minimum, chaque joueur met immédiatement la mise initiale à nouveau.
 
-After everyone has bet, the turn to deal passes. Whatever was in the pot stays there for the next hand, and each player adds another ante to it (but if the players agree that the pot has become too large they may split it between them and ante to a new pot).
+Après que tout le monde a misé, le tour de distribution passe. Ce qu'il y avait dans le pot y reste pour la main suivante, et chaque joueur y ajoute une autre ante (mais si les joueurs conviennent que le pot est devenu trop grand, ils peuvent le partager entre eux et miser pour un nouveau pot).
 
-### Variations
+### Variantes
 
-Some play that only four cards are dealt to each player. This enables a larger number of players to take part without the cards running out. Some play with only three cards dealt to each player.
+Certains jouent que seules quatre cartes sont distribuées à chaque joueur. Cela permet à un plus grand nombre de joueurs de participer sans que les cartes ne s'épuisent. Certains jouent avec seulement trois cartes distribuées à chaque joueur.
 
-Red Dog can be played with a bank put up by the dealer, as in Shoot or Slippery Sam; in this case the players do not ante, and if the pot becomes empty the deal immediately passes to the next player.
+Red Dog peut être joué avec une banque mise en place par le donneur, comme dans Shoot ou Slippery Sam ; dans ce cas, les joueurs ne misent pas d'ante, et si le pot devient vide, la distribution passe immédiatement au joueur suivant.
 
 ## Shoot
 
-The game is similar to Red Dog, but there are the following differences.
+Le jeu est similaire à Red Dog, mais il y a les différences suivantes.
 
-At the start, the dealer alone puts up a stake, which can be any amount between an agreed minimum and maximum. 
+Au départ, le donneur seul met une mise, qui peut être n'importe quel montant entre un minimum et un maximum convenus.
 
-The dealer deals just three cards to each other player. Players may not look at their cards until just before their turn to bet (when the previous player's turn is over). 
+Le donneur distribue seulement trois cartes à chaque autre joueur. Les joueurs ne peuvent pas regarder leurs cartes jusqu'au moment de leur tour de miser (quand le tour du joueur précédent est terminé).
 
-At your turn, you may bet anything between an agreed minimum and the amount currently in the pot (obviously the agreed minimum for a player's stake must be less than the minimum that the dealer has to put into the pool). The dealer then turns up a card and you win if you can show a card from your hand of the same suit and higher in rank; otherwise you lose.
+À votre tour, vous pouvez miser n'importe quoi entre un minimum convenu et le montant actuellement dans le pot (évidemment, le minimum convenu pour la mise d'un joueur doit être inférieur au minimum que le donneur doit mettre dans le pot). Le donneur retourne alors une carte et vous gagnez si vous pouvez montrer une carte de votre main de la même couleur et de rang supérieur ; sinon vous perdez.
 
-If the pot becomes empty, anyone who has not yet bet in that deal does not have a chance to do so. The deal immediately passes to the next player to the left. 
+Si le pot devient vide, quiconque n'a pas encore misé dans cette distribution n'a pas l'occasion de le faire. La distribution passe immédiatement au joueur suivant à gauche.
 
-If money remains in the pot at the end of a deal, the same dealer deals again. When the same person has dealt three times in succession they can choose whether to pass the deal on to the next player, keeping whatever is in the pot, or to deal a fourth time and pass the deal on after that, keeping whatever remains in the pot after the fourth hand.
+S'il reste de l'argent dans le pot à la fin d'une distribution, le même donneur redistribue. Quand la même personne a distribué trois fois de suite, elle peut choisir de passer la distribution au joueur suivant, en gardant ce qu'il y a dans le pot, ou de distribuer une quatrième fois et passer la distribution après cela, en gardant ce qui reste dans le pot après la quatrième main.
 
 ## Slippery Sam
 
-This is also called **Six-Spot Red Dog**. The betting mechanism is the same as in Shoot, but the players bet on the basis of the dealer's turned up card, without having seen the cards in their hands.
+C'est aussi appelé **Six-Spot Red Dog**. Le mécanisme de paris est le même que dans Shoot, mais les joueurs parient sur la base de la carte retournée par le donneur, sans avoir vu les cartes de leur main.
 
-The dealer deals just three cards to each other player, but they must not look at their cards. Then the dealer continues by dealing cards face up in the centre of the table until a six or lower appears. Each player bets on having a higher card in the same suit as the face up card. After the player has decided how much to bet, the player's whole hand is then exposed and the player wins the amount of the stake from the pot if it contains a higher card of the same suit as the dealer's card; if not, the player's bet is added to the pot.
+Le donneur distribue seulement trois cartes à chaque autre joueur, mais ils ne doivent pas les regarder. Ensuite, le donneur continue en distribuant des cartes face visible au centre de la table jusqu'à ce qu'un six ou moins apparaisse. Chaque joueur parie sur le fait qu'il a une carte plus haute de la même couleur que la carte face visible. Après que le joueur a décidé combien miser, toute la main du joueur est exposée et le joueur gagne le montant de la mise provenant du pot si elle contient une carte plus haute de la même couleur que celle du donneur ; sinon, la mise du joueur est ajoutée au pot.
 
-If the pot becomes empty in the middle of a hand, the deal passes to the next player, who creates a new pot. At the end of a hand, the dealer retains anything that is left in the pot, and the deal passes to the next player.
+Si le pot devient vide au milieu d'une main, la distribution passe au joueur suivant, qui crée un nouveau pot. À la fin d'une main, le donneur conserve tout ce qui reste dans le pot, et la distribution passe au joueur suivant.
 
-### Variations
+### Variantes
 
-In his *Encyclopedia of Games (1973)*, John Scarne says that the following variation is popular in Fort Wayne, Indiana. The dealer deals three cards to each player and one face up in the centre. The player can either bet against this card or ask the dealer to deal another card - for which the player has to pay into the pot one fifth of what it contains (or some other agreed amount). If the player does not wish to bet against the second card, a third card can be called for at the same price. After paying for the third card the player may either bet against it or pass without betting, and the turn passes to the next player.
+Dans son *Encyclopedia of Games (1973)*, John Scarne dit que la variante suivante est populaire à Fort Wayne, Indiana. Le donneur distribue trois cartes à chaque joueur et une face visible au centre. Le joueur peut soit miser contre cette carte, soit demander au donneur de distribuer une autre carte — pour laquelle le joueur doit payer au pot un cinquième de ce qu'il contient (ou un autre montant convenu). Si le joueur ne souhaite pas miser contre la deuxième carte, une troisième carte peut être demandée au même prix. Après avoir payé pour la troisième carte, le joueur peut soit miser contre elle, soit passer sans miser, et le tour passe au joueur suivant.
 
 ## Polish Red Dog
 
-This is similar to Slippery Sam, except that the players bet without seeing either their own cards or the dealer's card. It is described in Ostrow's *Complete Card Player (1945)*, and the description is reprinted in various later books. Alternative names are **Stitch** and **Polski Pachuck**.
+C'est similaire à Slippery Sam, sauf que les joueurs misent sans voir ni leurs propres cartes ni la carte du donneur. Il est décrit dans le *Complete Card Player* d'Ostrow (1945), et la description est réimprimée dans divers livres ultérieurs. Les noms alternatifs sont **Stitch** et **Polski Pachuck**.
 
-The banker's initial stake is a fixed amount, and a player's maximum bet is half of what is in the pot at the time. When the player has bet, the dealer burns one card (faces it and puts it on the bottom of the pack), and turns up the next card, and the player's three cards are exposed. If the player has a higher card of the same suit as the dealer's card, the player is paid from the pot twice the amount of the bet; otherwise the bet is added to the pot.
+La mise initiale du banquier est un montant fixe, et la mise maximale d'un joueur est la moitié de ce qui se trouve dans le pot au moment de la mise. Quand le joueur a misé, le donneur brûle une carte (la retourne et la met au bas du jeu), et retourne la carte suivante, et les trois cartes du joueur sont exposées. Si le joueur a une carte plus haute de la même couleur que celle du donneur, le joueur est payé depuis le pot deux fois le montant de la mise ; sinon, la mise est ajoutée au pot.
 
-If the pot is *busted* (runs out of money), the deal immediately passes to the next player. Otherwise the same player continues dealing until at the end of a hand the pot is at least three times its initial size. At this point the dealer declares a *stitch* round - a final deal after which if the pot is still not busted the dealer collects whatever is in it and the turn to deal passes to the left.
-
-Home Page > Classified Index > Banking Games > High Card Pool
+Si le pot est *crevé* (il n'y a plus d'argent), la distribution passe immédiatement au joueur suivant. Sinon, le même joueur continue de distribuer jusqu'à ce qu'à la fin d'une main le pot soit au moins trois fois sa taille initiale. À ce moment, le donneur déclare un tour de *stitch* — une distribution finale après laquelle, si le pot n'est toujours pas crevé, le donneur collecte ce qu'il contient et le tour de distribution passe à gauche.

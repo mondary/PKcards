@@ -3,93 +3,99 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** An unusual and light hearted card game from Cleveland, Ohio on the theme of colonisation.
+**But :** Un jeu de cartes inhabituel et décontracté de Cleveland, Ohio, sur le thème de la colonisation.
+**Autres noms :** Civilization, Imperialist Takeover, Colonization
 
 ---
 
-*This page is based on information from Kumar G.*
+*Cette page est basée sur des informations de Kumar G.*
 
 ## Introduction
 
-This is a sort of trick-taking game, but one in which all players play a card face down, and all reveal them simultaneously, as in GOPS. However, unlike GOPS, this is a game in which cards have various point values, and the aim is to collect the majority of points in a suit.
+C'est une sorte de jeu de plis, mais dans lequel tous les joueurs jouent une carte face cachée, et tous les révèlent simultanément, comme dans GOPS. Cependant, contrairement à GOPS, c'est un jeu dans lequel les cartes ont diverses valeurs en points, et le but est de collecter la majorité des points dans une couleur.
 
-Democracy is one of several unusual card games played at the [Tabletop Board Game Cafe](https://www.tabletopcleve.com) in Cleveland, Ohio. Ribs is another. We do not know the history of these games - whether they were invented in Cleveland or introduced from elsewhere, or adapted from previously existing games. We do know that Democracy has been played in Cleveland since 2004 or earlier. Any further information about its history or other places where it is known would be very welcome.
+Democracy est l'un des nombreux jeux de cartes inhabituels joués au [Tabletop Board Game Cafe](https://www.tabletopcleve.com) de Cleveland, Ohio. Ribs en est un autre. Nous ne connaissons pas l'histoire de ces jeux — s'ils ont été inventés à Cleveland ou introduits d'ailleurs, ou adaptés de jeux existants. Nous savons que Democracy est joué à Cleveland depuis 2004 ou avant. Toute information supplémentaire sur son histoire ou d'autres endroits où il est connu serait la bienvenue.
 
-Democracy is a light-hearted game that comes with a substantial back story. However, I prefer to describe the mechanics of the actual game first. The back story and some of the customs surrounding the game will be found at the end of the page.
+Democracy est un jeu décontracté qui s'accompagne d'une histoire de fond substantielle. Cependant, je préfère décrire d'abord la mécanique du jeu réel. L'histoire de fond et certaines des coutumes entourant le jeu se trouvent à la fin de la page.
 
-## Players and Cards
+## Joueurs et cartes
 
-This game can be played from anywhere between two to six players, but works best with 3-5. The twos are removed from a standard 52-card deck, leaving 48 cards remaining in play. For 2, 3, or 5 players, these 48 cards alone are used; for 4 players, two jokers are added (for a total of 50 cards); for 6 players, one joker is added (for a total of 49 cards). 
+Ce jeu peut se jouer de deux à six joueurs, mais fonctionne mieux avec 3 à 5. Les deux sont retirés d'un jeu standard de 52 cartes, laissant 48 cartes en jeu. Pour 2, 3 ou 5 joueurs, ces 48 cartes seules sont utilisées ; pour 4 joueurs, deux jokers sont ajoutés (pour un total de 50 cartes) ; pour 6 joueurs, un joker est ajouté (pour un total de 49 cartes).
 
-The cards rank from high to low in this order: 5-4-3-A-K-Q-J-10-9-8-7-6. Point values and names (including alternate names) of each card are as follows:
+Les cartes rangent de haut en bas dans cet ordre : 5-4-3-A-R-D-V-10-9-8-7-6. Les valeurs en points et noms (y compris les noms alternatifs) de chaque carte sont les suivants :
 
-| Card | Value | Name |
-| 5 | 5 | Chief / Tribe Leader |
-| 4 | 4 | Vice Chief / Chieftainess |
-| 3, A | 3 | Ministers / Warriors |
-| K, Q, J | 2 | Noblemen / Hunters |
-| 10, 9, 8, 7 | 1 | Peasants / Farmers / Children |
-| 6 | 0 | Village idiot / Village drunk / Donkey |
+| Carte | Valeur | Nom |
+|-------|--------|-----|
+| 5 | 5 | Chef / Chef de tribu |
+| 4 | 4 | Vice-chef / Cheftaine |
+| 3, A | 3 | Ministres / Guerriers |
+| R, D, V | 2 | Nobles / Chasseurs |
+| 10, 9, 8, 7 | 1 | Paysans / Fermiers / Enfants |
+| 6 | 0 | Idiot du village / Ivrogne du village / Âne |
 
-Note that even if two different ranks share the same point value, one must outrank the other. For example a 3 beats and Ace even though both are worth 3 points. The total value of the cards in each suit is 25.
+Notez que même si deux rangs différents partagent la même valeur en points, l'un doit dominer l'autre. Par exemple, un 3 bat un As même si les deux valent 3 points. La valeur totale des cartes de chaque couleur est de 25.
 
-## Deal
+## Donne
 
-The cards are thoroughly shuffled and dealt face down clockwise from the left of the dealer, one card at a time, and an extra hand, known as the "voting pool" is dealt face down to the center of the table. 
+Les cartes sont soigneusement mélangées et distribuées face cachée dans le sens horaire à partir de la gauche du donneur, une carte à la fois, et une main supplémentaire, appelée « bassin de vote », est distribuée face cachée au centre de la table.
 
-Normally the game is played in two stages, known as "days". In the first "day" half the cards are dealt and the remainder of the deck is set aside to be dealt in the second day. For example in each day, 3 players get 6 cards each with 6 in the pool, 4 players get 5 cards each with 5 in the pool, and 5 get 4 each with 4 in the pool. 
+Normalement, le jeu se joue en deux étapes, appelées « jours ». Lors du premier « jour », la moitié des cartes sont distribuées et le reste du jeu est mis de côté pour être distribué lors du second jour. Par exemple, lors de chaque jour, 3 joueurs reçoivent 6 cartes chacun avec 6 dans le bassin, 4 joueurs reçoivent 5 cartes chacun avec 5 dans le bassin, et 5 en reçoivent 4 chacun avec 4 dans le bassin.
 
-The players pick up their hands and look at them, keeping the face of their cards hidden from the other players.
+Les joueurs ramassent leurs mains et les regardent, en gardant le visage de leurs cartes caché aux autres joueurs.
 
-## Play
+## Jeu
 
-The dealer flips over a single card from the voting pool, which determines the trump suit for the trick. Each player selects a card from their hand and places it face down in front of them. Players are free to choose any card from their hand - there is no requirement to "follow suit" or to play a trump if you have one. Once everyone has selected a card, on the dealer's signal, all simultaneously turn their cards face up, and the cards are compared to see who wins the trick. 
+Le donneur retourne une carte du bassin de vote, qui détermine la couleur d'atout pour le pli. Chaque joueur choisit une carte de sa main et la place face cachée devant lui. Les joueurs sont libres de choisir n'importe quelle carte de leur main — il n'y a aucune obligation de « suivre la couleur » ou de jouer un atout si vous en avez un. Une fois que tout le monde a choisi une carte, sur le signal du donneur, tous retournent simultanément leurs cartes face ouverte, et les cartes sont comparées pour voir qui gagne le pli.
 
-If any trumps (cards that match the suit of the card from the voting pool) have been played, the highest trump takes the trick, with one exception. If the 5 and 6 of trumps are both played to the same trick, the 6 wins. 
+Si des atouts (cartes qui correspondent à la couleur de la carte du bassin de vote) ont été joués, le plus haut atout remporte le pli, avec une exception. Si le 5 et le 6 d'atout sont tous deux joués au même pli, le 6 gagne.
 
-If none of the played cards matches the suit of the card turned up from the voting pool, the trick is won by the highest card irrespective of suit. The winner of the trick takes all the cards played to the trick, including the voting card, and stores them face down in his or her pile of captured cards. 
+Si aucune des cartes jouées ne correspond à la couleur de la carte retournée du bassin de vote, le pli est remporté par la carte la plus haute quelle que soit la couleur. Le gagnant du pli prend toutes les cartes jouées pour le pli, y compris la carte de vote, et les stocke face cachée dans sa pile de cartes capturées.
 
-If no trump cards are played a tie for highest card is possible. In this case each player captures his or her own card only, while the voting card is discarded and belongs to no one.
+Si aucun atout n'est joué, une égalité pour la carte la plus haute est possible. Dans ce cas, chaque joueur capture uniquement sa propre carte, tandis que la carte de vote est défaussée et n'appartient à personne.
 
-A joker can represent any card except a trump. Therefore a joker will lose any trick to which a trump is played. In a trick without trumps a joker will tie a trick if anyone else plays a 5 or joker, and will win the trick if no 5's or other jokers are played. If a joker is turned up as the voting card, there is no trumps suit and the highest card wins, irrespective of suit.
+Un joker peut représenter n'importe quelle carte sauf un atout. Par conséquent, un joker perdra tout pli auquel un atout est joué. Dans un pli sans atout, un joker fera égalité s'il y a un 5 ou un autre joker, et gagnera le pli si aucun 5 ni aucun autre joker n'est joué. Si un joker est retourné comme carte de vote, il n'y a pas de couleur d'atout et la carte la plus haute gagne, quelle que soit la couleur.
 
-After all the first day cards have been played, the dealer deals out the remaining cards for the second "day" and the play continues as before.
+Après que toutes les cartes du premier jour ont été jouées, le donneur distribue les cartes restantes pour le second « jour » et le jeu continue comme avant.
 
-## Scoring
+## Notation
 
-Once all the cards have been dealt and played, each player counts the point values of the cards they have captured in each suit. Jokers are worth zero points. There are 25 points per suit, and any player who has more than half the points in a suit, that is at least 13 points, scores a game point known as a "tribe". It is possible for a player to score more than one tribe in a game, or that more than one player will score a tribe, or that no one will score if the cards in each suit are evenly divided.
+Une fois que toutes les cartes ont été distribuées et jouées, chaque joueur compte les valeurs en points des cartes qu'il a capturées dans chaque couleur. Les jokers valent zéro point. Il y a 25 points par couleur, et tout joueur qui a plus de la moitié des points dans une couleur, c'est-à-dire au moins 13 points, marque un point de jeu appelé une « tribu ». Il est possible qu'un joueur marque plus d'une tribu dans une partie, ou que plus d'un joueur marque une tribu, ou que personne ne marque si les cartes de chaque couleur sont également réparties.
 
-The match continues with further games until a player wins by reaching a previously agreed total score, usually 5, 7 or 10 tribes. 
+La partie continue avec d'autres parties jusqu'à ce qu'un joueur gagne en atteignant un score total convenu à l'avance, généralement 5, 7 ou 10 tribus.
 
-## Variations
+## Variantes
 
-Days
-It is possible to play the whole game as a single day, dealing out the whole deck rather than just half at a time, or to divide the game into more than two days. The more days are played the less choice of cards players have in each day and the game becomes more one of luck.
-Bad Catch
-Some play that a player who is dealt only one-point cards (peasants / farmers) in the first day of a game, they can call a "bad catch" (misdeal), show their hand, and have the dealer collect and redeal the cards. The player who called "bad catch" automatically scores one tribe. Note that the dealt cards can only consist of one-point cards; if the player is dealt a village idiot (worth 0 points) or a joker, they do not qualify for the bad catch. In games with larger hands (because there are few players or only a single day), the chance of a bad catch is very low, and sometimes the bad catch criterion is extended to include one- and two-point cards. 
-High Stake
-Some allow a player with a bad catch to declare this and elect to play the round at "high stake". The player does not score the automatic tribe for a bad catch, but instead, after the remaining days have been played, any suits that the high stake player wins are worth 2 tribes (or sometimes by agreement 3 tribes) instead of the normal 1. This increased score only applies to the high stake player - the others just score 1 tribe for winning a suit as usual. A high stake player does not have to demonstrate the bad catch by showing his or her cards at the time of the declaration, but the penalty for lying is severe - losing 5 or 10 tribes, or score reset to zero, or ejection from the game, or laundry duty for a month, etc. There is little point in lying since the deception will be exposed when the offending card is played, assuming that at least one of the other players is paying attention. 
-Ghost / Klepto
-Some play that if a joker is turned up is the voting card, each player draws one card unseen from the hand of the player to their left, and captures it immediately; the joker is discarded. Some allow the dealer to decide, when a joker is turned up, whether the trick should be played "dead" (normally, with no trumps) or "ghosted / spooked / ransacked" (where everyone draws a card from their neighbour and captures it).
-Dummy Joker
-Some play that the joker is worth zero points, ranks below the 6, and has no suit, so that it always loses. In this case the joker can be affectionately called the "dummy," "midget," "town rapist," or any number of offensive or derogatory names (including the names of other players who are particularly irksome or inebriated).
-Suit Sweep
-Some play that any player who captures an entire suit (all twelve cards) scores **two** tribes for this instead of the usual one. Some play that in order to score two tribes, the player must announce the sweep, naming the suit, after the deal for the first day and before the first vote. Some play that a player who announces a sweep in a suit cannot score a tribe for taking the majority of cards in that suit: the score will be two tribes for all 12 cards and otherwise nothing.
-More than five players
-With a larger number of players Democracy can be played with a larger deck formed by duplicating all the cards except the 5's and 6's, for a total of 88 cards, and adding however many jokers are needed so that the cards divide evenly between the players and the voting pile. With 6 players the deck size must be divisible by 7, so add 3 jokers for a deck of 91 cards. For 7 players no jokers are added. For 8 or 9 players, add 2 jokers. For 10 players, no jokers are needed. There are still only four suits with 45 points in each suit, so in principle 23 points should be needed to score a tribe. With a large number of players it may be found too difficult to score, so players may agree to score a tribe for a plurality of points in a suit (more than any opponent) rather than requiring a majority (23). When playing with this expanded deck, ties in the trump suit are possible. 
+**Jours**
+Il est possible de jouer toute la partie en un seul jour, en distribuant tout le jeu plutôt que la moitié à la fois, ou de diviser la partie en plus de deux jours. Plus on joue de jours, moins les joueurs ont le choix de cartes à chaque jour et le jeu devient davantage un jeu de hasard.
 
-## Back Story and Customs
+**Mauvaise pioche**
+Certains jouent qu'un joueur qui ne reçoit que des cartes à un point (paysans / fermiers) lors du premier jour d'une partie peut appeler une « mauvaise pioche » (fausse donne), montrer sa main, et faire ramasser et redistribuer les cartes par le donneur. Le joueur qui a appelé « mauvaise pioche » marque automatiquement une tribu. Notez que les cartes distribuées ne peuvent consister qu'en cartes à un point ; si le joueur reçoit un idiot du village (valant 0 point) ou un joker, il ne se qualifie pas pour la mauvaise pioche. Dans les parties avec de plus grandes mains (parce qu'il y a peu de joueurs ou un seul jour), la probabilité d'une mauvaise pioche est très faible, et parfois le critère de mauvaise pioche est étendu pour inclure les cartes à un et deux points.
 
-This game appears to have many names -- including "Civilization," "Imperialist Takeover," "Colonization," etc. -- but by far the most popular name is "**Democracy**", probably with a satirical sense.
+**Enjeu élevé**
+Certains permettent à un joueur avec une mauvaise pioche de la déclarer et de choisir de jouer la manche « à enjeu élevé ». Le joueur ne marque pas la tribu automatique pour une mauvaise pioche, mais à la place, après que les jours restants ont été joués, toutes les couleurs que le joueur à enjeu élevé remporte valent 2 tribus (ou parfois par accord 3 tribus) au lieu de la normale 1. Ce score augmenté ne s'applique qu'au joueur à enjeu élevé — les autres marquent simplement 1 tribu pour gagner une couleur comme d'habitude. Un joueur à enjeu élevé n'a pas besoin de démontrer la mauvaise pioche en montrant ses cartes au moment de la déclaration, mais la pénalité pour mensonge est sévère — perte de 5 ou 10 tribus, ou remise du score à zéro, ou expulsion du jeu, ou corvée de lessive pendant un mois, etc. Il y a peu d'intérêt à mentir puisque la tromperie sera exposée lorsque la carte incriminée est jouée, en supposant qu'au moins un des autres joueurs fait attention.
 
-There is a somewhat elaborate back-story behind this game. The story goes that there is a remote island inhabited by four tribes, namely the four suits of a standard deck of cards. Each player is then a colonist from a different nation looking to take over the island. The nations have decided to let the tribes deliberate and decide who should win which portions of the island -- however, the night before the deliberations, colonists from each nation sneak into the tribal camps and kidnap several members of each tribe, who they plan to coerce into advocating for their nation during the discussions the next day. Unfortunately, since it is so dark when the abductions occur, the colonists do not know which tribal members they are capturing, and thus some nations have some powerful members (e.g. chief of the tribe) and some weak members (peasants, children, etc). The next day, during the deliberations, the kidnapped members make a case to vote for their captor nation, probably fearing for their lives. 
+**Fantôme / Klepto**
+Certains jouent que si un joker est retourné comme carte de vote, chaque joueur tire une carte à l'aveugle de la main du joueur à sa gauche et la capture immédiatement ; le joker est défaussé. Certains permettent au donneur de décider, lorsqu'un joker est retourné, si le pli doit être joué « mort » (normalement, sans atout) ou « fantômé / hanté / pillé » (où chacun tire une carte de son voisin et la capture).
 
-Each game is considered a different "island" to be colonized: multiple players may win tribes in a single game. The cards dealt to the players are the "kidnapped" tribal members according to the story, and each trick is a "vote" or "deliberation". If the chief of the tribe is present, sometimes the village idiot/drunkard/donkey comes to the deliberation and urinates over the congregation, who all promptly leave the premises.
+**Joker muet**
+Certains jouent que le joker vaut zéro point, rang en dessous du 6, et n'a pas de couleur, de sorte qu'il perd toujours. Dans ce cas, le joker peut être affectueusement appelé le « muet », « nabot », ou n'importe quel nombre de noms offensifs ou dérogatoires (y compris les noms d'autres joueurs particulièrement irritants ou éméchés).
 
-Kumar writes: 
+**Balayage de couleur**
+Certains jouent que tout joueur qui capture une couleur entière (les douze cartes) marque **deux** tribus au lieu de la normale une. Certains jouent que pour marquer deux tribus, le joueur doit annoncer le balayage, en nommant la couleur, après la donne du premier jour et avant le premier vote. Certains jouent qu'un joueur qui annonce un balayage dans une couleur ne peut pas marquer de tribu pour avoir pris la majorité des cartes dans cette couleur : le score sera de deux tribus pour les 12 cartes et rien sinon.
 
-This is a fairly light-hearted game that often involves some off-color humor. The story is malleable, humorous, perhaps even offensive, and the game often evokes more of a role-playing atmosphere than a strategic, methodical one. Cards can be assigned names, characters, elaborate origin stories, etc to make it even more engaging when one turns up in deliberation with hands tied by one of the colonists. Over the past few years as I have played this game, the "deliberations" have become actual verbal negotiations, where players with powerful cards do get advantages but do not win outright as specified by the rules; 7s and 8s have won hands simply due to the charisma and craftiness of the player wielding them at the time. Of course, none of this is relevant to the core of the game, which involves winning tricks through and through, but I believe that the spirit of Democracy is to institute various convolutions in the formula until the end result is scatter-brained and devoid of its original structure, but somehow still fun and endearing: more of a backdrop for clever social interaction than a serious, logical experience. 
+**Plus de cinq joueurs**
+Avec un plus grand nombre de joueurs, Democracy peut se jouer avec un jeu plus grand formé en dupliquant toutes les cartes sauf les 5 et les 6, pour un total de 88 cartes, et en ajoutant autant de jokers que nécessaire pour que les cartes se divisent également entre les joueurs et le bassin de vote. Avec 6 joueurs, la taille du jeu doit être divisible par 7, donc ajoutez 3 jokers pour un jeu de 91 cartes. Pour 7 joueurs, aucun joker n'est ajouté. Pour 8 ou 9 joueurs, ajoutez 2 jokers. Pour 10 joueurs, aucun joker n'est nécessaire. Il y a toujours seulement quatre couleurs avec 45 points dans chaque couleur, donc en principe 23 points devraient être nécessaires pour marquer une tribu. Avec un grand nombre de joueurs, il peut s'avérer trop difficile de marquer, aussi les joueurs peuvent s'accorder pour marquer une tribu pour une pluralité de points dans une couleur (plus que tout adversaire) plutôt que d'exiger une majorité (23). Lorsqu'on joue avec ce jeu étendu, des égalités dans la couleur d'atout sont possibles.
 
-When I have played this game with close friends, we may sometimes impose "sanctions" on other players, whereby they must adhere to different (and often unfair and cruel) rules to continue playing the game. These have included playing blind, giving up all cards of value to other players, playing with cards from other decks (usually containing only 7s and 8s), playing with baseball or trading cards, being forced to communicate in pig snorts "as punishment for war crimes," etc. No player is allowed to leave a deliberation with cards in hand, so when players leave to use the rest room we have often swapped out their cards with our bad ones. When played seriously, this game can get a little dry, but toying with the rules and introducing new elements to the story ("The spade chief died in a bout of dysentery and has been succeeded by his pet monkey", throwing out the 5 of spades and replacing it with a 7) has kept it fresh and interesting for our group of players.
+## Histoire de fond et coutumes
 
-Home Page > Classified Index > Miscellaneous Games > Democracy
+Ce jeu semble porter de nombreux noms — y compris « Civilization », « Imperialist Takeover », « Colonization », etc. — mais de loin le nom le plus populaire est « **Democracy** », probablement avec un sens satirique.
+
+Il y a une histoire de fond quelque peu élaborée derrière ce jeu. L'histoire raconte qu'il y a une île isolée habitée par quatre tribus, à savoir les quatre couleurs d'un jeu de cartes standard. Chaque joueur est alors un colon d'une nation différente cherchant à prendre possession de l'île. Les nations ont décidé de laisser les tribus délibérer et décider qui devrait gagner quelles portions de l'île — cependant, la nuit précédant les délibérations, des colons de chaque nation se faufilent dans les camps tribaux et kidnappent plusieurs membres de chaque tribu, qu'ils prévoient de contraindre à plaider en faveur de leur nation lors des discussions du lendemain. Malheureusement, comme il fait si sombre lors des enlèvements, les colons ne savent pas quels membres tribaux ils capturent, et ainsi certaines nations ont des membres puissants (par exemple le chef de la tribu) et d'autres membres faibles (paysans, enfants, etc.). Le lendemain, lors des délibérations, les membres kidnappés plaident pour voter pour leur nation de ravisseur, craignant probablement pour leur vie.
+
+Chaque partie est considérée comme une « île » différente à coloniser : plusieurs joueurs peuvent gagner des tribus lors d'une même partie. Les cartes distribuées aux joueurs sont les membres tribaux « kidnappés » selon l'histoire, et chaque pli est un « vote » ou une « délibération ». Si le chef de la tribu est présent, parfois l'imbécile/ivrogne/âne du village vient à la délibération et urine sur l'assemblée, qui quitte tous les lieux promptement.
+
+Kumar écrit :
+
+C'est un jeu assez décontracté qui implique souvent un humour un peu graveleux. L'histoire est malléable, humoristique, peut-être même offensante, et le jeu évoque souvent une atmosphère de jeu de rôle plutôt qu'une approche stratégique et méthodique. Les cartes peuvent se voir attribuer des noms, des personnages, des histoires d'origine élaborées, etc. pour les rendre encore plus engageantes lorsqu'elles apparaissent dans une délibération les mains liées par l'un des colons. Au fil des années où j'ai joué à ce jeu, les « délibérations » sont devenues de véritables négociations verbales, où les joueurs avec des cartes puissantes obtiennent certes des avantages mais ne gagnent pas automatiquement comme le stipulent les règles ; des 7 et des 8 ont remporté des mains simplement grâce au charisme et à la ruse du joueur qui les maniait à ce moment-là. Bien sûr, rien de tout cela n'est pertinent pour le cœur du jeu, qui consiste à gagner des plis purement et simplement, mais je crois que l'esprit de Democracy est d'instituer diverses complications dans la formule jusqu'à ce que le résultat final soit chaotique et dépourvu de sa structure originale, mais d'une manière ou d'une autre toujours amusant et attachant : plus une toile de fond pour une interaction sociale intelligente qu'une expérience sérieuse et logique.
+
+Quand j'ai joué à ce jeu avec des amis proches, nous pouvions parfois imposer des « sanctions » à d'autres joueurs, les obligeant à adhérer à des règles différentes (et souvent inégales et cruelles) pour continuer à jouer. Celles-ci comprenaient jouer aveugle, céder toutes les cartes de valeur à d'autres joueurs, jouer avec des cartes d'autres jeux (contenant généralement uniquement des 7 et des 8), jouer avec des cartes de base-ball ou des cartes à collectionner, être forcé de communiquer par grognements de cochon « en punition pour crimes de guerre », etc. Aucun joueur n'est autorisé à quitter une délibération avec des cartes en main, donc quand les joueurs partaient aux toilettes, nous avons souvent échangé leurs cartes avec nos mauvaises. Lorsqu'il est joué sérieusement, ce jeu peut devenir un peu sec, mais jouer avec les règles et introduire de nouveaux éléments dans l'histoire (« Le chef de pique est mort d'une crise de dysenterie et a été remplacé par son animal de compagnie », jetant le 5 de pique et le remplaçant par un 7) l'a gardé frais et intéressant pour notre groupe de joueurs.

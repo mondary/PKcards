@@ -3,144 +3,137 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Or Napoleon, a British card game in which players are dealt 5-card hands and the highest bidder shooses the trump suit.
-**Autres noms :** Napoleon - details can be found, Napoleon
+**But :** Jeu de cartes britannique dans lequel chaque joueur reçoit une main de 5 cartes et le plus haut enchérisseur choisit l'atout.
+**Autres noms :** Napoleon
 
 ---
 
 ## Introduction
 
-This page is about the British game known as Napoleon or Nap for short. There is a completely different Japanese game, also known as Napoleon - details can be found on the Japanese Napoleon page of this site.
+Cette page concerne le jeu britannique connu sous le nom de Napoleon ou Nap en abrégé. Il existe un jeu japonais complètement différent, également appelé Napoleon — les détails se trouvent sur la page Napoleon japonais de ce site.
 
-Napoleon is a classic English pub game; simple and easy to learn, yet described by early authors as “spirited and interesting”, requiring “considerable judgement and skill in order to play the game well”. Players receive five cards each; whoever bids the highest number of tricks chooses trumps and tries to win at least that many.
+Napoleon est un jeu classique des pubs anglais ; simple et facile à apprendre, mais décrit par les premiers auteurs comme « plein de vie et intéressant », exigeant « un jugement considérable et de l'habileté pour bien jouer ». Les joueurs reçoivent cinq cartes chacun ; celui qui enchérit le plus grand nombre de levées choisit l'atout et essaie d'en gagner au moins autant.
 
-Its earliest rules were published by H.E. Heather in the October 1875 edition of *The Bazaar *and it quickly took off, soon knocking Loo off the top spot to become England’s national five-card game. An assertion in the 1885 *American Hoyle* that it was a French modification of Euchre seems wishful and it is more likely to have European origins, its only known relative being the more elaborate north German game Fipsen.
+Ses premières règles ont été publiées par H.E. Heather dans l'édition d'octobre 1875 du *Bazaar* et il a rapidement décollé, détrônant bientôt Loo au sommet pour devenir le jeu national anglais à cinq cartes. Une assertion dans le *American Hoyle* de 1885 selon laquelle il s'agirait d'une modification française de l'Euchre semble souhaitable et il est plus probable qu'il ait des origines européennes, son seul parent connu étant le jeu nord-allemand plus élaboré Fipsen.
 
-Heather laid the foundation for Nap’s subsequent evolution. Players received 5 cards and passed or got one chance to bid the number of tricks they hope to make. The highest bid was Napoleon and the winner of the auction was the “stand hand”. The tariff was one stake per trick bid, unless a Napoleon was won in which case the rate was doubled. In those days players called “I go two”, etc., hence the expression “going Nap” which means to score or win five times or risk all on one attempt.
+Heather a posé les bases de l'évolution ultérieure de Nap. Les joueurs recevaient 5 cartes et passaient ou avaient une chance d'enchérir le nombre de levées qu'ils espéraient réaliser. L'enchère la plus haute était Napoleon et le gagnant de l'enchère était le « stand hand ». Le tarif était d'une mise par levée enchérie, sauf si un Napoleon était gagné auquel cas le taux était doublé. À l'époque, les joueurs disaient « je vais deux », etc., d'où l'expression « going Nap » qui signifie marquer ou gagner cinq fois ou tout risquer en une seule tentative.
 
-Popular games develop rapidly and by 1891 bids of Wellington, Blücher and Misère had been added and there were variants such as Peep Nap (with an extra card), Sir Garnet (with an extra hand) and Jam (with an extra pool). You could play Six- , Seven and even Nine-Card Nap as well as Exchange Nap in which players could ‘buy’ a card or cards to improve their hand. Meanwhile Penny Nap simply meant you were playing for penny stakes.
+Les jeux populaires se développent rapidement et, dès 1891, les enchères Wellington, Blücher et Misère avaient été ajoutées et il existait des variantes telles que Peep Nap (avec une carte supplémentaire), Sir Garnet (avec une main supplémentaire) et Jam (avec un pot supplémentaire). On pouvait jouer au Nap à Six, Sept et même Neuf cartes ainsi qu'au Nap Exchange dans lequel les joueurs pouvaient « acheter » une ou plusieurs cartes pour améliorer leur main. Pendant ce temps, Penny Nap signifiait simplement que l'on jouait pour des mises d'un penny.
 
-American Hoyles reproduced the rules, but the game does not seem to have caught on in the States. Meanwhile in England the game settled down and Hubert Phillips captured the rules for what we might call ‘Classic Nap’. There are two to eight players, four or five being best. The lowest bid is “Two” while Misëre gives hope to a player with a poor hand, while Wellington enables a bid of Nap to be overcalled. 
+Les *American Hoyle* ont reproduit les règles, mais le jeu ne semble pas avoir percé aux États-Unis. Pendant ce temps, en Angleterre, le jeu s'est stabilisé et Hubert Phillips a capturé les règles de ce que nous pourrions appeler le « Nap classique ». Il y a de deux à huit joueurs, quatre ou cinq étant l'idéal. L'enchère la plus basse est « Deux » tandis que la Misère donne de l'espoir à un joueur avec une mauvaise main, et Wellington permet de surenchérir sur un Nap.
 
-In 1982, Andrew Pennycook noted that Nap was “widely played in pubs”.  It may be less popular now than it was, but it is still played in some parts of southern England, in Strathclyde, Scotland, and perhaps in some other places in Britain. It is usual to play for small stakes and settle up after each hand.
+En 1982, Andrew Pennycook a noté que Nap était « largement joué dans les pubs ». Il est peut-être moins populaire aujourd'hui qu'autrefois, mais il est encore joué dans certaines régions du sud de l'Angleterre, dans le Strathclyde en Écosse, et peut-être dans d'autres endroits en Grande-Bretagne. On joue généralement pour de petites mises et on règle à la fin de chaque main.
 
-*With thanks to Paul Eaton for the historical introduction, and to the contributors of several variants explained below.*
+*Avec remerciements à Paul Eaton pour l'introduction historique, et aux contributeurs de plusieurs variantes expliquées ci-dessous.*
 
-## Players and cards
+## Joueurs et cartes
 
-Nap could be played by as few as three players, but it is better with four or more. There are no permanent partnerships; in each hand the high bidder plays against a team consisting of all the other players.
+Nap peut être joué par trois joueurs au minimum, mais il est préférable à quatre ou plus. Il n'y a pas de partenariats permanents ; à chaque main, le plus haut enchérisseur joue contre une équipe composée de tous les autres joueurs.
 
-A standard 52 card pack is used, the cards in each suit ranking from high to low: A-K-Q-J-10-9-8-7-6-5-4-3-2. Formerly it was played with the full pack, but nowadays many players prefer to reduce the pack by taking out the low cards of each suit, so reducing the number of undealt cards. For example three players might play with 24 cards (A-K-Q-J-10-9), four with 28 (from ace down to 8) and five with 32 (ace down to seven).
+Un jeu de 52 cartes standard est utilisé, les cartes dans chaque couleur se classant de haut en bas : A-R-D-V-10-9-8-7-6-5-4-3-2. Autrefois, on jouait avec le jeu complet, mais de nos jours, beaucoup de joueurs préfèrent réduire le jeu en retirant les cartes basses de chaque couleur, ce qui réduit le nombre de cartes non distribuées. Par exemple, trois joueurs peuvent jouer avec 24 cartes (A-R-D-V-10-9), quatre avec 28 (de l'as jusqu'au 8) et cinq avec 32 (de l'as jusqu'au 7).
 
-## Deal
+## Distribution
 
-In most schools the cards are shuffled only at the start of the game and after a successful bid of 5 (Nap) or above. Otherwise they are just gathered together and cut by the player to dealer's right. The dealer deals five cards to each player - a batch of three each followed by a batch of two each, or two each followed by three each.
+Dans la plupart des écoles, les cartes ne sont mélangées qu'au début du jeu et après une enchère réussie de 5 (Nap) ou plus. Sinon, elles sont simplement rassemblées et coupées par le joueur à droite du donneur. Le donneur distribue cinq cartes à chaque joueur — un lot de trois puis un lot de deux, ou deux puis trois.
 
-Deal and play are clockwise, and the turn to deal passes to the left after each hand.
+La distribution et le jeu se font dans le sens horaire, et le tour de distribution passe à gauche après chaque main.
 
-## Bidding
+## Enchères
 
-The bidding starts with the player to dealer's left, goes around the table clockwise and ends with the bidder. Each player has just one chance to speak and at your turn you must either pass or bid more than the highest bid so far. The possible bids, in ascending order, are:
+Les enchères commencent avec le joueur à gauche du donneur, continuent autour de la table dans le sens horaire et se terminent avec l'enchérisseur. Chaque joueur n'a qu'une seule chance de parler et, à votre tour, vous devez soit passer soit enchérir plus haut que l'enchère la plus élevée jusqu'à présent. Les enchères possibles, par ordre croissant, sont :
 
-- Three - the bidder undertakes to win at least three tricks.
+- Trois — l'enchérisseur s'engage à gagner au moins trois levées.
 
-- Four - the bidder undertakes to win at least four tricks.
+- Quatre — l'enchérisseur s'engage à gagner au moins quatre levées.
 
-- Nap (or Five) - the bidder undertakes to win all five tricks.
+- Nap (ou Cinq) — l'enchérisseur s'engage à gagner les cinq levées.
 
-- Wellington - the bidder undertakes to win all five tricks (same as Nap, but for a higher reward). Wellington can only be bid if another player has already bid Nap.
+- Wellington — l'enchérisseur s'engage à gagner les cinq levées (identique à Nap, mais pour une récompense plus élevée). Wellington ne peut être enchéri que si un autre joueur a déjà enchéri Nap.
 
-If all pass, the hand is not played, and the next dealer shuffles and deals. 
+Si tous passent, la main n'est pas jouée et le prochain donneur mélange et distribue.
 
-## Play
+## Jeu
 
-The high bidder leads to the first trick and the suit of this first card played by the bidder is trumps for the hand.
+Le plus haut enchérisseur joue la première levée et la couleur de cette première carte jouée par l'enchérisseur est l'atout de la main.
 
-Each trick is won by the highest trump in it, or if it contains no trumps, by the highest card of the suit led. The winner of each trick may leads to the next trick.
+Chaque levée est gagnée par le plus haut atout qu'elle contient, ou si elle ne contient pas d'atout, par la plus haute carte de la couleur demandée. Le gagnant de chaque levée entame la levée suivante.
 
-In all tricks, players must follow suit, playing a card of the same suit that was led if they can. A player who has no card of the suit led is free to play any card - either trumping or discarding from another suit.
+Dans toutes les levées, les joueurs doivent suivre la couleur, en jouant une carte de la même couleur que celle demandée s'ils le peuvent. Un joueur qui n'a pas de carte de la couleur demandée est libre de jouer n'importe quelle carte — en coupant avec un atout ou en défaussant une autre couleur.
 
-## Scoring
+## Marque
 
-If the bidder is successful each of the other players pays the bidder depending on the bid:
+Si l'enchérisseur réussit, chacun des autres joueurs paie l'enchérisseur selon l'enchère :
 
-- Three: 3 units
+- Trois : 3 unités
 
-- Four: 4 units
+- Quatre : 4 unités
 
-- Five (Nap): 5 units 
+- Cinq (Nap) : 5 unités
 
-- Wellington: 10 units
+- Wellington : 10 unités
 
-If the bidder wins insufficent tricks, the bidder must pay each opponent the same amount that he would have won. 
+Si l'enchérisseur ne gagne pas assez de levées, il doit payer à chaque adversaire le montant qu'il aurait gagné.
 
-## Variations
+## Variantes
 
-Additional bids are allowed by some groups as follows:
+Certaines autorisent des enchères supplémentaires :
 
-- Two: A bid to win two tricks - if allowed this is the lowest bid, worth 2 units and ranking below Three.
+- Deux : une enchère pour gagner deux levées — si autorisée, c'est l'enchère la plus basse, valant 2 unités et classée sous Trois.
 
-- Mis, also known as Misère: A bid to lose every trick - it fails if the opponents can force the bidder to win a trick. It is worth 3 points and ranks between Three and Four in the bidding.
+- Mis, également connue sous le nom de Misère : une enchère pour perdre toutes les levées — elle échoue si les adversaires peuvent forcer l'enchérisseur à gagner une levée. Elle vaut 3 points et se classe entre Trois et Quatre dans les enchères.
 
-- Blücher: A bid to win all five tricks. It can only be bid after another player has bid Wellington, and is worth 20 units. (This bid is presumably named after Gebhard Leberecht von Blücher, Prince of Wahlstadt, a Prussian general who led his army against Napoleon at the Battle of Waterloo.)
-Some players double the payment for Nap, Wellington or Blücher if they are won but not if they are lost. Some double them whether won or lost - paying 10 for Nap, 20 for Wellington and 40 for Blücher.
+- Blücher : une enchère pour gagner les cinq levées. Elle ne peut être enchérie qu'après qu'un autre joueur a enchéri Wellington, et vaut 20 unités. (Cette enchère est vraisemblablement nommée d'après Gebhard Leberecht von Blücher, prince de Wahlstadt, un général prussien qui mena son armée contre Napoleon à la bataille de Waterloo.)
 
-In the variation Purchase Nap, before the bidding each player may pay a fixed stake - typically 1 unit - to a pool, and discard any number of cards. The dealer then gives the player an equal number of replacement cards from the undealt stock. The pool is won by the first player who bids Nap, Wellington or Blücher and wins five tricks.
+Certains joueurs doublent le paiement pour Nap, Wellington ou Blücher s'ils sont gagnés mais pas s'ils sont perdus. Certains les doublent qu'ils soient gagnés ou perdus — en payant 10 pour Nap, 20 pour Wellington et 40 pour Blücher.
 
-## Nap with a floater
+Dans la variante Purchase Nap, avant les enchères, chaque joueur peut payer une mise fixe — généralement 1 unité — dans un pot, et défausser un nombre quelconque de cartes. Le donneur donne alors au joueur un nombre égal de cartes de remplacement prises dans le stock non distribué. Le pot est gagné par le premier joueur qui enchérit Nap, Wellington ou Blücher et gagne cinq levées.
 
-**Peep Nap** is an old variant in which an extra card is dealt to the table and players, in turn, may privately “peep” at this card before bidding, on making a payment to a pool. Sometimes only the bidder of a Nap, Wellington or Blücher may use the peep card. The winner of a Nap or higher contract wins the pool as well as the usual payments. Note that all players get a chance to pay to peep including those whose turns to speak are after the winning bidder. Several players have reported playing local versions of Peep Nap in which the peep card is called a “**floater**”. 
+## Nap avec floater
 
-The first version described below was explained to me by Darren Holmes. It is played in the South of England, specifically in Hastings and Reading; maybe also in other places. Michael Harris reports having played with a floater on Teesside in Northeast England in the 1960's, but including the full range of bids (from two up and Misère) listed in the variations section above. Ken Short played another version in the 1970's in Aylesbury and in the 1950's in Dorset.
+**Peep Nap** est une ancienne variante dans laquelle une carte supplémentaire est distribuée sur la table et les joueurs peuvent, à tour de rôle, « regarder » secrètement cette carte avant d'enchérir, en payant un pot. Parfois, seul l'enchérisseur d'un Nap, Wellington ou Blücher peut utiliser la carte regardée. Le gagnant d'un Nap ou d'un contrat supérieur gagne le pot ainsi que les paiements habituels. Notez que tous les joueurs ont la possibilité de payer pour regarder, y compris ceux dont le tour de parole est après l'enchérisseur gagnant. Plusieurs joueurs ont signalé jouer des versions locales de Peep Nap dans lesquelles la carte regardée est appelée « **floater** ».
 
-There can be from three to seven players, and the pack is reduced as follows:
+La première version décrite ci-dessous m'a été expliquée par Darren Holmes. Elle se joue dans le sud de l'Angleterre, plus précisément à Hastings et Reading ; peut-être aussi dans d'autres endroits. Michael Harris rapporte avoir joué avec un floater à Teesside dans le nord-est de l'Angleterre dans les années 1960, mais en incluant la gamme complète des enchères (de deux et plus et Misère) listées dans la section des variantes ci-dessus. Ken Short a joué une autre version dans les années 1970 à Aylesbury et dans les années 1950 dans le Dorset.
 
-- 3 players: use 20 cards (A-K-Q-J-10 of each suit)
+On peut jouer de trois à sept joueurs, et le jeu est réduit comme suit :
 
-- 4 players: use 24 cards (A-K-Q-J-10-9 of each suit)
+- 3 joueurs : 20 cartes (A-R-D-V-10 de chaque couleur)
 
-- 5 players: use 28 cards (A-K-Q-J-10-9-8 of each suit)
+- 4 joueurs : 24 cartes (A-R-D-V-10-9 de chaque couleur)
 
-- 6 players: use 32 cards (A-K-Q-J-10-9-8-7 of each suit)
+- 5 joueurs : 28 cartes (A-R-D-V-10-9-8 de chaque couleur)
 
-- 7 players: use 36 cards (A-K-Q-J-10-9-8-7-6 of each suit)
+- 6 joueurs : 32 cartes (A-R-D-V-10-9-8-7 de chaque couleur)
 
-The cards are only shuffled at the start of the game and after a bid of Nap or above has been won.
+- 7 joueurs : 36 cartes (A-R-D-V-10-9-8-7-6 de chaque couleur)
 
-Before each deal, each player must pay 1 unit into the pool or kitty. Then five cards are dealt to each player, and one 'floater' card is dealt face down in the middle. The bidding begins with the player to dealer's left and goes once round the table. Each player, immediately before bidding, can view the floater without showing it to the other players on payment of one more unit to the kitty.
+Les cartes ne sont mélangées qu'au début du jeu et après qu'un enchère de Nap ou plus a été gagnée.
 
-Each bid can be with or without the floater: a bid without the floater ranks immediately above the corresponding bid with the floater. If the winning bid is with the floater, the high bidder can pick up the floater card and discard one unwanted card (possibly the same one) before leading to the first trick.
+Avant chaque distribution, chaque joueur doit payer 1 unité dans le pot ou kitty. Ensuite, cinq cartes sont distribuées à chaque joueur, et une carte « floater » est distribuée face cachée au milieu. Les enchères commencent avec le joueur à gauche du donneur et font un tour de table. Chaque joueur, juste avant d'enchérir, peut regarder le floater sans le montrer aux autres joueurs en payant une unité supplémentaire au pot.
 
-Note that you are allowed to bid 'with the floater' even if you have not paid to look at it in advance, and conversely, you might pay to look at the floater, and then choose to bid 'without the floater', knowing that the card will not help you.
+Chaque enchère peut être avec ou sans le floater : une enchère sans le floater se classe immédiatement au-dessus de l'enchère correspondante avec le floater. Si l'enchère gagnante est avec le floater, le plus haut enchérisseur peut ramasser la carte floater et défausser une carte indésirable (éventuellement la même) avant d'entamer la première levée.
 
-The lowest bid allowed in this version is four tricks with the floater. The bids in ascending order and the payments for them are as follows.
+Notez que vous êtes autorisé à enchérir « avec le floater » même si vous n'avez pas payé pour le regarder à l'avance, et inversement, vous pouvez avoir payé pour regarder le floater, puis choisir d'enchérir « sans le floater », sachant que la carte ne vous aidera pas.
 
-| Bid | Meaning | Bidder wins | Bidder loses |
-| Four with floater | Bidder must win at least 4 tricks | Receive 2 from each player | Pay 2 x (number of players) to the kitty |
-| Four without floater | Bidder must win at least 4 tricks | Receive 2 from each player | Pay 2 x (number of players) to the kitty |
-| Nap with floater | Win all 5 tricks | Win the kitty plus 5 from each player | Pay 5 x (number of players) to the kitty |
-| Nap without floater | Win all 5 tricks | Win the kitty plus 5 from each player | Pay 5 x (number of players) to the kitty |
-| Bonaparte with floater | Win all 5 tricks; lead your lowest trump to the first trick | Win the kitty plus 10 from each player | Pay 10 x (number of players) to the kitty |
-| Bonaparte without floater | Win all 5 tricks; lead your lowest trump to the first trick | Win the kitty plus 10 from each player | Pay 10 x (number of players) to the kitty |
-| Wellington with floater | Win all 5 tricks; lead your lowest non-trump to the first trick | Win the kitty plus 20 from each player | Pay 20 x (number of players) to the kitty |
-| Wellington without floater | Win all 5 tricks; lead your lowest non-trump to the first trick | Win the kitty plus 20 from each player | Pay 20 x (number of players) to the kitty |
+L'enchère la plus basse autorisée dans cette version est quatre levées avec le floater. Les enchères par ordre croissant et les paiements sont les suivants.
 
-For example, if there are five players and you bid Nap and win, you collect the kitty and win an additional 20 units (5 from each player); if you lose, you put 25 in the kitty and pay nothing directly to the other players. Notice that as the kitty grows larger it becomes more attractive to attempt a risky bid.
+| Enchère | Signification | L'enchérisseur gagne | L'enchérisseur perd |
+| Quatre avec floater | L'enchérisseur doit gagner au moins 4 levées | Reçoit 2 de chaque joueur | Paie 2 × (nombre de joueurs) au pot |
+| Quatre sans floater | L'enchérisseur doit gagner au moins 4 levées | Reçoit 2 de chaque joueur | Paie 2 × (nombre de joueurs) au pot |
+| Nap avec floater | Gagner les 5 levées | Gagne le pot plus 5 de chaque joueur | Paie 5 × (nombre de joueurs) au pot |
+| Nap sans floater | Gagner les 5 levées | Gagne le pot plus 5 de chaque joueur | Paie 5 × (nombre de joueurs) au pot |
+| Bonaparte avec floater | Gagner les 5 levées ; entamer avec votre plus bas atout | Gagne le pot plus 10 de chaque joueur | Paie 10 × (nombre de joueurs) au pot |
+| Bonaparte sans floater | Gagner les 5 levées ; entamer avec votre plus bas atout | Gagne le pot plus 10 de chaque joueur | Paie 10 × (nombre de joueurs) au pot |
+| Wellington avec floater | Gagner les 5 levées ; entamer avec votre plus bas non-atout | Gagne le pot plus 20 de chaque joueur | Paie 20 × (nombre de joueurs) au pot |
+| Wellington sans floater | Gagner les 5 levées ; entamer avec votre plus bas non-atout | Gagne le pot plus 20 de chaque joueur | Paie 20 × (nombre de joueurs) au pot |
 
-The highest bidder chooses trumps and plays the first card. The rules of play are as usual. Players must follow suit if they can; otherwise they play a card of their choice. The player who played the highest ranking card of the same suit as the leader wins the trick, unless one or more trumps are played, in which case the highest trump wins. The winner of a trick leads to the next.
+Par exemple, s'il y a cinq joueurs et que vous enchérissez Nap et gagnez, vous collectez le pot et gagnez 20 unités supplémentaires (5 de chaque joueur) ; si vous perdez, vous mettez 25 dans le pot et ne payez rien directement aux autres joueurs. Notez que plus le pot grossit, plus il devient attractif de tenter une enchère risquée.
 
-Should everyone pass, no one being willing to bid as many as four tricks, then the cards are collected in and redealt by the person left of the dealer; as usual each player pays 1 unit to the kitty before the new deal.
+Le plus haut enchérisseur choisit l'atout et joue la première carte. Les règles du jeu sont habituelles. Les joueurs doivent suivre la couleur s'ils le peuvent ; sinon ils jouent la carte de leur choix. Le joueur qui a joué la carte la plus élevée de la même couleur que le meneur gagne la levée, sauf si un ou plusieurs atouts sont joués, auquel cas le plus haut atout gagne. Le gagnant d'une levée entame la levée suivante.
 
-Note that in Wellington you are obliged to lead a non-trump. It follows that a player who has five cards of the same suit cannot in practice bid higher than "Wellington with the floater", and even that bid is viable only if the floater is a different suit: the player would need to discard a trump and lead the floater. If you do find yourself playing Wellington and all your cards are the same suit, your only legal option is to name a different suit as trumps, but you will certainly lose this bid when one of your cards is trumped.
+Si tout le monde passe, personne n'étant disposé à enchérir au moins quatre levées, les cartes sont rassemblées et redistribuées par le joueur à gauche du donneur ; comme d'habitude, chaque joueur paie 1 unité au pot avant la nouvelle distribution.
 
-In Ken Short's Aylesbury version there was no Wellington bid and the Bonaparte bid was known as Napoleon (as distinct from Nap). In his Dorset version the bids were 3 with, 3 without, 4 with, 4 without and Nap, which was the highest bid. There was no equivalent of Bonaparte or Wellington.
+Notez que dans Wellington, vous êtes obligé d'entamer avec un non-atout. Il s'ensuit qu'un joueur qui a cinq cartes de la même couleur ne peut pratiquement pas enchérir plus haut que « Wellington avec le floater », et même cette enchère n'est viable que si le floater est d'une couleur différente : le joueur devrait défausser un atout et entamer avec le floater. Si vous vous trouvez à jouer Wellington et que toutes vos cartes sont de la même couleur, votre seule option légale est de nommer une couleur différente comme atout, mais vous perdrez certainement cette enchère lorsqu'une de vos cartes sera coupée.
 
-Paul Eaton has provided one-page 'aides-mémoir' for use at the table, summarising rules of classic Nap and his reconstruction of KenShort's Dorset Nap in which bids of Three with or without floater are worth 1 point.
+Dans la version d'Aylesbury de Ken Short, il n'y avait pas d'enchère Wellington et l'enchère Bonaparte était connue sous le nom de Napoleon (par opposition à Nap). Dans sa version du Dorset, les enchères étaient 3 avec, 3 sans, 4 avec, 4 sans et Nap, qui était l'enchère la plus haute. Il n'y avait pas d'équivalent de Bonaparte ou Wellington.
 
-## Links to other Nap pages and software
-
-There was another set of Nap rules on Dave Barker's web site. Here is an archive copy of his [Napoleon](https://web.archive.org/web/20020606131757/w3.one.net/~dbarker/cards/napoleon.html) page.
-
-Derek Lazenby has written a [Nap program for Windows](https://racingdog.lazenby.me/Freeware.html), which plays with a 28-card deck (ace to 8).
-
-Home Page > Classified Index > Trick Taking Games > Trump group > Nap
+Paul Eaton a fourni des « aides-mémoires » d'une page pour la table, résumant les règles du Nap classique et sa reconstitution du Nap du Dorset de Ken Short dans laquelle les enchères de Trois avec ou sans floater valent 1 point.

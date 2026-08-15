@@ -4,273 +4,270 @@
 **Nombre de cartes :** 52
 **Difficulté :** ⭐⭐⭐
 **Type :** Divers, Divers
-**But :** A combat card game for two players using standard playing-cards.
+**But :** Un jeu de cartes de combat pour deux joueurs utilisant un jeu de cartes standard.
 
 ---
 
 ## Introduction
 
-The exact origin of this unusual two-player game is unknown. Dating from the 1970's at the latest, it is the earliest example I have found of a combat card game. The aim is to be the first build a layout worth at least 21 points. Cards can be used for their point value, or to attack your opponent's layout by destroying or capturing cards.
+L'origine exacte de ce jeu inhabituel à deux joueurs est inconnue. Datant au plus tard des années 1970, c'est le plus ancien exemple que j'aie trouvé de jeu de cartes de combat. Le but est d'être le premier à construire une disposition valant au moins 21 points. Les cartes peuvent être utilisées pour leur valeur en points, ou pour attaquer la disposition de votre adversaire en détruisant ou capturant des cartes.
 
-For some years a FAQ by Richard Sipie, first published in 2000, was the only generally available documentation of the game. I am grateful to Michael Pearson for his help in preparing the new description on this page and to Greg Pallis, an enthusiastic player and winner of the Cuttle tournament in the 2009 Mind Sports Olympiad, for answering my various detailed questions about the rules.
+Pendant plusieurs années, une FAQ de Richard Sipie, publiée pour la première fois en 2000, était la seule documentation généralement disponible du jeu. Je suis reconnaissant à Michael Pearson pour son aide dans la préparation de la nouvelle description de cette page et à Greg Pallis, un joueur enthousiaste et vainqueur du tournoi Cuttle aux Mind Sports Olympiad de 2009, pour avoir répondu à mes diverses questions détaillées sur les règles.
 
-## Players and Cards
+## Joueurs et cartes
 
-Cuttle is played by two players using a standard 52-card deck without jokers.
+Le Cuttle se joue à deux joueurs avec un jeu standard de 52 cartes sans jokers.
 
-## Goal
+## But
 
-The goal is to be the first to accumulate 21 or more points worth of point cards on your side of the table. The first player to achieve this wins the game.
+Le but est d'être le premier à accumuler 21 points ou plus de cartes à points de votre côté de la table. Le premier joueur à y parvenir gagne la partie.
 
-## Set-up
+## Mise en place
 
-Each player has a hand of cards, normally held concealed from the opponent. The dealer deals six cards to himself and five to his opponent. These are the players' initial hands. The remaining deck is placed face-down and becomes the **draw pile**. The dealer's opponent then takes the first turn.
+Chaque joueur a une main de cartes, normalement tenue cachée à l'adversaire. Le donneur distribue six cartes pour lui-même et cinq à son adversaire. Ce sont les mains initiales des joueurs. Le reste du jeu est placé face cachée et devient la **pioche**. L'adversaire du donneur prend ensuite le premier tour.
 
-During the game, players play cards from their hands, placing them face up on the table in front of them. This way each player forms a layout of cards on their own side of the table. 
+Pendant le jeu, les joueurs jouent des cartes de leur main, en les plaçant face ouverte sur la table devant eux. Ainsi, chaque joueur forme une disposition de cartes de son côté de la table.
 
-Various actions cause cards to be discarded. Discarded cards are stacked face-up next to the draw pile so that only the top card is visible. This pile of discards is called the **scrap pile**. 
+Diverses actions entraînent la défausse de cartes. Les cartes défaussées sont empilées face ouverte à côté de la pioche de sorte que seule la carte du dessus soit visible. Cette pile de défausses est appelée le **tas de défausse**.
 
-## Play
+## Jeu
 
-On your turn you must perform exactly **one** of the following actions:
+À votre tour, vous devez effectuer exactement **une** des actions suivantes :
 
-- draw a card from the draw pile and add it to your hand
+- piocher une carte de la pioche et l'ajouter à votre main
 
-- play a point card from your hand
+- jouer une carte à points de votre main
 
-- play a one-off effect card from your hand
+- jouer une carte à effet unique de votre main
 
-- play a permanent effect card from your hand
+- jouer une carte à effet permanent de votre main
 
-The turn then passes to your opponent.
+Le tour passe ensuite à votre adversaire.
 
-If the draw pile runs out, then instead of drawing a card, a player is allowed to pass, i.e. do nothing at all on that turn. If there are three consecutive passes the game ends and neither player wins.
+Si la pioche est épuisée, au lieu de piocher une carte, un joueur est autorisé à passer, c'est-à-dire ne rien faire pendant ce tour. S'il y a trois passes consécutives, le jeu se termine et aucun joueur ne gagne.
 
-### Card types and how to use them
+### Types de cartes et comment les utiliser
 
-In Cuttle there are three categories of card: point cards, one-off effect cards and permanent effect cards.
+Au Cuttle, il y a trois catégories de cartes : les cartes à points, les cartes à effet unique et les cartes à effet permanent.
 
-1. Point cards** **
-**Ace, 2, 3, 4, 5, 6, 7, 8, 9, 10** can be played as point cards.
-Aces are worth 1 point. Number cards are worth their face value.
-There are two ways to play a point card:
+1. Cartes à points
+**As, 2, 3, 4, 5, 6, 7, 8, 9, 10** peuvent être joués comme cartes à points.
+Les As valent 1 point. Les cartes numériques valent leur valeur faciale.
+Il y a deux façons de jouer une carte à points :
 
-- A point card can be played face-up on your side of the table. These cards add up to form your total points. The first player to accumulate 21 total points wins the game.
+- Une carte à points peut être jouée face ouverte de votre côté de la table. Ces cartes s'additionnent pour former votre total de points. Le premier joueur à accumuler 21 points au total gagne la partie.
 
-- Alternatively, a point card can be played as a ‘**scuttle**’ allowing you to remove an opponent’s point card from the table. The point card you play must be higher in value than the card you wish to scuttle, or equal in value with a higher suit. The rank of the suits is clubs (lowest) < diamonds < hearts < spades (highest). So for example the **![diamond](../images/internat/diamond.gif)7** can scuttle the **![club](../images/internat/club.gif)7** or the **![heart](../images/internat/heart.gif)6** but the **![diamond](../images/internat/diamond.gif)7** cannot scuttle the **![heart](../images/internat/heart.gif)7**. To scuttle an opponent's point card, place your card on top of it and discard both cards to the scrap pile.
+- Alternativement, une carte à points peut être jouée comme un « **scuttle** », vous permettant de retirer une carte à points de votre adversaire de la table. La carte à points que vous jouez doit avoir une valeur supérieure à la carte que vous souhaitez scuttler, ou être de valeur égale avec une couleur supérieure. L'ordre des couleurs est trèfles (le plus bas) < carreaux < cœurs < piques (le plus haut). Ainsi, par exemple, le 7 de ![carreau](../images/internat/diamond.gif) peut scuttler le 7 de ![trèfle](../images/internat/club.gif) ou le 6 de ![cœur](../images/internat/heart.gif) mais le 7 de ![carreau](../images/internat/diamond.gif) ne peut pas scuttler le 7 de ![cœur](../images/internat/heart.gif). Pour scuttler une carte à points de votre adversaire, placez votre carte sur la sienne et défaussez les deux cartes dans le tas de défausse.
 
-2. One-off effect cards
-**Ace, 2, 3, 4, 5, 6, 7, 9** can be played as one-off effect cards.
-One-off effect cards are never placed on the table but are discarded into the scrap pile immediately after use. See the list below for a description of each effect.
-3. Permanent effect cards
-**8, Jack, Queen, King** can be played as permanent effect cards
-Permanent effect cards are played face-up on the table like point cards, though note that the 8 is turned sideways. A permanent effect lasts for as long as the card is on the table. See the list below for a description of each effect.
+2. Cartes à effet unique
+**As, 2, 3, 4, 5, 6, 7, 9** peuvent être joués comme cartes à effet unique.
+Les cartes à effet unique ne sont jamais placées sur la table mais sont défaussées dans le tas de défausse immédiatement après utilisation. Voir la liste ci-dessous pour une description de chaque effet.
+3. Cartes à effet permanent
+**8, Valet, Dame, Roi** peuvent être joués comme cartes à effet permanent.
+Les cartes à effet permanent sont jouées face ouverte sur la table comme les cartes à points, bien que notez que le 8 est placé de côté. Un effet permanent dure tant que la carte est sur la table. Voir la liste ci-dessous pour une description de chaque effet.
 
-### One-off Effects
+### Effets uniques
 
-Ace
-Scrap all point cards on the table - both yours and your opponents'.
-2
-There are two possible ways to use a two as a one-off effect card.
+**As**
+Défaussez toutes les cartes à points sur la table — les vôtres et celles de votre adversaire.
+**2**
+Il y a deux façons possibles d'utiliser un deux comme carte à effet unique.
 
-- Play a two in your turn to scrap any permanent effect card on the table.
+- Jouer un deux à votre tour pour défausser n'importe quelle carte à effet permanent sur la table.
 
-- Play a two* *to block a one-off effect card played by your opponent. This is the only case in which you can play a card during your opponent's turn. Your two and your opponent's one-off effect card are both scrapped. Note that a two can be used to block a two: if you play a one-off effect and your opponent tries to block it with a two, you can use your own two to block your opponent's two. Both twos go to the scrap pile and your original one-off effect card takes effect (unless of course your opponent then plays *another* two to block it again).
+- Jouer un deux pour bloquer une carte à effet unique jouée par votre adversaire. C'est le seul cas où vous pouvez jouer une carte pendant le tour de votre adversaire. Votre deux et la carte à effet unique de votre adversaire sont tous deux défaussés. Notez qu'un deux peut être utilisé pour bloquer un deux : si vous jouez un effet unique et que votre adversaire essaie de le bloquer avec un deux, vous pouvez utiliser votre propre deux pour bloquer le deux de votre adversaire. Les deux vont au tas de défausse et votre carte à effet unique originale prend effet (sauf bien sûr si votre adversaire joue alors un **autre** deux pour le bloquer à nouveau).
 
-3 
-Rummage through the scrap pile and add a card of your choice to your hand. Since the 3 is not scrapped until after its effect has been carried out, you cannot use this effect to take back the 3 you just played.
-4 
-Your opponent must discard two cards of his choice from his hand, showing them to you before placing them on the scrap pile.
-5 
-Draw the top two cards from the draw pile and add them to your hand.
-6 
-Scrap all permanent effect cards on the table - both yours and your opponents'.
-7 
-Draw a card and play it immediately however you wish. 
+**3**
+Fouillez le tas de défausse et ajoutez une carte de votre choix à votre main. Puisque le 3 n'est pas défaussé avant que son effet ait été exécuté, vous ne pouvez pas utiliser cet effet pour reprendre le 3 que vous venez de jouer.
+**4**
+Votre adversaire doit défausser deux cartes de son choix de sa main, en vous les montrant avant de les placer dans le tas de défausse.
+**5**
+Piochez les deux cartes supérieures de la pioche et ajoutez-les à votre main.
+**6**
+Défaussez toutes les cartes à effet permanent sur la table — les vôtres et celles de votre adversaire.
+**7**
+Piochez une carte et jouez-la immédiatement comme vous le souhaitez.
 
-If you draw a card that cannot be played immediately it is discarded, but if it can be played you must play it, even if it is to your disadvantage. For example a jack might have to be used to give a point card to your opponent. 
-9
-Return any one permanent effect card on the table to its controller’s hand.
+Si vous piochez une carte qui ne peut pas être jouée immédiatement, elle est défaussée, mais si elle peut être jouée, vous devez la jouer, même si cela vous désavantage. Par exemple, un Valet pourrait devoir être utilisé pour donner une carte à points à votre adversaire.
+**9**
+Renvoyez n'importe quelle carte à effet permanent sur la table dans la main de son contrôleur.
 
-Note that if you use this to return a jack, the point card that it was stacked on changes sides.
+Notez que si vous utilisez cela pour renvoyer un Valet, la carte à points sur laquelle il était empilé change de côté.
 
-### Permanent Effects
+### Effets permanents
 
-8 
-While you have an 8 on the table as a permanent effect card, your opponent must play with the cards in his hand exposed. The 8 is placed sideways on the table, distinguishing it from point cards and making it look like a pair of glasses.
-Jack 
-Transfer control of a point card. The jack is placed on top of a point card and both cards are moved across the table, changing the owner. Multiple jacks can be stacked on top of a single point card, and the ownership changes each time a jack is added or removed.
+**8**
+Tant que vous avez un 8 sur la table comme carte à effet permanent, votre adversaire doit jouer avec les cartes de sa main exposées. Le 8 est placé de côté sur la table, ce qui le distingue des cartes à points et le fait ressembler à une paire de lunettes.
+**Valet**
+Transférez le contrôle d'une carte à points. Le Valet est placé sur une carte à points et les deux cartes sont déplacées de l'autre côté de la table, changeant de propriétaire. Plusieurs Valets peuvent être empilés sur une seule carte à points, et la propriété change à chaque fois qu'un Valet est ajouté ou retiré.
 
-Naturally you would normally play a jack on a point card controlled by your opponent, moving it to your side of the table so that it becomes yours. However, if you were to draw a jack as a result of the one-off effect of a 7 when your opponent had no point cards, you would be forced to play it on one of your own point cards and pass it to your opponent.
+Naturellement, vous jouerez normalement un Valet sur une carte à points contrôlée par votre adversaire, la déplaçant de votre côté de la table pour qu'elle devienne la vôtre. Cependant, si vous deviez piocher un Valet suite à l'effet unique d'un 7 alors que votre adversaire n'a pas de cartes à points, vous seriez forcé de le jouer sur l'une de vos propres cartes à points et de la passer à votre adversaire.
 
-If a point card is scrapped, either by an effect or by scuttling, any jacks upon it are also scrapped.
-Queen 
-All your point cards and permanent effect cards on the table other than queens are defended from effects that target single cards. Queens protect against 2, 9 and jack effects, but not against an ace or a 6, since these target multiple cards. Queens do not protect against scuttling (scuttling is not an effect).
+Si une carte à points est défaussée, soit par un effet, soit par un scuttle, tous les Valets qui sont dessus sont également défaussés.
+**Dame**
+Toutes vos cartes à points et cartes à effet permanent sur la table autres que les Dames sont défendues contre les effets qui ciblent une seule carte. Les Dames protègent contre les effets du 2, du 9 et du Valet, mais pas contre un As ou un 6, puisque ceux-ci ciblent plusieurs cartes. Les Dames ne protègent pas contre le scuttle (le scuttle n'est pas un effet).
 
-Since queens do not defend themselves or other queens, you can use a 2 to remove an opponent's queen.
+Puisque les Dames ne se défendent pas elles-mêmes ni les autres Dames, vous pouvez utiliser un 2 pour retirer une Dame de votre adversaire.
 
-If you play a 2, your queen on the table blocks your opponent from countering it with his own 2.
-King 
-The number of points you require to win the game is reduced according to the number of kings on your side of the table as follows:
+Si vous jouez un 2, votre Dame sur la table empêche votre adversaire de contrer avec son propre 2.
+**Roi**
+Le nombre de points que vous devez atteindre pour gagner la partie est réduit selon le nombre de Rois de votre côté de la table comme suit :
 
-- No kings: 21 or more points;
+- Aucun Roi : 21 points ou plus ;
 
-- One king: 14 or more points;
+- Un Roi : 14 points ou plus ;
 
-- Two kings: 10 or more points;
+- Deux Rois : 10 points ou plus ;
 
-- Three kings: 7 or more points;
+- Trois Rois : 7 points ou plus ;
 
-- All four kings: 5 or more points.
+- Les quatre Rois : 5 points ou plus.
 
-## Variants
+## Variantes
 
-The following improvements to the game have been suggested.
+Les améliorations suivantes du jeu ont été suggérées.
 
-### Fours
+### Quatre
 
-Greg Pallis recommends that when a four is played as a one-off effect, the two cards scrapped from the opponent's hand should be chosen at random. The opponent's hand is shuffled face down, two cards are drawn from it, exposed, and discarded to the scrap pile. 
+Greg Pallis recommande que lorsqu'un quatre est joué comme carte à effet unique, les deux cartes défaussées de la main de l'adversaire soient choisies au hasard. La main de l'adversaire est mélangée face cachée, deux cartes en sont tirées, exposées, et défaussées dans le tas de défausse.
 
-This rule change encourages aggressive play, makes the four stronger, and somewhat weakens the power of twos, since if you keep them in your hand they are vulnerable to a four attack.
+Ce changement de règle encourage le jeu agressif, renforce le quatre, et affaiblit quelque peu le pouvoir des deux, car si vous les gardez dans votre main, ils sont vulnérables à une attaque de quatre.
 
-### Eights
+### Huit
 
-Daniel Goers suggests that an 8 can be played as a one-off effect card to scrap a 8 that is on the table as a permanent effect card. Both 8's are discarded to the scrap pile.
+Daniel Goers suggère qu'un 8 peut être joué comme carte à effet unique pour défausser un 8 qui est sur la table comme carte à effet permanent. Les deux 8 sont défaussés dans le tas de défausse.
 
-### Nines
+### Neuf
 
-In the standard rules, nines are almost useless as one-off effect cards. You might use one to remove a jack from a point card controlled by your opponent if that immediately won the game. In any other case, your opponent can immediately undo the effect of the nine by simply putting the permanent effect card back on the table.
+Dans les règles standard, les neufs sont presque inutiles comme cartes à effet unique. Vous pourriez en utiliser un pour retirer un Valet d'une carte à points contrôlée par votre adversaire si cela gagne immédiatement la partie. Dans tout autre cas, votre adversaire peut immédiatement annuler l'effet du neuf en remettant simplement la carte à effet permanent sur la table.
 
-I suggest the following amended rule. When you play a nine as a one-off effect, you return one permanent card of your choice to your opponent's hand, and **your opponent must wait at least one turn before playing that card again**.
+Je suggère la règle amendée suivante. Lorsque vous jouez un neuf comme carte à effet unique, vous renvoyez une carte permanente de votre choix dans la main de votre adversaire, et **votre adversaire doit attendre au moins un tour avant de rejouer cette carte**.
 
-Reddit user *gaylordqueen69* has suggested a more powerful use for the nine. When you play a nine as a one-off effect you take one permanent card of your choice from the table and place it face down on top of the draw pile. This card will therefore be acquired by the next player who draws a card.
+L'utilisateur Reddit *gaylordqueen69* a suggéré une utilisation plus puissante pour le neuf. Lorsque vous jouez un neuf comme carte à effet unique, vous prenez une carte permanente de votre choix sur la table et la placez face cachée sur le dessus de la pioche. Cette carte sera donc acquise par le prochain joueur qui pioche une carte.
 
-### Tens
+### Dix
 
-Daniel Goers suggests that a 10 can be used as a one-off effect card to block a scuttle. The 10 and the card played as a scuttle are discarded to the scrap pile and the card that your opponment was trying to scuttle remains in place.
+Daniel Goers suggère qu'un 10 peut être utilisé comme carte à effet unique pour bloquer un scuttle. Le 10 et la carte jouée comme scuttle sont défaussés dans le tas de défausse et la carte que votre adversaire essayait de scuttler reste en place.
 
-### Queens
+### Dames
 
-Reddit user *beamer159* has suggested a variant in which although a queen does not protect itself, it does protect other queens. Therefore if you have two queens they protect each other as well as your other permanent effect cards and can only be removed by a six.
+L'utilisateur Reddit *beamer159* a suggéré une variante dans laquelle, bien qu'une Dame ne se protège pas elle-même, elle protège les autres Dames. Ainsi, si vous avez deux Dames, elles se protègent mutuellement ainsi que vos autres cartes à effet permanent, et ne peuvent être retirées que par un six.
 
 ### Joker
 
-Daniel Goers suggests that one Joker can be added to the deck. It is played as a one-off effect and causes the players to exchange hands with each other.
+Daniel Goers suggère d'ajouter un Joker au jeu. Il est joué comme un effet unique et oblige les joueurs à échanger leurs mains entre eux.
 
-## Other Cuttle Pages
+## Autres pages sur le Cuttle
 
-Jared Miller has published a revised and clarified set of [Cuttle rules](https://github.com/shmup/card-game-rules/blob/master/cuttle.md) on github.
+Jared Miller a publié un ensemble révisé et clarifié de [règles du Cuttle](https://github.com/shmup/card-game-rules/blob/master/cuttle.md) sur github.
 
-The [Cuttle page](https://www.reddit.com/r/boardgames/comments/2xnnx5/2player_card_game_cuttle/) by *gaylordqueen69* on Reddit includes an amusing rewrite of the FAQ, some suggested rule changes, and carries comments including a completely revised schedule of one-off effects suggested by *beamer159*.
+La [page Cuttle](https://www.reddit.com/r/boardgames/comments/2xnnx5/2player_card_game_cuttle/) de *gaylordqueen69* sur Reddit inclut une réécriture amusante de la FAQ, quelques changements de règles suggérés, et des commentaires incluant un calendrier complètement révisé des effets uniques suggéré par *beamer159*.
 
-## Cuttle Online
+## Cuttle en ligne
 
-You can play Cuttle online against human opponents at Ryan Emberling's [Cuttle site](https://www.cuttle.cards/).
+Vous pouvez jouer au Cuttle en ligne contre des adversaires humains sur le [site Cuttle](https://www.cuttle.cards/) de Ryan Emberling.
 
-## Richard Sipie's Cuttle FAQ
+## FAQ du Cuttle de Richard Sipie
 
-For reference, I have reproduced below copy of Richard Sipie's original Cuttle FAQ, published in 2000, which used to be at geocities.com. [An archive copy of the original page](https://web.archive.org/web/20080320105149/http://www.geocities.com/richardsipie/cuttle.htm) is also available. I have tried and failed to contact Richard Sipie to ask his permission to publish this. If anyone has any further news of him or his plans for this FAQ, please let me know.
+Pour référence, j'ai reproduit ci-dessous une copie de la FAQ originale du Cuttle de Richard Sipie, publiée en 2000, qui se trouvait auparavant sur geocities.com. Une [copie d'archive de la page originale](https://web.archive.org/web/20080320105149/http://www.geocities.com/richardsipie/cuttle.htm) est également disponible. J'ai essayé sans succès de contacter Richard Sipie pour lui demander sa permission de publier ceci. Si quelqu'un a de ses nouvelles ou de ses projets pour cette FAQ, faites-le moi savoir.
 
-### 1. What is Cuttle?
+### 1. Qu'est-ce que le Cuttle ?
 
-Cuttle is a game for 2 players, played with a simple 52-card pack.
+Le Cuttle est un jeu pour 2 joueurs, joué avec un simple jeu de 52 cartes.
 
-The objective of the game is to have 21 points worth of "Point Cards" on the table. A game takes approximately five minutes, although anything between twenty minutes and twenty seconds is possible!
+L'objectif du jeu est d'avoir 21 points de « cartes à points » sur la table. Une partie dure environ cinq minutes, bien que tout soit possible entre vingt minutes et vingt secondes !
 
-### 2. How do I play it?
+### 2. Comment y jouer ?
 
-Play begins with the dealer, who deals six cards to himself and five to his opponent. This opponent then takes the first turn.
+Le jeu commence par le donneur, qui distribue six cartes pour lui-même et cinq à son adversaire. Cet adversaire prend ensuite le premier tour.
 
-On a turn, a player may play a card (see #3), or draw one. If a player has 21 or more points worth of "point cards" on the table at the end of his turn, that player is victorious - otherwise the turn passes to his opponent.
+À chaque tour, un joueur peut jouer une carte (voir #3), ou en piocher une. Si un joueur a 21 points ou plus de « cartes à points » sur la table à la fin de son tour, ce joueur est vainqueur — sinon le tour passe à son adversaire.
 
-### 3. What do the cards do?
+### 3. Que font les cartes ?
 
-Firstly: ANY numbered card (A-10) may be played as a "point card". In this case, the player puts the card face-up on the table in front of him, and it is worth as many points as the are spots on its face (1 for an ace, etc).
+Premièrement : TOUTE carte numérotée (A-10) peut être jouée comme « carte à points ». Dans ce cas, le joueur pose la carte face ouverte sur la table devant lui, et elle vaut autant de points qu'il y a de symboles sur son visage (1 pour un As, etc.).
 
-Secondly: ANY numbered card (A-10) may be played, instead, as a "scuttle". In this case, it is played ON TOP of a point card which it exceeds in value*. Both cards are then moved directly to the scrap pile (face up, as is everything there)**.
+Deuxièmement : TOUTE carte numérotée (A-10) peut être jouée, à la place, comme « scuttle ». Dans ce cas, elle est jouée SUR une carte à points qu'elle dépasse en valeur*. Les deux cartes sont alors déplacées directement dans le tas de défausse (face ouverte, comme tout ce qui s'y trouve).
 
-*: Value is not just numerical, but alphabetical: clubs - diamonds - hearts - spades. The eight of clubs will scuttle the seven of spades, but not the eight of hearts.
+* : La valeur n'est pas seulement numérique, mais alphabétique : trèfles - carreaux - cœurs - piques. Le huit de trèfle scuttlera le sept de pique, mais pas le huit de cœurs.
 
-**: Cards in the scrap pile have no controller, and do not effect the game in any way.
+** : Les cartes dans le tas de défausse n'ont pas de contrôleur et n'affectent le jeu d'aucune façon.
 
-Finally:
+Enfin :
 
-The numbered cards may all be played as a one-off, except for the eights and tens. In this case, they are placed directly into the scrap pile, with the following effects.
+Les cartes numériques peuvent toutes être jouées comme effets uniques, à l'exception des huits et des dix. Dans ce cas, elles sont placées directement dans le tas de défausse, avec les effets suivants.
 
-ACES: Put all point cards on the table into the scrap pile.
+**AS** : Mettez toutes les cartes à points sur la table dans le tas de défausse.
 
-TWOS: Place any card on the table into the scrap pile, except a point card. (In practice, Kings, Queens, Jacks and the "glasses" eight) 
+**DEUX** : Placez n'importe quelle carte sur la table dans le tas de défausse, sauf une carte à points. (En pratique, Rois, Dames, Valets et le huit « lunettes »)
 
-      OR
-Place any one-off just played into the scrap pile. This occurs before the effect of that card is accomplished, and, uniquely, can be played during the opponents turn, as well as your own.
+OU
+Placez n'importe quel effet unique qui vient d'être joué dans le tas de défausse. Cela se produit avant que l'effet de cette carte ne soit accompli, et, de manière unique, peut être joué pendant le tour de l'adversaire, ainsi que le vôtre.
 
-THREES: Rummage through the scrap pile, taking a card of your choice into your hand.
+**TROIS** : Fouillez le tas de défausse, en prenant une carte de votre choix dans votre main.
 
-FOURS: Opponent must discard two cards of his choice from his hand into the scrap pile.
+**QUATRE** : L'adversaire doit défausser deux cartes de son choix de sa main dans le tas de défausse.
 
-FIVES: You may draw two cards.
+**CINQ** : Vous pouvez piocher deux cartes.
 
-SIXES: All cards on the table except for point cards are moved into the scrap pile.
+**SIX** : Toutes les cartes sur la table sauf les cartes à points sont déplacées dans le tas de défausse.
 
-SEVENS: Draw a card. You can, and must, play this card immediately - whether as a point card, a scuttle, a one-off, whatever. If you are unable to play the card, it is discarded. (This may only happen in the event of drawing a jack).
+**SEPT** : Piochez une carte. Vous pouvez, et devez, jouer cette carte immédiatement — que ce soit comme carte à points, scuttle, effet unique, peu importe. Si vous ne pouvez pas jouer la carte, elle est défaussée. (Cela ne peut se produire qu'en cas de pioche d'un Valet).
 
-NINES: Return any permanent card to its controller's hand.
-
---
-
-ROYALTY can only be played on your turn, and count as no points.
-
-JACKS: Are placed on top of a point card already on the table. Kept there, the card is moved across the table and is now owned by the opponent of its original owner (who is generally your opponent!)
-
-QUEENS: Are played on the table, like a point card. With a queen in play, none of your other cards may be the target of opposing cards that target a single card, such as jacks and twos. However, this offers no protection against those like aces that target more widely, even if there is only one card the table that will be effected. Nor do Queens offer any protection against scuttle attacks.
-
-KINGS: Are played like queens. With a king in play, a player can win with just 14 points worth of point cards on the table. With two kings he needs just ten, with three, seven, and with all four just five points! (Mathematically, a player needs 21/(1.5^k) points to win, where k is the number of kings controlled by that player).
+**NEUF** : Renvoyez n'importe quelle carte permanente dans la main de son contrôleur.
 
 --
 
-THE "GLASSES" EIGHT
+**LES FIGURES** ne peuvent être jouées que lors de votre tour, et ne comptent pour aucun point.
 
-The final card! As well as a point card, an eight too has a secondary use, although it is not a one-off. Instead, the card may be placed rather like a king or queen, but at right angles to the opponent (and his other cards). This differentiates it from point card eights, and simultaneously makes it look like a pair of glasses! The effect is that the opponent must play with his hand exposed until he finds a way to transfer the eight to the scrap pile.
+**VALETS** : Sont placés sur une carte à points déjà sur la table. Une fois là, la carte est déplacée de l'autre côté de la table et appartient désormais à l'adversaire de son propriétaire original (qui est généralement votre adversaire !)
 
-And we're done! 
+**DAMES** : Sont jouées sur la table, comme une carte à points. Avec une Dame en jeu, aucune de vos autres cartes ne peut être la cible de cartes adverses qui ciblent une seule carte, comme les Valets et les Deux. Cependant, cela n'offre aucune protection contre celles comme les As qui ciblent plus largement, même s'il n'y a qu'une seule carte sur la table qui sera affectée. Les Dames n'offrent pas non plus de protection contre les attaques de scuttle.
 
-### 4. What happens if the pack is exhausted?
+**ROIS** : Sont joués comme les Dames. Avec un Roi en jeu, un joueur peut gagner avec seulement 14 points de cartes à points sur la table. Avec deux Rois, il lui faut seulement dix, avec trois, sept, et avec les quatre seulement cinq points ! (Mathématiquement, un joueur a besoin de 21/(1,5^k) points pour gagner, où k est le nombre de Rois contrôlés par ce joueur).
 
-Although I am no authority, I can find no other guide to the question online. The rule I have played for twenty-five years is that it is unfair (and dull!) to end the game while a win may still be forced. Therefore, I play that "taking a card" in this situation becomes an effective pass, and that if three of these occur in a row, it is only then that the game is declared a draw.
+--
 
-### 5. Can I play a two to "counter" a point card? How about a scuttle?
+**LE HUIT « LUNETTES »**
 
-The single most common question I am asked :-). Players who are used to Magic: The Gathering are often surprised to find out that this is not allowed - a two is not a universal counterspell. It may only "counter"
-a one-off, nothing else.
+La dernière carte ! En plus d'une carte à points, un huit a aussi un usage secondaire, bien qu'il ne soit pas un effet unique. Au lieu de cela, la carte peut être placée plutôt comme un Roi ou une Dame, mais à angle droit par rapport à l'adversaire (et à ses autres cartes). Cela la différencie des huits à points et la fait simultanément ressembler à une paire de lunettes ! L'effet est que l'adversaire doit jouer avec sa main exposée jusqu'à ce qu'il trouve un moyen de transférer le huit dans le tas de défausse.
 
-### 6. Do Queens protect against "countering" twos?
+Et nous avons fini !
 
-The second most common question I am asked :-). The answer is yes: queens prevent the targeting of any single card controlled by that player, however briefly.
+### 4. Que se passe-t-il si le jeu est épuisé ?
 
-### 7. May a two be used to cancel an opponent's two?
+Bien que je ne sois pas une autorité, je ne trouve aucun autre guide à cette question en ligne. La règle selon laquelle je joue depuis vingt-cinq ans est qu'il est injuste (et ennuyeux !) de terminer le jeu alors qu'une victoire peut encore être forcée. Par conséquent, je joue que « prendre une carte » dans cette situation devient un passe effectif, et que si trois de ceux-ci se produisent consécutivement, ce n'est qu'alors que le jeu est déclaré nul.
 
-Absolutely! A last-in, first-out order seems the only sensible one to employ - i.e. in this situation the last-played card (the second two) moves the first to the scrap pile. From there it cannot effect the game, so the original card is played unscathed.
+### 5. Puis-je jouer un deux pour « contrer » une carte à points ? Et un scuttle ?
 
-### 8. May I use a three to rummage for the three I just played?
+La question la plus courante qu'on me pose :-). Les joueurs habitués à Magic : The Gathering sont souvent surpris d'apprendre que cela n'est pas autorisé — un deux n'est pas un contre-sort universel. Il ne peut « contrer » qu'un effet unique, rien d'autre.
 
-I don't think so. Since cards in the scrap pile do not affect the game, I believe a card sits in a kind of suspension until its effect has been resolved. This also gives clarity to the protection of one-offs by queens.
+### 6. Les Dames protègent-elles contre les deux de « contre » ?
 
-### 9. Suppose the only point card on the table is mine, and my one-off seven comes up as a Jack. What happens
+La deuxième question la plus courante qu'on me pose :-). La réponse est oui : les Dames empêchent le ciblage de toute carte unique contrôlée par ce joueur, aussi brièvement que ce soit.
 
-To me, the only logical answer is that the card switches sides, with the jack on top of it!
+### 7. Un deux peut-il être utilisé pour annuler le deux d'un adversaire ?
 
-### 10. This game is has similarities with Magic: The Gathering!
+Absolument ! Un ordre dernier entré, premier sorti semble être le seul sensé à employer — c'est-à-dire que dans cette situation, la dernière carte jouée (le deuxième deux) envoie le premier dans le tas de défausse. De là, il ne peut affecter le jeu, donc la carte originale est jouée intacte.
 
-It's been remarked on. It does however predate it considerably - I learnt the rules in 1975. A reverse genealogy would be fascinating - I would love to know if Richard Garfield has heard of the game.
+### 8. Puis-je utiliser un trois pour fouiller le trois que je viens de jouer ?
 
-### J. Who is the author?
+Je ne pense pas. Puisque les cartes dans le tas de défausse n'affectent pas le jeu, je crois qu'une carte est en quelque sorte en suspension jusqu'à ce que son effet soit résolu. Cela donne aussi de la clarté à la protection des effets uniques par les Dames.
 
-Richard Sipie has been playing games since 1951. He also enjoys walking, collecting (especially theatre paraphernalia) and flattery :-). He is happily married and lives in Bloomington, IL.
+### 9. Supposons que la seule carte à points sur la table soit la mienne, et que mon sept à effet unique se révèle être un Valet. Que se passe-t-il ?
 
-R.Sipie, 2000 
+Pour moi, la seule réponse logique est que la carte change de côté, avec le Valet par-dessus !
 
-(do E-mail me!)
+### 10. Ce jeu présente des similitudes avec Magic : The Gathering !
 
-[but the address given - richardsipie@yahoo.com - unfortunately no longer works - JM]
+Cela a été remarqué. Il le précède cependant considérablement — j'ai appris les règles en 1975. Une généalogie inverse serait fascinante — j'aimerais savoir si Richard Garfield a entendu parler du jeu.
 
-Home Page > Classified Index > Combat Games > Cuttle
+### J. Qui est l'auteur ?
+
+Richard Sipie joue à des jeux depuis 1951. Il aime aussi la marche, la collection (surtout de paraphernalie théâtrale) et la flatterie :-). Il est heureusement marié et vit à Bloomington, IL.
+
+R. Sipie, 2000
+
+(veuillez m'envoyer un e-mail !)
+
+[mais l'adresse indiquée — richardsipie@yahoo.com — ne fonctionne malheureusement plus — JM]

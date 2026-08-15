@@ -2,119 +2,119 @@
 
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** A lively variant of Scopa played in Liguria in north-western Italy.
+**But :** Une variante animée de la Scopa jouée en Ligurie, dans le nord-ouest de l'Italie.
 
 ---
 
 ## Introduction
 
-Cirulla is much played in the Italian city of Genoa and throughout Liguria and neighbouring Lower Piedmont. In Ligurian the name of the game is spelled *Cirolla*. It is a variation of the well known Italian game Scopa featuring additional ways of capturing cards and additional scores for combinations of cards in a player's hand. These extra rules result in a lively, noisy and unpredictable game with many sudden changes of fortune. The contrast with Scopone, a more intellectual Scopa variant requiring silence, concentration, accurate memory and calculation has led to Cirulla being characteristed as a kind of anti-Scopone.
+La Cirulla est très jouée dans la ville italienne de Gênes et dans toute la Ligurie et le Bas-Piémont voisin. En ligure, le nom du jeu s'écrit *Cirolla*. C'est une variante du jeu italien bien connu Scopa, comportant des modes de capture supplémentaires et des scores supplémentaires pour des combinaisons de cartes dans la main du joueur. Ces règles supplémentaires aboutissent à un jeu animé, bruyant et imprévisible avec de nombreux changements soudains de fortune. Le contraste avec le Scopone, une variante plus intellectuelle de la Scopa exigeant silence, concentration, mémoire précise et calcul, a conduit à ce que la Cirulla soit caractérisée comme une sorte d'anti-Scopone.
 
-*This page is based on information from Andrea Angiolino, Gabriele Boccone, Paolo Ronzoni and Jean Maillard, from Davide Manzi, who organises the weekly Cirulla tournaments at Giardini Luzzati in the city centre in Genoa, and from several books.*
+*Cette page est basée sur des informations d'Andrea Angiolino, Gabriele Boccone, Paolo Ronzoni et Jean Maillard, de Davide Manzi, qui organise les tournois hebdomadaires de Cirulla aux Giardini Luzzati dans le centre-ville de Gênes, et de plusieurs livres.*
 
-## Players and Cards
+## Joueurs et cartes
 
-Cirulla is played with a 40-card pack with French suits of hearts, diamonds, clubs and spades, and cards Ace, 2, 3, 4, 5, 6, 7, Jack, Queen, King in each suit. Traditionally, cards of the Genoese pattern, which have no indices, are used, but it is also possible to use a standard international pack from which the 10's, 9's, 8's and Jokers have been removed. 
+La Cirulla se joue avec un jeu de 40 cartes aux couleurs françaises : cœurs, carreaux, trèfles et piques, avec les cartes As, 2, 3, 4, 5, 6, 7, Valet, Dame, Roi dans chaque couleur. Traditionnellement, on utilise des cartes du pattern génois, qui n'ont pas d'indices, mais il est aussi possible d'utiliser un jeu international standard duquel les 10, 9, 8 et Jokers ont été retirés.
 
-For the purpose of capturing the Ace counts as 1, the 2-7 face value, Jack as 8, Queen as 9 and King as 10.
+Pour la capture, l'As compte comme 1, le 2-7 pour leur valeur faciale, le Valet comme 8, la Dame comme 9 et le Roi comme 10.
 
-Cirulla is normally played by 4 players in partnerships, partners sitting opposite each other. It is also possible, for 3 or 2 people to play using the same rules.
+La Cirulla se joue normalement avec 4 joueurs en partenariats, les partenaires étant assis en face l'un de l'autre. Il est aussi possible, pour 3 ou 2 personnes, de jouer avec les mêmes règles.
 
-Traditonally the deal and play are normally anticlockwise, and this direction of play is assumed in the following description. However, as mentioned under Variations some people nowadays play it clockwise, and if you prefer that version you will need to interchange 'left' and 'right' throughout what follows.
+Traditionnellement, la donne et le jeu se font dans le sens antihoraire, et cette direction de jeu est supposée dans la description suivante. Cependant, comme mentionné dans les variantes, certaines personnes jouent aujourd'hui dans le sens horaire.
 
-## Deal
+## Donnée
 
-The first dealer is chosen by any convenient random method, and turn to deal passes to the right after each hand is scored.
+Le premier donneur est choisi par n'importe quelle méthode aléatoire pratique, et le tour de donner passe à droite après que chaque main a été comptée.
 
-In each hand the cards are dealt is several **stages**. At the start the dealer shuffles and offers the cards to the player to the left to cut. The dealer deals the cards one at a time until each player has three cards and then places four cards face up in a row on the table. The remainder of the deck is set aside face down for future use. 
+À chaque main, les cartes sont distribuées en plusieurs **étapes**. Au départ, le donneur bat et offre les cartes au joueur à gauche pour couper. Le donneur distribue les cartes une à la fois jusqu'à ce que chaque joueur ait trois cartes, puis pose quatre cartes face visibles en rangée sur la table. Le reste du jeu est mis de côté face cachée pour un usage ultérieur.
 
-If the table cards include two or more Aces, all the cards are gathered up, shuffled and dealt again by the same dealer.
+Si les cartes de la table comprennent deux As ou plus, toutes les cartes sont ramassées, battues et redistribuées par le même donneur.
 
-If the capture values of the initial table cards add up to exactly 15 (for example Ace, 2, 4, Jack) or exactly 30 (for example 5, 6, Queen, King), the dealer captures them and scores a bonus (for details see below).
+Si les valeurs de capture des cartes initiales de la table s'additionnent exactement à 15 (par exemple As, 2, 4, Valet) ou exactement à 30 (par exemple 5, 6, Dame, Roi), le donneur les capture et marque un bonus (voir ci-dessous pour les détails).
 
-After all players have played their three cards the same dealer deals out another three cards each from the remainder of the deck. No further cards are dealt to the table. After these three new cards have been played there is another deal of 3 each and this is repeated until the deck is exhausted. So with 4 players the cards will be dealt in 3 stages, with 3 players 4 stages, and with 2 players 6 stages. 
+Après que tous les joueurs ont joué leurs trois cartes, le même donneur distribue trois autres cartes à chacun à partir du reste du jeu. Aucune carte supplémentaire n'est distribuée sur la table. Après que ces trois nouvelles cartes ont été jouées, il y a une autre donne de 3 à chacun et cela se répète jusqu'à épuisement du jeu. Ainsi, avec 4 joueurs, les cartes sont distribuées en 3 étapes, avec 3 joueurs en 4 étapes, et avec 2 joueurs en 6 étapes.
 
-## Play
+## Jeu
 
-Players take turns to play in anticlockwise order, beginning with the player to dealer's right. At each turn a player must play one card from hand face up to the table. This card may make a **capture**, in which case the player takes the played card along with the captured card or cards and stores them (normally face down) in the pile of captured cards belonging to the player or team. If there is no capture the played card remains face up on the table alongside any cards that were already there and can itself be captured in a later turn. The possible methods of capturing are as follows:
+Les joueurs jouent à tour de rôle dans l'ordre antihoraire, en commençant par le joueur à droite du donneur. À chaque tour, un joueur doit jouer une carte de sa main face visible sur la table. Cette carte peut effectuer une **capture**, auquel cas le joueur prend la carte jouée ainsi que la ou les cartes capturées et les stocke (normalement face cachée) dans le tas de cartes capturées appartenant au joueur ou à l'équipe. S'il n'y a pas de capture, la carte jouée reste face visible sur la table aux côtés des cartes déjà présentes et peut elle-même être capturée lors d'un tour ultérieur. Les méthodes de capture possibles sont les suivantes :
 
-- If the played card is equal in capture value to a card on the table, the player may capture that table card - for example a 6 can capture a 6 or a King can capture a King.
+- Si la carte jouée est égale en valeur de capture à une carte de la table, le joueur peut capturer cette carte de la table — par exemple un 6 peut capturer un 6 ou un Roi peut capturer un Roi.
 
-- If there is a set of cards on the table whose capture values add up to the capture value of the played card, the player may capture that set of cards - for example a Queen can capture a 2, a 3 and a 4 together (2+3+4=9).
+- S'il y a un ensemble de cartes sur la table dont les valeurs de capture s'additionnent à la valeur de capture de la carte jouée, le joueur peut capturer cet ensemble de cartes — par exemple une Dame peut capturer un 2, un 3 et un 4 ensemble (2+3+4=9).
 
-- If there is a card or set of cards on the table whose capture values, together with the capture value of the played card, add up to 15, the player may capture that set of cards - for example a 5 can capture a King (5+10=15) or a 7 and a 3 together (5+7+3=15).
+- S'il y a une carte ou un ensemble de cartes sur la table dont les valeurs de capture, additionnées à la valeur de capture de la carte jouée, donnent 15, le joueur peut capturer cet ensemble de cartes — par exemple un 5 peut capturer un Roi (5+10=15) ou un 7 et un 3 ensemble (5+7+3=15).
 
-- If an Ace is played it can capture all the cards on the table provided that there is no Ace on the table. If there is an Ace on the table, the Ace can only capture using method 1 (capturing the Ace alone) or method 3 (capturing a total of 15). For example if the cards on the table are A, 3, 4, 6, 7. then an Ace could capture 3, 4, 7 (because 1+3+4+7=15) or A, 3, 4, 6 (because 1+1+3+4+6=15) or just the Ace alone (using method 1).
+- Si un As est joué, il peut capturer toutes les cartes de la table à condition qu'il n'y ait pas d'As sur la table. S'il y a un As sur la table, l'As ne peut capturer qu'en utilisant la méthode 1 (capture de l'As seul) ou la méthode 3 (capture d'un total de 15). Par exemple, si les cartes sur la table sont A, 3, 4, 6, 7, un As pourrait capturer 3, 4, 7 (car 1+3+4+7=15) ou A, 3, 4, 6 (car 1+1+3+4+6=15) ou simplement l'As seul (méthode 1).
 
-In Cirulla, unlike Scopa, if several different captures are available with the played card, the player is free to choose which one to make. For example with Queen, 6, 5, 4, 3 on the table, the player of a Queen can choose to capture either the Queen alone or the 5+4 or the 6+3 or the 6 alone (making 15) but only one of these options.
+À la Cirulla, contrairement à la Scopa, si plusieurs captures différentes sont possibles avec la carte jouée, le joueur est libre de choisir laquelle effectuer. Par exemple avec Dame, 6, 5, 4, 3 sur la table, le joueur d'une Dame peut choisir de capturer soit la Dame seule, soit le 5+4, soit le 6+3, soit le 6 seul (pour faire 15), mais une seule de ces options.
 
-A player is free to play a card that does not capture anything, even if they could have made a capture by playing a different card. However, if the player chooses to play a card that can capture, they should take the capture. If they fail to do so (perhaps because they fail to notice a type 3 capture with a total of 15), then any other player who notices that the capture is possible can insist that is is made. If a possible capture is missed and this is not pointed out before the next player plays, then it is too late to capture: the played card that should have captured remains on the table with the other cards that are there.
+Un joueur est libre de jouer une carte qui ne capture rien, même s'il aurait pu faire une capture en jouant une autre carte. Cependant, si le joueur choisit de jouer une carte qui peut capturer, il devrait faire la capture. S'il omet de le faire (peut-être parce qu'il n'a pas remarqué une capture de type 3 avec un total de 15), tout autre joueur qui remarque que la capture est possible peut exiger qu'elle soit faite. Si une capture possible est manquée et que cela n'est pas signalé avant que le joueur suivant ne joue, il est trop tard pour capturer.
 
-If a player captures all the cards from the table by any of the four methods above, leaving it empty, this is called a *'scopa'* and the team gains 1 extra point for this. To remember the *scopa* so that it can be scored at the end of the hand, one of the cards taken, usually the one that made the capture, is placed face up in the player or team's pile of captured cards, protruding from the pile. Apart from cards stored face up to record bonus points like this, all captured cards are stored face down and cannot be looked at by anyone until the end of the hand.
+Si un joueur capture toutes les cartes de la table par l'une des quatre méthodes ci-dessus, la laissant vide, cela s'appelle une *« scopa »* et l'équipe gagne 1 point supplémentaire. Pour se souvenir de la *scopa* afin de pouvoir la compter à la fin de la main, l'une des cartes prises, généralement celle qui a fait la capture, est placée face visible dans le tas de cartes capturées du joueur ou de l'équipe, dépassant du tas. Outre les cartes stockées face visible pour enregistrer les points bonus, toutes les cartes capturées sont stockées face cachée et ne peuvent être regardées par personne jusqu'à la fin de la main.
 
-Immediately after a scopa, the next player will have to play a card to the empty table and will therefore be unable to make a capture, but the following player may be able to score another *scopa* by matching this card or making a total of 15 or playing an Ace.
+Immédiatement après une scopa, le joueur suivant devra jouer une carte sur la table vide et ne pourra donc pas faire de capture, mais le joueur suivant pourra peut-être marquer une autre *scopa* en associant cette carte ou en faisant un total de 15 ou en jouant un As.
 
-When all players have played all 3 of their cards (the dealer having played the last card), if any cards remain undealt the dealer deals a new hand of 3 cards to each player from the undealt part of the deck while any cards that were face up on the table remain in place. Play then continues with the player to dealer's right.
+Lorsque tous les joueurs ont joué leurs 3 cartes (le donneur ayant joué la dernière carte), s'il reste des cartes non distribuées, le donneur distribue une nouvelle main de 3 cartes à chaque joueur à partir de la partie non distribuée du jeu, tandis que les cartes qui étaient face visibles sur la table restent en place. Le jeu continue ensuite avec le joueur à droite du donneur.
 
-When all the cards have been played and none remain to be dealt, the hand ends. Any cards remaining face up on the table are taken by the last player or team that made a capture. Taking the last cards from the table at the very end of a hand **never** counts as a *scopa*. Even if the dealer's last card is in fact able to capture all the table cards by one of the methods 1-4 above, no *scopa* is scored for this. 
+Lorsque toutes les cartes ont été jouées et qu'il n'en reste plus à distribuer, la main s'achève. Les cartes restant face visibles sur la table sont prises par le dernier joueur ou équipe qui a effectué une capture. Prendre les dernières cartes de la table à la toute fin d'une main **ne compte** jamais comme une *scopa*. Même si la dernière carte du donneur est capable de capturer toutes les cartes de la table par l'une des méthodes 1-4 ci-dessus, aucune *scopa* n'est marquée pour cela.
 
-## Bonuses
+## Bonus
 
-Bonuses can be scored by the dealer for the four cards dealt to the table at the start of a hand, or by any player for the three cards they are dealt at the start of any stage of the hand. For the purpose of scoring a bonus, the **seven of hearts is wild**, (known in Ligurian as *poncin* and in Italian as *matta*) and in order to make a bonus combination a player can nominate it as having any capture value from 1 to 10.
+Des bonus peuvent être marqués par le donneur pour les quatre cartes distribuées sur la table au début d'une main, ou par n'importe quel joueur pour les trois cartes qui lui sont distribuées au début de n'importe quelle étape de la main. Pour le calcul d'un bonus, le **sept de cœurs est sauvage**, (connu en ligure sous le nom de *poncin* et en italien de *matta*) et pour former une combinaison bonus, un joueur peut le désigner comme ayant n'importe quelle valeur de capture de 1 à 10.
 
-### Dealer bonuses
+### Bonus du donneur
 
-If the capture values of the four cards dealt to the table at the start of a hand add up to **exactly 15** the dealer captures the four cards and scores a bonus of **one *scopa***, marked as usual by placing one of the cards face up and protruding from the capture pile. 
+Si les valeurs de capture des quatre cartes distribuées sur la table au début d'une main s'additionnent à **exactement 15**, le donneur capture les quatre cartes et marque un bonus d'**une *scopa***, marqué comme d'habitude en plaçant une des cartes face visible et dépassant du tas de capture.
 
-If capture values the four table cards add up to **exactly 30**, the dealer captures them for a bonus of **two *scope***, marked by placing two of the cards face up in the capture pile.
+Si les valeurs de capture des quatre cartes de la table s'additionnent à **exactement 30**, le donneur les capture pour un bonus de **deux *scope***, marqué en plaçant deux des cartes face visible dans le tas de capture.
 
-**Examples**
+**Exemples**
 
-- ![club](../images/internat/club.gif)4, ![heart](../images/internat/heart.gif)7, ![club](../images/internat/club.gif)3, ![diamond](../images/internat/diamond.gif)6 on the table at the start can be captured by the dealer for a bonus of one *scopa* (using the wild ![heart](../images/internat/heart.gif)7 as a 2 to make 15).
+- ![trèfle](../images/internat/club.gif)4, ![cœur](../images/internat/heart.gif)7, ![trèfle](../images/internat/club.gif)3, ![carreau](../images/internat/diamond.gif)6 sur la table au début peuvent être capturés par le donneur pour un bonus d'une *scopa* (en utilisant le ![cœur](../images/internat/heart.gif)7 sauvage comme un 2 pour faire 15).
 
-- ![spade](../images/internat/spade.gif)6, ![spade](../images/internat/spade.gif)Q, ![diamond](../images/internat/diamond.gif)K, ![club](../images/internat/club.gif)5 on the table at the start can be captured by the dealer for 2 *scope* (6+9+10+5=30).
+- ![pique](../images/internat/spade.gif)6, ![pique](../images/internat/spade.gif)D, ![carreau](../images/internat/diamond.gif)R, ![trèfle](../images/internat/club.gif)5 sur la table au début peuvent être capturés par le donneur pour 2 *scope* (6+9+10+5=30).
 
-If the dealer scores a bonus, capturing the four cards empties the table, so the first player, to dealer's right, has nothing to capture and must simply play a card to the empty table.
+Si le donneur marque un bonus, la capture des quatre cartes vide la table, donc le premier joueur, à droite du donneur, n'a rien à capturer et doit simplement jouer une carte sur la table vide.
 
-### Hand bonuses
+### Bonus de main
 
-If the three cards dealt to a player at any stage of the hand have a total capture value of **9 or less**, the player can claim a bonus of **three *scope***, known in Ligurian as *barsega* or *boña da trei*.
+Si les trois cartes distribuées à un joueur à n'importe quelle étape de la main ont une valeur de capture totale de **9 ou moins**, le joueur peut réclamer un bonus de **trois *scope***, connu en ligure sous le nom de *barsega* ou *boña da trei*.
 
-If a player is dealt **three equal cards** at any stage of the hand, the player can claim a bonus of **ten *scope***, known in Ligurian as* barsegon* or *boña da dexe*.
+Si un joueur reçoit **trois cartes égales** à n'importe quelle étape de la main, il peut réclamer un bonus de **dix *scope***, connu en ligure sous le nom de *barsegon* ou *boña da dexe*.
 
-If a player's hand satisfies both criteria - three equal cards with a total of 9 or less, for example 2-2-2 - only the 10 *scope* bonus is awarded: it is not possible to score both types of bonus at once with the same cards.
+Si la main d'un joueur satisfait aux deux critères — trois cartes égales avec un total de 9 ou moins, par exemple 2-2-2 — seul le bonus de 10 *scope* est accordé : il n'est pas possible de marquer les deux types de bonus à la fois avec les mêmes cartes.
 
-A player claims a hand bonus at their turn to play by knocking on the table (*bussare*) and placing their three cards face up in front them for all to see. The cards remain exposed during the play and are played normally from that position. The ![heart](../images/internat/heart.gif)7 can be used as a wild card, and in this case the player must choose and announce its capture value when exposing it. The ![heart](../images/internat/heart.gif)7 keeps that capture value during the play. For example if it is named as an Ace it can be played to capture all the cards from the table if they do not include another Ace, or if it is named as a 2 and played to the table, it retains its value of 2 for the purpose of capture.
+Un joueur réclame un bonus de main à son tour de jouer en frappant la table (*bussare*) et en posant ses trois cartes face visible devant lui pour que tous les voient. Les cartes restent exposées pendant le jeu et sont jouées normalement depuis cette position. Le ![cœur](../images/internat/heart.gif)7 peut être utilisé comme carte sauvage, et dans ce cas le joueur doit choisir et annoncer sa valeur de capture lors de l'exposition. Le ![cœur](../images/internat/heart.gif)7 conserve cette valeur de capture pendant le jeu. Par exemple, s'il est nommé comme un As, il peut être joué pour capturer toutes les cartes de la table si celles-ci ne comprenent pas un autre As, ou s'il est nommé comme un 2 et joué sur la table, il conserve sa valeur de 2 pour la capture.
 
-The three or ten *scope* are recorded as usual by turning the appropriate number of cards face up in the player or team's capture pile. If they have not yet captured enough cards to do this, they still score them but they must remember them in some other way, for example by marking them on a piece of paper.
+Les trois ou dix *scope* sont enregistrés comme d'habitude en retournant le nombre approprié de cartes face visible dans le tas de capture du joueur ou de l'équipe. S'ils n'ont pas encore capturé assez de cartes pour le faire, ils marquent quand même les points mais doivent s'en souvenir d'une autre manière, par exemple en les notant sur un papier.
 
-**Examples**
+**Exemples**
 
-- A hand of ![heart](../images/internat/heart.gif)7, ![club](../images/internat/club.gif)3, ![diamond](../images/internat/diamond.gif)4 scores 3 *scope*, declaring the ![heart](../images/internat/heart.gif)7 as either a 2 or an Ace. (It would be declared as a 2 if the table cards were for example Ace, 5, 7, so as to capture all three cards by making 15).
+- Une main de ![cœur](../images/internat/heart.gif)7, ![trèfle](../images/internat/club.gif)3, ![carreau](../images/internat/diamond.gif)4 marque 3 *scope*, en déclarant le ![cœur](../images/internat/heart.gif)7 comme un 2 ou un As.
 
-- A hand of ![spade](../images/internat/spade.gif)Q, ![diamond](../images/internat/diamond.gif)Q, ![club](../images/internat/club.gif)Q scores 10 *scope*, and ![spade](../images/internat/spade.gif)Q, ![diamond](../images/internat/diamond.gif)Q, ![heart](../images/internat/heart.gif)7 would score the same, declaring the ![heart](../images/internat/heart.gif)7 as a Queen (capture value 9).
+- Une main de ![pique](../images/internat/spade.gif)D, ![carreau](../images/internat/diamond.gif)D, ![trèfle](../images/internat/club.gif)D marque 10 *scope*, et ![pique](../images/internat/spade.gif)D, ![carreau](../images/internat/diamond.gif)D, ![cœur](../images/internat/heart.gif)7 marquerait la même chose, en déclarant le ![cœur](../images/internat/heart.gif)7 comme une Dame (valeur de capture 9).
 
-Note that the ![heart](../images/internat/heart.gif)7 is only wild if used as part of a bonus combination. If it is not used to claim a bonus it is just an ordinary card with a capture value of 7.
+Notez que le ![cœur](../images/internat/heart.gif)7 n'est sauvage que s'il est utilisé dans une combinaison bonus. S'il n'est pas utilisé pour réclamer un bonus, c'est juste une carte ordinaire avec une valeur de capture de 7.
 
-## Scoring
+## Comptage
 
-At the end of the play, each player or team counts the number of points they have scored according to the cards in their capture pile. For this purpose the ![heart](../images/internat/heart.gif)7 is no longer wild - however it was used it just counts as the seven of hearts.
+À la fin du jeu, chaque joueur ou équipe compte le nombre de points marqués selon les cartes de son tas de capture. À cet effet, le ![cœur](../images/internat/heart.gif)7 n'est plus sauvage — quelle que soit la façon dont il a été utilisé, il compte simplement comme le sept de cœurs.
 
-The possible scores are:
+Les scores possibles sont :
 
-| Each scopa | 1 point | For clearing the table and for bonuses. |
-| Most cards | 1 point | In case of a tie no one gets the point. |
-| Most diamonds | 1 point | In case of a tie no one gets the point. |
-| 7 of diamonds | 1 point | Known as sette bello - beautiful 7. |
-| Primiera | 1 point | See below |
-| La piccola | 3+ points | A+2+3+... See below. |
-| La grande | 5 points | K+Q+J. See below. |
+| Chaque scopa | 1 point | Pour avoir vidé la table et pour les bonus. |
+| Le plus de cartes | 1 point | En cas d'égalité, personne ne reçoit le point. |
+| Le plus de carreaux | 1 point | En cas d'égalité, personne ne reçoit le point. |
+| 7 de carreaux | 1 point | Connu sous le nom de sette bello — le beau 7. |
+| Primiera | 1 point | Voir ci-dessous |
+| La piccola | 3+ points | A+2+3+... Voir ci-dessous. |
+| La grande | 5 points | R+D+V. Voir ci-dessous. |
 
 ### Primiera
 
-One point is scored by the player or team that has the best Primiera. A Primiera is a combination of four cards, one from each suit. The following special values are used to compare primieras:
+Un point est marqué par le joueur ou l'équipe qui a la meilleure Primiera. Une Primiera est une combinaison de quatre cartes, une de chaque couleur. Les valeurs spéciales suivantes sont utilisées pour comparer les primieras :
 
-| card | value |
+| carte | valeur |
 | 7 | 21 |
 | 6 | 18 |
 | A | 16 |
@@ -122,114 +122,88 @@ One point is scored by the player or team that has the best Primiera. A Primiera
 | 4 | 14 |
 | 3 | 13 |
 | 2 | 12 |
-| K,Q,J | 10 |
+| R,D,V | 10 |
 
-In practice the *primiera* point usually goes to the team with the majority of sevens, or if they have two each normally to the team with the majority of sixes. The exact values are only needed to decide difficult cases, such as when 7-7-6-Q (68) loses to 7-7-5-2 (69). Note that a player or team that has captured no cards at all of one suit cannot win the *primiera* point even if they have the other three sevens. In case of a tie, no one scores the primiera point.
+En pratique, le point de *primiera* revient généralement à l'équipe ayant la majorité des sept, ou si chacun en a deux, à l'équipe ayant la majorité des six. Les valeurs exactes ne sont nécessaires que pour départager les cas difficiles, comme lorsque 7-7-6-D (68) perd contre 7-7-5-2 (69). Notez qu'un joueur ou une équipe qui n'a capturé aucune carte d'une couleur ne peut pas gagner le point de *primiera* même s'il a les trois autres sept. En cas d'égalité, personne ne marque le point de primiera.
 
 ### La Grande / La Piccola
 
-A player or team that has all three diamond pictures (![diamond](../images/internat/diamond.gif)K+![diamond](../images/internat/diamond.gif)Q+![diamond](../images/internat/diamond.gif)J) scores 5 points for *la grande* or in Ligurian: *l'erta*.
+Un joueur ou une équipe qui a les trois figures de carreaux (![carreau](../images/internat/diamond.gif)R+![carreau](../images/internat/diamond.gif)D+![carreau](../images/internat/diamond.gif)V) marque 5 points pour *la grande* ou en ligure : *l'erta*.
 
-A player or team that has a sequence of at least 3 diamonds counting upwards from the Ace counts 1 point for each card in the sequence, up to a maximum of 6. For example a sequence of ![diamond](../images/internat/diamond.gif)A+![diamond](../images/internat/diamond.gif)2+![diamond](../images/internat/diamond.gif)3+![diamond](../images/internat/diamond.gif)4 scores 4 points. This is known as *la piccola* or in Ligurian: *a bassa*.
+Un joueur ou une équipe qui a une séquence d'au moins 3 carreaux comptant à partir de l'As en ordre croissant marque 1 point par carte de la séquence, jusqu'à un maximum de 6. Par exemple, une séquence de ![carreau](../images/internat/diamond.gif)A+![carreau](../images/internat/diamond.gif)2+![carreau](../images/internat/diamond.gif)3+![carreau](../images/internat/diamond.gif)4 marque 4 points. Cela est connu sous le nom de *la piccola* ou en ligure : *a bassa*.
 
-A player or team that captures the entire diamond suit (*la piccola* of 6 cards plus *la grande* plus the *sette bello*) wins the whole game immediately: this is known as a *cappotto*.
+Un joueur ou une équipe qui capture la totalité de la couleur carreaux (*la piccola* de 6 cartes plus *la grande* plus le *sette bello*) gagne la partie entière immédiatement : cela est connu sous le nom de *cappotto*.
 
-### End of Game
+### Fin de partie
 
-A cumulative score is kept for each player or team. The game ends when a player or team either wins by taking all the diamonds or achieves a score of 51 or more points over however many hands that takes. When a score of 51 or higher is reached, the player or team with the highest score then wins the game. If there is a tie for highest score, another hand is played to determine the winner.
+Un score cumulatif est conservé pour chaque joueur ou équipe. La partie s'achève lorsqu'un joueur ou une équipe gagne soit en prenant tous les carreaux, soit en atteignant un score de 51 points ou plus en autant de mains que nécessaire. Lorsqu'un score de 51 ou plus est atteint, le joueur ou l'équipe ayant le score le plus élevé gagne la partie. En cas d'égalité pour le score le plus élevé, une autre main est jouée pour déterminer le vainqueur.
 
-Note that in this game it is not possible to halt the play in the middle of a hand if someone thinks they have scored enough points to reach the target score. The hand must be played to the end and scored to determine the result.
+Il est courant qu'un match entre deux joueurs ou équipes se joue au meilleur des trois jeux. Après le premier jeu, un deuxième jeu « revanche » est joué. Si la même équipe gagne le deuxième jeu, elle remporte le match, mais si l'autre équipe gagne, un troisième jeu est joué comme décisif.
 
-Often a match between two players or teams is played as the best of three games. After the first game, a second 'revenge' game is played. If the same team wins the second game they win the match, but if the other team wins a third game is played as a decider. 
+## Variantes
 
-## Variations
+Il existe de nombreuses règles de maison différentes, et il est conseillé de vérifier les règles locales avant de commencer une partie.
 
-There are many different house rules, and it is advisable to check the local rules before starting a game.
+Comme déjà mentionné, beaucoup de gens jouent l'ensemble du jeu dans le sens horaire plutôt que dans le sens antihoraire.
 
-As already mentioned, quite a few people play the whole game clockwise rather than anticlockwise.
+Certains joueurs utilisent différentes méthodes de distribution de la première étape du jeu.
 
-Some players use different methods of dealing the first stage of the game, for example the first card to the table, then one card each, then another to the table, another card each, a third card to the table, a third card each and finally a fourth card to the table. Some play that the player to dealer's left may refuse to cut the cards, in which case the dealer can choose any fair method of dealing.
+Certains sources autorisent un troisième type de bonus pour le donneur, lorsque les quatre cartes distribuées initialement ont une valeur de capture totale de 9 ou moins. Dans ce cas, le donneur capture les quatre cartes et marque trois *scope*.
 
-Some sources allow a third type of bonus for the dealer, when the four cards dealt initially have a total capture value of 9 or less. In this case the dealer captures the four cards and scores three *scope*. Jean Maillard asked several groups of players and none of them had heard of this rule, but it appears in some reputable books such as '*I Giochi di Carte*' by Fantini and Santelia (Rizzoli, 1985, 1997) and on the former [romacivica website](https://web.archive.org/web/20090126005406/http://www.romacivica.net/romaingioco/cunscir.html).
+Dans les tournois des Giardini Luzzati, il y a d'autres ensembles de cartes initiales de table ayant des effets spéciaux :
 
-In the Giardini Luzzati tournaments there are other sets of initial table cards that have special effects:
+- Si le donneur distribue quatre cartes de même rang sur la table, ou trois cartes de même rang plus le sept de cœurs, l'équipe du donneur gagne la partie entière (*« cappotto »*).
 
-- If the dealer deals four cards of the same rank to the table, or three cards of the same rank plus the seven of hearts, the dealer's team wins the whole game ('*cappotto*').
+- Si le donneur distribue soit deux as sur la table (comme dans le jeu standard ci-dessus) **soit trois cartes de même rang** (avec la quatrième carte n'étant pas le sept de cœurs), c'est une donne à refaire et le même donneur redistribue. S'il y a trois donnes à refaire consécutives, les adversaires (c'est-à-dire pas l'équipe du donneur) gagnent la partie (*« cappotto »*). Notez que le sept de cœurs ne compte **pas** comme carte sauvage pour déterminer une donne à refaire : par exemple ![trèfle](../images/internat/club.gif)4-![pique](../images/internat/spade.gif)4-![cœur](../images/internat/heart.gif)7-![pique](../images/internat/spade.gif)A distribués sur la table n'est pas une donne à refaire, mais peut être capturé par le donneur pour une *scopa*, en utilisant le ![cœur](../images/internat/heart.gif)7 sauvage comme un 6 pour faire 15.
 
-- If the dealer deals either two aces to the table (as in the standard game above) **or three cards of the same rank** (with the fourth card not being the seven of hearts) then it's a misdeal, and the same dealer deals again. If there are three misdeals in a row, the opponents (i.e. not the dealer's team) win the game (*'cappotto'*). Note that the seven of hearts does **not** count as a wild card for the purpose of determining a misdeal: for example ![club](../images/internat/club.gif)4-![spade](../images/internat/spade.gif)4-![heart](../images/internat/heart.gif)7-![spade](../images/internat/spade.gif)A dealt to the table is not a misdeal, but can be captured by the dealer for one *scopa*, using the wild ![heart](../images/internat/heart.gif)7 as a 6 to make 15.
+Il est possible, bien que non traditionnel, de jouer à la Cirulla avec un jeu à couleurs latines, par exemple napolitain, mais ces cartes ne sont pas typiques de la Ligurie et du nord-ouest de l'Italie. Si l'on utilise des cartes latines, la carte sauvage est le 7 de coupes, et la couleur du *sette bello* et des bonus de séquence est les coupes.
 
-According to Davide Manzi these *cappotto* and misdeal rules are standard, but in practice few players know or use them.
+Il existe diverses règles de maison concernant le moment de frapper et de réclamer un bonus :
 
-It is possible, though not traditional, to play Cirulla with a Latin suited deck, for example Neapolitan, but these cards are not typical of Liguria and the north-west of Italy. If using Latin cards, the wild card is the 7 of cups, and the suit of the *sette bello* and the sequence bonuses is coins.
+- (le plus répandu) Le joueur frappe et révèle les cartes au début de son tour.
 
-There are various different house rules regarding when to knock and claim a bonus:
+- (moins courant) Un joueur peut frapper et montrer ses cartes à tout moment entre la donne et son premier tour de jeu.
 
-- (most widespread) The player knocks and reveals the cards at the start of their turn.
+- (inhabituel) Le joueur frappe et révèle ses cartes immédiatement après la donne, avant que le premier joueur n'ait joué une carte.
 
-- (less usual) A player may knock and show their cards any time between the deal and when it is that player's first turn to play, but anyone who has played a card before the knock is allowed to retract and change their play after seeing the revealed cards.
+Certains groupes utilisent une carte différente, comme la Dame de cœurs plutôt que le 7, comme carte sauvage pour les bonus.
 
-- (unusual) The player knocks and reveals their cards immediately after the deal, before the first player has played a card.
+Certains autorisent les deux types de bonus de main à être marqués ensemble.
 
-Some groups use a different card, such as the Queen of hearts rather than the 7, as the wild card for bonuses.
+Certains autorisent jusqu'à 7 cartes dans *la piccola*, auquel cas la séquence de l'As au 7 de carreaux marquerait en fait 8 points : 7 pour la séquence plus un pour le *sette bello* lui-même.
 
-Some allow the two types of hand bonus to be scored together, so that for example 3-3-3 would score 13 *scope*, made up of 10 *scope* for 9 or less plus 3 *scope* for three of a kind.
+Dans certains tournois, capturer tous les carreaux ne gagne pas la partie immédiatement mais marque simplement 10 points (6 pour *la piccola* plus 3 pour *la grande* plus 1 pour le *sette bello*).
 
-Some allow up to 7 cards in the *la piccola*, in which case the sequence Ace to 7 of diamonds would in fact score 8 points: 7 for the sequence plus one more for the *sette bello* itself.
+Dans certains tournois, il n'y a pas de bonus de 10 points pour trois cartes égales dans une main.
 
-In some tournaments, capturing all the diamonds does not win the game outright but just scores 10 points (6 for *la piccola* plus 3 for *la grande* plus 1 for *sette bello*). 
+Certains sources utilisent le terme *scala piccola* (petite échelle) ou *cirulla piccola* pour la séquence basse en carreaux et *scala grande* (grande échelle) ou *cirulla grande* pour la séquence haute.
 
-In some tournaments there is no 10-point bonus for three equal cards in a hand.
+Le score cible peut être modifié. Par exemple, pour une partie courte, l'objectif peut être réduit à 26 points ou plus, ou pour une partie longue, il peut être de 101 ou plus.
 
-Some sources use the term *scala piccola* (small ladder) or *cirulla piccola* for the low sequence in diamonds and *scala grande* (large ladder) or *cirulla grande* for the high sequence.
-
-The book *Giochi di Carte Italiani* by Giampaolo Dossena (Mondadori, 1984) and the version reported by Paolo Ronzoni as played by friend of his father from La Spezia have different bonus scores and sequence scores as follows (as usual the 7 of hearts is wild):
-
-- If the four initial table cards have a total value of 9 or less the dealer scores 1 *scopa*.
-
-- If the four initial table cards add up to exactly 30 the dealer scores 2 *scope*.
-
-- A three-card hand with a total capture value of 9 or less scores 1 *scopa*.
-
-- A hand of three equal cards scores 2 *scope*.
-
-- A hand of three equal cards with a total capture value of less than 9 (3 aces or 3 twos or 3 threes) scores 3 *scope*.
-
-- A *scaletta bassa* is a sequence of 3, 4 or 5 low diamonds from the ace upwards, scoring 3 *scope* for A23, 4* scope* for A234, or 5* scope* for A2345.
-
-- A *scaletta alta* is a sequence of 3, 4, or 5 high diamonds starting from the king downwards, scoring 5 *scope* for KQJ, 6 *scope* for KQJ7 or 7* scope* for KQJ76.
-
-Some allow a player to play a card and just leave it on the table, even if it could have made a capture. A player might wish to do this to hinder the next player from scoring a *scopa*.
-
-The target score can be varied. For example for a short game the target can be reduced to 26 points or more, or for a long game it can be 101 or more. 
-
-Other descriptions of Cirulla are available on Wikipedia in [English](https://en.wikipedia.org/wiki/Scopa#Cirulla) and [Italian](https://it.wikipedia.org/wiki/Cirulla).
+D'autres descriptions de la Cirulla sont disponibles sur Wikipedia en [anglais](https://en.wikipedia.org/wiki/Scopa#Cirulla) et [italien](https://it.wikipedia.org/wiki/Cirulla).
 
 ## Cirullone
 
-As the name suggests, this game is a mix of Cirulla and Scopone: it goes some way towards allowing the extra strategic possibilities of Scopone by increasing the hand size. Jean Maillard has spoken to members of a club in Rivarolo ("Sampclub Certosa") who confirmed that Cirullone is played by them and throughout Liguria, and Davide Manzi confirmed that it's also played in Giardini Luzzati. 
+Comme le nom le suggère, ce jeu est un mélange de Cirulla et de Scopone : il va dans le sens d'une plus grande richesse stratégique du Scopone en augmentant la taille de la main. Jean Maillard a parlé à des membres d'un club à Rivarolo (« Sampclub Certosa ») qui ont confirmé que le Cirullone y est joué et dans toute la Ligurie, et Davide Manzi a confirmé qu'il se joue aussi aux Giardini Luzzati.
 
-The game is almost identical to 4-player partnership Cirulla except for the hand size. There are two main versions.
+Le jeu est presque identique à la Cirulla à quatre joueurs en partenariat, sauf pour la taille de la main. Il existe deux versions principales.
 
-- In the more 'lighthearted' version, in the first stage six cards are dealt to each player and in the second stage three cards each. Alternatively some players, including those in Rivarolo, do the opposite to this, dealing three cards each in the first stage and six in the second.
+- Dans la version plus « légère », lors de la première étape, six cartes sont distribuées à chaque joueur et lors de la deuxième étape trois cartes à chacun. Alternativement, certains joueurs, y compris ceux de Rivarolo, font l'inverse, en distribuant trois cartes à chacun lors de la première étape et six lors de la deuxième.
 
-- A more 'strategic' version exists where each player is dealt nine cards at the start, just like in Scopone. 
+- Il existe une version plus « stratégique » où chaque joueur reçoit neuf cartes au départ, comme au Scopone.
 
-In all cases, four cards are dealt face up to the table in the first stage of the deal as usual, and all bonuses are as in Cirulla. Hand bonuses can still be declared for specific sets of three cards, and only those declared cards have to be revealed. When a bonus is declared and the three relevant cards are placed on the table face up, the player who declared the bonus must play from those cards first. Once the revealed cards have all been played, the player is free to play any other cards they might still have in the hand. 
+Dans tous les cas, quatre cartes sont distribuées face visibles sur la table lors de la première étape de la donne comme d'habitude, et tous les bonus sont les mêmes qu'à la Cirulla. Les bonus de main peuvent toujours être déclarés pour des ensembles spécifiques de trois cartes, et seules les cartes déclarées doivent être révélées. Lorsqu'un bonus est déclaré et que les trois cartes correspondantes sont posées face visibles sur la table, le joueur qui a déclaré le bonus doit jouer ces cartes en premier. Une fois les cartes révélées toutes jouées, le joueur est libre de jouer n'importe quelle autre carte qu'il pourrait encore avoir en main.
 
-In a 6-card or 9-card hand it is clearly possible to have two or even three separate sets of three cards qualifying for a bonus. In this case the player knocks, exposes three cards and claims one bonus, then having played these three cards knocks again at their next turn, exposes three more cards for a second bonus and plays those cards, and so on. 
+Dans une main de 6 ou 9 cartes, il est clairement possible d'avoir deux ou même trois ensembles séparés de trois cartes remplissant les conditions pour un bonus. Dans ce cas, le joueur frappe, expose trois cartes et réclame un bonus, puis après avoir joué ces trois cartes frappe à nouveau à son tour suivant, expose trois autres cartes pour un deuxième bonus et les joue, et ainsi de suite.
 
-Some groups (for example the players at Rivarolo) do not required the bonus cards to be played first. In this case a player who has two sets of bonus cards in their hand knocks and exposes and scores both these bonuses at their first turn to play after the deal, and can then play their cards in any order.
+Certains groupes (par exemple les joueurs de Rivarolo) n'exigent pas que les cartes bonus soient jouées en premier. Dans ce cas, un joueur qui a deux ensembles de cartes bonus en main frappe, expose et marque les deux bonus à son premier tour de jeu après la donne, et peut ensuite jouer ses cartes dans l'ordre qu'il souhaite.
 
-The game is typically played up to a higher target score than Cirulla. The target to win a game of Cirullone is often 101, but sometimes 75. 
+Le jeu se joue généralement jusqu'à un score cible plus élevé que la Cirulla. L'objectif pour gagner une partie de Cirullone est souvent de 101, mais parfois de 75.
 
-## Notes on Language and Etymology
+## Notes sur la langue et l'étymologie
 
-*The following notes were supplied by Jean Maillard.*
+*Les notes suivantes ont été fournies par Jean Maillard.*
 
-Diamonds/hearts/clubs/spades in Ligurian (Genoese) are traditionally called respectively *dinæ* (meaning "money'), *coppe* (meaning "cups"), scioî (meaning "flowers") and *spoæ *or *spâ* (meaning "swords"). These names are still in use by many even though the local deck is French-suited. The traditional names of the court cards are *sbiro *(originally an armed guard, nowadays the term is used to denote policemen and *carabinieri*) for the Jack, *dònna* ("woman") for the Queen and *òmmo *("man") for the King.
+Carreaux/cœurs/trèfles/piques en ligure (génois) sont traditionnellement appelés respectivement *dinæ* (signifiant « argent »), *coppe* (signifiant « coupes »), *scioî* (signifiant « fleurs ») et *spoæ* ou *spâ* (signifiant « épées »). Ces noms sont encore utilisés par beaucoup, bien que le jeu local soit à couleurs françaises. Les noms traditionnels des figures sont *sbiro* (à l'origine un garde armé, de nos jours le terme désigne les policiers et les *carabinieri*) pour le Valet, *dònna* (« femme ») pour la Dame et *òmmo* (« homme ») pour le Roi.
 
-Prof. Fiorenzo Toso, author of the *Piccolo dizionario etimologico ligure* (published in 2015 by editrice Zona in Lavagna, Genoa) hypothesises that the name of the game comes from the Latin American Spanish word *chirola*, which denotes a coin of little value. There are several Genoese communities in Southern America, especially in Argentina, so it seems likely that the word could have been brought back by returning migrants. There is further support for this idea in María Delia Gatica de Montiveros's *Diccionario de regionalismos de la provincia de San Luis* (Fondo Editorial Sanluiseño, 1995, San Luis, Argentina), which defines *chirolear* as "Jugar por poco dinero", to play for little money.
-
-One further interesting fact is that the two bonuses for cards held in the hand are exactly the same as those in the ancient italian game of Bazzica. When people nowadays say *bazzica* in Italy they usually mean Bezique rather than the older game called Bazzica and which has almost died out. You can find a description of the original Bazzica on [this Sicilian website](https://web.archive.org/web/20161223080216/http://xoomer.virgilio.it/giocolab/Carte/Bazzica-ita.htm) (archive copy) as well as in [this dictionary from 1704](https://www.google.com/books/edition/Biblioteca_universale_sacro_profana_anti/4soTfbuZf4gC?hl=en&gbpv=1&dq=%22Bazzica%22+%22bazzicotto%22&pg=PT11&printsec=frontcover). It is also notably mentioned in one of [Carlo Goldoni](https://en.wikipedia.org/wiki/Carlo_Goldoni)'s comedies. In Bazzica, the name of the bonus you get for holding three cards which sum to less than 10 is *bazzica*, just like the name of the game. Tellingly, the Ligurian name for this bonus in Cirulla is *barsega*, which is perfectly consistent with how one would expect *bazzica* to change according to Ligurian phonotactics. 
-
-Home Page > Classified Index > Fishing Games > Cirulla
+Le Prof. Fiorenzo Toso, auteur du *Piccolo dizionario etimologico ligure* (publié en 2015 par editrice Zona à Lavagna, Gênes) émet l'hypothèse que le nom du jeu vient du mot espagnol d'Amérique latine *chirola*, qui désigne une pièce de peu de valeur. Il existe plusieurs communautés génoises en Amérique du Sud, notamment en Argentine, il semble donc probable que le mot ait été ramené par des migrants de retour.

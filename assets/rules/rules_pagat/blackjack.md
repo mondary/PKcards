@@ -3,295 +3,205 @@
 **Nombre de joueurs :** 2–8
 **Difficulté :** ⭐⭐
 **Type :** Banque, Banque
-**But :** Variants, strategy, card counting and recommended books.
+**But :** Variantes, stratégie, comptage de cartes et livres recommandés.
 **Autres noms :** Late Surrender
 
 ---
 
-Blackjack - Card Game Rules
-
-Home
-A-Z
-
-Select language ▼
-
-[dansk](https://www.pagat.com/banking/blackjack_da.html)
-[deutsch](https://www.pagat.com/de/banking/blackjack.html)
-[english](https://www.pagat.com/banking/blackjack.html)
-[español](https://www.pagat.com/es/banking/blackjack.html)
-[italiano](https://www.pagat.com/it/banking/blackjack.html)
-[suomi](https://www.pagat.com/fi/gambling/blackjack.html)
-[svenska](https://www.pagat.com/banking/blackjack_sv.html)
-
-Home Page > Classified Index > Banking Games > Blackjack 
-
-Blackjack
+Blackjack - Règles du jeu de cartes
 
 ## Introduction
 
-The North American game of Blackjack, also known as 21, has been one of the most popular casino games of the last hundred years and has spread throughout the world. In the 21st century it has been overtaken in popularity by Slots ([slot machine games](https://en.wikipedia.org/wiki/Slot_machine)), but it remains one of the most popular casino card games and is available in almost all casinos both on and offline. 
+Le jeu nord-américain du Blackjack, aussi connu sous le nom de 21, est l'un des jeux de casino les plus populaires des cent dernières années et s'est répandu dans le monde entier. Au XXIe siècle, il a été dépassé en popularité par les machines à sous ([jeux de machines à sous](https://en.wikipedia.org/wiki/Slot_machine)), mais il reste l'un des jeux de cartes de casino les plus populaires et est disponible dans presque tous les casinos, en ligne comme hors ligne.
 
-Blackjack is a casino banked game, meaning that players compete against the house rather than each other. The objective is to get a hand total of closer to 21 than the dealer without going over 21 (**busting**). 
+Le Blackjack est un jeu de casino bancaire, ce qui signifie que les joueurs jouent contre la maison plutôt que les uns contre les autres. L'objectif est d'obtenir un total de main plus proche de 21 que le croupier sans dépasser 21 (**sauter**).
 
-At the start of a Blackjack game, the players and the dealer receive two cards each. The players' cards are normally dealt face up, while the dealer has one face down (called the hole card) and one face up. The best possible Blackjack hand is an opening deal of an ace with any ten-point card.
+Au début d'une partie de Blackjack, les joueurs et le croupier reçoivent chacun deux cartes. Les cartes des joueurs sont normalement distribuées face visible, tandis que le croupier a une carte face cachée (appelée carte cachée) et une face visible. La meilleure main possible au Blackjack est une donne initiale d'un as avec n'importe quelle carte valant dix points.
 
-The house advantage of this game is derived from several rules that favour the dealer. The most significant of these is that the player must act before the dealer, allowing the player to bust and lose their bet before the dealer plays.
+L'avantage de la maison dans ce jeu provient de plusieurs règles qui favorisent le croupier. La plus importante est que le joueur doit agir avant le croupier, ce qui permet au joueur de sauter et de perdre sa mise avant que le croupier ne joue.
 
-Players should be aware that there is another card game called **Black Jack** in the UK which is an entirely different card game, effectively the same as Crazy Eights.
+Les joueurs doivent savoir qu'il existe un autre jeu de cartes appelé **Black Jack** au Royaume-Uni, qui est un jeu de cartes entièrement différent, en fait le même que le Crazy Eights.
 
-**Note.** Gambling can be dangerously addictive. You can find information and advice on our Responsible Gambling page.
+**Note.** Les jeux d'argent peuvent être dangereusement addictifs. Vous pouvez trouver des informations et des conseils sur notre page Jeu Responsable.
 
-We would like to thank the following partner sites for their support:
+## Équipement
 
-[Nettikasinot24.com](https://www.nettikasinot24.com) is a portal to all things iGaming, including casino games and crypto casinos. Aleksi Korhonen and his team of casino industry experts provide gambling advice and honest reviews of the best and most popular online casinos, especially curated for Finnish players.
+![Disposition de la table de Blackjack](../images/banking/bjtable.jpg)
+La table de Blackjack est généralement, mais pas toujours, de forme semi-circulaire avec une surface en feutre vert. Le croupier est assis du côté droit de la table avec le plateau à jetons devant lui, le sabot à distributeur à sa gauche et le plateau de défausse à sa droite. Autour du côté courbe de la table se trouvent les cercles de mise où les joueurs s'assoient.
 
-Players looking for a legal and regulated environment to enjoy live blackjack can explore options at licensed Swedish casinos. For an overview of trustworthy operators and their live blackjack offerings, see [Casinorino's live casino guide](https://casinorino.se/live-casino).
+![Jetons de mise de casino](../images/banking/chips.jpg)
+Les jetons de mise existent en coupures multiples qui varient d'un casino à l'autre et parfois d'une table à l'autre selon les limites de mise offertes. En règle générale, les jetons blancs valent 1 unité monétaire, les rouges 5 unités, les verts 25, les noirs 100 et les violets 500.
+![Carte de coupe insérée dans le jeu](../images/banking/bjcutcard.jpg)
+La carte de coupe
 
-Dedicated to providing accurate information about online gambling and the legal aspects involved since 2015, John Isaac's team at [online-gambling.com](https://www.online-gambling.com/us/blackjack/) have produced a plethora of online blackjack resources for players.
+Le Blackjack se joue avec un jeu international standard de cartes sans les Jokers, soit 52 cartes. À l'origine, le jeu se jouait avec un seul jeu. Cependant, comme mesure de contre-mesure au comptage de cartes, les casinos ont introduit des jeux à plusieurs jeux, basés sur l'hypothèse fausse que s'il y avait plus de cartes en jeu, il serait plus difficile pour le compteur de garder la trace de toutes. Le Blackjack est maintenant généralement proposé en version à un jeu, deux jeux, 4 jeux, 6 jeux ou 8 jeux. Il convient de noter qu'il existe des exceptions dans les casinos en ligne où des nombres beaucoup plus importants de jeux peuvent être utilisés.
 
-## Equipment
+Outre les cartes, le jeu nécessite une table, des jetons, un plateau de défausse, une carte de coupe et un sabot.
 
-![Blackjack table layout](../images/banking/bjtable.jpg)
-The Blackjack table is usually, though not always, semi-circular in shape with a green felt surface. The dealer is seated at the straight side of the table with the chip tray in front of the dealer, the dealing shoe to dealer's left and the discard tray to dealer's right. Around the curved side of the table are betting circles at which the players sit.
+Après que le croupier a mélangé, un joueur est choisi au hasard et invité à prendre la carte de coupe — une carte en plastique colorée de la même taille que les cartes à jouer — et à la placer à une position aléatoire dans la pile de cartes. Le croupier déplace alors les cartes au-dessus de la carte de coupe vers l'arrière de la pile. Cette technique vise à démontrer aux joueurs que le croupier n'a pas truqué le jeu. La carte de coupe est ensuite réinsérée dans la pile à une position prédéfinie et quand cette carte est atteinte, cela indique la dernière donne du jeu avant que les cartes ne soient mélangées.
 
-![Casino betting chips](../images/banking/chips.jpg)
-The betting chips come in multiple denominations that vary from casino to casino and sometimes from table to table depending on the betting limits offered by the table. As a standard rule, white chips are worth 1 currency unit, red chips are worth 5 units, green 25, black 100 and purple 500.
-![Cut card inserted into the deck](../images/banking/bjcutcard.jpg)
-The cut card 
+Quand plusieurs jeux sont utilisés, après le mélange les cartes sont placées dans un distributeur appelé sabot. Cet équipement a deux objectifs : contenir de grandes piles de cartes dans les jeux multi-jeux et rendre la pratique du *hole carding* (tricher en apercevant la carte cachée du croupier) plus difficile. En fait, le hole carding n'est pas illégal dans la grande majorité des juridictions.
 
-Blackjack is played with a standard international deck of cards with the Jokers removed, leaving 52 cards. Originally the game was played with a single deck. However, as a counter measure to card counting, casinos introduced multi-deck games, based on the false assumption that if there were more cards in play it would be harder for the card counter to keep track of them all. As a result, Blackjack is now usually offered in either single deck, double deck, 4 deck, 6 deck or 8 deck variants. It should be noted that there are exceptions in online casinos where far larger numbers of decks can be used than would be practical to manage offline.
+## Valeur des cartes
 
-Aside from the cards, the game requires a table, chips, a discard tray, cut card and a shoe.
+Au Blackjack, les cartes numérales de 2 à 10 ont leur valeur faciale, les Valets, Dames et Rois valent 10, et les As peuvent avoir une valeur de 1 ou 11. L'As vaut toujours 11 sauf si cela fait dépasser 21 à la main, auquel cas il vaut 1.
 
-After the dealer has shuffled a player will be selected at random and asked to take the cut card – a coloured plastic card matching the playing cards in size – and place it at a random position within stack of cards. The dealer will then move the cards above the cut card to the back of the stack. This technique is intended to demonstrate to the players that the dealer cannot have rigged the deck. The cut card is then reinserted into the stack of cards by the dealer at a pre-defined position and when this card is reached this indicates the final deal of the game before the cards are shuffled. 
+Toute main avec un As compté comme 11 est appelée une main « **douce** ». Toutes les autres mains sont des mains « **dures** ».
 
-Where multiple decks are used, after the shuffle the cards will be placed into a dispenser called a shoe. This piece of equipment has two purposes: to hold large stacks of cards in multi-deck games and make the practice of **hole carding** (cheating by catching a glimpse of the dealer’s hole card) more difficult. In fact hole carding is not illegal in the vast majority of jurisdictions. If the dealer is poorly trained or sloppy enough to fail to protect their down card from being seen ***by a player at the table*** this is not the player's fault and the player is not obliged to look away to prevent themselves seeing the down card. If however the player uses any form of device, for instance a metal lighter to observe the reflection in, or an accomplice off table signals the information to them, this is cheating. Hole carding is only legal where the player can see the card naturally from one of the player positions at the table.
+Une main initiale d'une carte valant 10 et d'un As est appelée **Blackjack** ou **naturelle** et bat toutes les autres mains à l'exception d'un autre **Blackjack**. Si le joueur et le croupier ont tous deux un Blackjack, le résultat est une **impasse** (égalité) : ni le joueur ni la banque ne gagne et la mise est retournée au joueur.
 
-## Card Values
+## Ordre de jeu et options de jeu
 
-When playing Blackjack the numeral cards 2 to 10 have their face values, Jacks, Queens and Kings are valued at 10, and Aces can have a value of either 1 or 11. The Ace is always valued at 11 unless that would result in the hand going over 21, in which case it is valued as 1.
+### **Exemple de partie**
 
-Any hand with an Ace valued as 11 is called a ‘**soft**’ hand. All other hands are ‘**hard**’ hands.
+![Donne au Blackjack](../images/banking/bjdeal.jpg)
+Cela montre la table après que les mises initiales ont été placées et les cartes distribuées.
+![Double mise](../images/banking/bjdouble.jpg)
+Ce joueur avait misé 200 unités (deux jetons noirs) et a reçu un total de 11 (6+5), il a alors doublé sa mise en pariant 200 supplémentaires. Il a ensuite reçu un Roi pour un total de 21, ce qui gagnera à moins que le croupier ne fasse aussi 21.
+![Séparation de six](../images/banking/bjsplit6s.jpg)
+Ce joueur a séparé une paire de Six et a reçu un Six et un As, puis a séparé la nouvelle paire de Six en recevant un Cinq et un Valet, créant trois mains. Le joueur a doublé sa mise sur la main 6+5 mais a malheureusement reçu seulement un 2 comme troisième carte pour cette main.
+![Le croupier saute](../images/banking/bjroundend.jpg) Ici la donne se termine avec le croupier qui saute, donc le croupier a payé toutes les mains non sautées des joueurs.
 
-A starting hand of a 10 valued card and an Ace is called a **Blackjack** or **natural** and beats all hands other than another **Blackjack**. If both the player and dealer have Blackjack, the result is a **push** (tie): neither the player nor the bank wins and the bet is returned to the player.
+Chaque joueur assis à la table place sa mise souhaitée dans le cercle de mise directement devant lui. Dans la plupart des casinos, s'il y a des cercles de mise non pris, les joueurs assis à la table peuvent choisir de jouer plus d'une main à la fois. La mise minimum et maximum varie d'un casino à l'autre, généralement avec un ratio de 40 à 100 entre elles. Par exemple, avec une mise minimum de 25 $, le maximum se situera généralement entre 1000 $ et 2500 $.
+Une fois les mises placées, le croupier passe sa main sur la table de sa gauche à sa droite, signalant qu'aucune mise supplémentaire ne peut être placée. Le croupier distribue ensuite les cartes une par une dans le sens horaire, de la gauche à la droite du croupier : d'abord une carte face visible à chaque cercle de mise contenant une mise, puis une carte face visible au croupier, puis une deuxième carte face visible à chaque cercle de mise et enfin une deuxième carte face cachée au croupier.
 
-## Order of Play and Playing Options
+Dans de nombreux endroits, la première carte du croupier est initialement distribuée face cachée. La deuxième carte du croupier est utilisée pour retourner la première face visible, puis glissée en dessous.
 
-### **Example game**
+Si le croupier a un 10 ou un As face visible, les joueurs se voient offrir l'option de placer une mise **d'Assurance**. L'Assurance est un pari auxiliaire sur le fait que le croupier a un Blackjack ou non, sans rapport avec l'issue finale de la manche. Si un joueur choisit de prendre l'assurance, il place une mise supplémentaire égale à la moitié de sa mise initiale. Cette mise d'assurance gagne si le croupier a un Blackjack.
 
-![Blackjack deal](../images/banking/bjdeal.jpg)
-This shows the table after the initial bets have been placed and the cards have been dealt.
-![double down](../images/banking/bjdouble.jpg)
-This player originally bet 200 units (two black chips) was dealt a total of 11 (6+5) and doubled down, betting another 200. They were then dealt a King for a total of 21, which will win unless the dealer also makes 21.
-![split sixes](../images/banking/bjsplit6s.jpg)
-This player has split a pair of Sixes and received an Six and an Ace, and then split the new pair of Sixes receiving a Five and a Jack and creating three hands. The player has doubled down on the 6+5 hand but unfortunately received only a 2 as the third card for this hand.
-![dealer is bust](../images/banking/bjroundend.jpg) Here the deal ends with the dealer bust, so the dealer has paid out on all the unbust hands belonging to the players.
+Le croupier vérifie alors sa carte cachée pour voir s'il a un Blackjack. S'il a un Blackjack, il expose sa carte cachée. La manche est terminée et tous les joueurs perdent leur mise initiale à moins qu'ils n'aient aussi un Blackjack. Si un joueur et le croupier ont tous deux un Blackjack, le résultat est une impasse et la mise du joueur est retournée. Les mises d'assurance sont payées à 2:1.
 
-Each player sitting at the table places their desired bet in the betting circle directly in front of them. In most casinos if there are untaken betting circles, the players sitting at the table can choose to play more than one hand at a time. The minimum and maximum bet size varies from casino to casino, generally with a ratio of 40 to 100 between them. For example with a $25 minimum bet the maximum will usually be somewhere from $1000 to $2500.
-Once the bets are placed the dealer will move their hand across the table from their left to their right signalling that no further bets can be placed. The dealer then deals cards one at a time clockwise around the table, from the dealer's left to the dealer's right: first a card face up to each betting circle that has a bet in it, then a card face up to the dealer, and then a second card face up to each betting circle with a bet and finally a second card face down to the dealer. 
+Si le croupier n'a pas de Blackjack, toutes les mises d'assurance sont perdues et tous les joueurs ayant un Blackjack sont payés. C'est ensuite le tour des joueurs restants de prendre leurs décisions. En commençant par le joueur le plus éloigné à la gauche du croupier, ils ont les options suivantes :
 
-In many places the dealer's first card is initially dealt face down. The dealer's second card is used to flip the first card face up and then slid underneath the first card. The exact dealing protocol varies from place to place as determined by the casino management.
+**Rester** – Si le joueur est satisfait du total qui lui a été distribué, il peut rester, ne prenant aucune autre action et passant au joueur suivant. Le joueur peut prendre cette action après toute autre action tant que son total n'est pas supérieur à 21. Le signal manuel pour Rester est de passer une main plate au-dessus des cartes.
 
-If the dealer has a 10 or an Ace face up players are offered the option to place an **Insurance** bet. Insurance is a side bet on whether or not the dealer has a Blackjack, unrelated to the final outcome of the round. If a player chooses to take insurance they place an additional bet equal to half of their original bet. This insurance bet wins if the dealer has Blackjack. 
+**Tirer** – Si le joueur souhaite prendre une autre carte, il signale au croupier en grattant le feutre à côté de sa main ou en pointant sa main. Une seule carte est alors jouée face visible sur sa main. Si le total est inférieur à 21, le joueur peut choisir de tirer à nouveau ou de rester. Si le total est 21, la main reste automatiquement. Si le total dépasse 21, la main est sautée, la mise du joueur est prise par la maison et le tour passe au joueur suivant.
 
-The dealer now checks their down card to see if they have Blackjack. If they have Blackjack they expose their down card. The round is concluded and all players lose their original bet unless they also have Blackjack. If a player and the dealer each have Blackjack the result is a push and the player's bet is returned. Any insurance bets are paid out at 2:1.
+**Doubler** – Si le joueur considère qu'il a une main favorable, généralement un total de 9, 10 ou 11, il peut choisir de « Doubler ». Pour ce faire, il place une seconde mise égale à sa première à côté de sa première mise. Un joueur qui double reçoit exactement une carte supplémentaire face visible et est ensuite obligé de rester quel que soit le total. Cette option n'est disponible que sur la main initiale de deux cartes du joueur. Certains casinos restreignent les totaux de main initiale qui peuvent être doublés.
 
-If the dealer does not have Blackjack any insurance bets are lost and any players who have Blackjack are paid. It is then the turn of the remaining players to take their actions. Starting with the player sitting furthest to dealer's left they have the following options:
+**Séparer** – Si les deux premières cartes du joueur sont de même rang, il peut choisir de placer une mise supplémentaire égale à sa mise initiale et séparer les cartes en deux mains. Les cartes sont séparées et une carte supplémentaire est distribuée pour compléter chaque main. Si l'une des mains reçoit une deuxième carte de même rang, le joueur peut se voir offrir l'option de séparer à nouveau, bien que cela dépende des règles du casino. Généralement, le joueur est autorisé à un maximum de 4 mains. Les mains séparées sont jouées une à la fois dans l'ordre où elles ont été distribuées.
 
-**Stand** – If the player is happy with the total they’ve been dealt they can stand, taking no further action and passing to the next player. The player can take this action after any of the other player actions as long as their hand total is not more than 21. The hand signal to Stand is waving a flat hand over the cards.
+Un joueur qui sépare des As est généralement autorisé à recevoir une seule carte supplémentaire sur chaque main. Normalement, les joueurs sont autorisés à séparer deux cartes de valeur 10 non identiques, par exemple un Roi et un Valet. Cependant, certains casinos restreignent la séparation des cartes de valeur 10 aux paires de même rang (deux Valets par exemple). Il convient de noter que séparer des 10 est presque toujours un mauvais jeu pour le joueur. Si des As sont séparés et que le joueur tire un Dix, ou si des Dix sont séparés et que le joueur tire un As, la main résultante ne compte **pas** comme un Blackjack mais seulement comme un 21 ordinaire. Dans ce cas, le 21 à deux cartes du joueur fera impasse (égalité) avec le 21 du croupier en trois cartes ou plus.
 
-**Hit** – If the player wishes to take another card they signal to the dealer to by scratching the felt beside their hand or pointing to their hand. A single card is then played face up onto their hand. If the hand total is less than 21 the player can choose to Hit again or Stand. If the total is 21 the hand automatically stands. If the total is over 21 the hand is bust, the player’s bet is taken by the house and the turn to act passes to the next player. 
+**Abandon** – Certains casinos permettent à un joueur d'abandonner, récupérant la moitié de sa mise et renonçant à sa main. L'abandon doit être la première et unique action du joueur sur la main. Dans la version la plus courante, appelée Abandon Tardif, c'est après que le croupier a vérifié la carte cachée et n'a **pas** de Blackjack.
 
-**Double Down** – If the player considers they have a favourable hand, generally a total of 9, 10 or 11, they can choose to 'Double Down'. To do this they place a second wager equal to their first beside their first wager. A player who doubles down receives exactly one more card face up and is then forced to stand regardless of the total. This option is only available on the player's two-card starting hand. Some casinos will restrict which starting hand totals can be doubled.
+Après que tous les joueurs ont terminé leurs actions, le croupier joue sa main selon des règles fixes. Il révèle d'abord sa carte cachée.
 
-**Split **– If the player’s first two cards are of matching rank they can choose to place an additional bet equal to their original bet and split the cards into two hands. Where the player chooses to do this the cards are separated and an additional card is dealt to complete each hand. If either hand receives a second card of matching rank the player may be offered the option to split again, though this depends on the rules in the casino. Generally the player is allowed a maximum of 4 hands after which no further splits are allowed. The split hands are played one at a time in the order in which they were dealt, from the dealer's left to the dealer's right. The player has all the usual options: stand, hit or double down. Some casinos restrict the card ranks that can be split and may also restrict the option to Double after splitting a pair. 
+Le croupier continue à prendre des cartes jusqu'à atteindre un total de 17 ou plus. Les règles concernant le 17 doux (un total de 17 avec un As compté comme 11 tel que A+6) varient d'un casino à l'autre. Certains exigent que le croupier reste, d'autres exigent de prendre des cartes supplémentaires jusqu'à atteindre un total de 17 dur ou 18+. Cette règle est clairement imprimée sur le feutre de la table.
 
-A player who splits Aces is usually only allowed to receive a single additional card on each hand. Normally players are allowed to split two non-matching 10-value cards, for example a King and a Jack. However, some casinos restrict the splitting of ten value cards to pairs of the same rank (two Jacks for instance). It should be noted in any case that splitting 10's is almost always a poor play for the player. If Aces are split and the player draws a Ten or if Tens are split and the player draws an Ace, the resulting hand does **not** count as a Blackjack but only as an ordinary 21. In this case the player's two-card 21 will push (tie with) dealer's 21 in three or more cards.
+Si le croupier saute, toutes les mains de joueurs non sautées sont automatiquement gagnantes.
 
-**Surrender** – Some casinos allow a player to surrender, taking back half their bet and giving up their hand. Surrender must be the player's first and only action on the hand. In the most usual version, known as Late Surrender, it is after the dealer has checked the hole card and does **not** have a Blackjack. It has become increasingly rare for casinos to offer the surrender option.
+## Paiements
 
-After all players have completed their actions the dealer plays their hand according to fixed rules. First they will reveal their down card. 
-The dealer will then continue to take cards until they have a total of 17 or higher. The rules regarding Soft 17 (a total of 17 with an Ace counted as 11 such as A+6) vary from casino to casino. Some require the dealer to stand while others require additional cards to be taken until a total of hard 17 or 18+ is reached. This rule will be clearly printed on the felt of the table.
+Si le joueur et le croupier ont des totaux non sautés égaux, la main est considérée comme une impasse et la mise du joueur est retournée.
 
-If the dealer busts all non-busted player hands are automatically winners.
+Si un joueur gagne une main, il est payé à 1:1 sur le total misé sur cette main.
 
-## Payouts
+Si le joueur a un Blackjack, il est payé à 3:2, donc pour une mise de 10 $ le joueur recevrait un total de 25 $, ses 10 $ de mise récupérés plus 15 $ de gains.
 
-If the player and dealer have equal unbusted totals the hand is considered a push and the player’s bet is returned.
+Si le joueur a placé la mise d'Assurance et que le croupier a un Blackjack, la main du joueur perd mais la mise d'Assurance est payée à 2:1.
 
-If a player wins a hand they are paid out at 1:1 on the total bet wagered on that hand. For example if the player wagered $10 and then doubled down placing a further bet of $10 on the hand and won, they would be paid a total of $40, their $20 bet back and $20 winnings. 
+## Variantes
 
-If the player has Blackjack they are paid at 3:2, so that a wager of $10 the player would be paid a total of $25, their $10 bet back plus $15 winnings. 
+### Donne
 
-If the player has placed the Insurance bet and the dealer has Blackjack, the player’s hand loses but the Insurance bet is paid out at 2:1. So if the player had bet $10 on the hand and $5 on the Insurance bet, they would lose the $10 and be paid a total of $15 – their $5 Insurance bet returned and $10 winnings. This effectively results in a push overall for the hand.
+Dans certains casinos, les mains initiales à deux cartes des joueurs sont distribuées face cachée. Toutes les cartes supplémentaires distribuées au joueur sont données face visible.
 
-## Variants
+Dans les jeux de **style européen**, seule la carte face visible du croupier est distribuée au début de la manche. La deuxième carte du croupier est distribuée **après** que tous les joueurs ont agi, et le croupier vérifie le Blackjack à ce moment.
 
-### Deal
+### Paiement Blackjack
 
-In some casinos the players' initial two-card hands are dealt face down. All additional cards dealt to the player are given face up. The initial cards are revealed by the player if the hand goes bust, or if the player wishes to split a pair. Otherwise the dealer reveals the cards at the end of the round when it is time to settle the bets. This style of game is rare nowadays: casinos don't like to allow players to touch the cards, because of the risk of card marking.
+Il convient de noter que certains casinos ont commencé à offrir un paiement réduit sur le Blackjack, le plus couramment 6:5. C'est très défavorable pour le joueur, augmentant considérablement l'avantage de la maison.
 
-In **European style** games only the dealer’s face up card is dealt at the start of the round. Dealer's second card is dealt **after** all players have acted, and the dealer checks for Blackjack at this point. Player Blackjacks are paid at the end of the round if the dealer does not have Blackjack. If the dealer has Blackjack the rules regarding Doubled and Split hands vary from casino to casino. Some casinos will take both bets while others will only take the initial bet and return the other.
+### Séparations
 
-### Blackjack payout
+Le nombre maximum de mains pouvant être créées par séparation dépend des règles du casino : certains n'autorisent qu'une seule séparation.
 
-It should be noted that some casinos have started to offer a reduced payout on Blackjack, most commonly 6:5. This is very bad for the player, increasing the House Edge significantly. Any game offering a reduced payout on Blackjack should be avoided by players.
+### Abandon
 
-### Splits
+Tous les casinos n'offrent pas l'option d'Abandon.
 
-The maximum number of hands that can be created by splitting depends on the rules in the casino: some only allow one split. 
+Certains casinos peuvent offrir l'Abandon Anticipé dans lequel le joueur peut récupérer la moitié de sa mise et renoncer à sa main avant que le croupier ne vérifie le Blackjack. C'est très rare de nos jours.
 
-When splitting 10 value cards, not all casinos will allow players to split non-matching 10 cards. For instance, in some casinos you could split two Jacks but could not split a King and a Jack. 
-Some casinos will limit which card ranks can be split, for example no splitting of 10s or splits only allowed on 8s and Aces.
+### Charlie à cinq cartes
 
-House rules will dictate whether the player is allowed to Double after splitting, and whether a player who splits Aces is allowed to receive more than one additional card on a hand. 
+Cette règle secondaire est rarement offerte. Quand elle est en vigueur, un joueur qui réunit une main de cinq cartes (deux cartes plus trois tirées) sans sauter est immédiatement payé à égalité, quel que soit la main du croupier.
 
-### Surrender
+### Blackjack à domicile
 
-Not all casinos offer the Surrender option. 
+Le Blackjack peut être joué à la maison. Dans ce cas, une table de Blackjack élégante n'est pas nécessaire : juste au moins un jeu de cartes et quelque chose pour miser — argent, jetons ou peut-être des allumettes.
 
-A few casinos may offer Early Surrender in which the player can take back half of their bet and give up their hand before the dealer checks for Blackjack. This is very rare nowadays
+### Blackjack suédois des pubs
 
-In European style games there is normally no Surrender option. If Surrender were offered it would of course have to be Early Surrender.
+Les nightclubs et pubs en Suède proposent souvent une variante de Blackjack moins favorable aux joueurs. Toutes les règles essentielles sont les mêmes que dans la version casino, sauf si le joueur et le croupier ont un total égal de 17, 18 ou 19. Dans la version casino, la mise du joueur est retournée dans ces situations, mais dans les pubs suédois, la maison gagne.
 
-### Five Card Charlie
+## Stratégie optimale
 
-The side rule is rarely offered. When it is in effect, a player who collects a hand of five cards (two cards plus three hits) without going bust is immediately paid even money, irrespective of the dealer's hand. 
+### **Table de stratégie de base pour l'une des combinaisons de règles les plus courantes (6 jeux, séparation jusqu'à 4 mains, le croupier reste sur 17 doux, Abandon Tardif, Double après séparation).**
 
-### Home game blackjack
+![stratégie de base](../images/banking/bjbasic.jpg)
+Le tableau montre chaque main initiale possible du joueur sur le côté gauche et toutes les cartes visibles possibles du croupier en haut. Le croisement des deux vous indique le bon jeu à faire.
 
-Blackjack can be played at home, rather than in a casino. In this case a fancy Blackjack table is not needed: just at least one pack of cards and something to bet with - cash, chips or maybe matches. Unless the players have agreed in advance that the host should deal throughout, to ensure a fair game the participants should take turns to be the dealer. The turn to deal can pass to the next player in clockwise order after every hand or every five hands or whatever the players agree. If playing with a single deck of cards, it is desirable to re-shuffle the cards after every hand. 
+Avant tout, en règle générale, le joueur ne doit **jamais** prendre l'Assurance.
 
-### Swedish Pub Blackjack
+Il faut comprendre que chaque combinaison possible de mains de joueur et de cartes visibles du croupier a un jeu mathématiquement correct. Ceux-ci peuvent être résumés dans ce qu'on appelle une table de Stratégie de Base.
 
-Nightclubs and pubs in Sweden often offer a Blackjack variant that is less favourable to the players. All the essential rules are the same as in the casino version unless the player and dealer have an equal total of 17, 18 or 19. In the casino version the player's stake is returned in these situations, but in Swedish pubs the house wins. 
+Il convient de noter que même en jouant une Stratégie de Base parfaite pour les règles en vigueur, le joueur sera généralement désavantagé.
 
-Although pub stakes may vary, they are often much lower than in casinos with a minimum stake of 20 or 40 Krona and a maximum of 60 Krona (about US$7) for each hand.
+## Comptage de cartes
 
-## Optimal Strategy
+Le comptage de cartes offre au joueur une opportunité mathématiquement prouvable de gagner un avantage sur la maison. Il faut comprendre que cela ne garantit pas que le joueur gagnera.
 
-### **Basic Strategy table for one of the more commonly available rule combinations (6 decks, Resplit to 4 hands, Dealer Stands on Soft 17, Late Surrender, Double After Split).**
+La prémisse de base du comptage de cartes est qu'en moyenne, les cartes basses sont bénéfiques au croupier tandis que les cartes hautes favorisent le joueur. Il y a de nombreuses raisons subtiles à cela, mais les plus significatives sont :
 
-![basic strategy](../images/banking/bjbasic.jpg)
-The table shows every possible starting player hand running down the left-hand side of the table and all possible dealer upcards running along the top of the table. Cross referencing the two will tell you the correct play to make.
+- Un joueur qui reçoit un Blackjack (une carte valant dix points et un As — deux cartes hautes) est payé une fois et demie sa mise. Le croupier cependant ne reçoit la mise du joueur que lorsqu'il a un Blackjack.
 
-First and foremost, as a general rule the player should **never** take Insurance. Unless using an advanced and mathematically proven strategy that will alert the player to the rare situations in which Insurance is worthwhile, it should be avoided as a bad bet for the player. 
+- Tandis que le joueur peut arrêter de tirer à tout moment, les règles obligent le croupier à continuer à tirer jusqu'à atteindre un total de 17. Les petites cartes sont moins susceptibles de faire sauter le croupier et favorisent donc le croupier, tandis que les grosses cartes font sauter le croupier plus souvent et favorisent le joueur.
 
-Next, it should be understood that every possible combination of player hands and dealer up card has a mathematically correct play. These can be summarized in what is known as a Basic Strategy table. However, certain plays in the table need to be modified according to the specific combination of rules in force. To be sure of playing correctly, it is necessary to generate a Basic Strategy table for the specific rules of the game being played. Various tools are available online to do this.
+- La majorité des situations où il est correct pour le joueur de doubler sont des mains initiales qui seraient rendues très fortes par l'addition d'une carte valant dix ou d'un As. Par conséquent, le double devient plus favorable quand il y a plus de cartes valant dix et d'As restant dans le jeu.
 
-It should be noted that even playing perfect Basic Strategy for the rule set in play, the player will still usually be at a disadvantage. 
+Le compteur de cartes recherche les moments où il y a plus de cartes hautes à jouer qu'un jeu normal n'en aurait. Plutôt que d'essayer de mémoriser chaque carte jouée, le compteur utilisera généralement un système de ratio qui compense les cartes bonnes pour le joueur contre celles bonnes pour le croupier.
 
-## Card Counting
+Le système de comptage de cartes le plus couramment utilisé est le **comptage HiLo**, qui valorise les cartes comme suit :
 
-Card Counting provides the player a mathematically provable opportunity to gain an advantage over the house. It must be understood that this does not guarantee that the player will win. Just as a regular player may win though good luck despite playing at a disadvantage, it is perfectly possible for the Card Counter to lose through an extended period of bad luck even though playing with a small advantage over the House.
+| Cartes hautes : 10, V, D, R, A : | -1 |
+| Cartes moyennes : 7, 8, 9 : | 0 |
+| Cartes basses : 2, 3, 4, 5, 6 : | +1 |
 
-The basic premise of Card Counting is that mathematically speaking, low cards on average are beneficial to the dealer while high cards favour the player. There are many subtle reasons for this but the most significant are:
+Pour suivre le compte, le joueur part de zéro, ajoute un au total chaque fois qu'une carte basse est jouée et soustrait un du total quand une carte haute est jouée. C'est ce qu'on appelle le « Compte Courant ». Le compte HiLo est donc qualifié de « Système de Comptage Équilibré ».
 
-- A player who receives a Blackjack (a ten value card and an Ace – two high cards) is paid one and a half times their bet. The dealer however only receives the player’s bet when dealt a Blackjack.
+Les systèmes de comptage de cartes ne sont généralement pas gênés par l'ajout de plusieurs jeux au jeu. Le compte commence à zéro et se terminerait à zéro s'il ne restait plus de cartes.
 
-- While the player can stop taking additional cards at any time, rules require the dealer to continue drawing cards until they reach a total of 17. The player can choose whether or not to take an additional card on a total of 16 whereas the dealer has to take one. In this situation small cards are less likely to cause the dealer to bust are thus favour the dealer, while big cards cause the dealer to bust more often and favour the player.
+Là où plusieurs jeux font une différence, c'est dans l'impact qu'un Compte Courant positif a sur l'avantage du joueur. Pour estimer la force de l'avantage du joueur, le Compte Courant doit donc être divisé par le nombre de jeux restant à jouer. Ce chiffre est appelé le Vrai Compte.
 
-- The majority of situations where it is correct of the player to double are starting hands that would be made very strong by the addition of a ten value card or an Ace. Therefore, doubling becomes more favourable when there are more ten value cards and Aces left in the deck. 
+Avec le Vrai Compte, le joueur a une mesure constante du nombre de cartes favorables au joueur restant dans les cartes à distribuer. Le joueur peut utiliser cette information pour faire varier sa mise et sa stratégie de jeu.
 
-So the Card Counter looks for times when there are more high cards left to be played than a regular deck would have. Rather than trying to remember each card that has been played, the Card Counter will usually use a ratio system that offsets cards that are good for the player against cards that are good for the dealer. 
+Tandis que le comptage de cartes est légal dans la plupart des juridictions, pour des raisons évidentes les casinos n'aiment pas les joueurs qui peuvent les battre régulièrement. Ils emploient donc des contre-mesures et tout joueur identifié comme compteur de cartes sera invité à quitter le casino. Les deux méthodes les plus courantes pour éviter d'être détecté sont :
 
-The most commonly used Card Counting system is the **HiLo count**, which values cards as follows:
+- **Wonging / Comptage en retrait.** Nommé d'après l'auteur de Blackjack Stanford Wong, c'est la pratique de regarder les cartes être jouées et de ne s'asseoir pour jouer que lorsqu'il y a un compte favorable.
 
-| High cards: 10, J, Q, K, A: | -1 |
-| Medium cards: 7, 8, 9: | 0 |
-| Low cards: 2, 3, 4, 5, 6: | +1 |
+- **Jeu en équipe.** Cela implique plusieurs compteurs de cartes travaillant ensemble. Le plus souvent, il y a plusieurs « observateurs » assis à différentes tables, gardant le compte et comptant les cartes ou misant le minimum. Quand une table atteint un compte positif, l'observateur signale au « gros joueur » qui vient et mise gros.
 
-To keep track the player starts at zero, adds one to the total every time a low card is played and subtracts one from the total when a high card is played. This is called the ‘Running Count’. It may seem counter-intuitive to subtract one for high value cards that are good for the player, but a high card that has been played is one less high card that is left to be played. Where the Running Count is positive the player knows that there are more player favourable cards remaining to be played.
+Le comptage de cartes réussi n'est généralement rentable que dans les casinos terrestres, pas dans les jeux en ligne.
 
-When kept correctly the Running Count will start at 0 and, if all the cards were to be played out, would end at 0. This is because there are an equal number of high cards and low cards. The HiLo count is therefore referred to as a ‘Balanced Counting System’.
+## Sites pour les règles du Blackjack, information et analyse
 
-Card Counting systems are generally not impeded by the addition of multiple decks to the game. At any rate multiple decks do not make it significantly more difficult for the Card Counter to keep track of the Running Count, since the Card Counter only needs to keep track of a single number, the Running Count. However many decks are used, the count begins at zero and would end at zero if there were no cards left, so no changes need to be made to the counting process.
+Voici d'autres sites utiles avec des règles et des informations sur le Blackjack (21).
 
-Where multiple decks do make a difference is in how much impact a positive Running Count has to the player advantage. If the Running Count is +10 and there are two decks remaining to play, this means there are an extra 5 player favourable cards in each deck. If there are 5 decks remaining to be played there are only 2 extra player favourable cards in each deck. The higher the concentration of extra player favourable cards the stronger the player’s advantage. To estimate the strength of the player advantage the Running count therefore needs to be divided by the number of decks remaining to be played. This figure is called the True Count. 
+ThePogg.com fournissait un [Guide de stratégie Blackjack](https://web.archive.org/web/20230213054726/https://thepogg.com/guides/blackjack/) (copie d'archive).
 
-With the True Count the player has a consistent measure of how many extra player favourable cards are contained within the cards remaining to be dealt. The player can use this information to vary their bet and playing strategy. Deviations from Basic Strategy are far less important than placing big bets when the True Count is high and low bets (or preferably nothing) when the True count is low or negative.
+[Blackjack in Color](https://www.blackjackincolor.com/) est un livre gratuit inhabituel sur le Blackjack en ligne, fournissant une analyse du Blackjack et du comptage de cartes illustrée par 139 graphiques.
 
-It is important to note that sizing your bet correctly is critical to your long term success as a card counter. This requires substantial additional knowledge that is beyond the scope of this article. Instead we refer interested readers to the books listed below for an insight into this complex aspect of card counting.
+Wizard of Odds a une grande section [Blackjack](https://wizardofodds.com/games/blackjack/) avec des informations sur le jeu, ses variantes et sa stratégie. Ils fournissent un [entraîneur](https://wizardofodds.com/play/blackjack-v2/) avec lequel vous pouvez pratiquer le comptage de cartes.
 
-While Card Counting is legal in most jurisdictions, for obvious reasons casinos do not like players that can consistently beat them. They therefore employ counter measures and any players they identify as Card Counters will be asked to leave the casino. The most common method used to identify Card Counters is to watch for a large bet spread (difference between the minimum and maximum bet a player uses) and to see whether large bets correlate with player favourable counts. Card Counters have developed several methods to help them avoid detection. The two most common are:
+La [page Wikipédia du Blackjack](https://en.wikipedia.org/wiki/Blackjack) se passe d'explications. Une source d'information bien détaillée et référencée sur le Blackjack.
 
-- **Wonging / Back Counting.** Named after Blackjack author Stanford Wong, this is the practice of watching the cards being played and only sitting down to play when there is a player favourable count. This practice reduces the bet spread the player uses as they only place bets in player favourable situations but casinos are now well aware of this strategy and watch out for players hanging around a table and not playing. The method is still useful, but not without its problems.
+## Jeux en ligne gratuits
 
-- **Team Play**. This involves several trained Card Counters working together. Most commonly there would be several 'Spotters' sitting at different tables keeping track of the count and either back counting or playing minimum bets. When a table reaches a positive count the Spotter would signal to the 'Big Player' who would come over and bet big during the player favourable count. This allows both players to make very little variation in their bets. Casinos are aware of this strategy and watch for groups of players working together.
+Sur Cardgame.com, vous pouvez jouer au [Blackjack](https://www.cardgame.com/game/Casino+Blackjack) ou à une [variante néerlandaise du 21](https://www.cardgame.com/game/Twenty+One) en ligne contre le serveur.
 
-There are several variations on team play designed to be employed in different situations and to different effects. These are covered more fully in the reading resources detailed below.
+---
 
-Successful Card Counting is generally only profitable in land based casinos, not in online games. The strategy relies on the game having a "memory" in that cards are dealt from the cards remaining after previous rounds have been played. Online Blackjack games are dealt by computer and normally use a random number generator to shuffle the whole deck after every round of play. Games of this sort are not countable.
+Cette page a été préparée pour pagat.com par Duncan Garvie de ThePOGG.com et est maintenue par John McLeod, john@pagat.com
 
-There are some Live Blackjack games online, which are played over a video feed with a human dealer. These could technically be counted but there are several significant disadvantages that make this difficult or not worth the player's time:
-
-- Games of this type are very slow to play. A slow game means less money made.
-
-- The games generally offer poor "penetration". This means that the decks are shuffled early, not allowing enough cards to be dealt out for many player favourable situations to develop. (The most favourable situations for the player tend to occur further into the shoe.)
-
-- The casino's software records every player bet and all the cards dealt. This makes it relatively easy for a casino to employ software to track the count and watch for players raising their bet or only playing when the count is favourable.
-
-For the above reasons Card Counting has not become commonplace online. 
-
-## Recommended Books
-
-There is a great deal more to card counting successfully than we can reasonable cover here. Many books have been written on this subject and we will recommend some of the better ones below:
-
-[Donald Schlesinger: Blackjack Attack](https://amzn.to/2finiQ6) – One of the foremost mathematicians in the Blackjack field, Schlesinger successfully compares the strength of various counting systems in different conditions.
-
-[Arnold Snyder: Blackbelt in Blackjack](https://amzn.to/2f5KELW) – One of the most easily accessible authors on the subject of Blackjack, Snyder still provides everything you need to know to start on your journey.
-
-[Rick Blaine: Blackjack Blueprint](https://amzn.to/2x12Ook) – A good book covering everything from Basic Strategy, through several counting systems and on to advanced techniques and team play.
-
-[Bryce Carlson: Blackjack for Blood](https://amzn.to/2xyhH2W) – Discussion of various card counting systems and strategies to avoid being detected. Includes discussion of some strategies that unlike card counting, may not be legal. As such we would strongly advise user caution and research before engaging some of the strategies discussed.
-
-[Ian Andersen: Burning the Tables in Las Vegas](https://amzn.to/2w8Njvy) – One of the best discussions of how to play successfully long term without being detected. 
-
-[Olaf Vancura and Ken Fuchs: Knockout Blackjack](https://amzn.to/2x1KtY6) – Credited as being the first published unbalanced counting system (system that did not require a True Count conversion).
-
-[Ken Uston: Million Dollar Blackjack](https://amzn.to/2x1nFrK) – An old book now but written by a man famous for popularising the concepts of team play. This book covers several counting systems alongside some advanced techniques.
-
-[Kevin Blackwood: Play Blackjack Like the Pros](https://amzn.to/2xyyYJh) – This book covers Basic Strategy, a variety of counting systems, money management and team play.
-
-[Stanford Wong: Professional Blackjack](https://amzn.to/2x1m1Go) – One of the definitive books on the topic, the act of waiting for a favourable deck before sitting down to play is to this day referred to as ‘Wonging’.
-
-[Nathaniel Tilton: The Blackjack Life](https://amzn.to/2w7GaMp) – A autobiographical account of a small number of players implementing modernised team play strategies. Very useful insight into how team play can still be effective. 
-
-[Eliot Jacobson: The Blackjack Zone](https://amzn.to/2xyrba2) – A lot of space is devoted to how to become a better player and debunking myths surrounding gambling, but this book also has a good treatment of the basics of card counting.
-
-[Peter Griffin: The Theory of Blackjack](https://amzn.to/2x0CAka) – Peter Griffin was one of the most widely respected gambling mathematicians of all time. This book is maths heavy but very informative.
-
-There are other good books on this subject but the above are the ones we feel any player should ensure they are familiar with before considering trying to win money by Card Counting.
-
-## Sites for blackjack rules, information and analysis
-
-Here are some other useful websites with rules and information about Blackjack (21).
-
-ThePogg.com provided a [Blackjack Strategy Guide](https://web.archive.org/web/20230213054726/https://thepogg.com/guides/blackjack/) (archive copy). 
-
-[BlackjackInfo.com](https://www.blackjackinfo.com) was formerly run by Kenneth R Smith but has now been acquired by an affiliate advertisement network. The forums on this site still contain a wealth of information and discussion on the various aspects of card counting.
-
-[Blackjack in Color](https://www.blackjackincolor.com/) is an unusual free Web-based Blackjack book providing an analysis of Blackjack and Card Counting illustrated by 139 charts. The author Norm Wattenberger also publishes the [Blackjack Scams](http://www.blackjack-scams.com/) site, which points out some short-cuts that will more likely cost you money than make a profit. He also runs 'Blackjack The Forum' and publishes 'Casino Verite Blackjack Card Counting' training software.
-
-Wizard of Odds has a large [Blackjack](https://wizardofodds.com/games/blackjack/) section with information on the game, its variants and strategy. They provide a [trainer](https://wizardofodds.com/play/blackjack-v2/) with which you can practice card counting.
-
-James Yates has written a page [Blackjack Solved](https://www.chessandpoker.com/blackjack_solved.html), which explains Harvey Dubner's Blackjack card counting system.
-
-[The Wikipedia Blackjack page](https://en.wikipedia.org/wiki/Blackjack) needs little explanation. A well detailed and referenced information source on Blackjack. 
-
-## Free Online Games
-
-At Cardgame.com you can play [Blackjack](https://www.cardgame.com/game/Casino+Blackjack) or a [Dutch 21 variant](https://www.cardgame.com/game/Twenty+One) in which Kings count 4, Queens 3 and Jacks 2 online against the server.
-
-Home Page > Classified Index > Banking Games > Blackjack
-
-This page was prepared for pagat.com by Duncan Garvie of ThePOGG.com and is maintained by John McLeod, john@pagat.com
- 
-© John McLeod, 2017, 2021. Last updated: 1st August 2026
-
-Home • 
-A-Z • 
-Sitemap • 
-Policy
-
-Select language: [dansk](https://www.pagat.com/banking/blackjack_da.html) [deutsch](https://www.pagat.com/de/banking/blackjack.html) [english](https://www.pagat.com/banking/blackjack.html) [español](https://www.pagat.com/es/banking/blackjack.html) [italiano](https://www.pagat.com/it/banking/blackjack.html) [suomi](https://www.pagat.com/fi/gambling/blackjack.html) [svenska](https://www.pagat.com/banking/blackjack_sv.html)
+© John McLeod, 2017, 2021. Dernière mise à jour : 1er août 2026

@@ -3,243 +3,215 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** A Canadian card game in which the pile is captured by matching its top card, with special scores for  'mittens', 'gloves' and 'socks'.
+**But :** Un jeu de cartes canadien dans lequel la pile est capturée en faisant correspondre sa carte supérieure, avec des scores spéciaux pour les « mitaines », « gants » et « chaussettes ».
+**Autres noms :** Mitts
 
 ---
 
 ## Introduction
 
-Mitaines is a French Canadian game: the French word 'mitaines' means mittens. The game is also known in English as Mitts. Cards are played to a common discard pile, which can be captured by matching its top card or playing a jack. Points are scored for sets of two or more equal ranked cards played to the common discard pile: two equal cards are a mitaine (mitten), three cards are a gant (glove), and four cards are a chausson (sock).
+Les Mitaines est un jeu canadien français : le mot français « mitaines » signifie mitaines. Le jeu est aussi connu en anglais sous le nom de Mitts. Les cartes sont jouées sur une pile de défausse commune, qui peut être capturée en faisant correspondre sa carte supérieure ou en jouant un Valet. Des points sont marqués pour des ensembles de deux cartes ou plus de même rang jouées sur la pile de défausse commune : deux cartes égales sont une mitaine (mitten), trois cartes sont un gant (glove), et quatre cartes sont une chaussette (sock).
 
-This page is based mainly on information from Vincent Guerin, plus additional material from Vicky Lavoie.
+Cette page est basée principalement sur des informations de Vincent Guerin, avec du matériel supplémentaire de Vicky Lavoie.
 
-## Players, Cards and Combinations
+## Joueurs, cartes et combinaisons
 
-Mitaines is played with a standard 52 card deck. The game is for two or three players, each playing for themselves, or for four players in fixed partnerships, partners sitting opposite each other.
+Les Mitaines se jouent avec un jeu standard de 52 cartes. Le jeu est pour deux ou trois joueurs, chacun jouant pour soi, ou pour quatre joueurs en partenariats fixes, les partenaires étant assis en face l'un de l'autre.
 
-The cards rank from high to low J-A-K-Q-10-9-8-7-6-5-4-3-2. Suits are not relevant, except that the ![diamond](../images/internat/diamond.gif)10 is a scoring card.
+Les cartes sont classées de haut en bas V-A-R-D-10-9-8-7-6-5-4-3-2. Les couleurs ne sont pas pertinentes, sauf que le ![carreau](../images/internat/diamond.gif)10 est une carte de marquage.
 
-| Name | Description | Score |
-| Mitten | Pair of equal ranked cards (not Jacks) | 10 points |
-| Glove | Three equal ranked cards (not Jacks) | 100 points |
-| Sock | Four equal ranked cards (not Jacks) | 200 points |
-| Mitten of Jacks | Two Jacks | 50 points |
-| Glove of Jacks | Three Jacks | 150 points |
-| Sock of Jacks | Four Jacks | 300 points |
-| Ten of Diamonds | 50 points |
+| Nom | Description | Score |
+| Mitaine | Paire de cartes de même rang (pas des Valets) | 10 points |
+| Gant | Trois cartes de même rang (pas des Valets) | 100 points |
+| Chaussette | Quatre cartes de même rang (pas des Valets) | 200 points |
+| Mitaine de Valets | Deux Valets | 50 points |
+| Gant de Valets | Trois Valets | 150 points |
+| Chaussette de Valets | Quatre Valets | 300 points |
+| 10 de carreau | 50 points |
 
-Any sock is higher than any glove, and any glove is higher than any mitten. Among combinations of the same type, the higher ranking cards beat the lower ranking (Jacks rank highest, followed by Aces, Kings, etc.). For example a glove of Threes is higher than a mitten of Kings, which is higher than a mitten of Eights.
+Toute chaussette est supérieure à tout gant, et tout gant est supérieur à toute mitaine. Parmi les combinaisons du même type, les cartes les plus hautes battent les plus basses (les Valets sont les plus hauts, suivis des As, des Rois, etc.). Par exemple, un gant de Trois est supérieur à une mitaine de Rois, qui est supérieure à une mitaine de Huit.
 
-## The Deal
+## La donne
 
-If there are two or four players, the dealer deals clockwise six cards to each player and four cards face-up to start the discard pile. These four cards are placed on top of one another, but overlapped, so that all their values can be seen. The traditional method of dealing is: three cards to each other player, two to the table, then three to the dealer, then repeat.
+S'il y a deux ou quatre joueurs, le donneur distribue dans le sens des aiguilles d'une montre six cartes à chaque joueur et quatre cartes face visibles pour commencer la pile de défausse. Ces quatre cartes sont placées les unes sur les autres, mais chevauchées, pour que toutes leurs valeurs soient visibles. La méthode traditionnelle de distribution est : trois cartes à chaque autre joueur, deux sur la table, puis trois au donneur, puis on recommence.
 
-The remainder of the deck is temporarily put aside, face down, beside the dealer.
+Le reste du jeu est temporairement mis de côté, face caché, à côté du donneur.
 
-After everyone has played their six cards, the same dealer deals another hand of six cards to each player from the remaining cards, dealing three at a time as before, but no more cards are dealt to discard pile after the first deal. If there are four players this will exhaust the deck. With two players, the remainder of the deck is again put aside, and after both players have played their second six-card hands cards there is a third deal of six cards each, and after these have been played a fourth an final deal of six cards each, which exhausts the 52-card deck.
+Après que tout le monde a joué ses six cartes, le même donneur distribue une autre main de six cartes à chaque joueur à partir des cartes restantes, en distribuant trois à la fois comme avant, mais sans plus distribuer de cartes sur la pile de défausse après la première donne. S'il y a quatre joueurs, cela épuisera le jeu. Avec deux joueurs, le reste du jeu est de nouveau mis de côté, et après que les deux joueurs ont joué leurs secondes mains de six cartes, il y a une troisième donne de six cartes chacun, et après que celles-ci ont été jouées, une quatrième et dernière donne de six cartes chacun, qui épuise le jeu de 52 cartes.
 
-After the players have played their last six-card hands and no more cards remain to be dealt, the round is scored. The turn to deal passes to the left for the next round.
+Après que les joueurs ont joué leurs dernières mains de six cartes et qu'il ne reste plus de cartes à distribuer, la manche est comptée. Le tour de donne passe à la gauche pour la manche suivante.
 
-When there are three players, eight cards are dealt to each player and four face up to start the discard pile. I am not sure of the exact dealing sequence with three players - probably it should be four to each opponent, two to the table, four to the dealer, repeat. After the players have played their hands, another eight cards each are dealt, and when these have all been played the round is scored.
+Quand il y a trois joueurs, huit cartes sont distribuées à chaque joueur et quatre face visibles pour commencer la pile de défausse.
 
-## The Play
+## Le jeu
 
-Starting with the player to the left of the dealer and continuing clockwise, each player in turn must play one card out from hand face-up on top of the discard pile. (In a four-player game, each team's turn alternate). If there are cards remaining in the discard pile after everyone has played their six cards, they are kept on the table for the next deal.
+En commençant par le joueur à la gauche du donneur et continuant dans le sens des aiguilles d'une montre, chaque joueur à son tour doit jouer une carte de sa main face visible sur la pile de défausse. (Dans un jeu à quatre joueurs, les tours de chaque équipe alternent). S'il y a des cartes restant dans la pile de défausse après que tout le monde a joué ses six cartes, elles restent sur la table pour la donne suivante.
 
-During the play, mittens, gloves and socks can be called and scored, as described below. In the absence of any such calls, a player can clear the whole discard pile by playing either
+Pendant le jeu, les mitaines, gants et chaussettes peuvent être annoncés et marqués, comme décrit ci-dessous. En l'absence de toute annonce, un joueur peut vider toute la pile de défausse en jouant soit
 
-- a card equal in rank to the top card of the discard pile, or 
+- une carte de même rang que la carte supérieure de la pile de défausse, soit
 
-- any jack. 
+- n'importe quel Valet.
 
-The cleared cards are placed in a face down waste heap to one side, and the next player starts a new discard pile by playing a card to the empty table. If you capture a discard pile that contains the ![diamond](../images/internat/diamond.gif)10, you place this card face up in front of you to represent the 50 points you have scored, and the rest of the discard pile is placed face-down on the waste heap.
+Les cartes nettoyées sont placées dans un tas de rebut face caché sur un côté, et le joueur suivant commence une nouvelle pile de défausse en jouant une carte sur la table vide. Si vous capturez une pile de défausse qui contient le ![carreau](../images/internat/diamond.gif)10, vous placez cette carte face visible devant vous pour représenter les 50 points que vous avez marqués, et le reste de la pile de défausse est placé face caché sur le tas de rebut.
 
-If you play a jack when the discard pile is empty, it does not capture anything, but just remains on the table.
+Si vous jouez un Valet lorsque la pile de défausse est vide, cela ne capture rien, mais reste simplement sur la table.
 
-Example: A 4 is the top card of the discard pile. The player's whose turn is next has a 4 in his hand. He then plays the 4, clearing the discard pile. The ten of diamonds was not among the cards in the discard pile, so he scores nothing.
+Exemple : Un 4 est la carte supérieure de la pile de défausse. Le joueur dont c'est le tour a un 4 dans sa main. Il joue le 4, vidant la pile de défausse. Le 10 de carreau n'était pas parmi les cartes de la pile, donc il ne marque rien.
 
-Note: You can't clear the discard pile when a mitten, a glove or a sock is called.
+Note : Vous ne pouvez pas vider la pile de défausse quand une mitaine, un gant ou une chaussette a été annoncé.
 
-### Calling mittens, gloves and socks
+### Annoncer les mitaines, gants et chaussettes
 
-Suppose that a player holds two cards of equal rank (not jacks), and that no call has been made since the discard pile was last cleared. When he plays the first card of this pair to the discard pile he may announce the pair by calling "mitten". Play continues in rotation, and unless the mitten is stolen by another player, the player who called the mitten must complete it by playing the second card of the pair at his next turn. Completing the mitten captures the discard pile. It is cleared and placed face down on the waste heap, but the person who called the mitten keeps one card (usually the card he played to complete the mitten) and stores it face-up in front of him. At the end of the round, a face-up card in front of a player represents the 10 points scored for a mitten. Note that he can take any card from the waste pile to represent his mitten, as long as it is not the ten of diamonds or a jack.
+Supposons qu'un joueur détient deux cartes de même rang (pas des Valets), et qu'aucune annonce n'a été faite depuis que la pile de défausse a été vidée pour la dernière fois. Quand il joue la première carte de cette paire sur la pile de défausse, il peut annoncer la paire en appelant « mitaine ». Le jeu continue en rotation, et à moins que la mitaine ne soit volée par un autre joueur, le joueur qui a appelé la mitaine doit la compléter en jouant la deuxième carte de la paire à son prochain tour. Compléter la mitaine capture la pile de défausse. Elle est vidée et placée face cachée sur le tas de rebut, mais la personne qui a appelé la mitaine garde une carte (généralement la carte qu'il a jouée pour compléter la mitaine) et la range face visible devant lui. À la fin de la manche, une carte face visible devant un joueur représente les 10 points marqués pour une mitaine. Notez qu'il peut prendre n'importe quelle carte du tas de rebut pour représenter sa mitaine, tant que ce n'est pas le 10 de carreau ou un Valet.
 
-Example: in a two-player game, player 1 has a mitten of 7's in his hand. He plays one of his 7's and calls mitten. Player 2 can't steal his mitten, so he plays a 3 which is not part of a combination. Then, the player who called mitten (player 1) plays his other 7, clears the discard pile, and takes a single card from it, say the 7 he just played, and puts it face-up in front of him.
+Exemple : dans un jeu à deux joueurs, le joueur 1 a une mitaine de 7 dans sa main. Il joue l'un de ses 7 et appelle mitaine. Le joueur 2 ne peut pas voler sa mitaine, alors il joue un 3 qui ne fait pas partie d'une combinaison. Ensuite, le joueur qui a appelé mitaine (joueur 1) joue son autre 7, vide la pile de défausse, et prend une carte, disons le 7 qu'il vient de jouer, et la place face visible devant lui.
 
-Suppose that a player has three or four cards of the same rank in his hand, and no call has been made since the discard pile was last cleared. When he plays the first card of the set he may call "glove" for three of a kind or "sock" for four of a kind. Play continues in rotation, and if no one steals the glove or sock, the player who called must play the other cards of the combination at each of his turns until it is completed. Having completed the glove or sock, the player puts the discard pile aside on the waste heap but claims the score for the glove or sock by taking a card or cards from the waste heap and storing them face-down in front of him in his scoring pile. Each face-down card in the scoring pile represents 100 points, so the player takes one card for a glove (100 points) or two cards for a sock (200 points).
+Supposons qu'un joueur ait trois ou quatre cartes de même rang dans sa main, et qu'aucune annonce n'ait été faite depuis que la pile de défausse a été vidée pour la dernière fois. Quand il joue la première carte de l'ensemble, il peut appeler « gant » pour trois de même rang ou « chaussette » pour quatre de même rang. Le jeu continue en rotation, et si personne ne vole le gant ou la chaussette, le joueur qui a appelé doit jouer les autres cartes de la combinaison à chacun de ses tours jusqu'à ce qu'elle soit complétée. Ayant complété le gant ou la chaussette, le joueur met la pile de défausse de côté sur le tas de rebut mais réclame le score du gant ou de la chaussette en prenant une ou deux cartes du tas de rebut et les rangeant face caché devant lui dans sa pile de points. Chaque carte face cachée dans la pile de points représente 100 points, donc le joueur prend une carte pour un gant (100 points) ou deux cartes pour une chaussette (200 points).
 
-Example: in a two-player game, player 1 has a glove of 9's in his hand. He plays one of his 9's and calls glove. Player 2 can't steal his glove, so he plays a 5 which is not part of a combination. Then, the player who called glove (i.e., player 1) plays his second 9. Player 2 plays another odd card, a 4. Finally, player 1 plays his third and last 9, clears the discard pile, and takes a single card, say the 9 he just played, and puts it face down in front of him for 100 points.
+Exemple : dans un jeu à deux joueurs, le joueur 1 a un gant de 9 dans sa main. Il joue l'un de ses 9 et appelle gant. Le joueur 2 ne peut pas voler son gant, alors il joue un 5 qui ne fait pas partie d'une combinaison. Ensuite, le joueur qui a appelé gant (c'est-à-dire le joueur 1) joue son second 9. Le joueur 2 joue une autre carte, un 4. Finalement, le joueur 1 joue son troisième et dernier 9, vide la pile de défausse, et prend une carte, disons le 9 qu'il vient de jouer, et la place face cachée devant lui pour 100 points.
 
-After a mitten, glove or sock has been called, the current discard pile can only be cleared by completing or stealing a called mitten, glove or sock. Playing a jack or matching the top card of the pile in these circumstances has no effect, unless the card played also happens to complete or steal a called combination. After the discard pile has been cleared by a player making a mitten, glove or sock, a new discard pile is started, and this can be captured by a jack or by matching its top card so long as there is no further mitten, glove or sock call.
+Après qu'une mitaine, un gant ou une chaussette a été annoncée, la pile de défausse actuelle ne peut être vidée qu'en complétant ou en volant une mitaine, un gant ou une chaussette annoncée. Jouer un Valet ou faire correspondre la carte supérieure de la pile dans ces circonstances n'a aucun effet, à moins que la carte jouée complète ou ne vole aussi une combinaison annoncée. Après que la pile de défausse a été vidée par un joueur réalisant une mitaine, un gant ou une chaussette, une nouvelle pile de défausse est commencée, et celle-ci peut être capturée par un Valet ou en faisant correspondre sa carte supérieure tant qu'il n'y a pas d'autre annonce de mitaine, gant ou chaussette.
 
-### Ten of diamonds
+### 10 de carreau
 
-If the ten of diamonds is in the discard pile, the player who clears the pile scores for the![diamond](../images/internat/diamond.gif)10. This is true no matter whether the ![diamond](../images/internat/diamond.gif)10 was played before or after any call of mitten, glove or sock, or even forms part of a mitten, glove or sock of tens. If a player scores a mitten of 10's which includes the ten of diamonds, he than keeps the ten of diamonds (50 points) and a card to represent his mitten as well (10 points). The same goes for a glove of 10's which consists the ten of diamonds, and a sock of 10's.
+Si le 10 de carreau est dans la pile de défausse, le joueur qui vide la pile marque pour le ![carreau](../images/internat/diamond.gif)10. C'est vrai que le ![carreau](../images/internat/diamond.gif)10 ait été joué avant ou après toute annonce de mitaine, gant ou chaussette, ou même qu'il fasse partie d'une mitaine, d'un gant ou d'une chaussette de 10. Si un joueur marque une mitaine de 10 qui inclut le 10 de carreau, il garde le 10 de carreau (50 points) et une carte pour représenter sa mitaine également (10 points). Il en va de même pour un gant de 10 et une chaussette de 10.
 
-Example 1: In a two-player game, player 1 has two cards left: a mitten of 5's. He plays one of his 5's and calls mitten. Player 2, who has a single card left in his hand which is the ten of diamonds, has no choice but to play it. Player 1 then plays his second 5, clears the discard pile, keeps a 5 to represent his mitten, and keeps the ten of diamonds as well (both cards are place face-up in front of him), for a score of 60 points.
+Exemple 1 : Dans un jeu à deux joueurs, le joueur 1 a deux cartes restantes : une mitaine de 5. Il joue l'un de ses 5 et appelle mitaine. Le joueur 2, qui n'a qu'une seule carte restante dans sa main qui est le 10 de carreau, n'a d'autre choix que de la jouer. Le joueur 1 joue ensuite son second 5, vide la pile de défausse, garde un 5 pour représenter sa mitaine, et garde aussi le 10 de carreau (les deux cartes sont placées face visible devant lui), pour un score de 60 points.
 
-Example 2: In a two-player game, player 1 has a mitten of 10's, which includes the ten of diamonds. He plays his other 10, and calls mitten. Player 2 can't steal his mitten, so he plays an odd 4. Then, player 1 plays the ten of diamonds, clears the discard pile and keeps both 10's, placing them face-up in his scoring pile (one 10 to represent his mitten, and the ten of diamonds). 
+Exemple 2 : Dans un jeu à deux joueurs, le joueur 1 a une mitaine de 10, qui inclut le 10 de carreau. Il joue son autre 10, et appelle mitaine. Le joueur 2 ne peut pas voler sa mitaine, alors il joue un 4 impair. Ensuite, le joueur 1 joue le 10 de carreau, vide la pile de défausse et garde les deux 10, les plaçant face visible dans sa pile de points (un 10 pour représenter sa mitaine, et le 10 de carreau).
 
-If, at the end of the round, (when all 52 cards have been played), the ten of diamonds is still in the discard pile, the last player to have clear the discard pile picks up the ten of diamonds for scoring.
+Si, à la fin de la manche (quand les 52 cartes ont été jouées), le 10 de carreau est encore dans la pile de défausse, le dernier joueur à avoir vidé la pile de défausse ramasse le 10 de carreau pour le marquer.
 
-### Stealing a mitten, a glove or a sock
+### Voler une mitaine, un gant ou une chaussette
 
-If at your turn, you hold a mitten, glove or sock that is higher in rank than a mitten, glove or sock called but not yet completed by another player, you can attempt to steal the other player's combination by playing the first card of your superior combination and calling "mitten", "glove" or "sock" as appropriate. Play continues in rotation, and you must play the remaining card(s) of your called combination on your next turn(s), while the other players may play any cards. If you succeed in completing your mitten, glove or sock, you will score for this, and also for the combination that you stole. However, if someone has a still higher combination, they may in turn steal your combination before you are able to complete it. This stealing continues until some combination is completed, without a higher combination being announced. Then, all cards in the discard pile are put aside in the waste heap and the last player who completes the last and highest combination that was called scores for all the mittens, gloves and socks that were announced during the pay to that discard pile, and adds cards from the waste heap to his scoring pile accordingly. If the ten of diamonds was played to the pile, the player who clears the pile of course scores this as well.
+Si à votre tour, vous détenez une mitaine, un gant ou une chaussette qui est d'un rang supérieur à une mitaine, un gant ou une chaussette annoncée mais pas encore complétée par un autre joueur, vous pouvez tenter de voler la combinaison de l'autre joueur en jouant la première carte de votre combinaison supérieure et en appelant « mitaine », « gant » ou « chaussette » selon le cas. Le jeu continue en rotation, et vous devez jouer les cartes restantes de votre combinaison annoncée à vos tours suivants, tandis que les autres joueurs peuvent jouer n'importe quelle carte. Si vous réussissez à compléter votre mitaine, gant ou chaussette, vous marquez pour celle-ci, et aussi pour la combinaison que vous avez volée. Cependant, si quelqu'un a une combinaison encore supérieure, il peut à son tour voler votre combinaison avant que vous ne puissiez la compléter. Ce vol continue jusqu'à ce qu'une combinaison soit complétée, sans qu'une combinaison supérieure soit annoncée. Ensuite, toutes les cartes de la pile de défausse sont mises de côté dans le tas de rebut et le dernier joueur qui complète la dernière et plus haute combinaison annoncée marque pour toutes les mitaines, gants et chaussettes qui ont été annoncées pendant le jeu sur cette pile de défausse, et ajoute des cartes du tas de rebut à sa pile de points en conséquence.
 
-Example: In a two-player game, player 1 has a mitten of 2's in his hand. He plays one of the 2's and calls "mitten". Player 2 has a mitten of 9's, which is higher than the mitten of 2's. He plays one of his 9's on top of the 2 and also calls "mitten". However, player 1 also has a glove of 3's, which is a higher play than any mitten. He then plays one of his 3's and calls "glove". Player 2 does not have a higher play, so he plays his other 9. Player 1 plays his second 3. Then, player 2 plays another card, a 4. Finally, player 1 plays his last 3, clears the discard pile, and keeps two cards face-up (his two mittens) and one card face down (his glove) in front of him, representing 120 points.
+Exemple : Dans un jeu à deux joueurs, le joueur 1 a une mitaine de 2 dans sa main. Il joue l'un de ses 2 et appelle « mitaine ». Le joueur 2 a une mitaine de 9, qui est supérieure à la mitaine de 2. Il joue l'un de ses 9 par-dessus le 2 et appelle aussi « mitaine ». Cependant, le joueur 1 a aussi un gant de 3, qui est un jeu supérieur à toute mitaine. Il joue alors l'un de ses 3 et appelle « gant ». Le joueur 2 n'a pas de jeu supérieur, alors il joue son autre 9. Le joueur 1 joue son second 3. Ensuite, le joueur 2 joue une autre carte, un 4. Finalement, le joueur 1 joue son dernier 3, vide la pile de défausse, et garde deux cartes face visible (ses deux mitaines) et une carte face cachée (son gant) devant lui, représentant 120 points.
 
-There is a second way to steal a mitten or glove. If, at your turn, you have a card that matches the rank of a mitten or glove which has been called but not yet completed by another player, you can play that matching card to steal the mitten or the glove. After playing the matching card, you clear the discard pile immediately, and take a card from the waste heap to represent the score for the mitten or the glove you have stolen.
+Il y a une deuxième façon de voler une mitaine ou un gant. Si, à votre tour, vous avez une carte qui correspond au rang d'une mitaine ou d'un gant qui a été annoncé mais pas encore complété par un autre joueur, vous pouvez jouer cette carte correspondante pour voler la mitaine ou le gant. Après avoir joué la carte correspondante, vous videz immédiatement la pile de défausse, et prenez une carte du tas de rebut pour représenter le score de la mitaine ou du gant que vous avez volé.
 
-Example: In a two-player game, player 1 has a mitten of 4's. He plays one of his 4's and calls mitten. Player 2 has a 4 as well. He plays the 4 to steal the opponent's mitten, clears the discard pile, and keeps a card, say the 4 he just played, and puts it face-up in front of him.
+Exemple : Dans un jeu à deux joueurs, le joueur 1 a une mitaine de 4. Il joue l'un de ses 4 et appelle mitaine. Le joueur 2 a aussi un 4. Il joue le 4 pour voler la mitaine de son adversaire, vide la pile de défausse, et garde une carte, disons le 4 qu'il vient de jouer, et la place face visible devant lui.
 
-It is also possible to steal more than one mitten or glove using this play.
+Il est aussi possible de voler plus d'une mitaine ou d'un gant en utilisant ce jeu.
 
-Example: In a two-player game, player 1 has a mitten of 7's. He plays one of his 7's and calls mitten. Player 2 has a pair of 9's and plays the first of them, calling his own mitten to try to steal player 1's mitten. But player 1 also has a 9. He plays it, stealing player 2's mitten of 9's and with it the mitten of 7's that he himself began. He immediately clears the discard pile and takes two cards from the waste heap, adding them face-up to his scoring pile to represent the two mittens.
+Notez qu'il n'est jamais obligatoire d'appeler mitaine, gant ou chaussette en jouant la première de cartes égales. En effet, si vous avez une paire mais que vous savez ou soupçonnez que votre mitaine serait volée, il vaut mieux jouer vos cartes sans appeler. Dans ce cas, la deuxième carte de votre paire ne vide pas la pile ni ne marque, mais au moins vous refusez à votre adversaire le score du vol de votre mitaine.
 
-Note that it is never compulsory to call mitten, glove or sock when playing the first of equal cards. Indeed, if you have a pair but know or suspect that your mitten would be stolen, it is better to play your cards without calling. In this case the second card of your pair does not clear the pile or score, but at least you deny your opponent the score for stealing your mitten.
+### Ajouter une mitaine ou un gant
 
-### Adding a mitten or a glove
+Si, à son tour, un joueur détient deux ou trois cartes qui correspondent au rang de la carte supérieure de la pile de défausse, il peut jouer la première de ses cartes correspondantes et appeler « gant » (si c'est la première de deux cartes de ce rang) ou « chaussette » (si c'est la première de trois cartes égales). Jouer une carte que votre adversaire peut faire correspondre avec deux ou trois cartes de cette façon est connu comme « donner un gant/chaussette à son adversaire ».
 
-If, at his turn, a player holds two or three cards which match the rank of the top card of the discard pile, he can play the first of his matching cards and call "glove" (if it is the first of two cards of that rank) or "sock" (if it is the first of three equal cards). Playing a card which your opponent can match with two or three cards in this way is known as "giving a glove / sock to your opponent".
+Exemple : dans un jeu à deux joueurs, le joueur 1 joue un 7. Le joueur 2 a une mitaine de 7 dans sa main. Il joue l'un de ses 7 et appelle gant. (Le joueur 1 vient de donner un gant au joueur 2). Le joueur 1 n'a pas de jeu supérieur, alors il joue une carte, un 3. Le joueur 2 joue ensuite son dernier 7, vide la pile de défausse, et garde une carte face cachée devant lui pour représenter son gant.
 
-Example: in a two-player game, player 1 plays a 7. Player 2 has a mitten of 7's in his hand. He plays one of his 7's and calls glove. (Player 1 just gave a glove to player 2). Player 1 doesn't have a higher play, so he plays a card, a 3. Player 2 than plays his last 7, clears the discard pile, and keeps one card face down in front of him to represent his glove.
+Il est possible d'ajouter une mitaine ou un gant après qu'une annonce a déjà été faite, à condition que le gant ou la chaussette que vous faites soit supérieur à l'annonce précédente. De cette façon, vous volez aussi l'annonce précédente, et il est possible de voler votre propre annonce par cette méthode.
 
-It is possible to add a mitten or glove after a call has already been made, provided that the glove or sock you make is higher than the previous call. In this way you also steal the previous call, and it is possible to steal your own call by this method. An example (for a two-player game) may make this clearer.
+### Marquer une mitaine avec une seule carte (vider pour 10)
 
-Example:Player 1 has a mitten of K's. He plays one of his K's and calls mitten. Player 2 can't steal the mitten, so he plays a 9. Player 1 has another mitten, a mitten of 9's. He plays one of the 9's and calls glove (which is allowed because a glove of 9's beats a mitten of kings). Then, 
-player 2 plays an unmatched card (a 4). Player 1 then plays his last 9. He clears the discard pile and picks up the 3 to put it face-up in his scoring pile (as a stolen mitten), as well as a 9, putting it face down in his scoring pile (as a glove). 
+S'il n'y a qu'une seule carte dans la pile de défausse, et que le joueur suivant a une carte de même rang en main, la carte correspondante peut être jouée pour vider la pile de défausse. Cela compte comme une mitaine et une carte est placée face visible devant la personne qui a joué la carte correspondante, représentant un score de 10 points. Cela est aussi connu comme « vider pour 10 ».
 
-### Scoring a mitten with a single card (clearing for 10)
+### Doubles mitaines et doubles gants
 
-If there is just a single card in the discard pile, and the next player in turn has a card of a matching rank in hand, the matching card can be played to empty the discard pile. This counts as a mitten and a card is placed face-up in front of the person who played the matching card, representing a score of 10 points. This is also known as "clearing for 10".
+Supposons que la pile de défausse soit vide, et qu'un joueur joue une carte qui fait partie d'une paire et appelle mitaine. Si le joueur dont c'est le tour peut faire correspondre ce rang, alors jouer la carte correspondante marque deux mitaines — la mitaine annoncée volée et une seconde mitaine pour avoir fait correspondre une carte seule sur la table. Cela s'appelle une double mitaine (en français « deux sur la table »). Il en va de même pour un gant : quand un joueur joue la première de trois cartes égales sur la table vide, en appelant « gant », et que le joueur suivant vide la table en jouant la quatrième carte de ce rang, ce jeu correspondant marque deux gants.
 
-Example: In a two-player game, a single card is on the table; it is a Q. The player whose turn is next has a Q in his hand. He then plays the Q and clears the discard pile for 10, taking a Q and placing it face-up in his scoring pile to represent this score.
+Exemple : Dans un jeu à deux joueurs, la pile de défausse est vide. Le joueur 1 joue un 8 et appelle mitaine. Le joueur 2 a un 8 dans sa main, qu'il joue, volant la mitaine de son adversaire. Il marque deux mitaines car la mitaine du joueur 1 a été annoncée sur une pile vide. Le joueur 2 prend les deux 8 de la pile de défausse et les place tous les deux face visible dans sa pile de points.
 
-### Double mittens and double gloves
+### Mitaines, gants et chaussettes de Valets
 
-Suppose that the discard pile is empty, and a player plays a card that is one of a pair and calls mitten. If the player whose turn is next can match that rank, then playing the matching card scores two mittens - the stolen called mitten and a second mitten for matching a lone card on the table. This is called a double mitten (in French 'deux sur la table', which means two on the table). The same applies for a glove: when a player plays the first of three equal cards to the empty table, calling 'glove', and the next player clears the table by playing the fourth card of that rank, this matching play scores two gloves.
+Si vous marquez une mitaine de Valets, par l'une des méthodes ci-dessus, vous placez un Valet face visible dans votre pile de points, ce qui compte comme 50 points. Dans le cas d'un gant de Valets, vous marquez un gant et un Valet, représenté par une carte face cachée (100) et un Valet face visible (50) pour 150 points, et dans le cas d'une chaussette de Valets, vous marquez une chaussette (deux gants) représentée par deux cartes face cachées, plus deux Valets face visible pour un total de 300 points. La chaussette de Valets est le jeu le plus élevé possible.
 
-Example: In a two-player game, the discard pile is empty. Player 1 plays an 8 and calls mitten. Player 2 has an 8 in his hand, which he plays, stealing the mitten from his opponent. He scores two mittens because player 1's mitten was called on an empty discard pile. So player 
-2 takes both eights from the discard pile and place them both face-up in his scoring pile.
+Notez que si un Valet peut vider la pile quand il n'y a pas eu d'annonce, si vous jouez un Valet après que quelqu'un a appelé mitaine, gant ou chaussette, votre Valet est gaspillé et est considéré comme une carte normale, à moins que la mitaine ou le gant appelé ne soit composé de Valets. Un seul Valet dans votre main n'est pas capable de voler une mitaine, un gant ou une chaussette d'un autre rang.
 
-### Mittens, gloves and socks of jacks
+Cependant, une mitaine de Valets est la mitaine la plus haute, un gant de Valets est le gant le plus haut, et une chaussette de Valets est la chaussette la plus haute. Aussi, si quelqu'un appelle une mitaine de Valets ou un gant de Valets, et que vous avez un Valet dans votre main, vous pouvez le jouer et capturer la mitaine ou le gant.
 
-If you score a mitten of jacks, by any of the above methods, you place a jack face-up in your scoring pile, and this counts as 50 points, the value of a mitten of jacks. In the case of a glove of jacks, you score a glove and a jack, represented by a card face down (100) and a jack face up (50) for 150 points, and in the case of a sock of jacks, you score a sock (two gloves) represented by two cards face down, plus two jacks face up for a total of 300 points. The sock of jacks is the highest possible play.
+### Cas spécial : marquer des combinaisons dans la pile initiale.
 
-Example: Player 1 plays a jack and calls mitten. Player 2 plays an odd 9. Player 1 then plays his other jack, clears the discard pile, and scores a mitten (he takes one jack to represent his mitten of jacks, placing it face-up in his scoring pile).
+Au début du jeu, quatre cartes sont placées face visibles pour commencer la pile de défausse. Ces cartes sont légèrement étalées pour montrer si elles contiennent des combinaisons de points. S'il y a deux, trois ou quatre cartes de même rang parmi celles-ci, elles compteront comme une mitaine, un gant ou une chaussette respectivement pour quiconque vide la pile en premier. Le 10 de carreau comptera aussi s'il est présent. S'il n'y a pas de points dans la pile initiale, les cartes peuvent être empilées les unes sur les autres.
 
-Note that whilst a jack can clears the pile if there has been no call, if you play a jack after someone called mitten, glove, or sock, your jack is wasted and is considered as a normal card, unless the mitten or glove called consists of jacks. A single jack in your hand is not capable of stealing a mitten, a glove or a sock of another rank.
+## Marquage des points
 
-However, a mitten of jacks is the highest mitten, a glove of jacks is the highest glove, and a sock of jacks is the highest sock. Also, if someone calls a mitten of jacks or a glove of jacks, and you have a jack in your hand, you can play it and capture the mitten or the glove.
+Quand les 52 cartes ont été jouées, les valeurs en points des cartes dans la pile de points de chaque joueur (ou équipe) sont comptées et ajoutées à leur score cumulatif.
 
-Other possible plays with the jack:
+- Chaque carte face cachée compte 100 points.
 
-- Scoring a mitten of jacks with a single card. If a single card is on the table, and it is a jack, and the next player has a jack in his hand, he can play the jack to empty the discard pile. This counts as a mitten of jacks (50 points) and a jack is placed face-up in the scoring pile of the player of the second jack.
+- Chaque Valet ou ![carreau](../images/internat/diamond.gif)10 face visible compte 50 points
 
-- Double mittens of jacks and double gloves of jacks. Suppose the discard pile is empty, and a player holding a pair of jacks plays one of the jacks and calls mitten. The player whose turn is next also has a jack, so he plays it and scores two mittens of jacks. Therefore, he places two jacks face up in his scoring pile (instead of one). A double glove of jacks is also theoretically possible, but happens very rarely.
+- Chaque autre carte face visible compte 10 points
 
-### Special Case: scoring combinations in the initial pile.
+(Dans un jeu à quatre joueurs, les scores des coéquipiers sont additionnés.)
 
-At the beginning of the play, four cards are placed face up to start the discard pile. These cards are spread slightly to show whether they contain any scoring combinations. If there are two, three or four equal ranked cards among these four they will count as a mitten, glove or sock respectively to whoever first clears the pile. Also as usual the ten of diamonds will count if present. If there are no points in the initial pile, the cards can be stacked one on top of each other. 
+Le joueur (ou l'équipe) qui atteint 500 points en premier gagne la partie.
 
-*Example: At the beginning of play, the four face-up cards are: A, 5, 8, 5.Therefore, there is a mitten of 5's in it. (Note that the cards of the mitten or glove do not need to be adjacent). The player whose turn it is plays the jack, picks up all the cards, and keeps one card face-up in his scoring pile to represent his mitten* 
-*Another example: The four face-up cards consists of: 3, J, ten of diamonds and K. The player whose turn it is has a K. He plays the K, which matches the K on top of the discard pile. He picks up all the cards but only keeps the ten of diamonds. Note that he can't pick up the J for scoring because there is only one jack on the table.*
-*Yet another example: the four face-up cards are: 2, 6, 6, 6. The player whose turn it is has a mitten of 3's. He plays one of the 3's and calls mitten. If no one else has a higher play, everyone plays a card and then the player who played the mitten must play his other 3. He picks up all the cards of the discard pile and keeps in his scoring pile a face-up 3 (to represent his mitten) and a 6 that he must turn face down (to represent his glove).*
+Si les deux joueurs (ou équipes) atteignent 500 points lors de la même main, le joueur (ou l'équipe) avec le score le plus élevé gagne. En cas d'égalité, d'autres mains sont jouées jusqu'à ce que l'égalité soit brisée.
 
-## Scoring
+## Habitudes et tactiques
 
-When all 52 cards have been played, the point values of the cards in each player's (or team's) scoring pile are counted and added to their cumulative score. 
+La meilleure façon de jouer est de vous débarrasser d'abord de toutes vos cartes impaires qui ne forment pas de mitaines, gants ou chaussettes. Gardez les gros jeux pour la fin.
 
-- Each face down card counts 100 points.
+Il est toujours bon de jouer vos jeux les plus bas en premier (par exemple une mitaine avant un gant). Si votre adversaire a un jeu supérieur, il peut l'appeler, et vous pouvez le dépasser en jouant un jeu encore meilleur.
 
-- Each face up jack or ![diamond](../images/internat/diamond.gif)10 counts 50 points
+Essayez de vider la pile de défausse autant que possible. Cela vous donne un avantage : votre adversaire doit jouer une carte sur une table vide, et risquer de vous donner une mitaine d'une seule carte. Vous pourriez même avoir la chance de marquer une double mitaine ou un double gant.
 
-- Each other face-up card counts 10 points
+Essayez de ne pas jouer une mitaine ou un gant quand la pile est vide ; vous pourriez le regretter !
 
-(In a four-player game, the teammates' scores are added together.)
+Essayez de ne pas jouer un Valet quand la pile est vide, car non seulement vous gaspillez une chance de vider la pile, mais vous risquez aussi de donner à votre adversaire une mitaine de Valets (ou un gant de Valets).
 
-Whichever player (or team) reaches 500 points first wins the game. 
+Jouez vos Valets très prudemment. Si vous jouez votre Valet trop tôt, votre adversaire pourrait avoir une mitaine de Valets ou un gant de Valets que vous auriez pu lui voler.
 
-If both players (or teams) reach 500 points in the same hand, the player (or team) with the higher score wins. In case of a tie, more hands are played until the tie is broken.
+Si vous avez le 10 de carreau dans votre main, il vaut peut-être mieux le jouer avant vos mitaines, gants, chaussettes ou Valets car vous pourriez avoir une chance de le ramasser plus tard avec ces jeux.
 
-## Customs and Tactics
+Soyez prudent en jouant un 10. Cela peut donner à votre adversaire une opportunité facile de sauver son 10 de carreau.
 
-The best way to play is to first get rid of all your odd cards which do not form mittens, gloves or socks. Keep the big plays for last.
+Si vous avez une mitaine (ou un gant) de 10 qui inclut le 10 de carreau, jouez les autres 10 avant de jouer votre 10 de carreau.
 
-It is always good to play your lowest plays first (e.g. a mitten before a glove). If your opponent has a higher play, he can call it, and you can top it by playing an even better play. Therefore, you have a chance to steal more of your opponent's mittens or other scores.
+## Résumé de tous les scores possibles pour les mitaines, gants et chaussettes
 
-Try to empty the discard pile as much as possible. This gives you an advantage: your opponent must play a card on an empty table, and risk giving you a single card mitten. You may even get the chance to score a double mitten or double glove.
+- Une mitaine ordinaire : 10 points (une carte face visible)
 
-Try not to play a mitten or a glove when the discard pile is empty; you might regret it!
+- Une double mitaine : 20 points (10 + 10) (deux cartes face visible)
 
-Try not to play a jack when the discard pile is empty, because not only will you waste a chance to clear the discard pile, but you may also give your opponent a mitten of jacks (or glove of jacks).
+- Une mitaine de Valets : 50 points (un Valet face visible)
 
-Play your jacks very carefully. If you play your jack too soon, maybe your opponent has a mitten of jacks or a glove of jacks that you could have stolen from him.
+- Une mitaine de 10 incluant le 10 de carreau : 60 points (10 + 50) (une carte face visible et le 10 de carreau)
 
-If you have the ten of diamonds in your hand, maybe it's best to play it before your mittens, gloves, socks or jacks because you might have a chance to pick it up later on with these plays. However, you take a chance because your opponent might have a jack, a ten or a higher play than you.
+- Une double mitaine de 10 incluant le 10 de carreau (70 points) (10 de carreau et deux autres cartes face visibles)
 
-Be careful when playing a 10. It may give your opponent an easy opportunity to save his ten of diamonds.
+- Une double mitaine de Valets : 100 points (50 + 50) (deux Valets face visibles)
 
-If you have a mitten (or glove) of 10's that includes the ten of diamonds, play the other 10's before playing your ten of diamonds. If your opponent has a 10, he would only steal your mitten (or glove), but your ten of diamonds would be safe for the moment (because it would be in your hand).
+- Un gant ordinaire : 100 points (une carte face cachée)
 
-If your opponent calls a glove, and you have the matching rank, don't play it right away. Play it on the next turn. This way, not only does your opponent lose his glove, but he also loses his mitten! Note however that this does not apply when the opponent plays the first card of the glove to the empty table. In that case it is more profitable to steal it immediately and score a double glove.
+- Un gant de 10 incluant le 10 de carreau : 150 points (100 + 50) (une carte face cachée et le 10 de carreau)
 
-Finally, remember which cards have been played; then you are less likely to give a glove or even a sock to your opponent by accident. Also, on the last deal of a round, if you can remember what cards your opponent must have, you may be able to avoid announcing a mitten or glove that is sure to be stolen.
+- Un gant de Valets : 150 points (100 + 50) (une carte face cachée, un Valet face visible)
 
-## Summary of all possible scores for mittens, gloves and socks
+- Un double gant : 200 points (100 + 100) (deux cartes face cachées)
 
-- An ordinary mitten: 10 points (one card face-up)
+- Une chaussette ordinaire : 200 points (deux cartes face cachées)
 
-- A double mitten: 20 points (10 + 10) (two cards face-up) (scored by stealing a player's mitten that was called on an empty discard pile)
+- Un double gant de 10 incluant le 10 de carreau (250 points) (deux cartes face cachées et le 10 de carreau face visible)
 
-- A mitten of jacks: 50 points (one jack face-up)
+- Une chaussette de 10 : 250 points (200 + 50) (deux cartes face cachées et le 10 de carreau)
 
-- A mitten of 10's which includes the ten of diamonds: 60 points (10 + 50) (one card face-up and the ten of diamonds) 
+- Un double gant de Valets : 300 points (150 + 150) (deux cartes face cachées, deux Valets face visibles)
 
-- A double mitten of 10's which includes the ten of diamonds (70 points) (ten of diamonds and two other cards face up) (scored by using the ten of diamonds to steal a mitten of tens called on an empty discard pile)
+- Une chaussette de Valets : 300 points (200 + 50 + 50) (deux cartes face cachées, deux Valets face visibles)
 
-- A double mitten of jacks: 100 points (50 + 50) (two jacks face-up) (scored by stealing a player's mitten of jacks that was called on an empty discard pile)
+## Variantes
 
-- An ordinary glove: 100 points (one card face down)
+Certains jouent que les cartes sont classées de haut en bas A-R-D-V-10-9-8-7-6-5-4-3-2. Dans cette version, les Valets conservent leur valeur et propriétés de marquage spéciales, mais une mitaine de Valets peut être volée par une mitaine de Dames, de Rois ou d'As, et de même pour les gants et chaussettes.
 
-- A glove of 10's which includes the ten of diamonds: 150 points (100 + 50) (one card face down and the ten of diamonds) 
+Certains jouent que s'il n'y a qu'une seule carte dans la pile de défausse et que ce n'est pas un Valet, et qu'aucune annonce n'a été faite, le joueur suivant peut marquer 10 points en jouant un Valet pour vider la pile.
 
-- A glove of jacks: 150 points (100 + 50) (one card face down, one jack face-up) 
+Certains jouent jusqu'à un total plus élevé de 1000 points.
 
-- A double glove: 200 points (100 + 100) (two cards face down) (scored by stealing a player's glove that was called on an empty discard pile)
+Vicky Lavoie a fourni le barème de scores alternatif suivant :
 
-- An ordinary sock: 200 points (two cards face down) 
+| Nom | Description | Score |
+| Mitaine | Paire de cartes de même rang (pas des Valets) | 10 points |
+| Gant | Trois cartes de même rang (pas des Valets) | 50 points |
+| Chaussette | Quatre cartes de même rang (pas des Valets) | 100 points |
+| Mitaine de Valets | Deux Valets | 50 points |
+| Gant de Valets | Trois Valets | 150 points |
+| Chaussette de Valets | Quatre Valets | 250 points |
+| 10 de carreau | 10 points |
 
-- A double glove of 10's which includes the ten of diamonds (250 points) (two cards face down and the ten of diamonds face up) (scored by using the ten of diamonds to steal a glove of tens called on an empty discard pile)
-
-- A sock of 10's: 250 points (200 + 50) (two cards face down and the ten of diamonds) 
-
-- A double glove of jacks: 300 points (150 + 150) (two cards face down, two jacks face-up) (scored by stealing a player's glove of jacks that was called on an empty discard pile)
-
-- A sock of jacks: 300 points (200 + 50 + 50) (two cards face down, two jacks face-up) 
-
-## Variations
-
-Some play that the cards rank from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2. In this version, jacks keep their special scoring value and properties, but a mitten of jacks can be stolen by a mitten of queens, kings or aces, and the same for gloves and socks.
-
-Some play that if there is just one card in the discard pile and it is not a jack, and no call has been made, the next player can score 10 points by playing a jack to clear the pile. This is a form of clearing for 10, and it is represented as usual by a face-up card added to the player's scoring pile.
-
-Some record the score using any face down card to represent 50 points, and any face up card 10 points. The scores for the various events and combinations are not changed by this, but the cards you add to your scoring pile are somewhat different - for example one face-down card rather than a face-up jack for a mitten of jacks.
-
-Vicky Lavoie has provided the following alternative schedule of scores:
-
-| Name | Description | Score |
-| Mitten | Pair of equal ranked cards (not Jacks) | 10 points |
-| Glove | Three equal ranked cards (not Jacks) | 50 points |
-| Sock | Four equal ranked cards (not Jacks) | 100 points |
-| Mitten of Jacks | Two Jacks | 50 points |
-| Glove of Jacks | Three Jacks | 150 points |
-| Sock of Jacks | Four Jacks | 250 points |
-| Ten of Diamonds | 10 points |
-
-Some play to a higher total of 1000 points.
-
-A [collection of rules](https://web.archive.org/web/20250316070030/https://www.urlsgim.com/fichiers/Reglements2012.doc) (archive copy) published by the "Unité régionale loisir et sport" at Gaspésie-Îles-de-la-Madeleine includes a variant of La Mitaine played with a 54-card pack including two Jokers. The discard pile is begun with a *mise* of six cards rather than four. The basic scores are 10 points for a mitten, 50 for a glove and 200 for a sock.
-A mitten, glove or sock of Jacks has twice the value of an ordinary mitten, glove or sock. The 10 of diamonds is worth 100 points and each Joker is worth 50 points. Jokers are the highest cards, so a mitten of Jokers beats a mitten of Aces. There is also a score of 10 points for a **swip**, which occurs when the discard pile contains just one card and a player captures it with an equal card.
-
-Home Page > Classified Index > Fishing Games > Mitaines
+Une [collection de règles](https://web.archive.org/web/20250316070030/https://www.urlsgim.com/fichiers/Reglements2012.doc) (copie d'archive) publiée par l'« Unité régionale loisir et sport » à Gaspésie-Îles-de-la-Madeleine inclut une variante de La Mitaine jouée avec un jeu de 54 cartes incluant deux Jokers. La pile de défausse est commencée avec une *mise* de six cartes plutôt que quatre. Les scores de base sont de 10 points pour une mitaine, 50 pour un gant et 200 pour une chaussette. Une mitaine, un gant ou une chaussette de Valets vaut le double d'une mitaine, d'un gant ou d'une chaussette ordinaire. Le 10 de carreau vaut 100 points et chaque Joker vaut 50 points. Les Jokers sont les cartes les plus hautes, donc une mitaine de Jokers bat une mitaine d'As. Il y a aussi un score de 10 points pour un **swip**, qui se produit quand la pile de défausse ne contient qu'une seule carte et qu'un joueur la capture avec une carte égale.

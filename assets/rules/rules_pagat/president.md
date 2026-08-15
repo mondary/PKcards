@@ -3,329 +3,321 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Escalade, Escalade
-**But :** Rules and variants of President, a card game played in many countries and known by many names such as Scum, Bum, Asshole and Trouduc.
+**But :** Règles et variantes du President, un jeu de cartes joué dans de nombreux pays et connu sous de nombreux noms tels que Scum, Bum, Asshole et Trouduc.
 
 ---
 
 ## Introduction
 
-**President** has many alternative names: **Scum**, **Asshole** (in Britain: **Arsehole**), **Rich Man Poor Man**, **Bum**, **Landlord**, **Emperors and Scum**, **Root Beer**, **Butthead**, **Capitalism**. In Australia it is often called **Warlords and Scumbags**, perhaps because the politician Paul Keating once famously used the word "scumbag" to describe his opponents. In France it is **Trouduc** or **Trou du Cul**; in Germany: **Einer ist immer der Arsch**; in Hungary it is **Hűbéres** (vassal); in Denmark it is **Røvhul**; in the Netherlands it is **Sluitspieren** or **Klootzakken**.
+**President** a de nombreux noms alternatifs : **Scum**, **Asshole** (en Grande-Bretagne : **Arsehole**), **Rich Man Poor Man**, **Bum**, **Landlord**, **Emperors and Scum**, **Root Beer**, **Butthead**, **Capitalism**. En Australie, il est souvent appelé **Warlords and Scumbags**, peut-être parce que le politicien Paul Keating a un jour utilisé le mot « scumbag » pour décrire ses adversaires. En France, c'est **Trouduc** ou **Trou du Cul** ; en Allemagne : **Einer ist immer der Arsch** ; en Hongrie c'est **Hűbéres** (vassal) ; au Danemark c'est **Røvhul** ; aux Pays-Bas c'est **Sluitspieren** ou **Klootzakken**.
 
-The game spread throughout the Western world, especially among young people, towards the end of the 20th century, but is probably of Chinese origin. In games of this type (which I call climbing games), each player in turn can either pass or play a card or combination which beats the previous play, and the usual object is to get rid of all one's cards as soon as possible. Such games have been known in the West only since the 1970's, but there are many of them in China, perhaps the most famous being Zheng Shangyou. The immediate ancestor of President is perhaps the Japanese game Dai Hin Min. 
+Le jeu s'est répandu dans tout le monde occidental, surtout chez les jeunes, vers la fin du 20e siècle, mais est probablement d'origine chinoise. Dans les jeux de ce type (que j'appelle jeux d'escalade), chaque joueur à son tour peut soit passer soit jouer une carte ou combinaison qui bat le jeu précédent, et le but habituel est de se débarrasser de toutes ses cartes le plus vite possible. De tels jeux sont connus en Occident depuis les années 1970 seulement, mais il y en a beaucoup en Chine, le plus célèbre étant peut-être Zheng Shangyou. L'ancêtre immédiat de President est peut-être le jeu japonais Dai Hin Min.
 
-As the game has spread, numerous variations have developed. I will describe a typical basic version first, and list some variations at the end. As the variations are so numerous, I have tried to group them into types for easier reference. 
+Au fil de sa diffusion, de nombreuses variantes se sont développées. Je décrirai d'abord une version de base typique, et je listerai quelques variantes à la fin. Comme les variantes sont si nombreuses, j'ai essayé de les regrouper par types pour faciliter la référence.
 
-## The Basic Game
+## Le jeu de base
 
-### Objective
+### Objectif
 
-The aim is to get rid of all your cards as soon as possible. The last player left with cards is called the *scum*, *asshole*, or whatever term of derision is locally used.
+Le but est de se débarrasser de toutes vos cartes le plus vite possible. Le dernier joueur restant avec des cartes est appelé le *scum*, *asshole*, ou le terme de dérision utilisé localement.
 
-### Players and Cards
+### Joueurs et cartes
 
-About 4 to 7 people using a standard 52 card pack. The suits are irrelevant and the cards rank, from high to low, **2 A K Q J 10 9 8 7 6 5 4 3**.
+Environ 4 à 7 personnes avec un jeu de 52 cartes standard. Les couleurs sont sans importance et les cartes se classent, de haut en bas, **2 A R D V 10 9 8 7 6 5 4 3**.
 
-### Deal
+### Distribution
 
-The game is played clockwise. All the cards are dealt out. Some players may have one more than others.
+Le jeu se joue dans le sens horaire. Toutes les cartes sont distribuées. Certains joueurs peuvent avoir une carte de plus que d'autres.
 
-### Play
+### Jeu
 
-The player to dealer's left starts by leading (face up) any single card or any set of cards of equal rank (for example three fives). Each player in turn must then either pass (i.e. not play any cards), or play face up a card or set of cards which beats the previous play.
+Le joueur à gauche du donneur commence en jouant (face visible) n'importe quelle carte unique ou n'importe quel ensemble de cartes de même rang (par exemple trois cinq). Chaque joueur à son tour doit soit passer (c'est-à-dire ne jouer aucune carte), soit jouer face visible une carte ou un ensemble qui bat le jeu précédent.
 
-A single card is beaten by any higher single card. A set of cards can only be beaten by a higher set containing the same number of cards. So for example if the previous player played two sixes you can beat this with two kings, or two sevens, but not with a single king, and not with three sevens (though you could play two of them and hang onto the third).
+Une carte unique est battue par n'importe quelle carte unique supérieure. Un ensemble de cartes ne peut être battu que par un ensemble supérieur contenant le même nombre de cartes. Ainsi, par exemple, si le joueur précédent a joué deux six, vous pouvez battre cela avec deux rois, ou deux sept, mais pas avec un seul roi, et pas avec trois sept (bien que vous puissiez en jouer deux et garder le troisième).
 
-It is not necessary to beat the previous play just because you can - passing is always allowed. Also passing does not prevent you from playing the next time your turn comes round. 
+Il n'est pas nécessaire de battre le jeu précédent simplement parce que vous le pouvez — passer est toujours autorisé. Passer ne vous empêche pas de jouer la prochaine fois que votre tour arrive.
 
-The play continues as many times around the table as necessary until someone makes a play which everyone else passes. All the cards played are then turned face down and put to one side, and the player who played last (and highest) to the previous "trick" starts again by leading any card or set of equal cards.
+Le jeu continue autant de tours autour de la table que nécessaire jusqu'à ce que quelqu'un fasse un jeu que tous les autres passent. Toutes les cartes jouées sont alors retournées face cachée et mises de côté, et le joueur qui a joué le dernier (et le plus haut) dans la « levée » précédente recommence en jouant n'importe quelle carte ou ensemble de cartes égales.
 
-For example the play might go:
-
-| A | B | C | D | E |
-| 44 | Pass | Pass | 66 | 99 |
-| JJ | Pass | Pass | Pass | KK |
-| Pass | Pass | AA | Pass | Pass |
-| Pass | Pass |   |   |   |
-
-**C** then starts again by leading any card or set.
-
-When a player whose turn it is to play has no more cards left, the turn passes to the next player in rotation. Therefore in the example, if the two aces were **C**'s last two cards, it would then be **D**'s turn to play anything.
-
-### Social Status
-
-The first player who is out of cards is awarded the highest social rank - for Americans this is *President* - the next is *Vice-President*, then *Citizen* and so on down. The last player to be left with any cards is known as the *Beggar*, *Scum*, *Asshole* or by various terms of abuse. For Europeans the ranks can be *King, Minister, ... , Peasant* or *Boss, Foreman, Worker, Bum*. 
-
-If keeping score, the players get points depending on their position - for example 2 for the President, 1 for the Vice President and nothing for the others. More importantly, the players of higher status are entitled to enjoy and generally abuse their power over the lower ranking players. 
-
-For the next hand the players move seats. The President selects the most comfortable chair, the Vice President sits to the President's left, and so on around to the Asshole who sits to the President's right, probably on a crate or packing case.
-
-The Asshole is responsible for shuffling, dealing and clearing away the cards when necessary. As the players are now seated clockwise in order of rank, the first card is dealt to the President, the second to the Vice President, and so on down.
-
-When the deal is complete, the Asshole must give his highest card to the President, and the President gives back in exchange any card which he does not want. 
-
-The President then leads any card or set of cards and the game continues as before.
-
-### End of Game
-
-If scoring, set a target and the game ends when someone reaches (say) 11 points.
-
-## Variations in playing procedure
-
-### Opening Lead
-
-On the first deal, some play that the player holding a specific card of the lowest rank leads. Generally this will be a three, for example the **![club](../images/internat/club.gif)3**, but in variations where threes are wild it will be a four.
-
-On subsequent deals, some play that the Scum from the previous hand leads, rather than the President. 
-
-### Single-round play
-
-Some people play that after someone leads, each player gets just one opportunity to pass or beat the previous play. Whoever played highest then leads again. So in the example given before, if the play went:
+Par exemple, le jeu pourrait se dérouler ainsi :
 
 | A | B | C | D | E |
-| 44 | Pass | Pass | 66 | 99 |
+| 44 | Passe | Passe | 66 | 99 |
+| VV | Passe | Passe | Passe | RR |
+| Passe | Passe | AA | Passe | Passe |
+| Passe | Passe |   |   |   |
 
-**A** does not get a chance to beat **E**'s pair of 9's. It is now **E**'s turn to lead any card or set.
+**C** recommence alors en jouant n'importe quelle carte ou ensemble.
 
-I think that multi-round play, as in the basic game, must be the original method. All the Chinese climbing games use it. Probably single-round play is a Western modification, influenced by trick-taking games.
+Quand un joueur dont c'est le tour de jouer n'a plus de cartes, le tour passe au joueur suivant. Ainsi, dans l'exemple, si les deux as étaient les deux dernières cartes de **C**, ce serait le tour de **D** de jouer n'importe quoi.
 
-### Compulsory beating
+### Statut social
 
-Some people play that if you can beat the previous play, you must. Passing is only allowed if you are unable to play. Again, I believe this is a recent modification, and it seems to make the game less interesting.
+Le premier joueur qui n'a plus de cartes se voit attribuer le rang social le plus élevé — pour les Américains c'est *President* — le suivant est *Vice-Président*, puis *Citoyen* et ainsi de suite. Le dernier joueur à garder des cartes est connu sous le nom de *Mendiant*, *Scum*, *Asshole* ou par divers termes d'abus. Pour les Européens, les rangs peuvent être *Roi, Ministre, ..., Paysan* ou *Patron, Contremaître, Ouvrier, Clochard*.
 
-### No playing after passing
+Si l'on compte les points, les joueurs marquent en fonction de leur position — par exemple 2 pour le Président, 1 pour le Vice-Président et rien pour les autres. Plus important encore, les joueurs de statut supérieur ont le droit de profiter et généralement d'abuser de leur pouvoir sur les joueurs de rang inférieur.
 
-In Australia, some people do not allow a player who has passed to play at subsequent turns during the same trick. If you pass, you must wait until someone wins the trick and leads again. So the play example given above would look like this:
+Pour la main suivante, les joueurs changent de place. Le Président choisit la chaise la plus confortable, le Vice-Président s'assoit à gauche du Président, et ainsi de suite jusqu'à l'Asshole qui s'assoit à la droite du Président, probablement sur une caisse ou un carton.
+
+L'Asshole est responsable du mélange, de la distribution et du rangement des cartes si nécessaire. Comme les joueurs sont maintenant assis dans le sens horaire par ordre de rang, la première carte est distribuée au Président, la deuxième au Vice-Président, et ainsi de suite.
+
+Quand la distribution est terminée, l'Asshole doit donner sa carte la plus haute au Président, et le Président donne en échange n'importe quelle carte qu'il ne veut pas.
+
+Le Président entame alors n'importe quelle carte ou ensemble et le jeu continue comme avant.
+
+### Fin du jeu
+
+Si on compte les points, fixez un objectif et le jeu se termine quand quelqu'un atteint (par exemple) 11 points.
+
+## Variantes de procédure de jeu
+
+### Entame
+
+À la première distribution, certains jouent que le joueur détenant une carte spécifique du rang le plus bas entame. Généralement ce sera un trois, par exemple le **![trèfle](../images/internat/club.gif)3**, mais dans les variantes où les trois sont jokers, ce sera un quatre.
+
+Aux distributions suivantes, certains jouent que le Scum de la main précédente entame, plutôt que le Président.
+
+### Jeu à tour unique
+
+Certains jouent qu'après que quelqu'un a entamé, chaque joueur n'a qu'une seule chance de passer ou de battre le jeu précédent. Celui qui a joué le plus haut entame alors à nouveau. Ainsi, dans l'exemple donné précédemment, si le jeu s'était déroulé ainsi :
 
 | A | B | C | D | E |
-| 44 | Pass | Pass | 66 | 99 |
-| JJ |   |   | Pass | KK |
-| Pass |   |   |   |   |
+| 44 | Passe | Passe | 66 | 99 |
 
-Now that A, B, C and D have passed, E's pair of kings cannot be beaten; the cards are set aside, E leads a new card or set, and everyone is allowed to play again. 
+**A** n'a pas de chance de battre la paire de 9 de **E**. C'est maintenant le tour de **E** d'entamer n'importe quelle carte ou ensemble.
 
-## General variations in which cards can be played when
+### Batage obligatoire
 
-### Larger sets of cards beat smaller sets of lower rank
+Certains jouent que si vous pouvez battre le jeu précédent, vous devez le faire. Passer n'est autorisé que si vous ne pouvez pas jouer.
 
-Some people do not require players to play an equal number of cards to the card or set they are beating. It is also possible to play more cards than the previous player, as long as they are also higher in rank than the previous play. For example, in this variation:
+### Pas de jeu après avoir passé
 
-- a single 8 could be beaten by a single 10 or a pair of 10s, but not by a pair of 5s; 
+En Australie, certains n'autorisent pas un joueur qui a passé à jouer lors des tours suivants de la même levée. Si vous passez, vous devez attendre que quelqu'un gagne la levée et entame à nouveau. Ainsi, l'exemple de jeu donné ci-dessus ressemblerait à ceci :
 
-- a pair of 9s can be beaten by two or more 10s but not by a single 10.
+| A | B | C | D | E |
+| 44 | Passe | Passe | 66 | 99 |
+| VV |   |   | Passe | RR |
+| Passe |   |   |   |   |
 
-### Larger sets beat smaller sets irrespective of rank
+Maintenant que A, B, C et D ont passé, la paire de rois de E ne peut être battue ; les cartes sont mises de côté, E entame une nouvelle carte ou ensemble, et tout le monde est autorisé à jouer à nouveau.
 
-Another variation found occasionally is that a set of more cards beats a set of fewer cards irrespective of rank, so that a single 9 **can** be beaten by a pair of fives, which in turn could be beaten by three fours. 
+## Variantes générales sur les cartes jouables
 
-### Equal plays allowed
+### Les ensembles plus grands battent les ensembles plus petits de rang inférieur
 
-Some people allow a card or set to be beaten by another card or set of **equal** rank. For example a pair of sevens can be beaten by another pair of sevens, or by any higher pair.
+Certains ne requièrent pas que les joueurs jouent un nombre égal de cartes à la carte ou l'ensemble qu'ils battent. Il est aussi possible de jouer plus de cartes que le joueur précédent, tant qu'elles sont aussi de rang supérieur au jeu précédent. Par exemple, dans cette variante :
 
-### Equal play skips next player
+- un seul 8 peut être battu par un seul 10 ou une paire de 10, mais pas par une paire de 5 ;
 
-Some people play that if you beat a play with an equal play, the turn skips the next player who has cards, and passes to the player after that. In particular this means that if there are only two players left in and you equal the previous play, you immediately get another turn to play.
+- une paire de 9 peut être battue par deux 10 ou plus mais pas par un seul 10.
 
-When this variation is combined with the variation that allows a larger set of cards on a smaller set, it may be that if more than one equal card is played, more than one player is skipped. For example if a six is played, and the next person plays two sixes, the following **two** players are skipped; if three sixes were played on a six the next three players would be skipped.
+### Les ensembles plus grands battent les ensembles plus petits indépendamment du rang
 
-### Four of a kind inverts ranks
+Une autre variante trouvée occasionnellement est qu'un ensemble de plus de cartes bat un ensemble de moins de cartes indépendamment du rang, de sorte qu'un seul 9 **peut** être battu par une paire de cinq, qui à son tour pourrait être battue par trois quatre.
 
-This can be combined with the suit ranking variation described below. When a player plays four of a kind, then for the rest of that deal, the rules of play are changed. From that point on, each player must play a card (or combination) **lower** than the previous play (and now between two pairs of the same rank, the one containing the club is lower and therefore beats the other.) If another 4 of a kind is played, then the order is reversed back the original. This tends to produce reversals of fortune, breaking the cycle of the 1st place player after winning several hands in a row.
+### Jeux égaux autorisés
 
-**Equal plays allowed and four of a kind clears the table**
+Certains autorisent une carte ou un ensemble à être battu par une autre carte ou ensemble de **même** rang. Par exemple, une paire de sept peut être battue par une autre paire de sept, ou par n'importe quelle paire plus haute.
 
-Hans Morten Reeh reports that in the Danish game Røvhul a card or pair can be beaten by a card or pair of the same rank. Also if all four cards of one rank are on top of the play pile, having been played as four single cards or as pairs or all at once, the play pile is removed and the player who completed the four of a kind begins again by leading any card.
+### Le jeu égal saute le joueur suivant
 
-### Four of a kind reverses ranks and direction of play
+Certains jouent que si vous battez un jeu avec un jeu égal, le tour saute le joueur suivant qui a des cartes et passe au joueur après celui-ci. En particulier, cela signifie que s'il ne reste que deux joueurs en lice et que vous égalisez le jeu précédent, vous avez immédiatement un autre tour de jeu.
 
-This variation was reported by Hamish Allan of Scotland. Equal plays are allowed, and if four single cards of the same rank are played in succession (with or without passes in between), or if one player plays a set of four equal cards, then the direction of play **and** the ranking of cards reverses. This is called a **revolution**. Playing a pair on an equal pair does not cause a revolution, however.
+Quand cette variante est combinée avec la variante qui permet un ensemble plus grand sur un ensemble plus petit, il se peut que si plus d'une carte égale est jouée, plus d'un joueur soit sauté. Par exemple, si un six est joué et que la personne suivante joue deux six, les **deux** joueurs suivants sont sautés ; si trois six étaient joués sur un six, les trois joueurs suivants seraient sautés.
 
-In the normal ranking, threes are transparent and the two is high and low. In reversed ranking threes are still transparent but now aces are highest and lowest - so the rank from high to low is **(A)-2-4-5-6-7-8-9-10-J-Q-K-(A)**; a single ace beats anything and anything beats an ace.
+### Quatre d'un même rang inverse les rangs
 
-### Other types of card combination can be played
+Cela peut être combiné avec la variante de classement des couleurs décrite ci-dessous. Quand un joueur joue quatre d'un même rang, pour le reste de cette distribution, les règles du jeu sont modifiées. À partir de ce moment, chaque joueur doit jouer une carte (ou combinaison) **inférieure** au jeu précédent (et maintenant entre deux paires du même rang, celle contenant le trèfle est inférieure et bat donc l'autre). Si un autre carré est joué, l'ordre est inversé pour revenir à l'original. Cela tend à produire des retournements de fortune, brisant le cycle du joueur en première place après avoir gagné plusieurs mains de suite.
 
-It is possible to allow other card combinations to be played besides sets of equal rank.
+**Jeux égaux autorisés et quatre d'un même rang nettoie la table**
 
-- if you add single and multiple sequences the game becomes rather like Zheng Shangyou;
+Hans Morten Reeh rapporte que dans le jeu danois Røvhul une carte ou une paire peut être battue par une carte ou une paire du même rang. Aussi, si les quatre cartes d'un même rang sont au sommet de la pile de jeu, jouées comme quatre cartes simples ou comme paires ou tout d'un coup, la pile de jeu est retirée et le joueur qui a complété le carré recommence en jouant n'importe quelle carte.
 
-- if you add poker-like combinations such as full houses the game becomes like Big Two.
+### Quatre d'un même rang inverse les rangs et la direction du jeu
 
-## Variations in the cards used and their ranking
+Cette variante a été rapportée par Hamish Allan d'Écosse. Les jeux égaux sont autorisés, et si quatre cartes simples du même rang sont jouées successivement (avec ou sans passes entre), ou si un joueur joue un ensemble de quatre cartes égales, la direction du jeu **et** le classement des cartes s'inversent. Cela s'appelle une **révolution**. Jouer une paire sur une paire égale ne provoque pas de révolution cependant.
 
-### Double Deck
+Dans le classement normal, les trois sont transparents et le deux est haut et bas. En classement inversé, les trois sont toujours transparents mais maintenant les as sont les plus hauts et les plus bas — donc le rang de haut en bas est **(A)-2-4-5-6-7-8-9-10-V-D-R-(A)** ; un seul as bat n'importe quoi et n'importe quoi bat un as.
 
-When there are a lot of players, a double deck of cards is sometimes used.
+### D'autres types de combinaison de cartes peuvent être joués
 
-### Aces high
+Il est possible d'autoriser d'autres combinaisons de cartes en plus des ensembles de même rang.
 
-Some people play with aces as the highest cards - the cards rank from high to low A-K-Q-J-10-9-8-7-6-5-4-3-2.
+- si vous ajoutez des séquences simples et multiples, le jeu devient plutôt comme Zheng Shangyou ;
+
+- si vous ajoutez des combinaisons de type poker comme le full, le jeu devient comme Big Two.
+
+## Variantes des cartes utilisées et de leur classement
+
+### Double jeu
+
+Quand il y a beaucoup de joueurs, un double jeu est parfois utilisé.
+
+### As hauts
+
+Certains jouent avec les as comme les cartes les plus hautes — les cartes se classent de haut en bas A-R-D-V-10-9-8-7-6-5-4-3-2.
 
 ### Jokers
 
-Some people include one or more jokers in the pack. These usually rank above the twos. If the jokers are distinguishable, it may be agreed that the coloured (or otherwise more impressive) joker beats the other one.
+Certains incluent un ou plusieurs jokers dans le jeu. Ceux-ci se classent généralement au-dessus des deux. Si les jokers sont distinguables, il peut être convenu que le joker coloré (ou autrement plus impressionnant) bat l'autre.
 
-Some people also use jokers as wild cards, which can represent any rank. Some play that a natural combination beats an otherwise equal combination containing a wild card (e.g. 6-6-6 beats 6-joker-joker), some play that the combination with wild cards beats the natural one, and some play that they are equal - so that neither beats the other (or each beats the other if equal plays are allowed).
+Certains utilisent aussi les jokers comme cartes joker, qui peuvent représenter n'importe quel rang. Certains jouent qu'une combinaison naturelle bat une combinaison de même valeur contenant un joker (par exemple 6-6-6 bat 6-joker-joker), certains jouent que la combinaison avec jokers bat la combinaison naturelle, et certains jouent qu'elles sont égales — de sorte que ni l'une ni l'autre ne bat l'autre (ou que chacune bat l'autre si les jeux égaux sont autorisés).
 
-Another variation is to use the jokers **only** as wild cards, with no intrinsic rank of their own.
+Une autre variante est d'utiliser les jokers **uniquement** comme cartes joker, sans rang intrinsèque propre.
 
-### 40 card pack (Klootzakken)
+### Jeu de 40 cartes (Klootzakken)
 
-C.A. van Wijk reports that in the Netherlands, Klootzakken is played with a 40 card pack lacking 4's, 5's and 6's, the cards ranking from high to low: 3 2 A K Q J 10 9 8 7. Cards are not set aside after a trick but accumulate in a pile on the table. There is no changing of seats at the end of a hand, but the winner trades two unwanted cards for the loser's best two cards. The loser plays first in the next hand.
+C.A. van Wijk rapporte qu'aux Pays-Bas, Klootzakken se joue avec un jeu de 40 cartes sans 4, 5 et 6, les cartes se classant de haut en bas : 3 2 A R D V 10 9 8 7. Les cartes ne sont pas mises de côté après une levée mais s'accumulent en pile sur la table. Il n'y a pas de changement de places à la fin d'une main, mais le gagnant échange deux cartes indésirables contre les deux meilleures cartes du perdant. Le perdant joue en premier à la main suivante.
 
-## Variations involving particular cards
+## Variantes impliquant des cartes particulières
 
-### Single two wins
+### Le deux unique gagne
 
-Some people play that a single two beats any combination (in the basic game you would need three twos to beat three aces). The person who plays the two clears away the cards (or directs the Scum to clear them away, if you play that the Scum has to do this) and leads anew.
+Certains jouent qu'un deux unique bat n'importe quelle combinaison (dans le jeu de base, vous auriez besoin de trois deux pour battre trois as). La personne qui joue le deux nettoie les cartes (ou ordonne au Scum de les nettoyer) et entame à nouveau.
 
-### Two is highest and lowest
+### Le deux est le plus haut et le plus bas
 
-In this variation a single two can be played at any time, but the play continues and the next player can play anything. This rule may have been borrowed from Shithead, another recent card game played predominantly by young people worldwide.
+Dans cette variante, un deux unique peut être joué à tout moment, mais le jeu continue et le joueur suivant peut jouer n'importe quoi.
 
 ### Jokers
 
-As with the two, when it is highest, some people play that a single joker beats any set of lower cards.
+Comme avec le deux quand il est le plus haut, certains jouent qu'un joker unique bat n'importe quel ensemble de cartes inférieures.
 
-### Black threes or jack of diamonds high
+### Trois noirs ou valet de carreau hauts
 
-Sometimes players use some other specific card(s) as high cards beating the twos - such as the jack of diamonds or the black threes.
+Parfois, les joueurs utilisent d'autres cartes spécifiques comme cartes hautes battant les deux — comme le valet de carreau ou les trois noirs.
 
-### Jokers, jacks and twos high
+### Jokers, valets et deux hauts
 
-Sofia, from Toronto, reports a version in which the rank of the cards from the top is: joker, jack, two, ace, king, queen, 10, 9, 8, 7, 6, 5, 4, 3. The jokers, jacks and twos have special powers:
+Sofia, de Toronto, rapporte une version dans laquelle le classement des cartes, du sommet, est : joker, valet, deux, as, roi, dame, 10, 9, 8, 7, 6, 5, 4, 3. Les jokers, valets et deux ont des pouvoirs spéciaux :
 
-- Any pair of aces or below can be beaten by a single two, jack or joker.
+- N'importe quelle paire d'as ou moins peut être battue par un deux, un valet ou un joker unique.
 
-- Any three of a kind of aces or below can be beaten by a pair of twos, or by a single jack or joker.
+- N'importe quel brelan d'as ou moins peut être battu par une paire de deux, ou par un valet ou joker unique.
 
-- Any four of a kind of aces or below can be beaten by three twos, two jacks or a single joker. 
+- N'importe quel carré d'as ou moins peut être battu par trois deux, deux valets ou un joker unique.
 
-These numbers of cards are all doubled if playing with two decks. 
+Ces nombres de cartes sont tous doublés si on joue avec deux jeux.
 
-### Jokers and Tens rank highest and clear the table
+### Jokers et Dix les plus hauts et nettoient la table
 
-Hans Morten Reeh reports that in the Danish game Røvhul the Jokers and Tens are equal highest above the Twos. They can be played singly to beat a single card or combined in any mixture to beat a pair or triplet - for example two 10's and a Joker can be played together to beat three Kings. When Tens or Jokers are played the play pile is immediately cleared and the person who played them begins again by playing any card or valid set of cards.
+Hans Morten Reeh rapporte que dans le jeu danois Røvhul les Jokers et les Dix sont les plus hauts à égalité au-dessus des Deux. Ils peuvent être joués en solo pour battre une carte unique ou combinés en tout mélange pour battre une paire ou un brelan — par exemple deux 10 et un Joker peuvent être joués ensemble pour battre trois Rois. Quand des Dix ou des Jokers sont joués, la pile de jeu est immédiatement nettoyée et la personne qui les a joués recommence en jouant n'importe quelle carte ou ensemble valide.
 
-Anyone who plays a Ten or Joker as their last card automatically becomes the lowest placed player (if two or more players do this, the last of them is lowest).
+Quiconque joue un Dix ou un Joker comme dernière carte devient automatiquement le joueur le moins bien placé (si deux joueurs ou plus font cela, le dernier d'entre eux est le plus bas).
 
-Some play that a single Ten or Joker is sufficient to beat any single card, pair or triplet.
+### Jokers, deux et trois jokers
 
-### Jokers, Twos and Threes Wild
+Dans Hűbéres (la version hongroise du jeu), tous les jokers, les deux et les trois sont tous jokers. Joués avec une carte normale (ou cartes), ils prennent le rang de cette carte ; joués seuls ou en ensembles entièrement jokers, ils se classent les plus hauts et tous égaux.
 
-In Hűbéres (the Hungarian version of the game), all the jokers, twos and threes are all wild. Played along with a normal card (or cards) they take on the rank of that card; played singly or in entirely wild sets they rank highest and all equal to each other.
+### Deux hauts, trois et jokers jokers
 
-### Twos high, threes and jokers wild
+Dans cette version, tous les trois et les deux jokers sont des cartes joker qui peuvent représenter n'importe quelle autre carte. Les deux sont les cartes les plus hautes mais n'ont pas de propriété spéciale.
 
-In this version all the threes and the two jokers are wild cards that can represent any other card. The twos are the highest cards but have no special property.
+### Cartes transparentes
 
-### Transparent cards
+Certains jouent que les trois (ou un autre rang convenu si les trois ont une autre signification) sont transparentes. Cela signifie que vous pouvez utiliser un trois pour battre n'importe quelle carte unique, et un ensemble de trois pour battre un nombre égal de cartes de n'importe quel rang, et les trois que vous jouez prennent le rang des cartes qu'ils ont battues. Par exemple, si **A** joue une paire de rois et **B** la bat avec une paire de trois, les trois comptent comme rois et les joueurs suivants doivent battre une paire de rois ou passer. Si tout le monde passe, les trois de **B** ont gagné, les cartes sont nettoyées et **B** entame.
 
-Some people play that threes (or some other agreed rank if threes have another meaning) are transparent. This means that you can use a three to beat any single card, and a set of threes to beat an equal number of cards of any rank, and the threes you play take on the rank of the cards they have beaten. For example if **A** plays a pair of kings and **B** beats it with a pair of threes, the threes count as kings and subsequent players have to beat a pair of kings or pass. If all pass, **B**'s threes have won, the cards are cleared away and **B** leads.
+### Trois hauts, sous le deux
 
-### Threes high, below the two
+Certains jouent qu'un trois unique peut battre n'importe quelle carte ou ensemble sauf un deux. Un trois peut être battu par un deux (imbattable) ou par un quatre (les quatre sont transparents dans cette version).
 
-Some play that a single three can beat any card or set except a two. A three can be beaten by a two (unbeatable) or a four (fours are transparent in this version).
+## Variantes impliquant les couleurs
 
-## Variations involving Suits and Colours
+### Suivre la couleur
 
-### Following Suit
+Dans cette variante, une carte unique ne peut être battue que par une carte plus haute de la **même couleur**. Cela rend beaucoup plus difficile de se débarrasser des cartes uniques.
 
-In this variation, a single card can only be beaten by a higher card of the **same suit**. This makes it much harder to get rid of single cards.
+### Inversion de couleur
 
-### Reversing Colour
+C'est une variante sur l'autorisation des jeux égaux. Vous pouvez battre une carte unique avec une carte de même rang, à condition qu'elle soit de couleur opposée — donc un cinq rouge peut être battu par un cinq noir, mais pas par un autre cinq rouge. Un ensemble de cartes peut être battu par un ensemble de même rang à condition que la couleur de chaque carte soit inversée — par exemple deux sept rouges battent deux sept noirs, et un sept rouge et un sept noir bat un sept noir et un sept rouge.
 
-This is a variation on allowing equal plays. You can beat a single card with an equal ranked card, provided that it is the opposite colour - so a red five can be beaten by a black five, but not by another red five. A set of cards can be beaten by an equal ranked set provided that the colour of each card is reversed - for example two red sevens beat two black sevens, and a red and a black seven beats a black and a red seven.
+### Classement des couleurs
 
-### Suit Ranking
+Theodore Hwa rapporte une variante dans laquelle les couleurs se classent piques (haut), cœurs, carreaux, trèfles (comme au Bridge). En jouant des cartes uniques, une carte de même rang que la carte précédente peut être jouée, à condition que la couleur soit plus haute. Par exemple, si quelqu'un a joué le **![carreau](../images/internat/diamond.gif)7**, vous pourriez battre cela en jouant le **![cœur](../images/internat/heart.gif)7** ou le **![pique](../images/internat/spade.gif)7** ou n'importe quel **8** ou carte plus haute, mais vous ne pourriez pas jouer le **![trèfle](../images/internat/club.gif)7**, car les trèfles sont inférieurs aux carreaux.
 
-Theodore Hwa reports a variation in which the suits rank spades (high), hearts, diamonds, clubs (as in Bridge). When playing single cards, a card of equal rank to the previous card can be played, provided that the suit is higher. For example if someone played the **![diamond](../images/internat/diamond.gif)7** you could beat this by playing the **![heart](../images/internat/heart.gif)7** or the **![spade](../images/internat/spade.gif)7** or any **8** or higher card, but you could not play the **![club](../images/internat/club.gif)7**, because clubs are lower than diamonds.
+Entre des paires de même rang, la paire contenant le pique est supérieure, indépendamment de la couleur de l'autre carte. Ainsi, par exemple, la paire **![carreau](../images/internat/diamond.gif)D-![cœur](../images/internat/heart.gif)D** peut être battue par la paire **![trèfle](../images/internat/club.gif)D-![pique](../images/internat/spade.gif)D**.
 
-Between equal ranked pairs, the pair containing the spade is higher, irrespective of the suit of the other card. So for example, the pair **![diamond](../images/internat/diamond.gif)Q-![heart](../images/internat/heart.gif)Q** can be beaten by the pair **![club](../images/internat/club.gif)Q-![spade](../images/internat/spade.gif)Q**.
+## Variantes de structure sociale et de marque
 
-## Variations in Social Structure and Scoring
+### Rejoindre et quitter une partie
 
-### Joining and leaving a game
+- Les joueurs peuvent quitter la partie après n'importe quelle main. Les joueurs en dessous d'eux montent alors d'une place dans le classement.
 
-- Players may leave the game after any hand. The players below them then move up one place in rank.
+- Les nouveaux joueurs peuvent rejoindre la partie après n'importe quelle main et commencent à la position la plus basse (asshole ou scum).
 
-- New players may join the game after any hand, and they start in the lowest position (asshole or scum).
+### Échange de cartes
 
-### Card Exchange
+Le Président reçoit les **deux** cartes les plus hautes du Scum et donne au Scum n'importe quelles deux cartes en échange. Le Vice-Président et l'avant-dernier joueur échangent une carte de la même manière.
 
-The President receives the Scum's **two** highest cards, and gives the Scum any two cards in exchange. The Vice President and the second-to-last player exchange one card similarly.
+James Lundeen rapporte une version (appelée Butthead) dans laquelle le Butthead donne ses deux meilleures cartes au Président et le Président donne au Butthead **trois** cartes de son choix. De même, le vice-butthead et le vice-président échangent respectivement une et deux cartes. Cela rend plus difficile de sortir de la position de butthead car on vous passe plus de mauvaises cartes.
 
-James Lundeen reports a version (called Butthead) in which the Butthead passes the President his two best cards and the President passes the Butthead **three** of his choice. Similarly the vice-butthead and vice-president trade one and two cards respectively. This makes it harder to get out of the butthead position as you are passed more bad cards.
+### Exposer une carte pour attribuer les mains
 
-### Expose a card to assign hands
+Après la distribution mais avant que les joueurs ne ramassent leurs cartes, la carte du haut de chaque main est retournée. Le président reçoit la main avec la plus haute carte face visible, le vice-président reçoit la deuxième plus haute, et ainsi de suite.
 
-After the deal but before the players pick up their cards, the top card of each hand is turned up. The president gets the hand with the highest card facing up, vice president gets the second highest and so forth.
+### Négocier des cartes
 
-### Trading Cards
+Dans cette version, les joueurs au milieu de l'ordre sont appelés **marchands** (ainsi avec six joueurs le classement pourrait être Propriétaire, Noble, Marchand supérieur, Marchand inférieur, Paysan, Scum). Alors que les joueurs les plus bas doivent donner leurs meilleures cartes en échange des cartes indésirables des plus hauts, les marchands au milieu doivent **négocier**. C'est-à-dire qu'ils doivent se donner une carte l'un à l'autre, mais ils peuvent marchander pour savoir lesquelles échanger, et ainsi ils peuvent tous les deux améliorer leur main. Le marchandage pourrait commencer :
 
-In this version the players in the middle of the order are called **merchants** (so with six players the ranking could be Landlord, Noble, Upper merchant, Lower merchant, Peasant, Scum). While the lowest players must give their best cards in exchange for the highest players' unwanted cards, the merchants in the middle must **trade**. That is, they must give each other one card, but they can haggle as to which cards to trade, and in this way they may both be able to improve their hands. The haggling might begin: 
+**MS :** « J'ai un sept »
 
-**UM:** "I have a seven"
+**MI :** « J'ai un huit. On échange ? »
 
-**LM:** "I have an eight. Want to trade?"
+**MS :** « J'ai pas besoin d'un huit. Un neuf ? »
+et ainsi de suite. S'ils ne s'entendent pas, ils doivent se donner une carte quand même — dans ce cas chacun donnera une carte indésirable à l'autre.
 
-**UM:** "I don't need an eight. How about a nine?"
-and so on. If they can't agree, they must give each other a card anyway - in this case each will give an unwanted card to the other. 
+Anthony O'Dea suggère une version plus extrême de cela, appelée « La Main de Collusion ». Avec six joueurs, chacun reçoit 9 cartes (les deux Jokers utilisés). Les joueurs « collaborent » alors par paires, en échangeant autant de cartes que nécessaire. Habituellement, le Président collabore avec l'Arsehole, le 2e joueur avec le 5e et le 3e avec le 4e. Après la collusion, chacun doit encore avoir 9 cartes. Le jeu se déroule ensuite normalement. Le premier à se débarrasser de ses cartes marque 6 points, et ainsi de suite. Les gagnants sont la paire avec le plus de points.
 
-Anthony O'Dea suggests a more extreme version of this, called "The Hand of Collusion". With six players, everyone
-gets 9 cards (both Jokers used). Players then "collude" in pairs, swapping as many cards as necessary. Usually the President colludes with the Arsehole, the 2nd player with the 5th and the 3rd with the 4th. After collusion, everyone must still have 9 cards. Play then proceeds as normal. The first to go out gets 6 points, and so on. Winners are
-the pair with the most points. 
+### Marque
 
-### Scoring
+Un autre système, en jouant avec 5 ou 7 joueurs, est le suivant. Avec 5 joueurs, les scores donnés aux joueurs, du premier au dernier, sont 2, 1, 0, -1, -2. Avec 7 joueurs, les scores sont 3, 2, 1, 0, -1, -2, -3. Les scores d'une main indiquent aussi combien de cartes chaque perdant doit échanger avec chaque gagnant au début de la main suivante.
 
-Another scheme, when playing with 5 or 7 players, is as follows. With 5 players the scores given to the players, from first to last, are 2, 1, 0, -1, -2. With 7 players the scores are 3, 2, 1, 0, -1, -2, -3. The scores for a hand also indicate how many cards each loser has to exchange with each winner at the start of the next hand.
+### Places fixes
 
-### Fixed seats
+Certains jouent sans changer de places après chaque main. C'est toujours l'Asshole qui mélange et distribue et le Président qui entame la première levée (ou le Scum entame si vous jouez cette version).
 
-Some people play without switching seats after each hand. It is still the Asshole who shuffles and deals and the President who leads to the first trick (or the Scum leads if you play that version).
+### Chapeaux
 
-### Hats
+Dans la version de Hamish Allan, les joueurs portent des chapeaux correspondant à leur rang social. Quand il y a une révolution, tout le monde retourne son chapeau à l'envers. Aussi dans cette version, si vous êtes le joueur le mieux classé (ici appelé l'Homme Riche) et que vous échouez à gagner, vous devez immédiatement jeter vos cartes et vous devenez le joueur le moins bien classé (l'Homme Pauvre). Le joueur qui a épuisé ses cartes en premier devient l'Homme Riche et les autres continuent à jouer pour les places restantes.
 
-In Hamish Allan's version, the players wear hats corresponding to their social rank. When there is a revolution, everyone turns their hat inside out. Also in this version, if you are the top ranking player (in this case called the Rich Man) and you fail to win, you must immediately throw in your cards and you become the lowest ranking player (Poor Man). The player who ran out of cards first is the Rich Man and the others continue playing for the remaining positions.
+### Seul le Scum peut toucher les cartes
 
-### Only the Scum may touch the cards
+Après que la première carte a été jouée, personne n'est autorisé à toucher les cartes sur la table sauf le Scum. Si vous le faites, vous devenez automatiquement le Scum pour le tour suivant. Notez que vous ne devenez le Scum que si vous tendez délibérément la main pour toucher les cartes ; quelqu'un jetant les cartes sur vous ne compte pas.
 
-After the first card is played, no one is allowed to touch any cards on the table except the Scum. If you do, then you automatically become the Scum for the next round. Note that you only become the Scum if you deliberately reach out and touch the cards; someone throwing the cards at you doesn't count. 
+### Fautes de procédure
 
-### Procedural Faults
-
-The winning player (in this version called the Landlord) shuffles and the Scum cuts, after which the Landlord deals. Forgetting to offer the cards to be cut, or any kind of misdeal is a fault. After two faults the Landlord becomes the Scum and everyone else moves up one place. The Landlord also becomes the Scum if there are two consecutive games in which the result does not lead to a change in the players' positions.
+Le joueur gagnant (dans cette version appelé le Propriétaire) mélange et le Scum coupe, après quoi le Propriétaire distribue. Oublier d'offrir les cartes à couper, ou tout type de mauvaise distribution est une faute. Après deux fautes, le Propriétaire devient le Scum et tous les autres montent d'une place. Le Propriétaire devient aussi le Scum s'il y a deux parties consécutives dans lesquelles le résultat ne conduit pas à un changement dans les positions des joueurs.
 
 ### Hűbéres
 
-In Hűbéres, when played by six people, the ranks are Király, Nagybirtokos, Kisbirtokos, Nagyparaszt, Kisparaszt, Mocsár (king, big landowner, small landowner, big peasant, small peasant, swamp). The king and swamp exchange three cards, the big landowner and small peasant two cards, and the small landowner and big peasant one card.
+Dans Hűbéres, quand il est joué par six personnes, les rangs sont Király, Nagybirtokos, Kisbirtokos, Nagyparaszt, Kisparaszt, Mocsár (roi, grand propriétaire, petit propriétaire, grand paysan, petit paysan, marais). Le roi et le marais échangent trois cartes, le grand propriétaire et le petit paysan deux cartes, et le petit propriétaire et le grand paysan une carte.
 
-## Other WWW sites
+## Autres sites web
 
-Other versions of this game can be found on 
+D'autres versions de ce jeu peuvent être trouvées sur :
 
-- Nicholas Cheung's [President](https://web.archive.org/web/20230614005345/http://www.nicholasc.info/cardgames/president.html) page (archive copy).
+- La page [President](https://web.archive.org/web/20230614005345/http://www.nicholasc.info/cardgames/president.html) de Nicholas Cheung (copie d'archive).
 
-- PinkyMcDrinky's [Asshole page](https://web.archive.org/web/20250208041055/http://www.pinkymcdrinky.com/asshole.php) (archive copy).
+- La page [Asshole](https://web.archive.org/web/20250208041055/http://www.pinkymcdrinky.com/asshole.php) de PinkyMcDrinky (copie d'archive).
 
-- [Rules of President](https://cardgameheaven.com/president) on the Card Game Heaven site.
+- Les [règles du President](https://cardgameheaven.com/president) sur le site Card Game Heaven.
 
-- Jens Alfke's [Tahimi](https://mooseyard.com/Tahimi.html) page describes a straightforward version with aces high. The name Tahimi is clearly derived from the Japanese "Dai Hin Min" (Very Poor Man), which is the name of one of the Oriental games from which President is descended.
+- La page [Tahimi](https://mooseyard.com/Tahimi.html) de Jens Alfke décrit une version simple avec les as hauts. Le nom Tahimi est clairement dérivé du japonais « Dai Hin Min » (Très Pauvre), qui est le nom de l'un des jeux orientaux dont President descend.
 
-- The [Sunshine Nudist Club site](https://web.archive.org/web/20190718020111/http://sunshinenudistclub.com/Games_Asshole.htm) (archive copy)
+- Le site [Sunshine Nudist Club](https://web.archive.org/web/20190718020111/http://sunshinenudistclub.com/Games_Asshole.htm) (copie d'archive)
 
-- Jean-François Bustarret's [Trou du Cul](https://web.archive.org/web/20250114055659/https://www.jeuxdecartes.net/jeux-cartes/trou-du-cul/) page (French language, archive copy)
+- La page [Trou du Cul](https://web.archive.org/web/20250114055659/https://www.jeuxdecartes.net/jeux-cartes/trou-du-cul/) de Jean-François Bustarret (en français, copie d'archive)
 
-Some further ideas can be found on the President variations page in the Invented Games section of this site.
+D'autres idées peuvent être trouvées sur la page des variantes de President dans la section Invented Games de ce site.
 
-## President Software and Online Games
+## Logiciel et jeux en ligne pour President
 
-A free President computer program [Élysée](https://vincent-brevart.fr/en/ely/president-free-card-game.html) can be downloaded from Vincent Brevart's web site.
+Un programme gratuit President [Élysée](https://vincent-brevart.fr/en/ely/president-free-card-game.html) peut être téléchargé sur le site de Vincent Brevart.
 
-A version of President can be played online at [CardzMania](https://www.cardzmania.com/President).
+Une version de President peut être jouée en ligne sur [CardzMania](https://www.cardzmania.com/President).
 
-At Cardgame.com you can play [President](https://www.cardgame.com/game/President) and its Dutch variant [Klootzakken](https://www.patiencespelen.nl/spel/Klootzakken).
+Sur Cardgame.com vous pouvez jouer au [President](https://www.cardgame.com/game/President) et sa variante néerlandaise [Klootzakken](https://www.patiencespelen.nl/spel/Klootzakken).
 
-## Commercial Versions
+## Versions commerciales
 
-There are several commercially produced versions of President / Asshole using special cards - for example **The Great Dalmuti** (described further on the Commercial Games page) and **Karriere Poker**.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Climbing games > President
+Il existe plusieurs versions commerciales de President / Asshole utilisant des cartes spéciales — par exemple **The Great Dalmuti** (décrit plus en détail sur la page des jeux commerciaux) et **Karriere Poker**.

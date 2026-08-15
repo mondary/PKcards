@@ -2,145 +2,142 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** How to play the card game Poker Menteur (Liar Poker) in which a five-card poker hand is passed around the table.
+**But :** Règles du jeu de cartes Poker Menteur (Liar Poker) dans lequel une main de poker de cinq cartes est passée autour de la table.
 
 ---
 
-*This page is based on a contribution from Jean-Pierre Coulon*
+*Cette page est basée sur une contribution de Jean-Pierre Coulon*
 
-**Poker Menteur** (= **Liar Poker** in English) is the card equivalent of a dice game known in Britain as Liar Dice.
+**Poker Menteur** (= **Liar Poker** en anglais) est l'équivalent aux cartes d'un jeu de dés connu en Grande-Bretagne sous le nom de Liar Dice.
 
-## Cards
+## Cartes
 
-One regular 52 card deck, plus 2 jokers acting as wild cards.
+Un jeu de 52 cartes régulier, plus 2 jokers agissant comme cartes joker.
 
-Although this game is not really a poker variation, it uses the usual poker hands with the same ranking. If you are not familiar with these, refer to the Poker Hand Ranking page.
+Bien que ce jeu ne soit pas vraiment une variante du poker, il utilise les mains de poker habituelles avec le même classement. Si vous ne les connaissez pas, reportez-vous à la page du classement des mains de poker.
 
-## Players
+## Joueurs
 
-2 to 8, or even more players, but the game is best for 3 to 5. 
+De 2 à 8, ou même plus, mais le jeu est meilleur de 3 à 5.
 
-## The Play
+## Le jeu
 
-Play proceeds clockwise. One player volunteers to start the first round and five cards are dealt to **this player only**. The player examines his hand without showing it, and declares a poker hand (see below for details of the possible declarations). The second player (the player to the left of the first player) has two options: 
+Le jeu se déroule dans le sens horaire. Un joueur se porte volontaire pour commencer le premier tour et cinq cartes sont distribuées à **ce joueur uniquement**. Le joueur examine sa main sans la montrer et déclare une main de poker (voir ci-dessous pour les détails des déclarations possibles). Le deuxième joueur (le joueur à gauche du premier) a deux options :
 
-- he may accept it, saying "OK", or "yes", or "I'll take it", etc.
+- il peut l'accepter en disant « OK », « oui », « je la prends », etc.
 
-- he may challenge it, saying "liar!", or " I doubt it!", or "bullshit!", or "go to hell! " etc. 
+- il peut la contester en disant « menteur ! », « je doute ! », « bullshit ! », « va au diable ! » etc.
 
-(Most often he will accept at this early stage of the game) 
+(Le plus souvent, il acceptera à ce stade précoce du jeu.)
 
-If the second player challenges, there are two cases: 
+Si le deuxième joueur conteste, il y a deux cas :
 
-- The first player's declaration was genuine in the sense that his hand contains the combination he declared. He proves it by showing sufficient of his cards to everybody to prove that he has what he claimed. The doubter loses one point. 
+- La déclaration du premier joueur était authentique, dans le sens où sa main contient la combinaison déclarée. Il le prouve en montrant suffisamment de ses cartes à tout le monde pour prouver qu'il a ce qu'il a revendiqué. Le douteur perd un point.
 
-- The first player's declaration was fake, in the sense that his hand does not contain the cards he claimed, so he **surrenders** by giving his hand back to the dealer, and loses a point. Like a player who "folds" at real poker, he is not required to show his hand.
+- La déclaration du premier joueur était fausse, dans le sens où sa main ne contient pas les cartes revendiquées, il **se rend** en rendant sa main au donneur et perd un point. Comme un joueur qui « se couche » au vrai poker, il n'est pas obligé de montrer sa main.
 
-If the second player accepts the declaration, the first player passes the hand to him, of course without showing it to the other players. The second player examines the hand, and may try to improve it by exchanging from 0 to 4 cards, just as in Draw Poker, by discarding that number of cards, and receiving replacement cards from the dealer. Then he must declare a poker hand higher than that previously declared, whether it was genuine or not (see below for details of what counts as higher). The third player (the next player in rotation) may either accept this declaration by saying "OK", or challenge it by saying "liar". 
+Si le deuxième joueur accepte la déclaration, le premier joueur lui passe la main, sans la montrer aux autres joueurs. Le deuxième joueur examine la main et peut essayer de l'améliorer en échangeant de 0 à 4 cartes, comme au Draw Poker, en défaussant ce nombre de cartes et en recevant des cartes de remplacement du donneur. Il doit alors déclarer une main de poker supérieure à celle précédemment déclarée, qu'elle ait été authentique ou non (voir ci-dessous pour les détails de ce qui compte comme supérieur). Le troisième joueur (le joueur suivant dans l'ordre) peut soit accepter cette déclaration en disant « OK », soit la contester en disant « menteur ».
 
-The round continues clockwise as long as players say "OK", with the cards being passed around the table and the declarations going always up and up. When a round is interrupted by a player doubting, the player who loses the point has the advantage of starting the next round; the cards are shuffled and a new five card hand is dealt to this player. The player who starts a round may not draw cards at his first turn - he must immediately declare a hand.
+Le tour continue dans le sens horaire tant que les joueurs disent « OK », les cartes étant passées autour de la table et les déclarations allant toujours en montante. Quand un tour est interrompu par un joueur qui doute, le joueur qui perd le point a l'avantage de commencer le tour suivant ; les cartes sont mélangées et une nouvelle main de cinq cartes est distribuée à ce joueur. Le joueur qui commence un tour ne peut pas piocher de cartes à son premier tour — il doit déclarer immédiatement une main.
 
-The game continues until one player has reached an agreed number of penalty points, and loses.
+Le jeu continue jusqu'à ce qu'un joueur atteigne un nombre convenu de points de pénalité et perde.
 
-## Shuffling
+## Mélange
 
-After each challenge, the whole deck should be shuffled before a new five card hand is dealt, rather than continuing to deal new hands from the deck until it is exhausted. In any case, it is not considered a fair practice to memorize cards shown in previous rounds to help you guess if a declaration is genuine or not (as with card counting at Blackjack). Shuffling after each challenge prevents this.
+Après chaque contestation, le jeu entier devrait être mélangé avant qu'une nouvelle main de cinq cartes ne soit distribuée, plutôt que de continuer à distribuer de nouvelles mains du jeu jusqu'à son épuisement. Dans tous les cas, il n'est pas considéré comme une pratique équitable de mémoriser les cartes montrées lors des tours précédents pour vous aider à deviner si une déclaration est authentique ou non (comme au comptage de cartes au Blackjack). Mélanger après chaque contestation empêche cela.
 
-## Declaration and ranking of hands
+## Déclaration et classement des mains
 
-When announcing a poker hand you must say which of the eleven types of hand you are claiming (see the poker hand ranking page for an explanation of the types - five of a kind is highest, beating a royal flush, because there are wild cards). You may in addition specify the rank of the combination, and if you do this you may also specify the rank of some of the other cards. Examples of possible declarations are:
+En annonçant une main de poker, vous devez dire quel type des onze types de mains vous revendiquez (voir la page du classement des mains de poker pour une explication des types — cinq d'un même rang est le plus haut, battant une quinte flush royale, car il y a des cartes joker). Vous pouvez en outre préciser le rang de la combinaison, et si vous le faites, vous pouvez aussi préciser le rang de certaines autres cartes. Exemples de déclarations possibles :
 
-When deciding what announcements are legal for the next player (who must go higher), a higher poker hand beats a lower one, and a more specific declaration beats a less specific declaration of which it is an example. For example:
+En décidant quelles annonces sont légales pour le joueur suivant (qui doit aller plus haut), une main de poker supérieure bat une main inférieure, et une déclaration plus spécifique bat une déclaration moins spécifique dont elle est un exemple. Par exemple :
 
-- "a pair of nines and a six" beats "a pair of nines and a four" (higher hand);
+- « une paire de neufs et un six » bat « une paire de neufs et un quatre » (main supérieure) ;
 
-- "a pair of nines, a six and a two" beats "a pair of nines and a six" (more specific).
+- « une paire de neufs, un six et un deux » bat « une paire de neufs et un six » (plus spécifique).
 
-Note that if you are challenged, you have to produce the actual cards you declared. For the following examples, suppose that your real hand is 9-9-9-4-4, and you are challenged:
+Notez que si vous êtes contesté, vous devez produire les cartes réelles que vous avez déclarées. Pour les exemples suivants, supposez que votre vraie main est 9-9-9-4-4, et que vous êtes contesté :
 
-- if you announced a pair, you can show two fours or two nines and you win the challenge;
+- si vous avez annoncé une paire, vous pouvez montrer deux quatre ou deux neufs et vous gagnez la contestation ;
 
-- if you announced a pair of nines and a four, you can show these cards and you win;
+- si vous avez annoncé une paire de neufs et un quatre, vous pouvez montrer ces cartes et vous gagnez ;
 
-- if you announced a pair of fives, you do not have any fives to show - you are a liar and you lose;
+- si vous avez annoncé une paire de cinq, vous n'avez pas de cinq à montrer — vous êtes un menteur et vous perdez ;
 
-- if you announced two pairs, you show two fours and two nines and you win.
+- si vous avez annoncé deux paires, vous montrez deux quatre et deux neufs et vous gagnez.
 
-Newcomers to this game who are unfamiliar with regular poker should note how the hand ranking is affected by the side cards that go with a combination such as a pair or three of a kind. For example: **9-9-9-A-2** is higher than **9-9-9-K-Q**, because the Ace beats the King. 
+Les nouveaux venus à ce jeu qui ne sont pas familiers avec le poker régulier doivent noter comment le classement des mains est affecté par les cartes d'accompagnement qui vont avec une combinaison comme une paire ou un brelan. Par exemple : **9-9-9-A-2** est supérieur à **9-9-9-R-D**, car l'As bat le Roi.
 
-**Note also that there is no ranking of suits - all suits are equal.**
+**Notez aussi qu'il n'y a pas de classement des couleurs — toutes les couleurs sont égales.**
 
-## Variations
+## Variantes
 
-Some play that a Flush beats a Full House. Some players do not count straights or flushes at all in this game. These variations must be agreed before the game starts.
+Certains jouent qu'une Couleur bat un Full. Certains joueurs ne comptent pas les suites ni les couleurs dans ce jeu. Ces variantes doivent être convenues avant le début du jeu.
 
-There are several alternative ways of determining the end of the game, and the result:
+Il existe plusieurs façons alternatives de déterminer la fin du jeu et le résultat :
 
-- continue until one player has reached an agreed number of penalty points, and loses;
+- continuer jusqu'à ce qu'un joueur ait atteint un nombre convenu de points de pénalité, et perde ;
 
-- continue until the sum of all penalty points has reached an agreed total;
+- continuer jusqu'à ce que la somme de tous les points de pénalité ait atteint un total convenu ;
 
-- continue until all players present agree to stop playing for any reason.
+- continuer jusqu'à ce que tous les joueurs présents décident d'arrêter de jouer pour quelque raison que ce soit.
 
-The second method can be used as a friendly way to share the price of drinks between the players, in proportion to the number of penalty points scored. 
+La deuxième méthode peut être utilisée comme un moyen amical de partager le prix des boissons entre les joueurs, en proportion du nombre de points de pénalité marqués.
 
-In the *Guide Marabout de Tous les Jeux de Cartes*, *Frans Gerver* gives an alternative method of scoring which leads to a single winner. Each player starts with an equal number of positive points and loses one point for each lost challenge. When a player has no points left he drops out of the game. This continues until there is only one player left in - the winner.
+Dans le *Guide Marabout de Tous les Jeux de Cartes*, *Frans Gerver* donne une autre méthode de marque qui aboutit à un seul gagnant. Chaque joueur commence avec un nombre égal de points positifs et perd un point pour chaque contestation perdue. Quand un joueur n'a plus de points, il abandonne. Cela continue jusqu'à ce qu'il ne reste qu'un seul joueur — le gagnant.
 
-Maxime Boisset reports yet another way of counting points. At the beginning of the game, each player gets 50 chips. After each challenge, the loser gives **n-1** chips to the player that made him lose and one chip each to the other players (**n** being the number of players). For example, if there are 5 players, the loser gives 4 chips to the
-player that made him lose and 1 chip each of the 3 other players. With this scoring scheme, there is a premium for the player who is good at deceiving other players.
+Maxime Boisset rapporte une autre façon de compter les points. Au début du jeu, chaque joueur reçoit 50 jetons. Après chaque contestation, le perdant donne **n-1** jetons au joueur qui l'a fait perdre et un jeton chacun aux autres joueurs (**n** étant le nombre de joueurs). Par exemple, s'il y a 5 joueurs, le perdant donne 4 jetons au joueur qui l'a fait perdre et 1 jeton à chacun des 3 autres joueurs. Avec ce système de marque, il y a une prime pour le joueur qui est doué pour tromper les autres joueurs.
 
-## Strategy of Poker Menteur / Liar Poker
+## Stratégie du Poker Menteur / Liar Poker
 
-*This advice was written by Jean-Pierre Coulon.*
+*Ces conseils ont été écrits par Jean-Pierre Coulon.*
 
-### General Principles
+### Principes généraux
 
-Pay full attention to the declarations of the other players, not only those of your right hand neighbour, to help you guess until which moment declarations are genuine. Also pay attention to the number of cards exchanged. Do not lose track of the progression simply because a player suggested opening the window. 
+Portez une attention complète aux déclarations des autres joueurs, pas seulement à ceux de votre voisin de droite, pour vous aider à deviner jusqu'à quel moment les déclarations sont authentiques. Portez aussi attention au nombre de cartes échangées. Ne perdez pas la trace de la progression simplement parce qu'un joueur a suggéré d'ouvrir la fenêtre.
 
-As we shall see, the strategy often needs be adapted to the number of players involved in the game. 
+Comme nous le verrons, la stratégie doit souvent être adaptée au nombre de joueurs impliqués.
 
-The card exchange strategy may be somewhat different from that of regular Draw Poker. For example, if you have just accepted two pairs and a pretty high card, it is wiser to exchange three cards to try to get Three of a Kind, rather than exchanging one card to get a Full House. Needless to say that once you have accepted a fake Three of a Kind, you won't exchange more than two cards (except in a game for two players).
+La stratégie d'échange de cartes peut être quelque peu différente de celle du Draw Poker régulier. Par exemple, si vous venez d'accepter deux paires et une carte assez haute, il est plus sage d'échanger trois cartes pour essayer d'obtenir un brelan, plutôt que d'échanger une carte pour obtenir un Full. Inutile de dire qu'une fois que vous avez accepté un faux brelan, vous n'échangerez pas plus de deux cartes (sauf dans un jeu à deux joueurs).
 
-Do not take the risk of saying "liar" simply because you think a declaration is likely to be fake (except with two players); you must also evaluate the likelihood of getting a genuine, higher hand after the draw. Does your left hand neighbour have good reasons for also suspecting the declaration? Saying "liar" is a sort of sacrifice for the community at this game, so leave it to others when possible. 
+Ne prenez pas le risque de dire « menteur » simplement parce que vous pensez qu'une déclaration est probablement fausse (sauf à deux joueurs) ; vous devez aussi évaluer la probabilité d'obtenir une main authentique supérieure après la pioche. Votre voisin de gauche a-t-il de bonnes raisons de soupçonner aussi la déclaration ? Dire « menteur » est une sorte de sacrifice pour la communauté à ce jeu, alors laissez-le aux autres quand c'est possible.
 
-### Which player should you cause to lose the round when possible?
+### Quel joueur devriez-vous faire perdre le tour quand c'est possible ?
 
-There is an important strategy point that will dictate the next few ones: assuming the game is played clockwise, choose your declarations so as to cause one of your closest **right** hand neighbours to lose the round, rather than your **left** hand neighbours. The loser will start the next round, and if the loser is to your right, when the cards reach you, they will be relatively fresh, and your left neighbour will have few clues about that hand. The more a hand has been played before it reaches you, the more difficult to play it will be for you.
+Il y a un point stratégique important qui dictera les suivants : en supposant que le jeu se déroule dans le sens horaire, choisissez vos déclarations de manière à faire perdre le tour à l'un de vos voisins **droits** les plus proches, plutôt qu'à vos voisins **gauches**. Le perdant commencera le tour suivant, et si le perdant est à votre droite, quand les cartes arriveront jusqu'à vous, elles seront relativement fraîches, et votre voisin de gauche aura peu d'indices sur cette main. Plus une main a été jouée avant d'arriver jusqu'à vous, plus il sera difficile pour vous de la jouer.
 
-With a large number of players, do not lie more that necessary. There will be enough times where you are forced to. You are not there to give penalty points to your left hand neighbour, but to **any** other player. 
+Avec un grand nombre de joueurs, ne mentez pas plus que nécessaire. Il y aura assez de moments où vous y serez forcé. Vous n'êtes pas là pour donner des points de pénalité à votre voisin de gauche, mais à **n'importe quel** autre joueur.
 
-### How precisely should you declare your hand?
+### Avec quelle précision devez-vous déclarer votre main ?
 
-Consider that adding some precision to the last declaration is a valid declaration. Examples: "Three Eights" following "Three of a kind" is valid, so is "Three Eights, and a Queen" following " Three Eights", or "Three Eights, Queen, Seven" following "Three Eights, Queen". So if you want to allow your left side neighbour to stay pat (i.e. exchange no cards), and add some precision to your declaration it is **your** problem. 
+Considérez qu'ajouter de la précision à la dernière déclaration est une déclaration valide. Exemples : « Trois Huit » après « Brelan » est valide, tout comme « Trois Huit, et une Dame » après « Trois Huit », ou « Trois Huit, Dame, Sept » après « Trois Huit, Dame ». Donc si vous voulez permettre à votre voisin de gauche de rester (c'est-à-dire de n'échanger aucune carte), et d'ajouter de la précision à votre déclaration, c'est **votre** problème.
 
-### When to declare a hand much lower than that present?
+### Quand déclarer une main bien inférieure à celle présente ?
 
-This is a tremendous favour to your left hand neighbour, but it helps to create confusion between the subsequent players when someone will drastically raises his declaration. But beware of the following: your left hand neighbour may say "liar" even for the small declaration. If the small declaration is not actually present in the hand, you will be considered a liar. Example : "two Queens" when there are actually four Queens is not a lie, but "two Queens" when there are actually four Kings is a lie, unless the fifth card is a Queen and there is wild card involved in the four Kings. 
+C'est une immense faveur à votre voisin de gauche, mais cela aide à créer de la confusion entre les joueurs suivants quand quelqu'un augmentera drastiquement sa déclaration. Mais attention : votre voisin de gauche peut dire « menteur » même pour la petite déclaration. Si la petite déclaration n'est pas effectivement présente dans la main, vous serez considéré comme un menteur. Exemple : « deux Dames » quand il y a en fait quatre Dames n'est pas un mensonge, mais « deux Dames » quand il y a en fait quatre Rois est un mensonge, sauf si la cinquième carte est une Dame et qu'il y a un joker impliqué dans les quatre Rois.
 
-### Sabotaging a hand
+### Saboter une main
 
-For example assume Three Aces have been around for a while, with both side cards slowly going up and up. When it is your play, discard two aces instead of the two side cards, and declare something likely. If the hand continues around as far as your right side neighbour, you will have a tremendous advantage. But beware that is not unfair for other players to memorize card positions in the hand, and observe which ones you are discarding. Shuffling the hand before discarding, or hiding it under the table obviously betrays your plans. 
+Par exemple, supposez que trois As ont circulé pendant un moment, avec les deux cartes d'accompagnement montant lentement. Quand c'est votre tour de jouer, défaussez deux as au lieu des deux cartes d'accompagnement, et déclarez quelque chose de probable. Si la main continue jusqu'à votre voisin de droite, vous aurez un avantage considérable. Mais attention, il n'est pas déloyal pour les autres joueurs de mémoriser les positions des cartes dans la main et d'observer lesquelles vous défaussez. Mélanger la main avant de la défausser, ou la cacher sous la table trahit évidemment vos plans.
 
-When you start a round after having lost the previous one, resist to the temptation of having your revenge by starting with a gross lie like "Three Aces" : experienced players have notions about Poker hand odds. There is nothing dishonorable in declaring just a single high card.
+Quand vous commencez un tour après avoir perdu le précédent, résistez à la tentation de vous venger en commençant par un gros mensonge comme « Trois As » : les joueurs expérimentés ont des notions sur les probabilités des mains de poker. Il n'y a rien de déshonorant à déclarer simplement une seule carte haute.
 
-### Players acting as partners and ethics
+### Joueurs agissant en partenaires et éthique
 
-If you have agreed to finish the game when one player has reached a fixed number of points, it is the common interest of the other players to give penalty points to that player, by using underdeclaring and lack of precision. Beware that this may fail if this player is skilled, and you may be the victim. Are you sure that the other players understand the plan? 
+Si vous avez convenu de terminer le jeu quand un joueur atteint un nombre fixé de points, c'est l'intérêt commun des autres joueurs de donner des points de pénalité à ce joueur, en sous-déclarant et en manquant de précision. Attention, cela peut échouer si ce joueur est habile, et vous pourriez en être la victime. Êtes-vous sûr que les autres joueurs comprennent le plan ?
 
-It is possible for a group of players sitting together to help each other from the beginning of the game. Such an alliance is definitely considered unethical in Poker Menteur. 
+Il est possible pour un groupe de joueurs assis ensemble de s'aider mutuellement dès le début du jeu. Une telle alliance est considérée comme déloyale au Poker Menteur.
 
-### Courtesy at Poker Menteur
+### Courtoisie au Poker Menteur
 
-- Do not speak when not involved in the current hand transaction. 
+- Ne parlez pas quand vous n'êtes pas impliqué dans la transaction de la main en cours.
 
-- Declare side cards that go with a Pair or Three of a Kind in decreasing order, to facilitate comparisons. 
+- Déclarez les cartes d'accompagnement qui vont avec une Paire ou un Brelan dans l'ordre décroissant, pour faciliter les comparaisons.
 
-- When you declare, do not pause between the words; it is unethical to trap your left neighbour into saying "OK" before you have finished declaring. 
+- Quand vous déclarez, ne faites pas de pause entre les mots ; il est déloyal de piéger votre voisin de gauche pour qu'il dise « OK » avant que vous ayez fini de déclarer.
 
-- Announce the number of cards you wish to exchange aloud, when you lay them face down on the table. 
+- Annoncez le nombre de cartes que vous souhaitez échanger à voix haute, quand vous les posez face cachée sur la table.
 
-- When you get caught after having declared a fake, high hand, do not irritate the other players by laying the first three or four genuine cards of the declaration face up one by one, to create some "suspense". 
+- Quand vous êtes pris après avoir déclaré une main fausse élevée, n'irritez pas les autres joueurs en posant les trois ou quatre premières cartes authentiques de la déclaration face visible une par une, pour créer du « suspense ».
 
-- When a round finishes, do not reveal information about what was in the hand when you held it.
-
-Home Page > Classified Index > Card Passing Games > Poker Menteur
+- Quand un tour se termine, ne révélez pas d'information sur ce qu'il y avait dans la main quand vous la déteniez.

@@ -1,89 +1,88 @@
-# Sab’at Al-Deemin
+# Sab'at Al-Deemin
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A Saudi Arabian card game for four players in partnership in which cards are built in piles by suit from 7 up to Ace.
+**But :** Un jeu de cartes saoudien pour quatre joueurs en partenariat, dans lequel les cartes sont posées en piles par couleur, du 7 jusqu'à l'As.
+**Autres noms :** Fan Tan, Sevens
 
 ---
 
 ## Introduction
 
-The Saudi game Sab’at Al-Deemin (سعبة الديمن), meaning '7 of diamonds' is related to the Anglo-American game known as Fan Tan or Sevens, but is played as a partnership game with enhanced scoring and using a 32-card pack in which Sevens are the lowest cards. The object is to get rid of all one's cards by playing them to a layout, with each suit played in an ascending pile beginning with the Seven and ending with the Ace. 
+Le jeu saoudien Sab'at Al-Deemin (سبعة الديمن), signifiant « 7 de carreaux », est apparenté au jeu anglo-américain connu sous le nom de Fan Tan ou Sevens, mais se joue en partenariat avec une notation améliorée et utilise un jeu de 32 cartes dans lequel les Sept sont les cartes les plus basses. Le but est de se débarrasser de toutes ses cartes en les posant sur un plateau, chaque couleur étant posée en pile ascendante commençant par le Sept et se terminant par l'As.
 
-*This page is based on information from Fahid Alharbie, passed on to me by Sultan Ratrout.*
+*Cette page est basée sur des informations de Fahid Alharbie, transmises par Sultan Ratrout.*
 
-## Players and Cards
+## Joueurs et cartes
 
-The game is for four players in fixed partnerships, each player sitting opposite their partner and between their two opponents. 
+Le jeu est pour quatre joueurs en partenariats fixes, chaque joueur étant assis en face de son partenaire et entre ses deux adversaires.
 
-A 32-card pack is used, made by removing all the 2's, 3's, 4's, 5's, 6's and Jokers from a standard international deck. The cards in each suit rank A-K-Q-J-10-9-8-7.
+On utilise un jeu de 32 cartes, constitué en retirant tous les 2, 3, 4, 5, 6 et Jokers d'un jeu international standard. Les cartes de chaque couleur rangent A-R-D-V-10-9-8-7.
 
-Deal and play are anticlockwise.
+La donne et le jeu se font dans le sens antihoraire.
 
-## Deal, Doubling and Trebling
+## Donne, Double et Triple
 
-Any player may deal first, and the turn to deal passes to the right after each hand. The dealer shuffles thoroughly and the player to dealer's right may cut. The dealer deals all the cards, anticlockwise one card at a time or in batches of two or more cards at a time as the dealer wishes, starting with the player to dealer's right. 
+N'importe quel joueur peut donner en premier, et le tour de donner passe à droite après chaque main. Le donneur mélange soigneusement et le joueur à la droite du donneur peut couper. Le donneur distribue toutes les cartes dans le sens antihoraire, une carte à la fois ou par paquets de deux cartes ou plus à la fois, à la guise du donneur, en commençant par le joueur à sa droite.
 
-After the players have looked at their cards, and before the play begins, the following actions are possible.
+Après que les joueurs ont regardé leurs cartes, et avant que le jeu ne commence, les actions suivantes sont possibles :
 
-- Any player who has three Kings or three Aces has the right to demand a redeal. The player may consult their partner before exercising this right.
+- Tout joueur ayant trois Rois ou trois As a le droit d'exiger une redistribution. Le joueur peut consulter son partenaire avant d'exercer ce droit.
 
-- A player may announce **'double'** in which case all the scores for the hand are doubled.
+- Un joueur peut annoncer **« double »**, auquel cas tous les scores de la main sont doublés.
 
-- If a player has announced 'double', either of their opponents may respond by announcing **'treble'**, in which case the score for the hand is trebled instead of doubled.
+- Si un joueur a annoncé « double », l'un de ses adversaires peut répondre en annonçant **« triple »**, auquel cas le score de la main est triplé au lieu d'être doublé.
 
-## Play
+## Jeu
 
-After checking that anyone who wants to demand a redeal or double or treble the scores has had an opportunity to do so, the player who holds the 7 of diamonds begins the play by placing this card face up on the table.
+Après s'être assuré que quiconque souhaite exiger une redistribution, doubler ou tripler les scores a eu l'opportunité de le faire, le joueur qui détient le 7 de carreaux commence le jeu en posant cette carte face ouverte sur la table.
 
-The play continues anticlockwise. Each player in turn **must** if possible play **one card** to the layout. This must either be:
+Le jeu continue dans le sens antihoraire. Chaque joueur à son tour **doit**, si possible, jouer **une carte** sur le plateau. Cela doit être soit :
 
-- the next higher card of a suit that is already on the table, played on top of the pile for that suit - for example the 8 of diamonds can be played on the 7, then a later player can play the 9 on the 8 and so on, or
+- la carte immédiatement supérieure d'une couleur déjà sur la table, posée sur la pile de cette couleur — par exemple, le 8 de carreaux peut être posé sur le 7, puis un joueur ultérieur peut poser le 9 sur le 8 et ainsi de suite, ou
 
-- the 7 of a new suit, played on the table to begin the pile for that suit.
+- le 7 d'une nouvelle couleur, posé sur la table pour commencer la pile de cette couleur.
 
-In this way four piles are built, one for each suit, with the cards in ascending order.
+Ainsi, quatre piles sont construites, une pour chaque couleur, avec les cartes dans l'ordre ascendant.
 
-A player who has no card that can be played must pass, which may be done by knocking on the table. The turn passes to the next player. Note that it is **illegal** to pass when holding a card that could have been played. 
+Un joueur qui n'a aucune carte jouable doit passer, ce qui peut être fait en tapotant la table. Le tour passe au joueur suivant. Notez qu'il est **interdit** de passer en détenant une carte qui aurait pu être jouée.
 
-A player who has only one card remaining in hand must warn the other players immediately after playing their second to last card.
+Un joueur qui n'a plus qu'une carte en main doit prévenir les autres joueurs immédiatement après avoir joué son avant-dernière carte.
 
-## Scoring
+## Notation
 
-As soon as a player plays their last card to the layout, their team wins the hand. The play ends immediately and the winning team scores as follows.
+Dès qu'un joueur joue sa dernière carte sur le plateau, son équipe gagne la main. Le jeu s'arrête immédiatement et l'équipe gagnante marque comme suit :
 
-- For each Ace remaining in the hands of the losing team: **20 points.**
+- Pour chaque As restant dans les mains de l'équipe perdante : **20 points.**
 
-- For each King, Queen and Jack remaining in the hands of the losing team: **10 points.**
+- Pour chaque Roi, Dame et Valet restant dans les mains de l'équipe perdante : **10 points.**
 
-- If the winner ended the play by playing a 7 as their last card: **200 points.**
+- Si le gagnant a terminé le jeu en jouant un 7 comme dernière carte : **200 points.**
 
-If any player announced 'double', the above scores are doubled: 40 for an Ace, 20 for a picture card (K, Q, J), 400 for ending with a 7.
+Si un joueur a annoncé « double », les scores ci-dessus sont doublés : 40 pour un As, 20 pour une figure (R, D, V), 400 pour avoir terminé avec un 7.
 
-If any player announced 'double' and one of their opponents replied 'treble', the scores are trebled. A: 60, K Q J: 30, ending with a 7: 600.
+Si un joueur a annoncé « double » et qu'un de ses adversaires a répondu « triple », les scores sont triplés. A : 60, R D V : 30, terminer avec un 7 : 600.
 
-Note that there is no score for any unplayed 10's, 9's, 8's or 7's, and no score for any unplayed cards held by the winner's partner.
+Notez qu'il n'y a pas de score pour les 10, 9, 8 ou 7 non joués, ni pour les cartes non jouées détenues par le partenaire du gagnant.
 
-### Penalties
+### Pénalités
 
-If a player breaks the rules and this is pointed out before the hand is scored, the opposing team immediately scores a fixed penalty of 100 points (not affected by doubling or trebling). This penalty is scored if:
+Si un joueur enfreint les règles et que cela est signalé avant que la main ne soit notée, l'équipe adverse marque immédiatement une pénalité fixe de 100 points (non affectée par le double ou le triple). Cette pénalité est marquée si :
 
-- a player passes while holding a card that could have been played;
+- un joueur passe alors qu'il détient une carte qui aurait pu être jouée ;
 
-- a player plays a card of the wrong suit to a pile - for example the 10 of clubs on the 9 of spades;
+- un joueur joue une carte de la mauvaise couleur sur une pile — par exemple le 10 de trèfles sur le 9 de piques ;
 
-- a player plays a card to a pile that is not the next in sequence - for example the 9 of hearts on the 7 of hearts;
+- un joueur joue une carte sur une pile qui n'est pas la suivante dans la séquence — par exemple le 9 de cœurs sur le 7 de cœurs ;
 
-- a player plays a card out of turn;
+- un joueur joue une carte hors tour ;
 
-- a player with only one card fails to warn the other players before the next player has had their turn;
+- un joueur avec une seule carte omet de prévenir les autres joueurs avant que le joueur suivant n'ait eu son tour ;
 
-- a player makes any comment or gesture indicating to their partner a card that they hold or suggesting which card they would like partner to play.
+- un joueur fait tout commentaire ou geste indiquant à son partenaire une carte qu'il détient ou suggérant quelle carte il aimerait que son partenaire joue.
 
-The error must be corrected if possible and the play continues. If an error is not noticed until after the hand has been scored, there is no penalty.
+L'erreur doit être corrigée si possible et le jeu continue. Si une erreur n'est pas remarquée après que la main a été notée, il n'y a pas de pénalité.
 
-### Winning
+### Victoire
 
-The first team whose cumulative score reaches 500 or more points wins the game. 
-
-Home Page > Classified Index > Layout Group > 7 of Diamonds
+La première équipe dont le score cumulé atteint 500 points ou plus gagne la partie.

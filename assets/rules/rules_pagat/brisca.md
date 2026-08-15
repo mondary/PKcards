@@ -2,20 +2,18 @@
 
 **Difficulté :** —
 **Type :** As-dix, Plis
-**But :** How to play the Spanish game Brisca for 2 or more players in which the highest cards are the Ace (11 points) and the Three (10 points). Links to rules of the game.
+**But :** Comment jouer à Brisca, jeu espagnol pour 2 joueurs ou plus, dans lequel les cartes les plus fortes sont l'As (11 points) et le Trois (10 points).
 
 ---
 
-**Brisca** is a popular Spanish game, very similar to the Italian game Briscola. 
+**Brisca** est un jeu espagnol très populaire, très semblable au jeu italien Briscola.
 
-Rules of Brisca will eventually appear on this page. Meanwhile, you can read a descriptions of Brisca on:
+Les règles de Brisca paraîtront un jour sur cette page. En attendant, vous pouvez consulter des descriptions de Brisca sur :
 
-- the [Brisca page](https://www.nhfournier.es/en/como-jugar/brisca/) by the Spanish card manufacturer Fournier
+- la [page Brisca](https://www.nhfournier.es/en/como-jugar/brisca/) du fabricant espagnol de cartes Fournier
 
-- José M. Carrillo-Muniz's page on [Games with the Spanish Pack](https://web.archive.org/web/20260409053653/https://members.tripod.com/~j_carrillo_vii/Briscas1.htm).
+- la page de José M. Carrillo-Muniz sur les [Jeux avec le jeu espagnol](https://web.archive.org/web/20260409053653/https://members.tripod.com/~j_carrillo_vii/Briscas1.htm).
 
-- the Spanish [Brisca Wikipedia page](https://es.wikipedia.org/wiki/Brisca)
+- la page [Wikipedia espagnole sur Brisca](https://es.wikipedia.org/wiki/Brisca)
 
-You can play Brisca online, either against bots or against human opponents with App4Dream's [BriscaCard](https://briscacard.bycdx.com/), either online in a web browser or tusing their [Android app](https://play.google.com/store/apps/details?id=com.a4d.briscacard&hl=en).
-
-Home Page > Classified Index > Trick Taking Games > Ace-Ten Games > Brisca
+Vous pouvez jouer à Brisca en ligne, contre des bots ou contre des adversaires humains, avec l'[application BriscaCard](https://briscacard.bycdx.com/) d'App4Dream, soit dans un navigateur web, soit via leur [application Android](https://play.google.com/store/apps/details?id=com.a4d.briscacard&hl=en).

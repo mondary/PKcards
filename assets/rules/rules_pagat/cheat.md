@@ -2,60 +2,58 @@
 
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** Bullshit or I Doubt It in which cards are played face down and players may lie about what cards they are playing.
+**But :** Bullshit ou I Doubt It, dans lequel les cartes sont jouées face cachée et les joueurs peuvent mentir sur les cartes qu'ils jouent.
 
 ---
 
 ## Introduction
 
-This game is generally called **Cheat** in Britain and **Bullshit** in the USA. In many books it appears as **I Doubt It**. The aim is to get rid of all your cards by playing them to a discard pile. Since cards are played face down, giving players the option to lie about the cards they are playing, but if the lie is exposed they must pick up the pile.
+Ce jeu est généralement appelé **Cheat** en Grande-Bretagne et **Bullshit** aux États-Unis. Dans de nombreux livres, il apparaît sous le nom **I Doubt It**. Le but est de se débarrasser de toutes ses cartes en les jouant dans une pile de défausse. Les cartes étant jouées face cachée, les joueurs ont la possibilité de mentir sur les cartes qu'ils jouent, mais si le mensonge est découvert, ils doivent ramasser la pile.
 
-In this game each player plays the next rank above the previous player. Please note that there is another game, also known as **I Doubt It** or **Bluff**, in which all players are required to play the **same** rank until there is a challenge. That version of I Doubt It is described on a separate page.
+Dans ce jeu, chaque joueur joue le rang supérieur au joueur précédent. Veuillez noter qu'il existe un autre jeu, également connu sous le nom **I Doubt It** ou **Bluff**, dans lequel tous les joueurs doivent jouer le **même** rang jusqu'à ce qu'il y ait une contestation. Cette version d'I Doubt It est décrite sur une page séparée.
 
-*This page is partly based on a contribution from Mike Stabosz*
+*Cette page est en partie basée sur une contribution de Mike Stabosz*
 
-## Players and Cards
+## Joueurs et cartes
 
-The game can be played by from 2 to 10 players. One standard pack of 52 cards is used.
+Le jeu peut se jouer de 2 à 10 joueurs. On utilise un jeu standard de 52 cartes.
 
-## Play
+## Jeu
 
-All the cards are dealt out to the players; some may have more than others, but not by much. The object is to get rid of all your cards. Select at random who should go first and continue clockwise. 
+Toutes les cartes sont distribuées aux joueurs ; certains peuvent en avoir davantage que d'autres, mais pas de beaucoup. Le but est de se débarrasser de toutes ses cartes. On choisit au hasard qui commence, puis on continue dans le sens horaire.
 
-On the table is a discard pile, which starts empty. A turn consists of discarding one or more cards face down on the pile, and calling out their rank. The first player must discard Aces, the second player discards Twos, the next player Threes, and so on. After Tens come Jacks, then Queens, then Kings, then back to Aces, etc. 
+Sur la table se trouve une pile de défausse, qui commence vide. Un tour consiste à défausser une ou plusieurs cartes face cachée sur la pile et à annoncer leur rang. Le premier joueur doit défausser des As, le deuxième des Deux, le joueur suivant des Trois, et ainsi de suite. Après les Dix viennent les Valets, puis les Dames, puis les Rois, puis on retourne aux As, etc.
 
-Since the cards are discarded face down, you do not in fact have to play the rank you are calling. For example if it is your turn to discard Sevens, you may actually discard any card or mixture of cards; in particular, if you don't have any Sevens you will be forced to play some other card or cards. 
+Puisque les cartes sont défaussées face cachée, vous n'êtes pas obligé de jouer le rang que vous annoncez. Par exemple, si c'est votre tour de défausser des Sept, vous pouvez en réalité défausser n'importe quelle carte ou mélange de cartes ; en particulier, si vous n'avez pas de Sept, vous serez obligé de jouer une ou plusieurs autres cartes.
 
-Any player who suspects that the card(s) discarded by a player do not match the rank called can challenge the play by calling "Cheat!", "Bullshit!" or "I doubt it!" (depending on what you call the game). Then the cards played by the challenged player are exposed and one of two things happens:
+Tout joueur qui soupçonne que la ou les cartes défaussées par un joueur ne correspondent pas au rang annoncé peut contester le jeu en criant « Cheat ! », « Bullshit ! » ou « I doubt it ! » (selon le nom que vous donnez au jeu). Les cartes jouées par le joueur contesté sont alors révélées et l'une des deux choses suivantes se produit :
 
-- if they are all of the rank that was called, the challenge is false, and the challenger must pick up the whole discard pile;
+- si elles sont toutes du rang annoncé, la contestation est fausse et le contestataire doit ramasser toute la pile de défausse ;
 
-- if any of the played cards is different from the called rank, the challenge is correct, and the person who played the cards must pick up the whole discard pile.
+- si l'une des cartes jouées est différente du rang annoncé, la contestation est juste et la personne qui a joué les cartes doit ramasser toute la pile de défausse.
 
-After the challenge is resolved, play continues in normal rotation: the player to the left of the one who was challenged plays and calls the next rank in sequence. 
+Une fois la contestation résolue, le jeu continue dans l'ordre normal : le joueur à gauche de celui qui a été contesté joue et annonce le rang suivant dans la séquence.
 
-The first player to get rid of all their cards and survive any challenge resulting from their final play wins the game. If you play your last remaining card(s), but someone challenges you and the cards you played are not what you called, you pick up the pile and play continues.
+Le premier joueur à se débarrasser de toutes ses cartes et à survivre à toute contestation résultant de son dernier jeu gagne la partie. Si vous jouez votre ou vos dernière(s) carte(s) mais que quelqu'un vous conteste et que les cartes que vous avez jouées ne correspondent pas à ce que vous avez annoncé, vous ramassez la pile et le jeu continue.
 
-## Variations
+## Variantes
 
-If there are a lot of players, you may use two or more packs shuffled together.
+S'il y a beaucoup de joueurs, vous pouvez utiliser deux jeux ou plus mélangés ensemble.
 
-For some people the sequence of ranks which have to be played goes downward rather than upward, beginning A, K, Q, J, 10, ...
+Pour certaines personnes, la séquence des rangs à jouer va dans l'ordre décroissant plutôt que croissant, en commençant par A, R, D, V, 10, ...
 
-Some people play that you can (claim to) play **either** the next rank above **or** the next rank below the rank announced by the previous player. For instance if the player before you played some cards an said "two tens", and you do not wish to challenge, you have a choice of playing jacks or nines. 
+Certains jouent que vous pouvez (prétendre) jouer **soit** le rang immédiatement supérieur **soit** le rang immédiatement inférieur à celui annoncé par le joueur précédent. Par exemple, si le joueur avant vous a joué des cartes en disant « deux dix », et que vous ne souhaitez pas contester, vous avez le choix entre jouer des Valets ou des Neufs.
 
-Some allow cards of the same rank as the last card to be played, as well as the next higher or lower rank.
+Certains autorisent les cartes du même rang que la dernière carte à être jouées, ainsi que le rang supérieur ou inférieur.
 
-In the Chinese game known as  吹牛 (**chuī niú** = bragging)  or  说谎 (**shuō huăng** = lying) played in Fujian province, there is no restriction on the rank of cards to be played except that the cards in each set played must all be (claimed to be) equal. It would therefore be possible to play the whole game without lying, but then it would take you more turns to get rid of your cards than a player who was able to lie successfully. This version is normally played with several decks shuffled together, so that a player can claim to play a large number of cards of the same rank without it being an obvious lie. This game is described in [Mae Channing's blog](https://testmecards.wordpress.com/category/chinese-card-games/).
+Dans le jeu chinois connu sous le nom de 吹牛 (*chuī niú* = vantardise) ou 说谎 (*shuō huăng* = mensonge), joué dans la province du Fujian, il n'y a aucune restriction sur le rang des cartes à jouer, sauf que les cartes de chaque ensemble joué doivent toutes être (prétendues être) égales. Il serait donc possible de jouer toute la partie sans mentir, mais cela vous prendrait davantage de tours pour vous débarrasser de vos cartes qu'un joueur capable de mentir avec succès. Cette version se joue normalement avec plusieurs jeux mélangés, de sorte qu'un joueur peut prétendre jouer un grand nombre de cartes du même rang sans que ce soit un mensonge évident. Ce jeu est décrit dans le [blog de Mae Channing](https://testmecards.wordpress.com/category/chinese-card-games/).
 
-Some play that you can try cheat by playing more cards than you claim to have played - for example say three eights while playing three eights and a jack. This can be challenged in the usual way and you pick up the discard pile if your play did not match your call.
+Certains jouent que vous pouvez essayer de tricher en jouant plus de cartes que vous n'en avez annoncé — par exemple dire « trois huit » tout en jouant trois huit et un valet. Cela peut être contesté de la manière habituelle et vous ramassez la pile de défausse si votre jeu ne correspond pas à votre annonce.
 
-Description another version of this game can be found on Khopesh's [Bullshit](https://web.archive.org/web/20260326110318/https://khopesh.tripod.com/ent/bs.html) page (archive copy).
+La description d'une autre version de ce jeu se trouve sur la page [Bullshit de Khopesh](https://web.archive.org/web/20260326110318/https://khopesh.tripod.com/ent/bs.html) (copie d'archive).
 
-Two closely related games are described on other pages:
+Deux jeux étroitement apparentés sont décrits sur d'autres pages :
 
-- Another version of I Doubt It!, in which players must all play (or claim to play) the **same** rank.
+- Une autre version d'I Doubt It !, dans laquelle les joueurs doivent tous jouer (ou prétendre jouer) le **même** rang.
 
-- The Russian game Verish' ne Verish' ("trust - don't trust"), which is similar to the above. 
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > Cheat / Bullshit / I doubt It
+- Le jeu russe Verish' ne Verish' (« confiance — pas confiance »), qui est similaire au jeu ci-dessus.

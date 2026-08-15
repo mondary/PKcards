@@ -3,209 +3,199 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A Japanese card game for five players in which the high bidder chooses trumps and calls a card to find a partner.
+**But :** Jeu de cartes japonais pour cinq joueurs dans lequel le plus haut enchérisseur choisit l'atout et appelle une carte pour trouver un partenaire.
 
 ---
 
-This page is mostly based on information from Kuromiya Kimihiko.
+Cette page est principalement basée sur des informations de Kuromiya Kimihiko.
 
 ## Introduction
 
-This page describes the Japanese game of Napoleon. This is a point-trick game with trumps, and is currently the most popular trick-taking game in Japan. It is completely different from the British card game also known as Napoleon (or Nap, for short), which is described on the Nap page of this web site.
+Cette page décrit le jeu japonais de Napoleon. C'est un jeu de levées avec points et atouts, actuellement le jeu de levées le plus populaire au Japon. Il est complètement différent du jeu de cartes britannique également appelé Napoleon (ou Nap en abrégé), décrit sur la page Nap de ce site.
 
-Napoleon belongs to the picture group of games, collectively known in Japanese as Etori. These games appeared in the late 19th century and the earliest known description of Napoleon is from 1887.
+Napoleon appartient au groupe des jeux d'images, collectivement connus en japonais sous le nom d'Etori. Ces jeux sont apparus à la fin du 19e siècle et la première description connue de Napoleon date de 1887.
 
-## Players and cards
+## Joueurs et cartes
 
-Japanese Napoleon is best for five players, and the five-player game will be described first. It is also possible, though much less interesting, for two, three, four or six players to play - see variations. 
+Le Napoleon japonais se joue idéalement à cinq joueurs, et le jeu à cinq sera décrit en premier. Il est aussi possible, bien que beaucoup moins intéressant, de jouer à deux, trois, quatre ou six joueurs — voir variantes.
 
-Napoleon is played with a standard 52-card pack. The scoring cards are the ace, king, queen, jack and ten of each suit, which are worth one point each, so there are 20 card points altogether. The normal ranking of the cards in each suit from high to low is A-K-Q-J-10-9-8-7-6-5-4-3-2, but there are three special cards, which are the highest in the game.
+Napoleon se joue avec un jeu de 52 cartes standard. Les cartes marquantes sont l'as, le roi, la dame, le valet et le dix de chaque couleur, qui valent un point chacun, soit 20 points de cartes au total. Le classement normal des cartes dans chaque couleur, de haut en bas, est A-R-D-V-10-9-8-7-6-5-4-3-2, mais il y a trois cartes spéciales, qui sont les plus hautes du jeu.
 
-- The ace of spades is the most powerful card, irrespective of what suit is trumps. It is called the ohrumaiti (from the English 'almighty'), which is often shortened to maiti (mighty). In the early 20th century it was known as supekyureishon (from the English word "speculation"), and a few players still call it supeki. 
+- L'as de pique est la carte la plus puissante, quelle que soit la couleur de l'atout. Il est appelé ohrumaiti (de l'anglais « almighty »), souvent abrégé en maiti (mighty). Au début du 20e siècle, il était connu sous le nom de supekyureishon (de l'anglais « speculation »), et quelques joueurs l'appellent encore supeki.
 
-- The jack of the trump suit, known as sei jakku (regular jack) is the second highest card.
+- Le valet de la couleur de l'atout, connu sous le nom de sei jakku (valet régulier), est la deuxième carte la plus haute.
 
-- The jack of the same colour as trumps, known as the ura jakku (sub-jack) is the third highest card.
+- Le valet de la même couleur que l'atout, connu sous le nom d'ura jakku (sous-valet), est la troisième carte la plus haute.
 
-These three cards always belong to their own suits: for example, if hearts are trumps, the jack of diamonds (ura-jack) still belongs to diamonds, not to hearts, and the mighty always belongs to spades. When a red suit is trumps, therefore, the cards in hearts and diamonds rank from high to low J-A-K-Q-10-9-8-7-6-5-4-3-2, and the cards in spades and clubs A-K-Q-J-10-9-8-7-6-5-4-3-2. With black trumps, the spades rank A-J-K-Q-10-9-8-7-6-5-4-3-2, clubs J-A-K-Q-10-9-8-7-6-5-4-3-2, and hearts and diamonds A-K-Q-J-10-9-8-7-6-5-4-3-2.
+Ces trois cartes appartiennent toujours à leur propre couleur : par exemple, si les cœurs sont l'atout, le valet de carreau (ura-jack) appartient toujours aux carreaux, pas aux cœurs, et le mighty appartient toujours aux piques. Lorsqu'une couleur rouge est l'atout, les cartes de cœurs et de carreaux se classent de haut en bas V-A-R-D-10-9-8-7-6-5-4-3-2, et les cartes de piques et de trèfles A-R-D-V-10-9-8-7-6-5-4-3-2. Avec un atout noir, les piques se classent A-V-R-D-10-9-8-7-6-5-4-3-2, les trèfles V-A-R-D-10-9-8-7-6-5-4-3-2, et les cœurs et carreaux A-R-D-V-10-9-8-7-6-5-4-3-2.
 
-## Deal
+## Distribution
 
-The deal and play are clockwise. The dealer shuffles and deals each player ten cards, one at a time. The last two cards are put face-down in the middle of the table to form the blind. The turn to deal passes to the left after each hand.
+La distribution et le jeu se font dans le sens horaire. Le donneur mélange et distribue dix cartes à chaque joueur, une à la fois. Les deux dernières cartes sont placées face cachée au milieu de la table pour former le talon. Le tour de distribution passe à gauche après chaque main.
 
-## Bidding
+## Enchères
 
-The bidding begins with the player to dealer's left and goes clockwise around the table. A bid consists of a number of points (from 11 to 20) and a suit. A higher number outbids a lower number, and between bids of the same number, a higher suit outbids a lower suit, the suits ranking in ascending order: clubs, diamonds, hearts, spades. So the lowest possible bid is 11![club](../images/internat/club.gif) and the highest is 20![spade](../images/internat/spade.gif).
+Les enchères commencent avec le joueur à gauche du donneur et se poursuivent dans le sens horaire autour de la table. Une enchère consiste en un nombre de points (de 11 à 20) et une couleur. Un nombre plus élevé bat un nombre inférieur, et entre des enchères du même nombre, une couleur plus élevée bat une couleur plus basse, les couleurs se classant par ordre croissant : trèfles, carreaux, cœurs, piques. Ainsi, l'enchère la plus basse possible est 11![trèfle](../images/internat/club.gif) et la plus haute est 20![pique](../images/internat/spade.gif).
 
-Each player in turn must either bid higher than the previous bidder, or pass. A player who has passed takes no further part in the bidding. If all five players pass (which is unusual), the cards are thrown in and the same player deals again. If someone bids, the bidding continues clockwise for as many circuits as necessary until four players have passed. The player who made the last and highest bid becomes the declarer, known in this game as Napoleon. Napoleon's objective is, with the help of a partner, to win in tricks at least the number of points stated in the bid, with the named suit as trumps.
+Chaque joueur à son tour doit soit enchérir plus haut que l'enchérisseur précédent, soit passer. Un joueur qui a passé ne participe plus aux enchères. Si les cinq joueurs passent (ce qui est inhabituel), les cartes sont jetées et le même joueur redistribue. Si quelqu'un enchérit, les enchères continuent dans le sens horaire autant de tours que nécessaire jusqu'à ce que quatre joueurs aient passé. Le joueur qui a fait la dernière et plus haute enchère devient le déclarant, connu dans ce jeu sous le nom de Napoleon. L'objectif de Napoleon est, avec l'aide d'un partenaire, de gagner en levées au moins le nombre de points énoncé dans l'enchère, avec la couleur nommée comme atout.
 
-## Calling a partner and taking the blind
+## Appeler un partenaire et prendre le talon
 
-Napoleon now chooses a partner by calling any card - for example the maiti. The holder of this called card is the adjutant (fukkan), and is Napoleon's partner for the hand. The adjutant's identity remains secret until the called card is played. The other three players form a team whose aim is to prevent Napoleon and the adjutant from fulfilling the bid.
+Napoleon choisit maintenant un partenaire en appelant n'importe quelle carte — par exemple le maiti. Le détenteur de cette carte appelée est l'adjoint (fukkan) et est le partenaire de Napoleon pour la main. L'identité de l'adjoint reste secrète jusqu'à ce que la carte appelée soit jouée. Les trois autres joueurs forment une équipe dont le but est d'empêcher Napoleon et l'adjoint de réaliser l'enchère.
 
-Napoleon picks up the two blind cards without showing them, and discards two cards. If any scoring cards are discarded they are placed face-up and count for Napoleon's opponents; non-scoring cards are discarded face-down. If Napoleon finds the called card in the blind (or chose to call one of his own cards), he plays alone - this is called hitori-dachi (standing alone). It is not announced to the other players, but will become clear when Napoleon plays the called card.
+Napoleon ramasse les deux cartes du talon sans les montrer et en défausse deux. Si des cartes marquantes sont défaussées, elles sont placées face visible et comptent pour les adversaires de Napoleon ; les cartes non marquantes sont défaussées face cachée. Si Napoleon trouve la carte appelée dans le talon (ou s'il a choisi d'appeler une de ses propres cartes), il joue seul — c'est ce qu'on appelle hitori-dachi (être seul). Cela n'est pas annoncé aux autres joueurs, mais deviendra évident lorsque Napoleon jouera la carte appelée.
 
-## Play
+## Jeu
 
-Napoleon leads to the first trick, and winner of each trick leads to the next. Throughout the play it is compulsory to follow suit, and a player who has no card of the suit led can play any card. The first trick is played without trumps, and the maiti, sei-jakku and ura-jakku do not yet have their special status as high cards. The normal ranking of cards A-K-Q-J-10-9-8-7-6-5-4-3-2 therefore applies to all suits, and the trick is won by the highest card of the suit that Napoleon led. The winner of each trick leads to the next.
+Napoleon entame la première levée, et le gagnant de chaque levée entame la suivante. Pendant tout le jeu, il est obligatoire de suivre la couleur, et un joueur qui n'a pas de carte de la couleur demandée peut jouer n'importe quelle carte. La première levée se joue sans atout, et le maiti, le sei-jakku et l'ura-jakku n'ont pas encore leur statut spécial de cartes hautes. Le classement normal des cartes A-R-D-V-10-9-8-7-6-5-4-3-2 s'applique donc à toutes les couleurs, et la levée est gagnée par la plus haute carte de la couleur que Napoleon a entamée. Le gagnant de chaque levée entame la suivante.
 
-From the second trick onwards the trumps and the three special cards acquire their power. Also, the same two rule comes into effect. This rule says that in a trick where everyone plays the same suit, the two of the suit becomes the fourth highest card, beaten only by the three special cards.
+À partir de la deuxième levée, les atouts et les trois cartes spéciales acquièrent leur pouvoir. De plus, la règle du « deux identique » entre en vigueur. Cette règle dit que dans une levée où tout le joue la même couleur, le deux de la couleur devient la quatrième carte la plus haute, battu uniquement par les trois cartes spéciales.
 
-It is still compulsory to follow suit if you can. The trick is won by
+Il reste obligatoire de suivre la couleur si possible. La levée est gagnée par :
 
-- the maiti (![spade](../images/internat/spade.gif)A), if it was played
+- le maiti (![pique](../images/internat/spade.gif)A), s'il a été joué
 
-- the sei-jakku (trump jack), if the maiti was not played
+- le sei-jakku (valet d'atout), si le maiti n'a pas été joué
 
-- the ura-jakku (jack of the same colour as trumps) if neither the maiti nor the sei-jakku was played
+- l'ura-jakku (valet de la même couleur que l'atout) si ni le maiti ni le sei-jakku n'ont été joués
 
-- the two, if all the cards in the trick are of the same suit, and none of the three special cards was played ("same two" rule)
+- le deux, si toutes les cartes de la levée sont de la même couleur et qu'aucune des trois cartes spéciales n'a été jouée (règle du « deux identique »)
 
-- the highest trump in the trick, if none of the three special cards was played and the same two rule does not apply
+- le plus haut atout de la levée, si aucune des trois cartes spéciales n'a été jouée et que la règle du deux identique ne s'applique pas
 
-- the highest card of the suit led, if no special cards and no trumps were played, and the same two rule does not apply.
+- la plus haute carte de la couleur demandée, si aucune carte spéciale et aucun atout n'ont été joués, et que la règle du deux identique ne s'applique pas.
 
-The winner of the trick leads to the next.
+Le gagnant de la levée entame la suivante.
 
-During the play, all the scoring cards are stored face-up in front of the player who won them in a trick, and the other cards are piled face-down in a single heap.
+Pendant le jeu, toutes les cartes marquantes sont stockées face visible devant le joueur qui les a gagnées dans une levée, et les autres cartes sont empilées face cachée dans un tas unique.
 
-Example: diamonds are trumps and A is leading to a trick (not the first). The cards played by the five players are:
+Exemple : les carreaux sont l'atout et A entame une levée (pas la première). Les cartes jouées par les cinq joueurs sont :
 
-| A | B | C | D | E | result |
-| A | 3 | 7 | 10 | Q | A wins (highest heart) |
-| A | 2 | 7 | 10 | Q | B wins (same two rule) |
-| A | 2 | 7 | J | Q | D wins (ura-jakku) |
-| A | 2 | 7 | 10 | Q | A wins (highest heart) |
-| A | 2 | 7 | 10 | Q | C wins (with a trump) |
-| A | 2 | 7 | J | Q | D wins (ura-jakku) |
-| A | 2 | 7 | J | J | E wins (sei-jakku) |
+| A | B | C | D | E | résultat |
+| A | 3 | 7 | 10 | D | A gagne (plus haut cœur) |
+| A | 2 | 7 | 10 | D | B gagne (règle du deux identique) |
+| A | 2 | 7 | V | D | D gagne (ura-jakku) |
+| A | 2 | 7 | 10 | D | A gagne (plus haut cœur) |
+| A | 2 | 7 | 10 | D | C gagne (avec un atout) |
+| A | 2 | 7 | V | D | D gagne (ura-jakku) |
+| A | 2 | 7 | V | V | E gagne (sei-jakku) |
 
-## Scoring
+## Marque
 
-At the end of the play, the scoring cards won by Napoleon and the adjutant are counted. If the bid was less than 20 and Napoleon's team has taken at least as many as scoring cards as were bid, but not all 20 of them, Napoleon's team wins. Each member of the opposing team pays one chip, Napoleon wins two chips and the adjutant wins one. If Napoleon's team takes fewer scoring cards than the bid, Napoleon must pay two chips, the adjutant pays one, and the opponents collect a chip each. 
+À la fin du jeu, les cartes marquantes gagnées par Napoleon et l'adjoint sont comptées. Si l'enchère était inférieure à 20 et que l'équipe de Napoleon a pris au moins autant de cartes marquantes que l'enchère, mais pas les 20, l'équipe de Napoleon gagne. Chaque membre de l'équipe adverse paie un jeton, Napoleon gagne deux jetons et l'adjoint un. Si l'équipe de Napoleon prend moins de cartes marquantes que l'enchère, Napoleon doit payer deux jetons, l'adjoint en paie un, et les adversaires collectent un jeton chacun.
 
-Napoleon's team also loses if they take all 20 scoring cards having bid less than 20 - this is called the "Siberian rule". As usual, Napoleon must pay two chips, the adjutant pays one, and the opponents collect a chip each.
+L'équipe de Napoleon perd aussi si elle prend les 20 cartes marquantes en ayant enchéri moins de 20 — c'est la « règle sibérienne ». Comme d'habitude, Napoleon doit payer deux jetons, l'adjoint un, et les adversaires collectent un jeton chacun.
 
-However, if the bid was 20, the normal payments are doubled. If they succeed in taking all 20 points, each opponent pays 2 chips, Napoleon collects 4 chips and the adjutant 2. If the opponents manage to win any scoring cards, Napoleon must pay 4 chips and the adjutant 2, and the opponents collect 2 chips each.
+Cependant, si l'enchère était de 20, les paiements normaux sont doublés. S'ils réussissent à prendre les 20 points, chaque adversaire paie 2 jetons, Napoleon collecte 4 jetons et l'adjoint 2. Si les adversaires réussissent à gagner des cartes marquantes, Napoleon doit payer 4 jetons et l'adjoint 2, et les adversaires collectent 2 jetons chacun.
 
-In case of hitori-dachi, when Napoleon plays alone without an adjutant, the result is decided in the same way, counting just the scoring cards that Napoleon won in tricks. Each of the four opponents pays or receives 1 chip (2 if the bid was 20) and Napoleon therefore receives or pays 4 chips (8 if the bid was 20).
+En cas de hitori-dachi, quand Napoleon joue seul sans adjoint, le résultat est décidé de la même manière, en comptant uniquement les cartes marquantes que Napoleon a gagnées en levées. Chacun des quatre adversaires paie ou reçoit 1 jeton (2 si l'enchère était de 20) et Napoleon reçoit donc ou paie 4 jetons (8 si l'enchère était de 20).
 
-## Variations
+## Variantes
 
-Napoleon has numerous variations, some of which are described below.
+Napoleon a de nombreuses variantes, dont certaines sont décrites ci-dessous.
 
-### Bidding variations
+### Variantes d'enchères
 
-Bidding without turns
-Many groups do not follow the formal bidding procedure by which the bidders speak in clockwise order. Instead, the bidding can be started by anyone who wants to bid and the players speak in any order, each bid being higher than the last. The bidding continues until four of the players have said "pass".
-Minimum bid
-Some play that the minimum number of points that can be bid is 12; some groups even play with a minimum bid of 13.
-No-trump bids
-Some groups allow bids in no-trumps (NT). Usually no-trumps ranks above spades, so that for example a bid of 13 NT is higher than 13![spade](../images/internat/spade.gif) but lower than 14![club](../images/internat/club.gif), and the highest bid is 20 NT. However, some groups play that no-trump bids are lowest, a no-trump bid ranking below the same number in clubs.
-If the winning bid is in no-trumps, there is of course no trump suit. Therefore there is no sei-jack and no ura-jack. The mighty retains its usual power and the same two rule still applies as usual.
-Bidding after passing
-Some groups allow a player who has passed to bid later in the auction.
-Procedure when all pass
-If everyone passes in the bidding, many people play that the cards are thrown in and there is a redeal by the same dealer. 
-Some play that the two cards of the blind are turned up (or three cards, when Napoleon with a joker is played) and there is a second round of bidding; if everyone still passes, there is a redeal. 
-Others play that the player who holds the mighty is compelled to be Napoleon if everyone else passes.
+Enchères sans tours
+Beaucoup de groupes ne suivent pas la procédure formelle d'enchères où les joueurs parlent dans l'ordre horaire. Au lieu de cela, les enchères peuvent être lancées par n'importe qui qui veut enchérir et les joueurs parlent dans n'importe quel ordre, chaque enchère étant supérieure à la précédente. Les enchères continuent jusqu'à ce que quatre joueurs aient dit « passe ».
+Enchère minimale
+Certains jouent que le nombre minimum de points pouvant être enchéri est 12 ; certains groupes jouent même avec un minimum de 13.
+Enchères sans atout
+Certains groupes autorisent les enchères sans atout (SA). Généralement, sans atout se classe au-dessus des piques, de sorte que par exemple une enchère de 13 SA est supérieure à 13 ![pique](../images/internat/spade.gif) mais inférieure à 14 ![trèfle](../images/internat/club.gif), et l'enchère la plus haute est 20 SA. Cependant, certains groupes jouent que les enchères sans atout sont les plus basses, une enchère sans atout se classant sous le même nombre en trèfles.
+Si l'enchère gagnante est sans atout, il n'y a bien sûr pas de couleur d'atout. Par conséquent, il n'y a pas de sei-jack ni d'ura-jack. Le mighty conserve son pouvoir habituel et la règle du deux identique s'applique toujours.
+Enchères après avoir passé
+Certains groupes autorisent un joueur qui a passé à enchérir plus tard dans la vente.
+Procédure quand tous passent
+Si tout le monde passe aux enchères, beaucoup jouent que les cartes sont jetées et qu'il y a une redistribution par le même donneur.
+Certains jouent que les deux cartes du talon sont retournées (ou trois cartes, quand on joue à Napoleon avec un joker) et qu'il y a un deuxième tour d'enchères ; si tout le monde passe encore, il y a une redistribution.
+D'autres jouent que le joueur qui détient le mighty est obligé d'être Napoleon si tous les autres passent.
 
-### Variations in the role of the special cards
+### Variantes du rôle des cartes spéciales
 
-First trick
-Some play that the three special cards have their power in the first trick, though there are no trumps as yet. Others play that the mighty has its power, but not the jacks. Some play that Napoleon is not allowed to lead a trump to the first trick.
-Yoromeki (Enchantress)
-Some play that if the mighty and the yoromeki (the queen of hearts) are played in the same trick, the yoromeki beats the mighty.
-Special cards are top trumps
-Some play that the mighty and the ura-jack belong to the trump suit, not to their own suits.
-For example, if hearts are trumps, the mighty and the ura-jack (![spade](../images/internat/spade.gif)A and ![diamond](../images/internat/diamond.gif)J) belong to hearts, and can be played on any heart lead. If either of these cards are led the other players are compelled to follow with hearts if they can. When spades are led (and spades are not trumps), you cannot play the mighty unless you have no other spades, in which case you can play any card; similarly, when the suit the same colour as trumps is led, you cannot play the ura-jack unless you have no card of the suit led. If a trump is led, and you have no trumps except the mighty or ura-jack, you are compelled to play one of these cards.
-So in this variation the mighty, sei-jack and ura-jack behave just like the joker, right bower and left bower in 500 or Euchre.
+Première levée
+Certains jouent que les trois cartes spéciales ont leur pouvoir dès la première levée, bien qu'il n'y ait pas encore d'atout. D'autres jouent que seul le mighty a son pouvoir, mais pas les valets. Certains jouent que Napoleon n'est pas autorisé à entamer avec un atout à la première levée.
+Yoromeki (Enchanteresse)
+Certains jouent que si le mighty et le yoromeki (la dame de cœur) sont joués dans la même levée, le yoromeki bat le mighty.
+Les cartes spéciales sont les atouts les plus hauts
+Certains jouent que le mighty et l'ura-jack appartiennent à la couleur de l'atout, non à leur propre couleur.
+Par exemple, si les cœurs sont l'atout, le mighty et l'ura-jack (![pique](../images/internat/spade.gif)A et ![carreau](../images/internat/diamond.gif)V) appartiennent aux cœurs et peuvent être joués sur n'importe quelle entame de cœur. Si l'une de ces cartes est entamée, les autres joueurs sont obligés de suivre avec des cœurs s'ils le peuvent. Quand les piques sont entamés (et que les piques ne sont pas l'atout), vous ne pouvez pas jouer le mighty sauf si vous n'avez pas d'autres piques, auquel cas vous pouvez jouer n'importe quelle carte ; de même, quand la couleur de la même couleur que l'atout est entamée, vous ne pouvez pas jouer l'ura-jack sauf si vous n'avez pas de carte de la couleur entamée. Si un atout est entamé et que vous n'avez pas d'atouts sauf le mighty ou l'ura-jack, vous êtes obligé de jouer l'une de ces cartes.
+Dans cette variante, le mighty, le sei-jack et l'ura-jack se comportent exactement comme le joker, le bower droit et le bower gauche au 500 ou à l'Euchre.
 
-### Napoleon with a joker
+### Napoleon avec joker
 
-A standard 52 card deck with one joker (53 cards in all) is used. The dealer shuffles and deals each player ten cards, one at a time. The last three cards are put face-down in the middle to form the blind.
+On utilise un jeu de 52 cartes standard avec un joker (53 cartes au total). Le donneur mélange et distribue dix cartes à chaque joueur, une à la fois. Les trois dernières cartes sont placées face cachée au milieu pour former le talon.
 
-The joker is a special card. It is the weakest card and can never win a trick unless it is led. You can play the joker at any time you want, regardless of the suit led. Some play that Same Two is not valid in the trick to which the joker is played since the joker doesn't belong to any suits; others play, however, that Same Two is still valid if the other four cards belong to the same suit and one of them is the two.
+Le joker est une carte spéciale. C'est la carte la plus faible et elle ne peut jamais gagner une levée sauf si elle est entamée. Vous pouvez jouer le joker à tout moment, quelle que soit la couleur demandée. Certains jouent que le « deux identique » n'est pas valide dans la levée à laquelle le joker est joué puisque le joker n'appartient à aucune couleur ; d'autres jouent cependant que le « deux identique » reste valide si les quatre autres cartes appartiennent à la même couleur et que l'une d'elles est le deux.
 
-There are numerous variations as to what happens when the joker is led. Two of the most popular are as follows.
+Il y a de nombreuses variantes sur ce qui se passe quand le joker est entamé. En voici deux des plus populaires.
 
-1. Joker as strong trump hunter
-When the joker is led, the other players must play a trump if they have any. Those with no trumps can play any card. The joker itself becomes the fourth strongest card; in other words, it is beaten only by the mighty, the sei-jack or the ura-jack. (Some play that the joker becomes the second strongest; it
-beats even the sei-jack or the ura-jack, and is beaten only by the mighty.)
-Leading the joker to the first trick is forbidden.
-Some play that the ![spade](../images/internat/spade.gif)3 is the joker hunter. If the joker hunter is led, the player who has the joker must play it. (Remember the rule that the joker is the weakest card unless led.)
-2. Joker as weak trump hunter
-Some play that when the joker is led, the other players must play a trump if they have any, and anyone who does not have a trump must play a scoring card if possible. If they have no trumps and no scoring cards, they may play any card. The joker itself is regarded as the weakest trump. In other words, the joker wins the trick unless anyone has played a trump or one of the three special cards. This means that the joker loses the trick in most cases.
-Leading the joker to the first trick is forbidden.
-When playing with the joker as a weak trump hunter it is normal to play without a joker hunter.
+1. Joker comme chasseur d'atouts fort
+Quand le joker est entamé, les autres joueurs doivent jouer un atout s'ils en ont. Ceux qui n'ont pas d'atouts peuvent jouer n'importe quelle carte. Le joker lui-même devient la quatrième carte la plus forte ; en d'autres termes, il n'est battu que par le mighty, le sei-jack ou l'ura-jack. (Certains jouent que le joker devient le deuxième plus fort ; il bat même le sei-jack ou l'ura-jack, et n'est battu que par le mighty.)
+Entamer avec le joker à la première levée est interdit.
+Certains jouent que le ![pique](../images/internat/spade.gif)3 est le chasseur de joker. Si le chasseur de joker est entamé, le joueur qui a le joker doit le jouer. (Rappelez-vous la règle selon laquelle le joker est la carte la plus faible sauf s'il est entamé.)
+2. Joker comme chasseur d'atouts faible
+Certains jouent que quand le joker est entamé, les autres joueurs doivent jouer un atout s'ils en ont, et que tout joueur qui n'a pas d'atout doit jouer une carte marquante si possible. S'ils n'ont ni atout ni carte marquante, ils peuvent jouer n'importe quelle carte. Le joker lui-même est considéré comme l'atout le plus faible. En d'autres termes, le joker gagne la levée sauf si quelqu'un a joué un atout ou l'une des trois cartes spéciales. Cela signifie que le joker perd la levée dans la plupart des cas.
+Entamer avec le joker à la première levée est interdit.
+Quand on joue avec le joker comme chasseur d'atouts faible, il est normal de jouer sans chasseur de joker.
 
-### Variations in scoring
+### Variantes de marque
 
-Some play that if Napoleon's opponents take no scoring cards in their tricks and Napoleon has bid less than 20, Napoleon's team loses. In this variation, Napoleon cannot protect himself from the "Siberian rule" by including a scoring card in the two cards he discards before play begins.
+Certains jouent que si les adversaires de Napoleon ne prennent aucune carte marquante dans leurs levées et que Napoleon a enchéri moins de 20, l'équipe de Napoleon perd. Dans cette variante, Napoleon ne peut pas se protéger de la « règle sibérienne » en incluant une carte marquante dans les deux cartes qu'il défausse avant le début du jeu.
 
-Some people adopt the rule that the payments are doubled when Napoleon bids 14, tripled when 15, quadrupled when 16, and so on. This makes it advantageous to bid as many points as you think you can take, rather than trying to win the bidding as cheaply as possible.
+Certains adoptent la règle selon laquelle les paiements sont doublés quand Napoleon enchérit 14, triplés pour 15, quadruplés pour 16, et ainsi de suite. Cela rend avantageux d'enchérir le plus de points qu'on pense pouvoir prendre, plutôt que d'essayer de gagner les enchères au moindre coût.
 
-Florent Barraco has provided a formula which generalises the above method of scoring for any minimum bid and any number of players.
+Florent Barraco a fourni une formule qui généralise la méthode de marque ci-dessus pour toute enchère minimale et tout nombre de joueurs.
 
-- Each opponent scores the basic score: [basic score] = [napoleon's bid] - [minimum bid] + 1
+- Chaque adversaire marque le score de base : [score de base] = [enchère de Napoleon] - [enchère minimale] + 1
 
-- [adjutant's score] = [basic score] × [number of opponents] ÷ 3
+- [score de l'adjoint] = [score de base] × [nombre d'adversaires] ÷ 3
 
-- [Napoleon's score] = [adjutant's score] × 2
+- [score de Napoleon] = [score de l'adjoint] × 2
 
-These scores are of course positive for the winning side and negative for the losing side. In the 4-player game, when there are only 2 opponents, Napoleon's and the adjutant's score are rounded to the nearest whole number. When there is no adjutant, Napoleon's score is just [basic score] × [number of opponents].
+Ces scores sont bien sûr positifs pour le côté gagnant et négatifs pour le côté perdant. Dans le jeu à 4 joueurs, quand il n'y a que 2 adversaires, les scores de Napoleon et de l'adjoint sont arrondis au nombre entier le plus proche. Quand il n'y a pas d'adjoint, le score de Napoleon est simplement [score de base] × [nombre d'adversaires].
 
-### Four players
+### Quatre joueurs
 
-The dealer deals 12 cards to each of the four players, and leaves the last four cards in the middle of the table (five cards if a joker is used). Some players remove the ![club](../images/internat/club.gif)3 and/or the ![diamond](../images/internat/diamond.gif)3 from the pack to reduce the number of cards in the kitty. Scoring varies - some play that Napoleon wins or loses 3 points, the adjutant 1 point and the opponents 2 each; some that Napoleon wins or loses 4, the adjutant 2 and the opponents 3 each, and some that each of the four players wins or loses just 1 point.
+Le donneur distribue 12 cartes à chacun des quatre joueurs et laisse les quatre dernières cartes au milieu de la table (cinq cartes si un joker est utilisé). Certains joueurs retirent le ![trèfle](../images/internat/club.gif)3 et/ou le ![carreau](../images/internat/diamond.gif)3 du jeu pour réduire le nombre de cartes dans le talon. La marque varie — certains jouent que Napoleon gagne ou perd 3 points, l'adjoint 1 point et les adversaires 2 chacun ; d'autres que Napoleon gagne ou perd 4, l'adjoint 2 et les adversaires 3 chacun, et d'autres que chacun des quatre joueurs gagne ou perd simplement 1 point.
 
-Alexey Lobashev has provided a description of a specific version of the four-player game, taught to him by Hattori Takeshi:
+Alexey Lobashev a fourni une description d'une version spécifique du jeu à quatre joueurs, enseignée par Hattori Takeshi :
 
-- Players may bid in any order. The bidder names the number and suit, but there is no order of suits. To outbid another player, you must bid a higher number. 
+- Les joueurs peuvent enchérir dans n'importe quel ordre. L'enchérisseur nomme le nombre et la couleur, mais il n'y a pas d'ordre des couleurs. Pour surenchérir, vous devez enchérir un nombre plus élevé.
 
-- When appointing an adjutant, Napoleon is not allowed to name a card that is already in his hand. After Napoleon has called a card, the dealer deals the last four cards to the players, so that everyone has 13 cards.
+- En désignant un adjoint, Napoleon n'est pas autorisé à nommer une carte qui est déjà dans sa main. Après que Napoleon a appelé une carte, le donneur distribue les quatre dernières cartes aux joueurs, de sorte que chacun a 13 cartes.
 
-- There are no special rules for the first trick: the special cards have their power and the same two rule is in effect from the beginning.
+- Il n'y a pas de règles spéciales pour la première levée : les cartes spéciales ont leur pouvoir et la règle du « deux identique » est en vigueur dès le début.
 
-- It seems that there is no formal scoring, except that a count is kept of how many times each player has won as Napoleon. With this method of scoring it is unclear why the adjutant should help Napoleon to win. However, according to Mr Hattori it is the custom that if the Napoleon's team loses, the adjutant should offer his apologies to Napoleon.
+- Il semble qu'il n'y ait pas de marque formelle, sauf qu'on compte combien de fois chaque joueur a gagné en tant que Napoleon. Avec cette méthode de marque, il n'est pas clair pourquoi l'adjoint devrait aider Napoleon à gagner. Cependant, selon M. Hattori, il est de coutume que si l'équipe de Napoleon perd, l'adjoint doit présenter ses excuses à Napoleon.
 
-### Six Players
+### Six joueurs
 
-Deal each player eight cards. The last four (or five when you play with a joker) cards form the blind. Some people who think four or five cards are too many remove ![club](../images/internat/club.gif)3 and/or the ![diamond](../images/internat/diamond.gif)3. The game is played like Napoleon for five, with appropriate adjustments to the scoring: either Napoleon wins or loses 3 and the adjutant 1, or Napoleon and the adjutant win or lose 2 each. In either case, the opponents win or lose 1 point each.
+Distribuez huit cartes à chaque joueur. Les quatre dernières (ou cinq si on joue avec un joker) cartes forment le talon. Certains joueurs qui trouvent que quatre ou cinq cartes sont trop nombreuses retirent le ![trèfle](../images/internat/club.gif)3 et/ou le ![carreau](../images/internat/diamond.gif)3. Le jeu se déroule comme Napoleon à cinq, avec les ajustements de marque appropriés : soit Napoleon gagne ou perd 3 et l'adjoint 1, soit Napoleon et l'adjoint gagnent ou perdent 2 chacun. Dans les deux cas, les adversaires gagnent ou perdent 1 point chacun.
 
-### Three Players
+### Trois joueurs
 
-We are not certain about the rules for this version. It seems that it is played without a Fukkan. Sixteen cards are dealt to each player and the last four (or five when you play with a joker) cards form the blind. The game is played like Napoleon for five.
+Nous ne sommes pas certains des règles pour cette version. Il semble que cela se joue sans Fukkan. Seize cartes sont distribuées à chaque joueur et les quatre dernières (ou cinq si on joue avec un joker) cartes forment le talon. Le jeu se déroule comme Napoleon à cinq.
 
-We have also heard of a variation with a fukkan, which sound very strange. It seems that the main strategy of the third player is to try to take no point cards, so causing Napoleon's team to lose unless they have bid 20.
+Nous avons aussi entendu parler d'une variante avec un fukkan, qui semble très étrange. Il semble que la stratégie principale du troisième joueur soit d'essayer de ne prendre aucune carte à points, causant ainsi la perte de l'équipe de Napoleon à moins qu'ils n'aient enchéri 20.
 
-### Two Players
+### Deux joueurs
 
-This game was invented by TAKASAKI Shin-ichi.
+Ce jeu a été inventé par TAKASAKI Shin-ichi.
 
-First the dealer deals each player sixteen cards, in four piles of four cards, with the top and third card of each pile face up and the others face down - the piles are fanned so that all the face-up cards can be seen by both players. Then the dealer deals each player a hand of nine cards. The last two cards (or three when you play with a joker) form the blind.
+D'abord, le donneur distribue seize cartes à chaque joueur, en quatre tas de quatre cartes, avec la première et la troisième carte de chaque tas face visible et les autres face cachée — les tas sont éventailés pour que toutes les cartes visibles puissent être vues par les deux joueurs. Ensuite, le donneur distribue à chaque joueur une main de neuf cartes. Les deux dernières cartes (ou trois si on joue avec un joker) forment le talon.
 
-The game is played like Napoleon for five. The top card of each pile is regarded as a part of the player's hand, though the opponent can see it. If a top card is used and the next card of the same pile is face down, the player immediately turns it up.
+Le jeu se déroule comme Napoleon à cinq. La carte du haut de chaque tas est considérée comme faisant partie de la main du joueur, bien que l'adversaire puisse la voir. Si une carte du haut est utilisée et que la carte suivante du même tas est face cachée, le joueur la retourne immédiatement.
 
-## Earliest form of Napoleon
+## Forme la plus ancienne de Napoleon
 
-The first known description of Napoleon is in the book* Sêyô Yûgi Karuta 
-Shiyôhô*, published in 1885. It differs from the modern game as follows.
+La première description connue de Napoleon se trouve dans le livre *Sêyô Yûgi Karuta Shiyôhô*, publié en 1885. Elle diffère du jeu moderne comme suit.
 
-- It seems that tens were not scoring cards, so there were only 16 card points.
+- Il semble que les dizaines n'étaient pas des cartes marquantes, donc il n'y avait que 16 points de cartes.
 
-- It was played without the *fukkan* (partner) - Napoleon played alone against the others.
+- Cela se jouait sans *fukkan* (partenaire) — Napoleon jouait seul contre les autres.
 
-- Napoleon was not obliged to take more scoring cards than the other players in order to win.
+- Napoleon n'était pas obligé de prendre plus de cartes marquantes que les autres joueurs pour gagner.
 
-- There was no *sei* or *ura jakku* - all the jacks ranked between the queen and ten of their suits - and no "same two" rule.
+- Il n'y avait pas de *sei* ni d'*ura jakku* — tous les valets se classaient entre la dame et le dix de leur couleur — et pas de règle du « deux identique ».
 
-- Napoleon's aim was not to take at least as many points as the bid, but to take the exact number bid: no less and no more. Otherwise he lost. This could be the precursor of the Siberian rule in the modern game.
-
-## Links to other Napoleon pages
-
-Here is an archive copy of a [Napoleon](https://web.archive.org/web/20260326114548/https://khopesh.tripod.com/ent/napoleon.html) page by Khopesh, with further variations.
-
-[Rules of Napoleon](https://cardgameheaven.com/napoleon) are available on the Card Game Heaven site.
-
-Home Page > Classified Index > Trick Taking Games > Picture Group > Napoleon
+- L'objectif de Napoleon n'était pas de prendre au moins autant de points que l'enchère, mais de prendre exactement le nombre enchéri : ni plus ni moins. Sinon il perdait. Cela pourrait être le précurseur de la règle sibérienne dans le jeu moderne.

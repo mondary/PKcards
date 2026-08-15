@@ -2,40 +2,38 @@
 
 **Difficulté :** —
 **Type :** Patience, Solitaire
-**But :** A competitive version of Klondike Solitaire for two (or more) players, with either simultaneous or turn-based play.
+**But :** Une version compétitive du Solitaire Klondike pour deux joueurs (ou plus), avec jeu simultané ou au tour par tour.
 
 ---
 
-## Setup
+## Mise en place
 
-This is a competitive version of [Klondike](https://en.wikipedia.org/wiki/Klondike_(solitaire)) patience (solitaire). Each player plays with their own 52-card pack. The backs of the cards should if possible be different so that they can be sorted out after the game. 
+C'est une version compétitive de la patience [Klondike](https://en.wikipedia.org/wiki/Klondike_(solitaire)) (solitaire). Chaque joueur joue avec son propre jeu de 52 cartes. Le dos des cartes devrait si possible être différent pour pouvoir les trier après la partie.
 
-Each player deals a layout as for Klondike: 28 cards in 7 piles, each having the top card face up and the rest face down. The left hand pile has just one card, the second two, and so on, the right hand pile having seven cards. Between the players' layouts is space for the foundation piles, four piles per player, which can be played on by any player. Each player begins with a stack of 24 face-down cards.
+Chaque joueur distribue un plateau comme pour le Klondike : 28 cartes en 7 piles, chacune ayant la carte du dessus face ouverte et le reste face cachée. La pile de gauche n'a qu'une carte, la deuxième deux, et ainsi de suite, la pile de droite ayant sept cartes. Entre les plateaux des joueurs se trouve l'espace pour les piles de fondation, quatre piles par joueur, sur lesquelles n'importe quel joueur peut jouer. Chaque joueur commence avec une pile de 24 cartes face cachée.
 
-There are two different ways this game can be played: the players may take turns, or it can be played as a race, with everyone playing simultaneously.
+Il y a deux façons différentes de jouer à ce jeu : les joueurs peuvent jouer à tour de rôle, ou cela peut être joué comme une course, avec tout le monde jouant simultanément.
 
-## Turn-Based Play
+## Jeu au tour par tour
 
-The turn based game is normally played as a two-player game, known as **Double Solitaire**. The player with the lower card on their one-pile starts - or in case of a tie whoever has the lower card on their two-pile and so on. 
+Le jeu au tour par rôle se joue normalement comme un jeu à deux joueurs, connu sous le nom de **Double Solitaire**. Le joueur avec la carte la plus basse sur sa pile à une carte commence — ou en cas d'égalité, celui qui a la carte la plus basse sur sa pile à deux cartes, et ainsi de suite.
 
-At your turn you can make a series of moves as in Klondike. You may move cards around on your own layout, move cards onto the foundation piles when they fit, and move cards from your discard pile to your layout or the foundations. You are not allowed to play onto or use your opponent's layout or discard pile. You end your turn when you cannot or choose not to make any other moves by turning over the top card of your face-down stack, and placing it on your face-up discard pile. Your opponent then plays.
+À votre tour, vous pouvez faire une série de mouvements comme au Klondike. Vous pouvez déplacer des cartes sur votre propre plateau, déplacer des cartes sur les piles de fondation lorsqu'elles s'y insèrent, et déplacer des cartes de votre défausse vers votre plateau ou les fondations. Vous n'êtes pas autorisé à jouer sur ou à utiliser le plateau ou la défausse de votre adversaire. Vous terminez votre tour lorsque vous ne pouvez pas ou ne souhaitez pas faire d'autres mouvements en retournant la carte supérieure de votre pile face cachée, et en la plaçant sur votre défausse face ouverte. Votre adversaire joue ensuite.
 
-The game ends when one player has played all the cards to the foundation piles and wins, or when both players are blocked, in which case the winner is the player who has played more cards to the foundation piles.
+Le jeu se termine lorsqu'un joueur a joué toutes les cartes sur les piles de fondation et gagne, ou lorsque les deux joueurs sont bloqués, auquel cas le gagnant est le joueur qui a joué le plus de cartes sur les fondations.
 
-## Simultaneous Solitaire
+## Solitaire simultané
 
-This game is possible with up to 6 or 7 or even more players, each beginning with their own pack of 52 cards. The moves in this version are the same as above, but the players do not take turns. All play at once, as fast as possible, but each using **only one hand**. When you cannot or do not wish to make further moves with your face up cards, you turn over the top three cards of your stack, put them face up on your discard pile and continue playing. If there are no more cards in your stack, you may turn your whole discard pile over to make a new stack, and turn over its top three cards to start a new discard pile.
+Ce jeu est possible avec jusqu'à 6 ou 7 joueurs ou même plus, chacun commençant avec son propre jeu de 52 cartes. Les mouvements dans cette version sont les mêmes que ci-dessus, mais les joueurs ne jouent pas à tour de rôle. Tous jouent à la fois, aussi vite que possible, mais chacun utilisant **une seule main**. Lorsque vous ne pouvez pas ou ne souhaitez pas faire d'autres mouvements avec vos cartes face ouverte, vous retournez les trois cartes supérieures de votre pile, les posez face ouverte sur votre défausse et continuez à jouer. S'il n'y a plus de cartes dans votre pile, vous pouvez retourner toute votre défausse pour former une nouvelle pile, et retourner les trois cartes supérieures pour commencer une nouvelle défausse.
 
-Play continues until one player has played all their cards to the foundation piles and wins, or until all players are blocked, in which case the winner is the player who has played most cards to the foundation piles, or equivalently, the player who has fewest cards in their stack **plus** layout.
+Le jeu continue jusqu'à ce qu'un joueur ait joué toutes ses cartes sur les fondations et gagne, ou jusqu'à ce que tous les joueurs soient bloqués, auquel cas le gagnant est le joueur qui a joué le plus de cartes sur les fondations, ou de manière équivalente, le joueur qui a le moins de cartes dans sa pile **plus** son plateau.
 
-With more than two players, after one player has gone out, the game can be continued for 2nd place, 3rd place and so on. When the game blocks the remaining players are placed according to how many unplayed cards they have in their stack plus layout, the fewer the better.
+Avec plus de deux joueurs, après qu'un joueur s'est débarrassé de ses cartes, le jeu peut être continué pour la 2e place, la 3e place, etc. Lorsque le jeu se bloque, les joueurs restants sont classés selon le nombre de cartes non jouées dans leur pile plus plateau, le moins étant le mieux.
 
-In the two-player game, some play that if both players are blocked and have fewer than 7 cards in their stacks, they may agree each to turn all the cards of their stacks face up in a row and use any of the cards from their own stacks to make any further moves that are possible.
+Dans le jeu à deux joueurs, certains jouent que si les deux joueurs sont bloqués et ont moins de 7 cartes dans leur pile, ils peuvent s'accorder à retourner toutes les cartes de leur pile face ouverte en ligne et à utiliser n'importe laquelle de ces cartes pour faire tous les mouvements possibles.
 
-## Software and Online Games
+## Logiciels et jeux en ligne
 
-At [Cardgame.com](https://www.cardgame.com/game/Double+Solitaire) you can play two-player Simultaneous Solitaire against a computer opponent.
+Sur [Cardgame.com](https://www.cardgame.com/game/Double+Solitaire), vous pouvez jouer au Solitaire simultané à deux joueurs contre un adversaire informatique.
 
-With JD Software's [Solitaire app](https://cardsjd.com/solitaire/) you can play Double Solitaire against live opponents or against the computer using an Android phone or iPhone or on the web.
-
-Home Page > Classified Index > Layout Group > Competitive Patience > Double Solitaire
+Avec l'[application Solitaire](https://cardsjd.com/solitaire/) de JD Software, vous pouvez jouer au Double Solitaire contre des adversaires en direct ou contre l'ordinateur en utilisant un téléphone Android, un iPhone ou sur le web.

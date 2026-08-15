@@ -3,72 +3,70 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Banque, Banque
-**But :** Rules for various versions of Bingo using playing-cards, also known in some places as Bango or Hoy!
+**But :** Règles de différentes versions du Bingo avec cartes à jouer, aussi connu sous le nom de Bango ou Hoy ! dans certains endroits.
 
 ---
 
 ## Introduction
 
-The name **Bingo** normally refers to a lottery game in which each player has a card marked up as a grid with numbers. A **caller** calls numbers chosen by drawing numbered balls or tokens from a supply, or by an electronic randomiser. Players mark any numbers on their cards that are called, and the first player to mark a complete row wins a prize.
+Le nom **Bingo** désigne normalement un jeu de loterie dans lequel chaque joueur a une carte marquée comme une grille de numéros. Un **annonceur** appelle des numéros choisis en tirant des boules ou des jetons numérotés, ou via un randomiseur électronique. Les joueurs marquent tous les numéros appelés sur leurs cartes, et le premier joueur à marquer une ligne complète gagne un prix.
 
-It is possible to play a similar game using standard playing-cards, and this page describes several ways to do this. 
+Il est possible de jouer un jeu similaire avec des cartes à jouer standard, et cette page décrit plusieurs façons de le faire.
 
-## Basic Game
+## Jeu de base
 
-Two standard 52-card packs without jokers are used. There can be up to ten players and a caller. The caller can be one of the players or do nothing but call cards, as preferred.
+On utilise deux jeux standard de 52 cartes sans jokers. Il peut y avoir jusqu'à dix joueurs et un annonceur. L'annonceur peut être l'un des joueurs ou uniquement appeler les cartes, selon les préférences.
 
-From one pack of cards, five cards are dealt to each player, face up. (With eight or fewer players, six cards each can be dealt if preferred.) The caller draws cards one at a time from the other pack and calls out their rank and value - for example "five of diamonds". The holder (if any) of the called card turns it face down. The first player to turn all their cards face down wins. If playing for money, the winner's hand should be checked against the other pack to make sure all its cards have in fact been called.
+À partir d'un jeu de cartes, cinq cartes sont distribuées à chaque joueur, face visible. (Avec huit joueurs ou moins, six cartes chacun peuvent être distribuées si préféré.) L'annonceur tire les cartes une par une de l'autre jeu et annonce leur rang et couleur — par exemple « cinq de carreau ». Le détenteur (le cas échéant) de la carte appelée la retourne face cachée. Le premier joueur à retourner toutes ses cartes face cachée gagne. Si l'on joue pour de l'argent, la main du gagnant doit être vérifiée contre l'autre jeu pour s'assurer que toutes ses cartes ont effectivement été appelées.
 
-This game is also known in some places as **Bango!** or **Hoy!** according to the word to be shouted by a player to announce that they have won.
+Ce jeu est aussi connu dans certains endroits sous le nom de **Bango !** ou **Hoy !** selon le mot à crier par un joueur pour annoncer qu'il a gagné.
 
-## Thirteen Card Bingo
+## Bingo à treize cartes
 
-By adding more packs of cards it is possible to play the above game with more players and larger hands. I have seen a version played in the Doncaster Whist Club in England by about 60 people. There were four players and a pack of cards at each table, and these were dealt out, thirteen to each player, as for Whist. As in the basic game, the caller calls cards from a separate pack, and the first player whose 13 cards are all called claims a prize.
+En ajoutant d'autres jeux de cartes, il est possible de jouer au jeu ci-dessus avec plus de joueurs et des mains plus grandes. J'ai vu une version jouée au Doncaster Whist Club en Angleterre par environ 60 personnes. Il y avait quatre joueurs et un jeu de cartes à chaque table, et les cartes étaient distribuées, treize à chaque joueur, comme au Whist. Comme dans le jeu de base, l'annonceur appelle les cartes depuis un jeu séparé, et le premier joueur dont les 13 cartes sont toutes appelées réclame un prix.
 
-## Bingo without Suits
+## Bingo sans couleurs
 
-This is the same as the basic game, except that the caller calls only the rank of the card - "eight", "king", etc., suits being ignored. When a rank is called, players turn down **all** the cards they hold of that rank. In this version it is possible for two players to win simultaneously. Either they share the prize or you could play that the prize goes to whoever is first to claim a win.
+C'est le même jeu que le jeu de base, sauf que l'annonceur n'appelle que le rang de la carte — « huit », « roi », etc., les couleurs étant ignorées. Quand un rang est appelé, les joueurs retournent **toutes** les cartes qu'ils détiennent de ce rang. Dans cette version, il est possible que deux joueurs gagnent simultanément. Soit ils partagent le prix, soit on peut jouer que le prix revient à celui qui réclame la victoire en premier.
 
-## Bingo with Payment for Uncalled Cards
+## Bingo avec paiement pour cartes non appelées
 
-This variant, played in Canada, was described by Cheryle Kaus on the [Bingo](https://web.archive.org/web/20210508010912/http://www.52pickup.net/card-games/bingo/) page of her 52pickup.net site. Only one deck of cards is used and suits are ignored. The game is probably best for around 3 to 5 players. Before each deal, each player puts a stake into the pot. Five cards are then dealt face down to each player and ten face down to the middle of the table. Players look at their hands and if any player has four cards of the same rank, all the cards are shuffled and redealt.
+Cette variante, jouée au Canada, a été décrite par Cheryle Kaus sur la page [Bingo](https://web.archive.org/web/20210508010912/http://www.52pickup.net/card-games/bingo/) de son site 52pickup.net. Un seul jeu de cartes est utilisé et les couleurs sont ignorées. Le jeu convient probablement mieux pour environ 3 à 5 joueurs. Avant chaque donne, chaque joueur met une mise dans le pot. Cinq cartes sont ensuite distribuées face cachée à chaque joueur et dix face cachée au milieu de la table. Les joueurs regardent leur main et si un joueur a quatre cartes du même rang, toutes les cartes sont mélangées et redistribuées.
 
-The dealer turns the cards in the middle face up one at a time, and the players discard any cards they hold that match the rank of a face-up card in the middle. Players' discards should be kept in front of them so that they can be checked. If the dealer turns up a card of a rank that has already appeared, further cards are turned up from the undealt portion of the deck until a card of a new rank is found (or until the deck runs out).
+Le donneur retourne les cartes du milieu face visible une par une, et les joueurs se défont de toutes les cartes qu'ils détiennent qui correspondent au rang d'une carte face visible au milieu. Les défausses des joueurs doivent être gardées devant eux pour pouvoir être vérifiées. Si le donneur retourne une carte d'un rang déjà apparu, d'autres cartes sont retournées de la partie non distribuée du jeu jusqu'à ce qu'une carte d'un nouveau rang soit trouvée (ou que le jeu soit épuisé).
 
-A player who manages to discard all his or her cards shouts bingo and wins. All players then place one more stake in the pot for each card that they have not discarded, and the winner collects the pot.
+Un joueur qui réussit à se défaire de toutes ses cartes crie bingo et gagne. Tous les joueurs mettent alors une mise supplémentaire dans le pot pour chaque carte qu'ils n'ont pas défaussée, et le gagnant empoché le pot.
 
-If no one wins, the dealer continues turning cards until ten different ranks have been turned up. Each player then pays one stake to the pot for each card they have not discarded, everyone adds another stake for the new deal, and the cards are shuffled and dealt again. Further hands are played until someone wins the pot.
+Si personne ne gagne, le donneur continue à retourner des cartes jusqu'à ce que dix rangs différents aient été retournés. Chaque joueur paie alors une mise dans le pot pour chaque carte qu'il n'a pas défaussée, chacun ajoute une autre mise pour la nouvelle donne, et les cartes sont mélangées et redistribuées. D'autres mains sont jouées jusqu'à ce que quelqu'un gagne le pot.
 
-## Bingo with a Jackpot
+## Bingo avec jackpot
 
-This British variant, reported by Craig Crossland, is played with two 52-card packs without jokers, with a maximum of four players. Suits are ignored in this version.
+Cette variante britannique, rapportée par Craig Crossland, se joue avec deux jeux de 52 cartes sans jokers, avec un maximum de quatre joueurs. Les couleurs sont ignorées dans cette version.
 
-Before each deal, each player contributes one stake to the main pot and two stakes to the jackpot. The two decks are shuffled together, and the dealer deals 6 cards face down to each player and 12 face down to the **"jackpot pile"**. Cards are dealt one at a time to the players with two placed in the jackpot pile at the end of each rotation.
+Avant chaque donne, chaque joueur contribue d'une mise dans le pot principal et de deux mises dans le jackpot. Les deux jeux sont mélangés ensemble, et le donneur distribue 6 cartes face cachée à chaque joueur et 12 face cachée dans la **« pile jackpot »**. Les cartes sont distribuées une par une aux joueurs avec deux placées dans la pile jackpot à la fin de chaque rotation.
 
-The dealer turns up cards from the jackpot pile one at a time and calls their ranks. Players discard all cards they hold that are equal in rank to the turned up card. Any player who manages to discard all his or her cards callds "bingo!" and collects the main pot **and** the jackpot.
+Le donneur retourne les cartes de la pile jackpot une par une et annonce leurs rangs. Les joueurs se défont de toutes les cartes qu'ils détiennent de même rang que la carte retournée. Tout joueur qui réussit à se défaire de toutes ses cartes crie « bingo ! » et récolte le pot principal **et** le jackpot.
 
-If the jackpot pile is exhausted and no one has won, the dealer continues by turning up cards from the undealt portion of the pack and calling their ranks. As before, players discard any cards they hold that are equal to the turned card. A player who discards all his or her cards calls "bingo!" and collects the **main pot only**. The jackpot remains for the next deal and will have more money added to it.
+Si la pile jackpot est épuisée et que personne n'a gagné, le donneur continue en retournant les cartes de la partie non distribuée du jeu et en annonçant leurs rangs. Comme avant, les joueurs se défont de toutes les cartes qu'ils détiennent de même rang que la carte retournée. Un joueur qui se défait de toutes ses cartes crie « bingo ! » et récolte le **pot principal uniquement**. Le jackpot reste pour la donne suivante et aura plus d'argent ajouté.
 
-If the whole pack runs out and no one has called bingo, there is no winner. Both pots are carried over to the next deal with further stake money added by all players.
+Si tout le jeu est épuisé et que personne n'a crié bingo, il n'y a pas de gagnant. Les deux pots sont reportés à la donne suivante avec des mises supplémentaires ajoutées par tous les joueurs.
 
-If two or more players call "bingo!" on the same card, the money from the pot or pots they win is shared equally between them.
+Si deux joueurs ou plus crient « bingo ! » sur la même carte, l'argent du pot ou des pots qu'ils gagnent est partagé entre eux.
 
-## Bingo with Betting Rounds
+## Bingo avec tours de mise
 
-The Wikipedia page on [Card Bingo](https://en.wikipedia.org/wiki/Bingo_(card_game)) describes a game with poker-like betting rounds. One 52-card pack is used and suits are ignored. The players place an ante and five cards are dealt to each player and five face down to the table. The five table cards are turned face up one at a time, with a betting round before each is exposed. Players discard any cards equal to the turned up card. The first player to discard all five cards wins the pot. If no player achieves this after all five cards have been turned up, the winner is determined by adding up the values of remaining cards in players' hands. Two to ten are face value. Players need to agree in advance:
+La page Wikipédia sur le [Bingo de cartes](https://en.wikipedia.org/wiki/Bingo_(card_game)) décrit un jeu avec des tours de mise semblables au poker. Un jeu de 52 cartes est utilisé et les couleurs sont ignorées. Les joueurs mettent une mise initiale et cinq cartes sont distribuées à chaque joueur et cinq face cachée sur la table. Les cinq cartes de la table sont retournées face visible une par une, avec un tour de mise avant chaque exposition. Les joueurs se défont de toutes les cartes égales à la carte retournée. Le premier joueur à se défaire de ses cinq cartes gagne le pot. Si aucun joueur n'y parvient après que les cinq cartes ont été retournées, le gagnant est déterminé en additionnant les valeurs des cartes restantes dans les mains des joueurs. De deux à dix valent leur valeur faciale. Les joueurs doivent se mettre d'accord à l'avance :
 
-- the value of the jack, queen and king - could be 10, 10, 10 or 11, 12, 13;
+- la valeur du valet, de la dame et du roi — cela peut être 10, 10, 10 ou 11, 12, 13 ;
 
-- the value of an ace - could be 1, 11 or 15;
+- la valeur de l'as — cela peut être 1, 11 ou 15 ;
 
-- whether the winner is the player with the highest total card values remaining or the lowest.
+- si le gagnant est le joueur avec le total de valeurs de cartes le plus élevé ou le plus bas.
 
-## High-Low Bingo
+## Bingo Haut-Bas
 
-This variation was described on Cheryle Kaus' [Bingo page](https://web.archive.org/web/20210508010912/http://www.52pickup.net/card-games/bingo/). It is similar to the betting game above, but played with two 52-card packs shuffled together and suitable for a larger number of players. A player who discards all five cards calls "bingo!" and wins the whole pot. If no one has declared "bingo!" after the five table cards have been turned up, the pot is split between the highest and lowest value hands, counting picture cards as 10 and aces as 1 for the low hand and 11 for high.
+Cette variante a été décrite sur la [page Bingo](https://web.archive.org/web/20210508010912/http://www.52pickup.net/card-games/bingo/) de Cheryle Kaus. Elle est similaire au jeu de mise ci-dessus, mais se joue avec deux jeux de 52 cartes mélangés ensemble et convient à un plus grand nombre de joueurs. Un joueur qui se défait de ses cinq cartes crie « bingo ! » et gagne tout le pot. Si personne n'a crié « bingo ! » après que les cinq cartes de la table ont été retournées, le pot est partagé entre les mains à la valeur la plus haute et la plus basse, les figures comptant comme 10 et les as comme 1 pour la main basse et 11 pour la main haute.
 
-In Cheryle Kaus' version, apparently it is the total value of all five of a player's cards that are counted, so players need to keep their discards in front of them.
+Dans la version de Cheryle Kaus, il semble que ce soit la valeur totale des cinq cartes d'un joueur qui est comptée, donc les joueurs doivent garder leurs défausses devant eux.
 
-Alternatively, it would also be possible to play a similar high-low game in which the discarded cards were lost from the players' hands and only the remaining cards were counted in the high-low competition for the pot. 
-
-Home Page > Classified Index > Banking Games > Card Bingo
+Alternativement, il serait aussi possible de jouer un jeu haut-bas similaire dans lequel les cartes défaussées seraient perdues de la main des joueurs et seules les cartes restantes seraient comptées dans la compétition haut-bas pour le pot.

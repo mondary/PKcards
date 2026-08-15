@@ -2,215 +2,195 @@
 
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** In which cards are played to capture equal cards or cards that add up to the same value from a layout on the table, or to build sets of cards for later capture.
+**But :** Dans lequel les cartes sont jouées pour capturer des cartes égales ou des cartes dont les valeurs s'additionnent au même chiffre depuis une disposition sur la table, ou pour construire des ensembles de cartes en vue d'une capture ultérieure.
 **Autres noms :** Royal Casino
 
 ---
 
 - Introduction
 
-- The Players, the Cards and the Objective
+- Les joueurs, les cartes et l'objectif
 
 ## Introduction
 
-**Casino** is the only fishing game to have become popular in English speaking countries. Although it is traditionally supposed to have originated in Italy, there is no direct evidence of it having been played there, at least under that name, though many other Italian fishing games are known. Casino first appears in the card game literature at the end of the eighteenth century in London, and shortly afterwards in Germany. In the late nineteenth century it became fashionable in America and a number of new variations were developed. There is a dispute about the correct spelling of the name - the earliest sources use the spelling **Casino**, but a tradition has grown up among later writers to spell it with a double 's': **Cassino**. 
+Le **Casino** est le seul jeu de pêche à être devenu populaire dans les pays anglophones. Bien qu'il soit traditionnellement supposé originaire d'Italie, il n'y a pas de preuve directe qu'il y ait été joué, du moins sous ce nom, bien que de nombreux autres jeux de pêche italiens soient connus. Le Casino apparaît pour la première fois dans la littérature sur les jeux de cartes à la fin du dix-huitième siècle à Londres, et peu après en Allemagne. À la fin du dix-neuvième siècle, il est devenu fashionable en Amérique et un certain nombre de nouvelles variantes ont été développées. Il existe une controverse sur l'orthographe correcte du nom — les sources les plus anciennes utilisent l'orthographe **Casino**, mais une tradition s'est installée chez les auteurs ultérieurs de l'écrire avec un double « s » : **Cassino**.
 
-The aim in Casino is to capture cards from a layout of face up cards on the table. A card is captured by playing a matching card from hand. It is also possible to capture several cards at once if their values add up to the value of the card played. Captured cards are stored face down in front of the player who captured them and scored at the end of the play. Cards from hand can also be combined with table cards into **builds**, which can only be captured as a unit.
+Le but au Casino est de capturer des cartes à partir d'une disposition de cartes face visibles sur la table. Une carte est capturée en jouant une carte correspondante depuis sa main. Il est également possible de capturer plusieurs cartes à la fois si leurs valeurs s'additionnent à la valeur de la carte jouée. Les cartes capturées sont stockées face cachée devant le joueur qui les a capturées et comptées à la fin du jeu. Les cartes de la main peuvent aussi être combinées avec des cartes de la table pour former des **constructions**, qui ne peuvent être capturées qu'en bloc.
 
-This page describes the most usual Anglo-American version of Casino in which picture cards, not having a numerical value, can only capture an equal picture. There are many variants in which picture cards also have numerical values. In English-speaking countries this type of game is known as Royal Casino, and interesting versions of it are popular in various parts of the world. On other pages of this site there are descriptions of:
+Cette page décrit la version anglo-américaine la plus usuelle du Casino, dans laquelle les figures, n'ayant pas de valeur numérique, ne peuvent capturer qu'une figure égale. Il existe de nombreuses variantes dans lesquelles les figures ont également des valeurs numériques. Dans les pays anglophones, ce type de jeu est connu sous le nom de Royal Casino, et des versions intéressantes de celui-ci sont populaires dans diverses parties du monde. Sur d'autres pages de ce site, on trouve des descriptions de :
 
-- Royal Casino and the version played in the Dominican Republic, which features different scoring in the endgame;
+- Royal Casino et la version jouée en République dominicaine, qui présente un comptage différent en fin de partie ;
 
-- Casino in Southern Africa (Swaziland, Lesotho and South Africa), where cards can be from opponents' capture piles can be reused in builds;
+- Casino en Afrique australe (Swaziland, Lesotho et Afrique du Sud), où les cartes des tas de capture des adversaires peuvent être réutilisées dans les constructions ;
 
-- Casino (Kasino) in Nordic countries (Sweden, Norway and Finland) which is usually played without building;
+- Casino (Kasino) dans les pays nordiques (Suède, Norvège et Finlande), généralement joué sans construction ;
 
-- Krypkasino, a reverse variant from Sweden in which the aim is to avoid capturing cards.
+- Krypkasino, une variante inverse de Suède dans laquelle le but est d'éviter de capturer des cartes.
 
-This page is partly based on contributions from Kim Scarborough, Janet Levy, Scott Grengs and Rachel Hooley. The historical introduction draws on an article by Franco Pratesi: [Casino from Nowhere to Vaguely Everywhere](https://www.naibi.net/A/57-CASINO%20-Z.pdf) (originally published in [The Playing-Card](https://www.i-p-c-s.org/wp/publications) Vol XXIV No 1 July/Aug 1995 pages 6-11)
+Cette page est partiellement basée sur des contributions de Kim Scarborough, Janet Levy, Scott Grengs et Rachel Hooley. L'introduction historique s'appuie sur un article de Franco Pratesi : [Casino from Nowhere to Vaguely Everywhere](https://www.naibi.net/A/57-CASINO%20-Z.pdf) (publié à l'origine dans [The Playing-Card](https://www.i-p-c-s.org/wp/publications) Vol XXIV No 1 juillet/août 1995 pages 6-11)
 
-We would like to thank the following partner sites for their support:
+## Joueurs et cartes
 
-Since 2016 the casino portal onlinecasinosrealmoney.co.nz has been helping New Zealand players to compare options and find the [best online casino](https://www.onlinecasinosrealmoney.co.nz/online-casinos/) at which to play casino card games.
+Le jeu fonctionne le mieux avec 2 à 4 joueurs, bien qu'en théorie davantage pourraient y participer. Il a la particularité d'être l'un des rares jeux qui se distribue de manière égale à deux, trois ou quatre joueurs. Quatre joueurs peuvent jouer en partenariat, deux contre deux, les partenaires étant assis en face l'un de l'autre.
 
-Information about [online casinos](https://www.onlinecasino-southafrica.co.za/online-casinos/) using South African currency can be found at onlinecasino-southafrica.co.za, which has been providing gambling advice since 2017. Players of casino card games should make sure to check local laws before playing.
+Un jeu standard de 52 cartes est utilisé. Chaque carte numérale (as-dix) compte pour sa valeur numérique (as = 1, deux = 2, etc.). Les cartes capturées sont accumulées dans un tas pour être comptées à la fin de la manche.
 
-For players interested in combining traditional card games with digital currency, cryptocasino.se offers reviews and comparisons of [crypto casino](https://cryptocasino.se) platforms available to Scandinavian players.
+## La donne
 
-[Íslandcasino.com](https://www.íslandcasino.com/en/) - Your go to guide for Icelandic betting.
+Le donneur distribue quatre cartes à chaque joueur et quatre cartes face visibles au centre (ces cartes centrales sont disposées séparément pour que toutes soient visibles). Traditionnellement, la donne se fait par deux : deux cartes à chaque autre joueur, deux sur la table, puis deux au donneur, puis on recommence. Cependant, certains joueurs préfèrent distribuer les cartes une par une. Le reste du jeu est temporairement mis de côté. Après que tout le monde a joué ses quatre cartes, une autre main de quatre cartes est distribuée à chaque joueur à partir des cartes restantes, mais aucune carte supplémentaire n'est distribuée sur la table après la première donne. Après que ces cartes ont été jouées, il y a une autre donne, et cela continue jusqu'à ce que les 52 cartes soient épuisées (cela prend 6 donnes pour 2 joueurs, 4 donnes pour trois joueurs, 3 donnes pour 4 joueurs). Le donneur doit annoncer « dernier » lors de la distribution des dernières cartes. Après que les dernières cartes ont été jouées et la main comptée, le tour de donner passe à gauche pour la manche suivante.
 
-## Players and Cards
+## Le jeu
 
-The game works best with from 2 to 4 players, though in theory more could take part. It has the distinction of being one of the few games which will deal out evenly to two, three, or four players. Four players can play in partnerships, two against two, with partners sitting opposite each other.
+En commençant par le joueur à la gauche du donneur et en continuant dans le sens horaire, chaque joueur à son tour doit jouer une carte de sa main face visible sur la table. Cette carte peut ou non capturer une ou plusieurs cartes de la table.
 
-A regular 52 card deck is used. Each numeral card (ace-ten) is counted as its numerical value (ace = 1, two = 2, etc). Picked up cards are accumulated in a pile to be counted at the end of the round. 
+- En cas de capture, lorsque les autres joueurs ont eu l'occasion de voir la carte capturante, le joueur ramasse cette carte et les cartes capturées et les stocke toutes face cachée dans un tas.
 
-## The Deal
+- S'il n'y a pas de capture, la carte jouée reste face visible sur la table.
 
-The dealer deals four cards to each player and four cards face up in the centre (these centre cards are laid out separately so that all are visible). Traditionally, the deal is in twos: two cards to each other player, two to the table, then two to the dealer, then repeat. However, some players prefer to deal the cards singly. The remainder of the deck is temporarily put aside. After everyone has played their four cards, another hand of four cards is dealt to each player from the remaining cards, but no more cards are dealt to the table after the first deal. After these cards have been played there is another deal, and this continues until all 52 cards have been dealt (this takes 6 deals for 2 players, 4 deals for three players, 3 deals for 4 players). The dealer must announce "last" when dealing the last cards. After the last cards have been played and the hand scored, the deal passes to the left for the next round.
+Indépendamment de la capture ou non, le tour passe au joueur suivant.
 
-## The Play
+En détail, les types de jeu possibles sont les suivants :
 
-Starting with the player to the left of the dealer and continuing clockwise, each player in turn must play one card out from hand face up on the table. This card may or may not capture one or more cards from the table. 
+**1. Capture avec une figure**
+Si la carte jouée est une figure (roi, dame ou valet) qui correspond au rang d'une figure sur la table, la figure sur la table peut être capturée. C'est la seule capture possible avec une figure. Si la table contient plusieurs cartes correspondantes, une seule peut être capturée.
 
-- In case of a capture, when the other players have had an opportunity to see the capturing card, the player picks up this card and the captured cards and stores them all face down in a pile. 
+**Exemple :** La **![trèfle](../images/internat/club.gif)D** et la **![pique](../images/internat/spade.gif)D** sont sur la table, et la **![carreau](../images/internat/diamond.gif)D** est jouée. Le joueur peut capturer l'une des dames de la table mais pas les deux.
 
-- If there is no capture the played card remains face up on the table.
+**2. Capture avec une carte numérale**
+Une carte numérale (As, 2, ..., 10) peut capturer toutes les cartes numérales sur la table qui sont du même rang que la carte jouée, et tous les ensembles de cartes numérales dont la somme est égale au rang de la carte jouée, avec les restrictions suivantes :
 
-Irrespective of whether a capture was made or not, the turn passes to the next player. 
+- les cartes qui font partie d'une construction (voir ci-dessous) ne peuvent être capturées que par une carte du rang annoncé pour cette construction ;
 
-In detail, the possible types of play are as follows:
+- lors de la capture d'ensembles, chaque carte capturée ne peut être comptée que comme appartenant à un seul de ces ensembles.
 
-**1. Capturing with a face card**
-If the card played is a face card (king, queen or jack) which matches the rank of a face card on the table, the face card on the table may be captured. This is the only possible capture with a face card. If the table contains more than one matching card only one may be captured.
+**Exemple** Si un huit est joué, il peut capturer un, deux ou trois huit de la table. Il peut aussi capturer un cinq et un trois, ou un quatre et deux deux. Si les cartes suivantes sont sur la table : **A 2 3 5 6 8**, un huit pourrait capturer **8 6 2 5 3** ou **8 5 2 A**, mais pas les six cartes.
 
-**Example:**The **![club](../images/internat/club.gif)Q** and **![spade](../images/internat/spade.gif)Q** are on the table, and the **![diamond](../images/internat/diamond.gif)Q** is played. The player may capture one of the queens from the table but not both.
+**3. Construction**
+Une carte numérale peut être jouée et combinée avec d'autres cartes sur la table, en les plaçant ensemble pour former une **construction**. Une construction peut être faite à partir de n'importe quelle collection de cartes numérales qui peut être capturée par une seule carte numérale selon la règle 2 ci-dessus. Le joueur qui fait la construction doit annoncer le nombre de capture (en disant, par exemple, « je construis 5 ») et doit détenir une carte numérale qui pourra effectuer la capture ultérieurement. Il existe deux types de construction : les constructions simples et les constructions multiples.
 
-**2. Capturing with a numeral card**
-A numeral card (Ace, 2, ..., 10) can capture any numeral cards on the table which are of the same rank as the card played, and any sets of numeral cards which add up to the rank of the card played, with the following restrictions:
+- Une construction simple se compose de deux cartes ou plus dont les valeurs de capture s'additionnent à la valeur de capture de la construction — par exemple une construction de 5 composée d'un 2 et d'un 3, ou une construction de 10 composée de A-4-5.
 
-- cards which are part of a build (see below) can only be captured by a card of the rank announced for that build;
+- Une construction multiple se compose de deux cartes ou ensembles de cartes ou plus, dont chacun équivaut à la valeur de capture de la construction — par exemple une construction de 5 composée d'un 2 et d'un 3 plus un 4 et un as, ou une construction de 5 composée de A-4 et 5, ou une construction de 9 composée de deux neuf, ou une construction de 9 composée de 6-3 plus 5-4 plus 9.
 
-- when sets are captured, each captured card can only be counted as belonging to one such set.
+Lorsque vous faites une construction, elle doit inclure la carte que vous venez de jouer — vous ne pouvez pas créer une construction composée uniquement de cartes déjà sur la table. Les cartes qui ont été transformées en construction ne peuvent ensuite être capturées qu'en bloc, jamais séparément.
 
-**Example** If an eight is played it could capture one, two or three eights from the table. It could also capture a five and a three, or a four and two twos. If the following cards are on the table: **A 2 3 5 6 8**, then an eight could capture **8 6 2 5 3** or **8 5 2 A**, but not all six cards.
+**Exemples**
 
-**3. Building**
-A numeral card may be played and combined with other cards on the table, placing them together to form a **build**. A build can be made out of any collection of numeral cards which can be captured by a single numeral card according to rule 2 above. The player making the build must announce the capturing number (saying, for example, "building 5"), and must hold a numeral card which can later make the capture. There are two types of build: single builds and multiple builds. 
+- S'il y a un 5 sur la table, un joueur détenant un 3 et un 8 peut poser le 3 sur le 5 et annoncer « je construis 8 » ; cette construction simple ne peut maintenant être capturée que par un 8.
 
-- A single build consists of two or more cards whose capture values add up to the capture value of the build - for example a 5-build made of a 2 and a 3, or a 10-build made of A-4-5.
+- S'il y a un as et un deux sur la table, un joueur détenant deux trois et un six peut jouer l'un des trois et soit :
 
-- A multiple build consists of two or more cards or sets of cards, each of which equates to the capture value of the build - for example a 5-build made of a 2 and a 3 plus a 4 and an ace, or a 5-build made of A-4 and 5, or a 9-build made of two nines, or a 9-build made of 6-3 plus 5-4 plus 9.
+  - capturer le deux et l'as ;
 
-When you make a build, it must include the card you just played - you cannot create a build consisting entirely of cards that were already on the table. Cards which have been made into a build can subsequently only be captured as a unit, never separately. 
+  - combiner le trois joué avec l'as et le deux et faire une construction simple, en annonçant « je construis 6 » ;
 
-**Examples** 
+  - combiner le trois joué avec l'as et le deux et faire une construction multiple, en annonçant « je construis 3 » ;
 
-- If there is a 5 on the table, a player holding a 3 and an 8 may put the 3 on the 5 and announce "building 8"; this single build can now only be captured by an 8. 
+Il ne serait pas autorisé de jouer le trois sur l'as, en construisant quatre, ou sur le deux, en construisant cinq, car le joueur ne détient ni quatre ni cinq.
 
-- If there is an ace and a two on the table, a player holding two threes and a six could play one of the threes and either:
+- Si les cartes sur la table comprennent 3, 4, 5, 7, un joueur qui détient un 2 et un 7 peut jouer le 2 pour créer une construction multiple de 7 composée de cinq cartes : 5+2, 3+4 et 7, en gardant le 7 en main pour le capturer plus tard.
 
-- capture the two and the ace;
+**4. Capture d'une construction**
+Une construction peut être capturée en jouant une carte numérale du rang qui a été annoncé lors de la création de la construction. Il est ainsi possible de « voler » une construction créée par un autre joueur, si vous avez la bonne carte numérale.
+Si à votre tour, la table contient une construction que vous avez créée ou à laquelle vous avez ajouté vous-même, et qu'aucun autre joueur n'a ajouté depuis votre dernier tour, vous n'êtes pas autorisé à simplement poser une carte (comme à la règle 6) à votre tour suivant. Vous **devez** soit faire une capture d'une sorte ou d'une autre, soit créer une autre construction, soit ajouter à une construction (c'est-à-dire suivre la règle 3, 4 ou 5). Il est toujours possible de capturer dans cette situation — si rien d'autre, vous devez détenir la carte de capture pour la construction que vous venez de faire, sinon votre construction était illégale.
+S'il y a une construction sur la table et que vous étiez le dernier joueur à y avoir ajouté une carte, vous n'êtes pas autorisé à jouer de manière à vous retrouver sans carte égale à la valeur de cette construction.
+Lors de la capture d'une construction, vous pouvez aussi capturer toutes les cartes libres sur la table dont la somme est égale au même nombre. Par exemple, vous avez fait une construction de 9 et il y a un 5 sur la table. Si le joueur avant vous joue un 4, vous pouvez capturer le 4 et le 5 en même temps que vous prenez votre construction.
 
-- combine the played three with the ace and the two and make a single build, announcing "building 6";
+Il n'est pas possible de capturer une construction avec une carte d'un autre rang que celui annoncé pour la construction. Par exemple, la table contient un 4 et un 3 combinés en une construction de 7, plus un 2 séparé. Vous ne pouvez pas jouer un 9 pour prendre la construction de 7 plus le 2 — la construction ne peut être capturée qu'avec un 7.
+Un autre exemple. Si la table contient un 5 et qu'un joueur joue un autre 5 dessus, il doit soit annoncer « je construis 10 » pour créer une construction simple, soit « je construis 5 » pour créer une construction multiple. Si « je construis 10 » a été annoncé, la construction ne peut être capturée que par un 10, pas par un 5. Si « je construis 5 » a été annoncé, la construction ne peut être capturée que par un 5, pas par un 10.
 
-- combine the played three with the ace and the two and make a multiple build, announcing "building 3";
+**5. Ajout à une construction**
+Il y a deux façons d'ajouter à une construction :
 
-It would not be legal to play the three on the ace, building four, or on the two, building five, as the player does not hold a four or a five.
+- Vous pouvez ajouter une carte de votre main à une construction simple, en augmentant le nombre de capture, à condition de détenir également une carte qui pourra capturer la nouvelle construction. En même temps, vous pouvez incorporer des cartes supplémentaires de la table dans la construction, si elles sont égales au nouveau nombre de capture. Dans ce cas, la construction devient multiple. Vous ne pouvez jamais utiliser une carte de la table pour modifier la valeur d'une construction simple.
 
-- If the cards on the table include 3, 4, 5, 7, a player who holds a 2 and a 7 can play the 2 to create a multiple build of 7 consisting of five cards: 5+2, 3+4 and 7, keeping the 7 in hand to capture it later.
+**Exemple A** La table contient une construction composée de deux trois, annoncée comme une construction de **six**. Si vous détenez un deux et un huit, vous pouvez ajouter le deux à la construction en annonçant « je construis 8 ». Le joueur suivant, détenant un as et un neuf, pourrait alors ajouter l'as et dire « je construis 9 ».
 
-**4. Capturing a build**
-A build can be captured by playing a numeral card of the rank which was announced when the build was made. It is thus possible to "steal" a build created by another player, if you have the right numeral card.
-If on your turn, the table contains a build which you created or added to yourself, and no other player has added to it since your last turn, you are not allowed simply to trail a card (as in rule 6) on your next turn. You **must** either make a capture of some kind, create another build, or add to a build (i.e. follow rule 3, 4 or 5). It is always possible to capture in this situation - if nothing else, you must hold the capturing card for the build you just made, otherwise your build was illegal.
-If there is a build on the table, and you were the last player to add a card to this build, you are not allowed to play so as to leave yourself with no card equal to the value of this build.
-While capturing a build, you can also capture any loose cards on the table that add up to the same number. For example you have made a build of 9 and there is a 5 on the table. If the player before you plays a 4, you can capture the 4 and the 5 at the same time that you take in your build.
+Le nombre de capture d'une construction multiple ne peut jamais être modifié. Si la construction originale de deux trois dans l'exemple ci-dessus avait été annoncée comme **construisant trois** (plutôt que six), il ne serait pas possible pour un joueur détenant un deux et un cinq d'ajouter le deux à la construction pour faire cinq, ni pour un joueur détenant un deux et un huit d'ajouter le deux pour faire huit.
 
-It is not possible to capture a build with a card of any other rank than that announced for the build. For example the table contains a 4 and a 3 combined into a build of 7, plus a separate 2. You cannot play a 9 to take the build of 7 plus the 2 - the build can only be captured with a 7. 
-Another example. If the table contains a 5 and a player plays another 5 on it, they must either announcing "building 10" to create a single build or "building 5" to create a multiple build. If "building 10" was announced the build can only be captured by a 10, not by a 5. If "building 5" was announced, the build can only be captured by a 5, not by a 10.**5. Adding to a build**
-There are two ways of adding to a build:
+**Exemple B** La table contient un as, un deux et un quatre ; l'as et le quatre ont été combinés par un joueur précédent en une construction de **cinq**. Vous détenez un trois, un huit et un dix. Vous pouvez jouer votre trois sur la construction simple de cinq et annoncer « je construis huit », mais vous n'êtes pas autorisé à incorporer le deux de la table dans cette construction pour en faire une construction de dix.
 
-- You may add a card from your hand to a single build, increasing the capturing number, provided that you also hold a card which will capture the new build. At the same time you may incorporate additional cards from the table into the build, if they are equal to the new capturing number. In this case the build will become multiple. You can never use a card from the table to change the value of a single build.
+**Exemple C** La table contient un trois et un quatre, combinés en un sept, et un neuf séparé. Vous détenez un deux et un neuf. Vous pouvez jouer votre deux, en le combinant avec la construction de sept pour faire neuf, et en même temps incorporer le neuf de la table dans la construction, la convertissant en une construction multiple et en disant « je construis neuf ».
 
-**Example A** The table contains a build consisting of two threes, announced as a build of **six**. If you hold a two and an eight, you can add the two to the build announcing "building 8". The next player, holding an ace and a nine, could then add the ace and say "building 9". 
+- Vous pouvez ajouter à n'importe quelle construction, simple ou multiple, en jouant une carte de votre main qui, seule ou combinée avec d'autres cartes de la table qui ne sont pas encore dans des constructions, correspond au nombre de capture existant de la construction, à condition de détenir une carte qui pourra capturer la construction multiple résultante.
 
-The capturing number of a multiple build can never be changed. If the original build of two threes in the above example had been announced as **building three** (rather than building six), it would not be possible for a player holding a two and a five to add the two to the build, making five, not for a player holding a two and an eight to add the two making eight.
+**Exemple** La table contient une construction de 9 composée d'un 5 et d'un 4, et il y a aussi un 3 sur la table. Vous détenez un six et deux neuf. Vous pouvez jouer votre 6, en le combinant avec le 3 et la construction existante pour faire une nouvelle construction multiple de 9. Ensuite, à votre tour suivant (à condition que personne d'autre n'ait capturé), vous pouvez ajouter l'un des neuf de votre main à la construction. Enfin, au tour suivant, vous pouvez capturer toute la construction avec votre deuxième neuf.
 
-**Example B** The table contains an ace, a two and a four; the ace and the four have been combined by a previous player into a build of **five**. You hold a three, an eight and a ten. You can play your three onto the single five-build and announce "building eight", but you are not allowed to incorporate the two from the table into this build to make it a build of ten.
+Notez que lors de la création ou de l'ajout à une construction, vous devez contribuer une carte de votre main. Vous ne pouvez pas simplement combiner diverses cartes déjà sur la table pour former une construction. Notez également qu'une fois qu'une construction contient plus d'une carte ou ensemble de cartes s'additionnant au nombre de capture, c'est une construction multiple et le nombre de capture ne peut plus être modifié.
 
-**Example C** The table contains a three and a four, built into a seven, and a separate nine. You hold a two and a nine. You can play your two, combining it with the seven-build to make nine, and at the same time incorporate the nine on the table into the build, converting it to a multiple build and saying "building nine".
+Notez également que lors de l'ajout à une construction, il n'est jamais permis de défaire ou de réarranger les cartes déjà dans la construction. En particulier, les cartes d'une construction simple sont irrévocablement liées et ne peuvent être séparées — leur valeur de capture ne peut être modifiée qu'en ajoutant une carte.
 
-- You may add to any build, single or multiple, by playing a card from your hand which, either alone or combined with other cards on the table which are not yet in builds, matches the existing capture number of the build, provided that you hold a card which can capture the resulting multiple build.
+**6. Pose libre**
+Si vous jouez simplement une carte sans construire ni capturer, la carte est posée face visible sur la table à côté des autres cartes de la disposition et y reste pour être capturée ou servir de base à une construction ultérieure. C'est ensuite le tour du joueur suivant. Jouer une carte sans construire ni capturer est parfois appelé **pose libre**. Vous êtes autorisé à poser une carte libre même si cette carte aurait pu faire une capture.
+**Exemple** Supposons que dans un jeu en partenariat à quatre joueurs votre partenaire a deux dix et vous en avez un. Votre partenaire joue un 10 et le joueur suivant ne le prend pas. À votre tour, si vous soupçonnez que votre partenaire a un deuxième 10, vous pouvez jouer votre 10 sans capturer, laissant les deux dix sur la table pour votre partenaire.
+Le seul cas où la pose libre n'est pas autorisée est lorsqu'il y a une construction sur la table à laquelle vous étiez le dernier joueur à avoir ajouté.
 
-**Example** The table contains a 9-build consisting of a 5 and a 4, and there is also a 3 on the table. You hold a six and two nines. You can play your 6, combining it with the 3 and the existing build to make a new multiple build of 9. Then on your next turn (provided that no one else captured) you could add one of the nines from your hand to the build. Finally, on the following turn, you could capture the whole build with your second nine.
+Lorsque toutes les cartes ont été jouées lors de la dernière donne, le dernier joueur qui a fait une capture gagne aussi toutes les cartes restant sur la table (ces cartes sont parfois appelées le *résidu*). C'est pourquoi il est important que le donneur annonce « dernier » lors de la distribution des dernières cartes.
 
-Note that when making or adding to a build, you must contribute a card to it from your hand. You cannot just combine various cards which are already on the table to form a build. Note also that once a build contains more than one card or sets of cards which add to the capturing number, it is a multiple build and the capturing number can no longer be changed.
+**Conseil tactique** : il est souvent bon pour le donneur de garder une figure pour jouer en dernier si possible ; cela capturera une figure correspondante sur la table et gagnera aussi toutes les autres cartes de la table restantes.
 
-Example. There is a multiple 8-build of 3-5-8 on the table, and there is also a loose 6 on the table. In your hand you have 2, 8, 8, 10. You may add one of your 8s to the build, making 3-5-8-8, or to add your 2 together with the 6 on the table, making 3-5-8-2-6, still with capture value 8. You cannot use your 2 to change the capture value to 10.
+## Comptage
 
-Note also that when adding to a build you are never allowed to break up or rearrange the cards that are already in the build. In particular the cards in a single build are irrevocably joined and cannot be separated - their capture value can only be changed by adding a card to them.
+Chaque joueur (ou équipe) compte son score en fonction du tas de cartes qu'il a gagnées. Il y a onze points possibles dans chaque main :
 
-**Example.** There is a single 8-build of 3+5 on the able, and a loose 6. In your hand you have a 4, a 9 and a 10. You can add your 4 to the 6 to make a new single build of 10. However you **cannot ** add the 4 to the 8-build and the 6 and rearrange the cards to make a multiple 9-build of 4+5 and 6+3. The would involve breaking up the existing 5+3 single build to use the 5 and the 3 in different parts of the new multiple 9-build and this is **not allowed**.
+- celui qui a le Plus de cartes obtient trois points ;
 
-**6. Trailing**
-If you simply play a card without building or capturing, the card is placed face up on the table alongside any other layout cards and remains there to be captured or built on in future. It is then the next player's turn. Playing a card without building or capturing is sometimes called **trailing**. You are allowed to trail a card even if that card could have made a capture.
-**Example** Suppose that in a four player partnership game your partner has two tens and you have one. Your partner plays a 10 and the next player does not take it. On your turn, if you suspect that your partner has a second 10, you can play your 10 and not capture, leaving both tens on the table for your partner.
-The only case in which trailing is not allowed is when there is a build on the table which you were the last player to add to. 
+- celui qui a le Plus de piques obtient un point ;
 
-When all the cards have been played in the final deal, the last player who made a capture also wins any cards which are left on the table (these cards are sometimes known as the *residue*). That is why it is important that the dealer should announce "last" when dealing the last cards. 
+- chaque As vaut un point (capturer un as avec un autre as est appelé « cash » par certains joueurs)
 
-**Hint on tactics**: it is often good for the dealer to hold back a face card to play last if possible; this will capture a matching face card on the table and thereby also win any other table cards that remain.
+- le dix de carreaux, appelé **Big Casino** ou le **Bon Dix**, vaut deux points ;
 
-## Scoring
+- le deux de piques, appelé **Little Casino** ou le **Bon Deux**, vaut un point.
 
-Each player (or team) counts their score based on the pile of cards they have won. There are eleven possible points in each hand:
+S'il y a égalité pour le plus de cartes ou le plus de piques, personne ne reçoit ces points.
 
-- whoever has the Most Cards gets three points;
+Celui qui atteint en premier un total de 21 points ou plus, en autant de manches que nécessaire, gagne la partie. Si deux personnes atteignent l'objectif lors de la même manche, celui qui a le score le plus élevé gagne. S'il y a égalité, une autre manche est jouée.
 
-- whoever has Most Spades is one point;
+## Variantes
 
-- each Ace is worth one point (capturing an ace with another ace is called "cash" by some players)
+### Règles de construction
 
-- the ten of diamonds, called **Big Casino** or the **Good Ten**, is worth two points;
+La construction est la partie la plus complexe du jeu, et il existe plusieurs variantes quant à ce qui est exactement autorisé lors de la création ou de la capture de constructions, et de nombreux livres sur les jeux de cartes sont ambigus sur ce point. Certaines personnes jouent avec des règles plus permissives, par exemple :
 
-- the two of spades, called **Little Casino** or the **Good Two**, is worth one point.
+- Certains joueurs autorisent un joueur à poser une carte libre et simultanément construire en combinant d'autres cartes de la table, sans inclure la carte jouée.
 
-If there is a tie for most cards or most spades, no one gets those points. 
+- Certains joueurs autorisent un joueur qui a une construction sur la table à simplement poser une carte libre lors des tours suivants, en laissant la construction en place.
 
-Whoever first reaches a total of 21 or more points, over however many rounds it takes, wins the game. If two people reach the target on the same round, whoever has the higher score wins. If there is a tie, another round is played.
+- Certains joueurs autorisent l'utilisation de cartes de la table pour aider à augmenter la valeur d'une construction simple, à condition qu'une carte de la main soit également utilisée pour augmenter la valeur.
 
-## Variations
+- Certains joueurs traitent une construction simple exactement comme une carte unique de même valeur, pour la capture ou l'extension de la construction.
 
-### Building Rules
+- Dans le jeu en partenariat à quatre joueurs, certains autorisent un joueur à « construire pour le partenaire ». Dans cette version, si un joueur est connu (par exemple) pour détenir un 9, son partenaire détenant un 3 peut l'ajouter à un 6 de la table, « construisant 9 pour le partenaire ».
 
-Building is the most intricate part of the game, and there are several variations in exactly what is allowed when creating or capturing builds, and many of the card game books are ambiguous on this point. Some people play by more permissive rules, for example:
+### Balayages
 
-- Some players allow a player to trail a card and simultaneously make a build by combining other cards on the table, not including the card played.
+Beaucoup de gens jouent qu'un balayage (Sweep) vaut un point. Un balayage se produit lorsqu'un joueur prend toutes les cartes de la table, la laissant vide et forçant le joueur suivant à poser une carte libre. Certains joueurs appellent cela un « clear ». Lors d'un balayage, la carte capturante est stockée face visible dans le tas de cartes gagnées, pour que le nombre de balayages puisse être vérifié lors du comptage. Il est possible de faire un balayage avec la dernière carte de la dernière donne si elle capture toutes les cartes de la table, mais si ce n'est pas le cas, prendre les cartes restantes de la table parce qu'on a fait la dernière capture ne compte pas comme un balayage.
 
-- Some players allow a player who has a build on the table simply to trail a card on subsequent turns, leaving the build in place.
+### Comptage
 
-- Some players allow cards from the table to be used to help increase the value of a single build, provided that a card from your hand is also used to increase the value. In this variation, in Example B under rule 5 above, it would be legal when playing your 3 on the 5-build to incorporate the 2 from the table as well, making a single build of 10. On the other hand, if there was a 6-build and a 3 on the table and you had two nines in your hand, it would not be legal to combine one of your nines with the six-build and the three to make a multiple build of nines, because when changing the value of a build, the card you play from your hand has to contribute to the change of value.
+D'autres objectifs pour gagner la partie sont possibles :
 
-- Some players treat a single build exactly like a single card of the same value, for the purpose of capturing it or extending the build. For example, if there is a build of 6 (5+A) on the table and a loose 4, a player who holds a 10 can capture the 6-build and the 4, and a player who holds two 10's can combine one 10 from hand with the 6-build and the 4 to make a multiple 10-build.
+- Certains jouent à 11 points. Dans un jeu à deux joueurs (ou un jeu à 4 avec partenaires), à chaque manche le joueur ayant le plus de points marque la différence entre les points obtenus par les deux joueurs ou équipes.
 
-- In the four-player partnership game, some allow a player to "build for partner". In this version if a player is known (for example) to hold a 9, their partner holding a 3 can add it to a 6 from table, "building 9 for partner". If partner already has a 9-build on the table, the 6+3 will be combined with it to form a multiple build.
+- Certains jouent à 50 points.
 
-### Sweeps
+Certaines personnes, au lieu d'accorder trois points pour les cartes, donnent deux points au joueur ayant le plus de cartes et un point au joueur qui a fait la dernière capture.
 
-Many people play that a Sweep is worth one point. A sweep occurs when a player takes all the cards from the table, leaving it empty and forcing the next player to trail. Some players call this a clear. When making a sweep, the capturing card is stored face-up in the pile of won cards, so that the number of sweeps can be checked when scoring. It is possible to make a sweep with the last card of the final deal if it captures all the cards on the table, but if it does not, taking the remaining cards from the table because you made the last capture does not count as a sweep.
+Certains jouent que pour déterminer le vainqueur global, si plusieurs joueurs ou équipes atteignent le score cible lors de la même manche, les points sont comptés dans l'ordre : cartes, piques, big casino, little casino, as (dans l'ordre piques, trèfles, cœurs, carreaux), balayages.
 
-### Scoring
+Certains livres décrivent le **Spade Casino**, une variante dans laquelle au lieu de compter un point pour le plus de piques, chaque pique compte 1 point et le valet de piques compte un point supplémentaire.
 
-Other targets for winning the game are possible:
+### Autres variantes
 
-- Some play to 11 points. In a two player game (or a 4-player game with partners), in each round the player with more points scores the difference between the points made by the two players or sides.
+Voir aussi les pages sur le Royal Casino, le Casino africain, le Casino nordique et le Krypkasino.
 
-- Some play to 50 points.
+## Logiciel
 
-Some people, instead of scoring three points for cards, award two points to the player with most cards and one point to the player who made the last capture during the game.
+Avec le programme informatique [SpiteNET: Cassino](http://www.spitenet.com/Cassino/) de Mari J Michaelis, vous pouvez jouer contre l'ordinateur ou contre un adversaire en direct sur Internet.
 
-I have two reports of a version played by some in Connecticut and New York state in which 3 points are scored for the 10 of diamonds, 2 points for the 2 of spades and just 1 point for taking most cards.
+Vous pouvez télécharger un programme Casino gratuit sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
 
-In the Belgian version of the game, known in Flemish as **Wippen**, 2 points are scored for most cards and 2 points for most spades. A sweep is known as a **Wip** and scores one point.
+Games4All a publié une [application Cassino gratuite](https://play.google.com/store/apps/details?id=org.games4all.android.games.cassino.prod) pour la plateforme Android.
 
-Some play that when deciding the overall winner, if more than one player or team reaches the target score in the same round, the points are counted in order: cards, spades, big casino, little casino, aces (in the order spades, clubs, hearts, diamonds), sweeps. If the aces are not sufficient to reach the target score then the player or team with more sweeps wins; if they have the same number of sweeps another hand is played to decide the winner.
-
-Some players, when approaching the target score, count the points as they are earned - each sweep as it happens, aces, big and little casino as they are captured, and spades or cards as soon as one player has captured 7 or 27 of them respectively. In this case the play ends soon as a player correctly claims to have won by reaching the target score (even if the opponent has in fact scored more but failed to claim it). Some score sweeps as they happen, but the remaining points in a specific order, with an agreed order of suits for the aces.
-
-Some books describe **Spade Casino**, a variant in which instead of counting a point for most spades, each spade counts 1 point and the jack of spades counts an extra point. The ace and two of spades still count an extra point as well, so that the total points available (excluding sweeps) are 24: cards (3) + ten of diamonds (2) + the four aces and the two and jack of spades (6) + the spades (13).
-
-### Other Variations
-
-See also the pages on Royal Casino, African Casino, Nordic Casino and Krypkasino.
-
-## Software
-
-With Mari J Michaelis's [SpiteNET: Cassino](http://www.spitenet.com/Cassino/) computer program you can play against the computer or against a live opponent over the Internet.
-
-You can download a freeware Casino program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
-
-Games4All has published a free [Cassino app](https://play.google.com/store/apps/details?id=org.games4all.android.games.cassino.prod) for the Android platform. 
-
-PSellos has published a free [Cassino WebApp](https://psellos.com/cassino/) in which you can play against the computer.
-
-Home Page > Classified Index > Fishing Games > Casino
+PSellos a publié une [WebApp Cassino gratuite](https://psellos.com/cassino/) dans laquelle vous pouvez jouer contre l'ordinateur.

@@ -2,194 +2,188 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Kwajongen, Kujong and Troeven, played in Belgium and parts of the Netherlands, Luxembourg and Germany.
+**But :** Kwajongen, Kujong et Troeven, joués en Belgique et dans certaines régions des Pays-Bas, du Luxembourg et d'Allemagne.
 
 ---
 
 - Introduction
 
-- Basic Game - Players and Cards - Deal - Play - Scoring - Variant
+- Jeu de base — Joueurs et cartes — Donnée — Jeu — Comptage — Variante
 
 - Couillon Forcé
 
-- Couillon with the Mit' - Deal - Play - Scoring - Tournament Rules - Dame de Make - Six Players - Eight Players - Other Variants
+- Couillon avec la Mit' — Donnée — Jeu — Comptage — Règles de tournoi — Dame de Make — Six joueurs — Huit joueurs — Autres variantes
 
 - Kwajongen
 
 - Kujong
 
-- Troeven - Three Players - Two Players
+- Troeven — Trois joueurs — Deux joueurs
 
 ## Introduction
 
-Couillon is a popular Belgian card game. Versions of it are also played in the southern Dutch province of Limburg and on the border of Luxembourg and Germany. The name "couillon" almost certainly derives from the Walloon word *coyon* (=testicle), which refers to the circles or balls that were traditionally used as part of the method of keeping score. However, in Flanders and Luxembourg, the name has been modified to the similar sounding **Kwajongen** and **Kujong** respectively. In the Netherlands it is known as **Troeven** (trumps), which makes it likely that it is related to the old game Trumpfspiel recorded in Strasbourg in 1637, which had the same card values. 
+Le Couillon est un jeu de cartes belge populaire. Des versions se jouent aussi dans la province néerlandaise méridionale du Limbourg et à la frontière du Luxembourg et de l'Allemagne. Le nom « couillon » dérive presque certainement du mot wallon *coyon* (= testicule), qui fait référence aux cercles ou boules traditionnellement utilisés comme partie de la méthode de comptage. Cependant, en Flandre et au Luxembourg, le nom a été modifié en **Kwajongen** et **Kujong** respectivement. Aux Pays-Bas, il est connu sous le nom **Troeven** (atouts), ce qui rend probable qu'il soit apparenté à l'ancien jeu Trumpfspiel enregistré à Strasbourg en 1637, qui avait les mêmes valeurs de cartes.
 
-## Basic Game
+## Jeu de base
 
-This version is described in *Le Guide Marabout de Tous les Jeux de Cartes* by Frans Gerver* (Verviers, 1966)*.
+Cette version est décrite dans *Le Guide Marabout de Tous les Jeux de Cartes* de Frans Gerver (Verviers, 1966).
 
-### Players and Cards
+### Joueurs et cartes
 
-A 24-card French suited pack is used, the cards in each suit ranking from high to low A-K-Q-J-10-9. If actual French or Belgian cards are used the indices will be 1-R-D-V-10-9, but note that versions of this game are also played in certain regions the Netherlands, Luxembourg and Germany. Dutch cards have the indices A-H-V-B-10-9 and German cards have A-K-D-B-10-9. Be careful not to confuse the Dutch Queen marked with a V for Vrouw (lady) with the French Jack marked with a V for Valet!
+On utilise un jeu de 24 cartes à couleurs françaises, les cartes de chaque couleur se classant de haut en bas A-R-D-V-10-9. Si l'on utilise de vraies cartes françaises ou belges, les indices seront 1-R-D-V-10-9, mais notez que des versions de ce jeu se jouent aussi dans certaines régions des Pays-Bas, du Luxembourg et d'Allemagne. Les cartes néerlandaises ont les indices A-H-V-B-10-9 et les cartes allemandes A-K-D-B-10-9. Attention à ne pas confondre le V de la Dame néerlandaise (V pour Vrouw, dame) avec le V du Valet français (V pour Valet) !
 
-The cards have point values: Ace = 4, King = 3, Queen = 2, Jack = 1, other cards zero. The total number of card points in the pack is therefore 40.
+Les cartes ont des valeurs en points : As = 4, Roi = 3, Dame = 2, Valet = 1, les autres cartes zéro. Le nombre total de points de cartes dans le jeu est donc de 40.
 
-There are four players in fixed partnerships, players sit opposite their partner and between the two opponents. The partnerships can be decided by drawing cards from a shuffled pack: the players drawing the highest two cards play against those who draw the lowest two, and the player who draws the highest card deals first.
+Il y a quatre joueurs en partenariats fixes, les joueurs étant assis en face de leur partenaire et entre les deux adversaires. Les partenariats peuvent être déterminés en tirant des cartes d'un jeu mélangé : les joueurs tirant les deux cartes les plus élevées jouent contre ceux qui tirent les deux plus basses, et le joueur qui tire la carte la plus élevée donne en premier.
 
-Deal and play are clockwise, and the turn to deal passes to the left after each hand.
+La donne et le jeu se font dans le sens horaire, et le tour de donner passe à gauche après chaque main.
 
-### Dealing and Making Trumps
+### Distribution et désignation des atouts
 
-The dealer shuffles the cards, has them cut by the player to dealer's right, and then deals them two at a time clockwise until everyone has four cards. There is a stack of eight undealt cards, and the top card of this is turned face up to show the proposed trump suit. Beginning to the dealer's left and going around clockwise, each player in turn has the chance to accept this suit as trumps on behalf of his or her team or to pass. As soon as it is accepted the play begins. If all four pass, the **bottom** card of the undealt part of the pack is turned up and its suit becomes trumps.
+Le donneur bat les cartes, les fait couper par le joueur à sa droite, puis les distribue deux à la fois dans le sens horaire jusqu'à ce que chacun ait quatre cartes. Il y a un tas de huit cartes non distribuées, et la carte du dessus de ce tas est retournée face visible pour montrer la couleur d'atout proposée. En commençant par la gauche du donneur et en allant dans le sens horaire, chaque joueur a tour à tour la possibilité d'accepter cette couleur comme atout pour son équipe ou de passer. Dès qu'elle est acceptée, le jeu commence. Si les quatre joueurs passent, la carte du **bas** de la partie non distribuée du jeu est retournée et sa couleur devient l'atout.
 
-### Play
+### Jeu
 
-Irrespective of who if anyone accepted the first proposed trump suit, it is the player to dealer's left who leads to the first trick.
+Indépendamment de qui a accepté ou non la première couleur d'atout proposée, c'est le joueur à gauche du donneur qui mène au premier pli.
 
-Any card may be led. A player who has a card of the suit that was led must **either** follow suit **or** play a trump. A player with no card of the suit led may play any card. The trick is won by the highest trump in it or, if it contains no trumps, by the highest card of the suit that was led. The winner of a trick gathers it, stores it face down in the team's trick pile, and leads any card to the next trick.
+N'importe quelle carte peut être menée. Un joueur qui a une carte de la couleur menée doit **soit** suivre **soit** jouer un atout. Un joueur n'ayant pas de carte de la couleur menée peut jouer n'importe quelle carte. Le pli est remporté par le plus fort atout qu'il contient ou, s'il n'y a pas d'atout, par la carte la plus forte de la couleur menée. Le vainqueur du pli le ramasse, le stocke face cachée dans le tas de plis de l'équipe, et mène n'importe quelle carte au pli suivant.
 
-Note that you may trump even when you are able to follow suit. The only play that is illegal is throwing away a non-trump card of a different suit from the one that was led when you are able to follow suit.
+Notez que vous pouvez jouer un atout même si vous êtes capable de suivre. Le seul jeu illégal est de défausser une carte non atout d'une couleur différente de la couleur menée alors que vous êtes capable de suivre.
 
-### Scoring
+### Comptage
 
-When four tricks have been played, the teams count the points they have taken, and the team with more card points wins the deal.![tree](../images/couillon/couillon1.png)
+Lorsque quatre plis ont été joués, les équipes comptent les points qu'elles ont pris, et l'équipe ayant le plus de points de cartes gagne la donne.![arbre](../images/couillon/couillon1.png)
 
-The score is kept using a diagram consisting of a vertical line crossed by five or seven horizontal lines - see illustration to the right. Ideally this is drawn on a chalk slate so that parts of it can be erased. The left side of the diagram belongs to one team and the right side to the other. The number of horizontal lines corresponds to the number of game points needed to win the match.
+Le score est conservé à l'aide d'un diagramme composé d'une ligne verticale traversée par cinq ou sept lignes horizontales — voir illustration à droite. Idéalement, il est dessiné sur une ardoise pour que des parties puissent être effacées. Le côté gauche du diagramme appartient à une équipe et le côté droit à l'autre. Le nombre de lignes horizontales correspond au nombre de points de jeu nécessaires pour gagner la manche.
 
-The winners of each deal win one game point, and can erase one line from their side of the diagram. However, if a team that accepted the proposed trump suit takes fewer card points than their opponents, they lose a game point, which is indicated by adding a loop-shaped mark known as a *boucle* or *couille* to one of the lines on their side. A line with a *boucle* requires two wins to erase it: the first win removes the *boucle* and the second the line itself.
+Les vainqueurs de chaque donne gagnent un point de jeu et peuvent effacer une ligne de leur côté du diagramme. Cependant, si une équipe qui a accepté la couleur d'atout proposée prend moins de points de cartes que ses adversaires, elle perd un point de jeu, ce qui est indiqué en ajoutant une marque en forme de boucle appelée *boucle* ou *couille* à l'une des lignes de son côté. Une ligne avec une *boucle* nécessite deux victoires pour être effacée : la première victoire supprime la *boucle* et la seconde la ligne elle-même.
 
-In case of a tie, in which both teams take the same number of card points, no lines are erased. The tie is indicated on the slate by a circle which a stroke across it, known as *craie dans le trou* (chalk in the hole), and the next team that wins a deal erases two lines (or a line with a *boucle*) instead of a single line or *boucle*. 
+En cas d'égalité, où les deux équipes prennent le même nombre de points de cartes, aucune ligne n'est effacée. L'égalité est indiquée sur l'ardoise par un cercle barré d'un trait, appelé *craie dans le trou*, et l'équipe suivante qui gagne une donne efface deux lignes (ou une ligne avec une *boucle*) au lieu d'une seule ligne ou *boucle*.
 
-The first team to erase all their lines wins the match.
+La première équipe à effacer toutes ses lignes gagne la manche.
 
-### Variant
+### Variante
 
-Marc Dewart reports that in Tongres, six cards each are dealt, two at a time. After four cards each have been dealt, the dealer's fourth card turned face up as the first proposed trump suit. After it has been accepted or not, the deal is completed. If all four players passed the first trump, the dealer's last card is exposed and players have the opportunity to accept its suit as trump. If all four pass again the deal is abandoned without score. The next dealer shuffles and deals.
+Marc Dewart rapporte qu'à Tongres, six cartes sont distribuées à chacun, deux à la fois. Après que quatre cartes ont été distribuées à chacun, la quatrième carte du donneur est retournée comme première couleur d'atout proposée. Après son acceptation ou non, la donne est complétée. Si les quatre joueurs passent le premier atout, la dernière carte du donneur est exposée et les joueurs ont l'opportunité d'accepter sa couleur comme atout. Si les quatre passent à nouveau, la donne est abandonnée sans score. Le donneur suivant bat et distribue.
 
 ## Couillon Forcé
 
-In this popular variant, also described in Gerver's *Guide Marabout*, the trump suit is always chosen by the player to dealer's left. The dealer deals two rounds of two cards to each player, and the player to dealer's left looks at his or her four cards, and may choose the suit of one of them to be trump, showing this trump card to the other players. The dealer then deals another round of two cards to each player.
+Dans cette variante populaire, également décrite dans le Guide Marabout de Gerver, la couleur d'atout est toujours choisie par le joueur à gauche du donneur. Le donneur distribue deux tours de deux cartes à chaque joueur, et le joueur à gauche du donneur regarde ses quatre cartes et peut choisir la couleur de l'une d'elles comme atout, en montrant cette carte d'atout aux autres joueurs. Le donneur distribue ensuite un autre tour de deux cartes à chaque joueur.
 
-Alternatively, if the trump maker cannot decide on the trump suit on the basis of four cards, perhaps having one indifferent card of each suit, the dealer deals two more cards to the trump maker and turns one of them face up, and the suit of this card is trump. The dealer then completes the deal by dealing a pair of cards to each of the other players.
+Alternativement, si le nommateur d'atout ne peut pas décider de la couleur d'atout sur la base de quatre cartes, ayant peut-être une carte indifférente de chaque couleur, le donneur distribue deux cartes supplémentaires au nommateur d'atout et en retourne une face visible, et la couleur de cette carte est l'atout. Le donneur complète ensuite la donne en distribuant une paire de cartes à chacun des autres joueurs.
 
-The play is as in the basic game, except that there are six tricks, with no cards out of play. Scoring is as in the basic game: the non-dealing team get a *boucle* if the dealer's team score more points, since it is always the non-dealers who make trumps. 
+Le jeu est le même que dans le jeu de base, sauf qu'il y a six plis, sans cartes mises de côté. Le comptage est le même que dans le jeu de base : l'équipe non donneuse reçoit une *boucle* si l'équipe du donneur marque plus de points, puisque ce sont toujours les non-donneurs qui nomment les atouts.
 
-## Couillon with the Mit'
+## Couillon avec la Mit'
 
-The version of Couillon played at Malmedy, as taught to us by Marc Dewart and described in his book *Anciens Jeux de Cartes à Malmedy et ses Environs* (Royal Club Wallon, 2004) is a version of Couillon Forcé with five cards dealt to each player. The **Mit'** is the Queen of Spades, which may be promoted to become a trump ranking between the ace and king if announced by its holder. The teams and the first dealer are traditionally chosen by dealing cards one at a time face up to the four players until a Jack appears. Whoever receives this first Jack is the first dealer, and further cards are dealt to the other three players. Whoever receives the second Jack is the first dealer's partner, and the players take their seats accordingly. 
+La version du Couillon jouée à Malmedy, enseignée par Marc Dewart et décrite dans son livre *Anciens Jeux de Cartes à Malmedy et ses Environs* (Royal Club Wallon, 2004) est une version du Couillon Forcé avec cinq cartes distribuées à chaque joueur. La **Mit'** est la Dame de piques, qui peut être promue pour devenir un atout classé entre l'as et le roi si elle est annoncée par son détenteur. Les équipes et le premier donneur sont traditionnellement choisis en distribuant les cartes une à la fois face visible aux quatre joueurs jusqu'à ce qu'un Valet apparaisse. Celui qui reçoit ce premier Valet est le premier donneur, et les cartes continuent d'être distribuées aux trois autres joueurs. Celui qui reçoit le deuxième Valet est le partenaire du premier donneur, et les joueurs prennent place en conséquence.
 
-### Deal
+### Donnée
 
-The dealer shuffles, the player to dealer’s right cuts, and then the dealer deals the top three cards to the player to his or her left.  This player chooses the trump suit for the hand on the basis of these three cards.  When trumps have been announced, the dealer continues by dealing a batch of three cards to each of the other players, in clockwise order, then four cards face down to one side, and finally a batch two cards to each player.  Now each player has a hand of five cards, and there is a talon of four cards face down, which remain unused and unseen until the next deal.
+Le donneur bat, le joueur à sa droite coupe, puis le donneur distribue les trois premières cartes au joueur à sa gauche. Ce joueur choisit la couleur d'atout pour la main sur la base de ces trois cartes. Lorsque les atouts ont été annoncés, le donneur continue en distribuant un lot de trois cartes à chacun des autres joueurs, dans le sens horaire, puis quatre cartes face cachée de côté, et enfin un lot de deux cartes à chaque joueur. Chaque joueur a maintenant une main de cinq cartes, et il y a un talon de quatre cartes face cachée, qui restent inutilisées et invisibles jusqu'à la donne suivante.
 
-If unwilling to choose a trump suit having seen three cards, the player to dealer’s left may ask instead for the dealer to complete the deal: three cards to each of the other players, four to the talon and then two cards to each player. In this case the top card of the last two cards dealt to the player to dealer's left is turned cards face up, and the suit of that card is trumps.
+Si le joueur à la gauche du donneur ne souhaite pas choisir une couleur d'atout après avoir vu trois cartes, il peut demander au donneur de compléter la donne : trois cartes à chacun des autres joueurs, quatre au talon, puis deux cartes à chaque joueur. Dans ce cas, la carte du dessus des deux dernières cartes distribuées au joueur à gauche du donneur est retournée face visible, et la couleur de cette carte est l'atout.
 
-### Play with Mit', Kontra and Re
+### Jeu avec Mit', Kontra et Re
 
-Five tricks are played, under the same rules as the basic game. The player who holds the ![spade](../images/internat/spade.gif)Q may declare it by saying *"Mit'"* before playing to the first trick. If it is declared, the ![spade](../images/internat/spade.gif)Q becomes the second highest trump, ranking below the Ace and above the King. Its value remains 2 card points. It does not have to be played to the first trick, but can be kept for later. It can be played to a trump lead, and must be played to a trump trick if the player holds no other trumps. Leading the Mit' requires the other players to follow with trumps. If the Mit' is not declared, it remains an ordinary spade, ranking between the King and the Jack.
+Cinq plis sont joués, selon les mêmes règles que le jeu de base. Le joueur qui détient la ![pique](../images/internat/spade.gif)D peut la déclarer en disant *« Mit' »* avant de jouer au premier pli. Si elle est déclarée, la ![pique](../images/internat/spade.gif)D devient le deuxième atout le plus fort, classée en dessous de l'As et au-dessus du Roi. Sa valeur reste de 2 points de carte. Elle ne doit pas être jouée au premier pli, mais peut être gardée pour plus tard. Elle peut être jouée sur un pli d'atout mené, et doit être jouée à un pli d'atout si le joueur n'a pas d'autre atout. Mener la Mit' oblige les autres joueurs à suivre avec des atouts. Si la Mit' n'est pas déclarée, elle reste un pique ordinaire, classé entre le Roi et le Valet.
 
-Declaring Mit' not only promotes the card, it also increases the score for the winners of the deal. If Mit' is declared, either member of the opposing team can further increase the score by saying "Kontra" or knocking the table, and if this happens, either member of the Mit' team can increase it again by saying "Re" or knocking again. All this happens before the holder of the ![spade](../images/internat/spade.gif)Q plays to the first trick.
+Déclarer la Mit' ne fait pas que promouvoir la carte, cela augmente aussi le score pour les vainqueurs de la donne. Si la Mit' est déclarée, n'importe quel membre de l'équipe adverse peut augmenter le score en disant « Kontra » ou en frappant la table, et si cela se produit, n'importe quel membre de l'équipe de la Mit' peut l'augmenter à nouveau en disant « Re » ou en frappant à nouveau. Tout cela se passe avant que le détenteur de la ![pique](../images/internat/spade.gif)D ne joue au premier pli.
 
-It is often in the interest of the holder of the Mit' to strengthen his or her hand by declaring it, but with a weak hand it is sometimes better to keep quiet to avoid giving an extra point to the opponents if they win.
+Il est souvent dans l'intérêt du détenteur de la Mit' de renforcer sa main en la déclarant, mais avec une main faible il est parfois préférable de se taire pour éviter de donner un point supplémentaire aux adversaires s'ils gagnent.
 
-### Scoring
+### Comptage
 
-Scoring is in “*rôyes*”. This is a Walloon dialect word meaning “lines”, which reflects the original method of scoring on a slate, but nowadays in Malmedy the scores are written down as numbers. Each team begins with 13 *rôyes,* and at the end of the deal the teams subtract or add *rôyes* as follows.
+Le comptage se fait en « *rôyes* ». C'est un mot du dialecte wallon signifiant « lignes », qui reflète la méthode originale de comptage sur une ardoise, mais de nos jours à Malmedy les scores sont écrits en chiffres. Chaque équipe commence avec 13 *rôyes*, et à la fin de la donne, les équipes soustraient ou ajoutent des *rôyes* comme suit.
 
-| Event | Score |
-| Winning the deal: taking more card points than the other team. | Winners subtract one rôye |
-| Winning all five tricks (dobe or vole) | Winners subtract one extra rôye |
-| Mit’ declared | Winners of the deal subtract one extra rôye |
-| Kontra (knock) after Mit’ declared | Winners of the deal subtract one extra rôye |
-| Re (second knock) after Mit' and Kontra | Winners of the deal subtract one extra rôye |
-| The dealer's team wins the deal | The non-dealing team adds one rôye |
+| Événement | Score |
+| Gagner la donne : prendre plus de points de carte que l'autre équipe. | Les vainqueurs soustraient un rôye |
+| Gagner les cinq plis (dobe ou vole) | Les vainqueurs soustraient un rôye supplémentaire |
+| Mit' déclarée | Les vainqueurs de la donne soustraient un rôye supplémentaire |
+| Kontra (frapper) après déclaration de la Mit' | Les vainqueurs de la donne soustraient un rôye supplémentaire |
+| Re (deuxième frapper) après Mit' et Kontra | Les vainqueurs de la donne soustraient un rôye supplémentaire |
+| L'équipe du donneur gagne la donne | L'équipe non donneuse ajoute un rôye |
 
-So it is in theory possible to subtract as many as five *rôye*s, by winning all the tricks in a deal where Mit', Kontra and Re were declared.
+Il est donc théoriquement possible de soustraire jusqu'à cinq *rôyes*, en gagnant tous les plis d'une donne où la Mit', Kontra et Re ont été déclarées.
 
-If the deal is tied, both sides having exactly the same number of card points, then in private games neither side scores.
+Si la donne est à égalité, les deux côtés ayant exactement le même nombre de points de carte, alors dans les parties privées, aucun côté ne marque.
 
-The first team whose score reaches zero (or less) wins the game.
+La première équipe dont le score atteint zéro (ou moins) gagne la partie.
 
-If the non-dealers lose all the tricks, the player who chose trumps is said to be *"bourgumêsse"* (mayor).
+Si les non-donneurs perdent tous les plis, le joueur qui a choisi les atouts est dit être *« bourgumêsse »* (maire).
 
-### Tournament rules
+### Règles de tournoi
 
-In a tournament, a fixed number of deals is played, after which the players change position to play with a different partner and different opponents. If a game is tied, both teams subtracts one *rôye*. Individual players add up the total number of *rôyes* their side scored during the tournament, and the player with the lowest total number of *rôyes* is the winner.
+Lors d'un tournoi, un nombre fixe de donnes est joué, après quoi les joueurs changent de position pour jouer avec un partenaire différent et des adversaires différents. Si une donne est à égalité, les deux équipes soustraient une *rôye*. Les joueurs additionnent le nombre total de *rôyes* marqués par leur équipe pendant le tournoi, et le joueur ayant le total le plus bas est le vainqueur.
 
 ### Dame de Make
 
-The Queen of Clubs is known as the *Dame de Make*. A popular variant is to play that this card is always a trump, ranking immediately above the King of trumps. Unlike the Mit', it is not declared and does not affect the score. If the Mit' is declared it ranks between the Ace of trumps and the Dame de Make, so if hearts are trumps and the Mit' is declared, the trump suit from high to low is ![heart](../images/internat/heart.gif)A-![spade](../images/internat/spade.gif)Q-![club](../images/internat/club.gif)Q-![heart](../images/internat/heart.gif)K-![heart](../images/internat/heart.gif)Q-![heart](../images/internat/heart.gif)J-![heart](../images/internat/heart.gif)10-![heart](../images/internat/heart.gif)9 and the black suits have only five cards each.
+La Dame de trèfles est connue sous le nom de *Dame de Make*. Une variante populaire est de jouer que cette carte est toujours un atout, classée immédiatement au-dessus du Roi d'atout. Contrairement à la Mit', elle n'est pas déclarée et n'affecte pas le score. Si la Mit' est déclarée, elle se classe entre l'As d'atout et la Dame de Make, de sorte que si les cœurs sont atout et que la Mit' est déclarée, la couleur d'atout de haut en bas est ![cœur](../images/internat/heart.gif)A-![pique](../images/internat/spade.gif)D-![trèfle](../images/internat/club.gif)D-![cœur](../images/internat/heart.gif)R-![cœur](../images/internat/heart.gif)D-![cœur](../images/internat/heart.gif)V-![cœur](../images/internat/heart.gif)10-![cœur](../images/internat/heart.gif)9 et les couleurs noires n'ont que cinq cartes chacune.
 
-### Six Players
+### Six joueurs
 
-The players form two teams of three, each player sitting between two opponents. The cards are dealt two at a time, so that each player has four. The player to dealer's left makes trumps, either choosing the suit of one of his first two cards, or asking for one of his second two cards to be turned face up to determine the trump suit.
+Les joueurs forment deux équipes de trois, chaque joueur étant assis entre deux adversaires. Les cartes sont distribuées deux à la fois, de sorte que chaque joueur en a quatre. Le joueur à gauche du donneur nomme les atouts, soit en choisissant la couleur de l'une de ses deux premières cartes, soit en demandant qu'une de ses deux autres cartes soit retournée face visible pour déterminer la couleur d'atout.
 
-Six players can alternatively play with a 32-card pack, ranking A-K-Q-J-10-9-8-7. The 8 and 7 are worth no points. In this case the deal and trump making are done in the same way as in the four-player game.
+Six joueurs peuvent alternativement jouer avec un jeu de 32 cartes, classé A-R-D-V-10-9-8-7. Le 8 et le 7 ne valent aucun point. Dans ce cas, la donne et la nomination des atouts se font de la même manière que dans le jeu à quatre joueurs.
 
-### Eight players
+### Huit joueurs
 
-The players form two teams of four, each player sitting between two opponents. A 32-card pack is used and each player is dealt four cards. The player to dealer's left either chooses one of his first two cards as trump, or asks for one of his second two cards to be turned face up to determine the trump suit.
+Les joueurs forment deux équipes de quatre, chaque joueur étant assis entre deux adversaires. Un jeu de 32 cartes est utilisé et quatre cartes sont distribuées à chaque joueur. Le joueur à gauche du donneur choisit soit l'une de ses deux premières cartes comme atout, soit demande qu'une de ses deux autres cartes soit retournée face visible pour déterminer la couleur d'atout.
 
-### Other Variants
+### Autres variantes
 
-Some play that if the team that made trumps declares the Mit' and loses, they add two *rôyes* to their score rather than one. The logic is that by declaring Mit' they were trying to win two *rôyes* they should lose the same amount if they fail - *"ot'tant de coyes que rôyes".*
+Certains jouent que si l'équipe qui a nommé les atouts déclare la Mit' et perd, elle ajoute deux *rôyes* à son score plutôt qu'un. La logique est qu'en déclarant la Mit', elle essayait de gagner deux *rôyes* et devrait perdre le même montant en cas d'échec — *« ot'tant de coyes que rôyes »*.
 
-Rarely the game is played with the red queens as permanent trumps as well as the Dame de Make. In this case the ranking order is Ace-(![spade](../images/internat/spade.gif)Q)-![club](../images/internat/club.gif)Q-![heart](../images/internat/heart.gif)Q-![diamond](../images/internat/diamond.gif)Q-K-(![spade](../images/internat/spade.gif)Q)-J-10-9-8, the spade Queen taking the higher position if Mit' is declared, and the lower position if spades are trumps and Mit' is not declared.
+Rarement, le jeu se joue avec les dames rouges comme atouts permanents en plus de la Dame de Make. Dans ce cas, l'ordre de classement est A-(![pique](../images/internat/spade.gif)D)-![trèfle](../images/internat/club.gif)D-![cœur](../images/internat/heart.gif)D-![carreau](../images/internat/diamond.gif)D-R-(![pique](../images/internat/spade.gif)D)-V-10-9-8, la Dame de piques prenant la position supérieure si la Mit' est déclarée, et la position inférieure si les piques sont l'atout et que la Mit' n'est pas déclarée.
 
 ## Kwajongen
 
-In Flanders, the name Couillon has been transformed into the similar sounding Flemish word Kwajongen which means a young ruffian. Kim Ieven describes a version played in Opglabbeek in the province of Limburg.
+En Flandre, le nom Couillon a été transformé en le mot flamand Kwajongen qui signifie un jeune voyou. Kim Ieven décrit une version jouée à Opglabbeek dans la province du Limbourg.
 
-As in the basic game, four players play in fixed partnerships with a 24-card pack. The dealer deals two cards face down to each other player, one card face up to himself, then again two cards face down to each other player and three cards face down to himself. The dealer's face up card shows the first proposed trump suit. Starting from the dealer's left players may say 'play' if they accept this trump suit or 'pass' if not. 
+Comme dans le jeu de base, quatre joueurs jouent en partenariats fixes avec un jeu de 24 cartes. Le donneur distribue deux cartes face cachée à chaque autre joueur, une carte face visible à lui-même, puis à nouveau deux cartes face cachée à chaque autre joueur et trois cartes face cachée à lui-même. La carte face visible du donneur montre la première couleur d'atout proposée. En commençant par la gauche du donneur, les joueurs peuvent dire « je joue » s'ils acceptent cette couleur d'atout ou « passe » sinon.
 
-As soon as someone says 'play' the play begins. If all four players pass, the cards are thrown in and the next player shuffles and deals.
+Dès que quelqu'un dit « je joue », le jeu commence. Si les quatre joueurs passent, les cartes sont ramassées et le joueur suivant bat et distribue.
 
-The player to dealer's left leads to the first trick and unusually, in this version of the game, players **must** follow suit if able to. A player who is unable to follow suit **must** play a trump. A player who has no cards of the suit led and no trumps may play any card. Note that you cannot trump when a non-trump is led unless you are unable to follow suit.
+Le joueur à gauche du donneur mène au premier pli et exceptionnellement, dans cette version du jeu, les joueurs **doivent** suivre la couleur s'ils le peuvent. Un joueur incapable de suivre **doit** jouer un atout. Un joueur qui n'a pas de carte de la couleur menée et pas d'atout peut jouer n'importe quelle carte. Notez que vous ne pouvez pas jouer un atout lorsqu'un non-atout est mené sauf si vous êtes incapable de suivre.
 
-Each team begins with 10 points. The score sheet is known as a "tree", even though the score is recorded in numbers rather than by erasing lines. The team that takes more card points subtracts one point from its score, or two points if they won all four tricks. If the team that made trumps fails to take more points than the other team, they must add one point to their score. A team that wins all four tricks subtracts two points instead of one. *[I am not completely sure what happens in this version when the teams have equal numbers of card points. From Kim Ieven's description it seems that the team that accepted trumps should add one point, but the other team does not subtract anything.]*
+Chaque équipe commence avec 10 points. La feuille de score est appelée un « arbre », bien que le score soit enregistré en chiffres plutôt qu'en effaçant des lignes. L'équipe qui prend le plus de points de cartes soustrait un point de son score, ou deux points si elle a gagné les quatre plis. Si l'équipe qui a nommé les atouts échoue à prendre plus de points que l'autre équipe, elle doit ajouter un point à son score. Une équipe qui gagne les quatre plis soustrait deux points au lieu d'un. *[Je ne suis pas complètement sûr de ce qui se passe dans cette version lorsque les équipes ont le même nombre de points de carte.]*
 
-If all pass, no one accepting the trump suit, the next time a team wins they will subtract an extra point - two points rather than one for winning or three points if they win all four tricks. If there are two or more consecutive pass games, the next winners still subtract just one extra point - the points for pass games do not accumulate.
+Si tous passent, personne n'acceptant la couleur d'atout, la prochaine fois qu'une équipe gagne, elle soustraira un point supplémentaire — deux points au lieu d'un pour la victoire, ou trois points si elle gagne les quatre plis. S'il y a deux donnes consécutives ou plus où tous passent, les vainqueurs suivants soustraient toujours un seul point supplémentaire — les points des donnes passées ne s'accumulent pas.
 
-As usual, the first team to reach a score of 0 points or less wins the match. 
+Comme d'habitude, la première équipe à atteindre un score de 0 point ou moins gagne la manche.
 
 ## Kujong
 
-This game, played on both sides of the Luxembourg-German border, was described to me by Thomas Junk from Daleiden in the Eifel district of Germany. Again the name is evidently based on the sound of the French name Couillon, and in this case in the local dialect it means "cowboy" (a boy - *jong* - who herds cows - *ku*).
+Ce jeu, joué des deux côtés de la frontière luxembourgeoise-allemande, m'a été décrit par Thomas Junk de Daleiden dans le district de l'Eifel en Allemagne. Ici encore, le nom est manifestement basé sur la sonorité du nom français Couillon, et dans ce cas, dans le dialecte local, il signifie « cow-boy » (un garçon — *jong* — qui garde les vaches — *ku*).
 
-As usual there are four players in two fixed partnerships, and a 24-card pack is used, the card values being A=4, K=3, Q=2, J=1. Deal and play are clockwise, and the turn to deal passes to the left after each hand. The dealer deals a batch of three cards to each player, and the player to dealer's left chooses the trump suit. Then the dealer completes the deal with another batch of 3 cards to each player. 
+Comme d'habitude, il y a quatre joueurs en deux partenariats fixes, et un jeu de 24 cartes est utilisé, les valeurs des cartes étant A=4, R=3, D=2, V=1. La donne et le jeu se font dans le sens horaire, et le tour de donner passe à gauche après chaque main. Le donneur distribue un lot de trois cartes à chaque joueur, et le joueur à gauche du donneur choisit la couleur d'atout. Puis le donneur complète la donne avec un autre lot de 3 cartes à chaque joueur.
 
-The Queen of spades is the Mit, and as in Couillon with the Mit the holder can declare it before playing to the first trick, thus increasing the score for winning the game. If declared, the Queen of spades becomes the second highest trump, between the Ace and the King. In this version, however, there is no Kontra or Re.
+La Dame de piques est la Mit, et comme dans le Couillon avec la Mit', le détenteur peut la déclarer avant de jouer au premier pli, augmentant ainsi le score de la victoire. Si elle est déclarée, la Dame de piques devient le deuxième atout le plus fort, entre l'As et le Roi. Dans cette version, cependant, il n'y a pas de Kontra ni de Re.
 
-The player to dealer's left leads to the first trick. As usual players able to follow suit may either do so or trump, and players unable to follow suit may play any card.
+Le joueur à gauche du donneur mène au premier pli. Comme d'habitude, les joueurs capables de suivre peuvent le faire ou jouer un atout, et les joueurs incapables de suivre peuvent jouer n'importe quelle carte.
 
-![kujong score](../images/couillon/kujong.png)The score sheet begins with either 9 or 5 vertical strokes for each team. Winning hands entitles a team to cross out strokes, the first team to cross out all their strokes wins the game, known as a "cow", and the first team that wins two cows wins the match. Thomas Junk writes that to win a match, a team must win at least one regular (9-stroke) cow and one short (5-stroke) cow. I think that in practice this must mean that the first two cows of a match are played with 9 strokes, and if each team wins a cow, the deciding cow is a short one with just 5 strokes. When a team wins its first cow, it marks this by drawing a tail at the end of its scoring area.
-
-At the end of the play, the team that has more card points in tricks (21 or more points, since all the cards are in play) crosses out one stroke, plus an extra stroke if the Mit was declared (by either team), plus an extra stroke if they won all six tricks. If the team that chose trumps loses, they have to add one stroke. I am not sure what happens if the card points divide 20-20. Presumably neither team scores. In the diagram of a regular cow in progress, team A has added two strokes and crossed out 5 while team B has crossed out 3 strokes. So the teams are level, each needing 6 more strokes to win the cow.
+![score kujong](../images/couillon/kujong.png)La feuille de score commence avec soit 9 soit 5 barres verticales pour chaque équipe. Les donnes gagnantes permettent à une équipe de barrer des traits, la première équipe à barrer tous ses traits gagne le jeu, appelé une « vache », et la première équipe qui gagne deux vaches gagne la manche. Thomas Junk écrit que pour gagner une manche, une équipe doit gagner au moins une vache régulière (à 9 traits) et une vache courte (à 5 traits).
 
 ## Troeven
 
-This game, which is popular in the southern Dutch province of Limburg, was described by Harry Tiggelovend in *[The Playing-Card](https://www.i-p-c-s.org/wp/publications)* volume XXIV, No 6. The name Troeven simply means "trumps".
+Ce jeu, populaire dans la province néerlandaise méridionale du Limbourg, a été décrit par Harry Tiggelovend dans *[The Playing-Card](https://www.i-p-c-s.org/wp/publications)* volume XXIV, No 6. Le nom Troeven signifie simplement « atouts ».
 
-![troeven scoring](../images/couillon/troeven.png)It is played with a 32-card pack, ranking A-K-Q-J-10-9-8-7 in all suits with the same values A=4, K=3, Q=2, J=1 as in Couillon. As usual there are four players in fixed partnerships. The dealer shuffles and the player to the right may cut. The dealer then deals four cards to the player to his left and waits for this player to announce the trump suit, which may be a suit which he does not hold in his hand. Then he deals the remaining cards clockwise, four at a time, so that every player has eight cards. The player who named the trump suit makes the opening lead. Players who can follow suit must do so or trump; player who cannot follow suit may play any card. 
+![score troeven](../images/couillon/troeven.png)Il se joue avec un jeu de 32 cartes, classé A-R-D-V-10-9-8-7 dans toutes les couleurs avec les mêmes valeurs A=4, R=3, D=2, V=1 qu'au Couillon. Comme d'habitude, il y a quatre joueurs en partenariats fixes. Le donneur bat et le joueur à droite peut couper. Le donneur distribue quatre cartes au joueur à sa gauche et attend que ce joueur annonce la couleur d'atout, qui peut être une couleur qu'il ne détient pas. Puis il distribue les cartes restantes dans le sens horaire, quatre à la fois, de sorte que chaque joueur en a huit. Le joueur qui a nommé la couleur d'atout mène le premier pli. Les joueurs qui peuvent suivre doivent le faire ou jouer un atout ; les joueurs qui ne peuvent pas suivre peuvent jouer n'importe quelle carte.
 
-The scoring diagram is similar to the one used in basic Couillon, with seven horizontal strokes, which are thought of as branches on a tree. The team that takes more card points can cancel one branch on its side, which is done by adding a ball to it. If the team that chose trumps loses, they must add one branch to their side. In case of a draw, there is no score, but the first team that wins a hand after one or more drawn hands cancels two branches instead of one. The first team that cancels all their branches wins.
+Le diagramme de comptage est semblable à celui utilisé dans le Couillon de base, avec sept traits horizontaux, considérés comme des branches sur un arbre. L'équipe qui prend le plus de points de cartes peut annuler une branche de son côté, ce qui se fait en y ajoutant une boule. Si l'équipe qui a nommé les atouts perd, elle doit ajouter une branche à son côté. En cas d'égalité, il n'y a pas de score, mais la première équipe qui gagne une donne après une ou plusieurs donnes nulles annule deux branches au lieu d'une. La première équipe qui annule toutes ses branches gagne.
 
-In the diagram, the left-hand team has added one branch and erased one, while the right-hand team has erased two branches and needs just five more to win.
+### Trois joueurs
 
-### Three players
+Il est possible, bien qu'inhabituel, pour trois personnes de jouer au Troeven. Il y a deux versions.
 
-It is possible, though unusual, for three people to play Troeven. There are two versions.
+**Version 1.** Un joueur est remplacé par un joueur fictif (dummy). Le dummy reçoit une rangée de quatre cartes face cachée avec une carte face visible sur chacune. Un joueur est partenaire permanent du dummy et les deux autres forment une équipe. Dans le jeu, le partenaire du dummy joue ses cartes à tour de rôle. Seules les cartes face visibles sont disponibles pour jouer, selon les règles habituelles. À la fin de chaque pli, toute carte face cachée qui a été exposée par le jeu de la carte qui était au-dessus est retournée face visible.
 
-**Version 1.** One player is replaced by a dummy player. The dummy is dealt a row of four face down cards with a face up card on top of each. One player permanently partners the dummy and the other two form a team. In the play, the dummy's partner plays its cards in turn. Only the face up cards are available to play, according to the usual rules of play. At the end of each trick, any face down card which has been exposed by playing the card that was on top of it is turned face up. When it is dummy's turn to choose trumps, the dummy's partner chooses on the basis of dummy's four face up cards, before looking at his own hand.
+**Version 2.** Les deux sept noirs sont retirés du jeu pour former un jeu de 30 cartes. Il n'y a pas de partenariats ni de dummy. Le comptage est conservé à l'aide de trois arbres, chacun avec cinq (et non sept) branches d'un seul côté.
 
-**Version 2.** The two black sevens are removed from the deck to form a 30-card deck. There are no partnerships and no dummies. Scoring is kept using three trees, each with five (not seven) branches on one side only. *[Harry Tiggelovend does not explain this game fully. Presumably ten cards are dealt to each player, maybe five at a time, with the first player choosing trumps on the basis of the first five cards. Probably only the player with most points is entitled to cancel a branch.]*
+### Deux joueurs
 
-### Two Players
+Il y a à nouveau deux versions.
 
-Again there are two versions.
+**Version 1** est un jeu d'enfants populaire. Chaque joueur reçoit deux rangées de quatre cartes face cachée. Puis le non-donneur reçoit quatre cartes face visibles en rangée au-dessus de sa rangée supérieure de quatre cartes, et doit choisir les atouts. Ensuite, une rangée de quatre cartes face visibles est placée au-dessus de la rangée supérieure du donneur, puis les joueurs reçoivent quatre cartes face visibles supplémentaires au-dessus de leurs rangées inférieures. Après la donne, chaque joueur a un tableau de huit cartes face visibles, chacune avec une carte face cachée en dessous. Dans le jeu, chaque joueur joue depuis les cartes face visibles de son tableau.
 
-**Version 1** is a popular children's game. Each player is dealt two rows of four cards face down. Then the non-dealer gets four face up cards in a row on top of his top row of four cards, and must choose trumps. After this, a row of four face up cards is placed on top of the dealer's top row, and then the players get four more face up cards on top of their bottom rows. So after the deal, each player has an array of eight face up cards, each with a face down card under it. In the play, each player plays from the face up cards of his layout. After each trick, any face down cards that were exposed are turned face up. The rules of play and scoring are the same as in the four-player game.
-
-**Version 2** is less common. The dealer deals four cards to his opponent, who chooses trumps, then four cards to himself and four more cards to each. The remaining sixteen cards are stacked face down. Each trick consists of two cards, and so long as there are cards in the stack there is no requirement to follow suit. After each trick the winner draws the top card of the stack and the loser the next card. When the stock is exhausted, the usual rules of following suit or trumping come into force for the last eight tricks. Scoring is the same as in the four-player game. 
-
-Home Page > Classified Index > Trick Taking Games > Couillon group > Couillon
+**Version 2** est moins courante. Le donneur distribue quatre cartes à son adversaire, qui choisit les atouts, puis quatre cartes à lui-même et quatre autres à chacun. Les seize cartes restantes sont empilées face cachée. Chaque pli se compose de deux cartes, et tant qu'il y a des cartes dans le tas, il n'y a pas d'obligation de suivre. Après chaque pli, le vainqueur pioche la carte du dessus du tas et le perdant la carte suivante. Lorsque le tas est épuisé, les règles habituelles de suivre ou de jouer un atout s'appliquent pour les huit derniers plis. Le comptage est le même que dans le jeu à quatre joueurs.

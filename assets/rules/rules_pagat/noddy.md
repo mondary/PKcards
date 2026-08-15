@@ -2,14 +2,12 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** Links to information on how to play Noddy, a precursor of Cribbage played in England in the 16th and 17th centuries.
+**But :** Liens vers des informations sur la façon de jouer au Noddy, un précurseur du Cribbage joué en Angleterre aux 16e et 17e siècles.
 
 ---
 
-This was a precursor of Cribbage, played in England in the 16th and 17th centuries.
+C'était un précurseur du Cribbage, joué en Angleterre aux 16e et 17e siècles.
 
-A reconstruction can be found on the [Noddy](https://jducoeur.com/game-hist/game-recon-noddy.html) page of the [Period Games](https://www.querki.net/u/jducoeur/period-games/period-games) site.
+Une reconstruction peut être trouvée sur la page [Noddy](https://jducoeur.com/game-hist/game-recon-noddy.html) du site [Period Games](https://www.querki.net/u/jducoeur/period-games/period-games).
 
-Further information can be found on [David Parlett's Noddy page](https://www.parlettgames.uk/histocs/noddy.html).
-
-Home Page > Classified Index > Adding games > Noddy
+Plus d'informations peuvent être trouvées sur la [page Noddy de David Parlett](https://www.parlettgames.uk/histocs/noddy.html).

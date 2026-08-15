@@ -2,93 +2,92 @@
 
 **Difficulté :** —
 **Type :** Bataille de plis, Plis
-**But :** And a player who is caught lying must pick up the pile.
+**But :** Un jeu de mensonge et un joueur pris en flagrant délit de mensonge doit ramasser le tas.
+**Autres noms :** Bullshit
 
 ---
 
-*This page is mainly based on a contribution from Hwei Yin.*
+*Cette page est principalement basée sur une contribution de Hwei Yin.*
 
 ## Introduction
 
-There are several similar games that go under the name **I Doubt It!** or **Bullshit**. The idea of all these games is that you try to get rid of all your cards by playing them face down according to some rule. If anyone thinks you have broken the rule they can challenge. After a challenge the last play is exposed and whoever was in the wrong has to pick up the played cards. 
+Il existe plusieurs jeux similaires qui portent le nom d'**I Doubt It!** ou **Bullshit**. L'idée de tous ces jeux est que vous essayez de vous débarrasser de toutes vos cartes en les jouant face cachée selon une règle. Si quelqu'un pense que vous avez enfreint la règle, il peut contester. Après une contestation, la dernière joue est révélée et celui qui s'est trompé doit ramasser les cartes jouées.
 
-The version of "I Doubt It" most often found in card game books has each player playing the next rank above or below the previous play. The rules of that version are given on the Bullshit page.
+La version d'« I Doubt It » la plus souvent trouvée dans les livres de jeux de cartes fait jouer à chaque joueur le rang immédiatement supérieur ou inférieur à la joue précédente. Les règles de cette version sont données sur la page Bullshit.
 
-The game described on this page, known as **I Doubt It**, or **IDI** for short, players must all (pretend to) play the same rank of card until someone challenges. It is somewhat similar to the Russian game Verish' ne Verish' (Trust - Don't Trust). Although it is a children's game, the strategy is very interesting and can get quite convoluted. 
+Le jeu décrit sur cette page, connu sous le nom d'**I Doubt It**, ou **IDI** en abrégé, fait jouer à tous les joueurs le même rang de carte jusqu'à ce que quelqu'un conteste. Il est quelque peu similaire au jeu russe Verish' ne Verish' (Fais confiance — Ne fais pas confiance). Bien que ce soit un jeu d'enfants, la stratégie est très intéressante et peut devenir assez compliquée.
 
-Another, more elaborate game in which the cards are played face down and challenged is the Finnish game Valepaska.
+Un autre jeu, plus élaboré, dans lequel les cartes sont jouées face cachée et contestées est le jeu finlandais Valepaska.
 
-## Players, Cards and Objective
+## Joueurs, cartes et objectif
 
-There can be three or more players - probably no more than six. It is possible for two to play, but then the force variation must be played. A standard pack is used, with no jokers. An equal number of cards (five or more) is dealt to each player's hand. Each player must keep the number of cards that they own clearly visible at all times.
+Il peut y avoir trois joueurs ou plus — probablement pas plus de six. Il est possible de jouer à deux, mais alors la variante « force » doit être jouée. Un jeu standard est utilisé, sans jokers. Un nombre égal de cartes (cinq ou plus) est distribué à la main de chaque joueur. Chaque joueur doit garder le nombre de cartes qu'il possède clairement visible à tout moment.
 
-The objective is to get rid of all the cards in your hand.
+L'objectif est de se débarrasser de toutes les cartes de sa main.
 
-## Play
+## Jeu
 
-One player, designated as the **lead**, begins a round by playing a **single** card face down, starting a **stack** in the center of the table, and announcing a **rank** - such as "queen", "seven", "ace", etc. Suit doesn't matter - just rank. The card played may or may not actually match the announced rank, but no one knows for sure except the person who played it.
+Un joueur, désigné comme le **meneur**, commence une manche en jouant une **seule** carte face cachée, démarrant une **pile** au centre de la table, et en annonçant un **rang** — comme « dame », « sept », « as », etc. La couleur n'importe pas — seul le rang. La carte jouée peut ou non correspondre réellement au rang annoncé, mais personne ne le sait avec certitude sauf la personne qui l'a jouée.
 
-Going clockwise, each player then takes a turn consisting of one of two options: 
+Dans le sens horaire, chaque joueur prend ensuite un tour consistant en l'une des deux options :
 
-- **Pass** without playing a card. 
+- **Passer** sans jouer de carte.
 
-- **Play a single card** face down on the stack. The played card is claimed to match the rank announced by the lead, but in fact the card may or may not match this rank. Note that the rank announced by the lead must be followed until the round is over.
+- **Jouer une seule carte** face cachée sur la pile. La carte jouée est prétendue correspondre au rang annoncé par le meneur, mais en fait, la carte peut ou non correspondre à ce rang. Notez que le rang annoncé par le meneur doit être suivi jusqu'à la fin de la manche.
 
-The play continues around the table as many times as necessary until everyone passes or there is a challenge. Note that if all the other players pass, it is perfectly legal (and very common) for one player to repeatedly add cards to the stack.
+Le jeu continue autour de la table autant de fois que nécessaire jusqu'à ce que tout le monde passe ou qu'il y ait une contestation. Notez que si tous les autres joueurs passent, il est parfaitement légal (et très courant) qu'un seul joueur ajoute repeatedly des cartes à la pile.
 
-## Ending a round
+## Fin d'une manche
 
-The round can end in two ways.
+La manche peut se terminer de deux façons.
 
-**1. All players pass**
-If all players pass, the cards in the stack are removed from play, without being revealed. The **last** player who played a card on the stack takes the lead in a new round and new stack (possibly 
-announcing a different rank).**2. Challenge**
-After any play, and before another card is played on the stack, the player of the last card may be challenged by **any** other player - you do not have to wait for your turn to challenge. The challenging player is the first who touches the stack and declares **"Doubt"**. The top card of the stack is then revealed. If it is something other than the rank announced by the lead, then the person who played it must pick up the stack. The challenging player then has the lead. If the played card matches the rank announced by the lead, then it's the challenged player who gets the lead and the challenger who must pick up the stack.
+**1. Tous les joueurs passent**
+Si tous les joueurs passent, les cartes de la pile sont retirées du jeu, sans être révélées. Le **dernier** joueur qui a joué une carte sur la pile mène la nouvelle manche et la nouvelle pile (éventuellement en annonçant un rang différent).
+**2. Contestation**
+Après toute joue, et avant qu'une autre carte ne soit jouée sur la pile, le joueur de la dernière carte peut être contesté par **n'importe quel** autre joueur — vous n'avez pas besoin d'attendre votre tour pour contester. Le joueur contestant est le premier qui touche la pile et déclare **« Doubt »** (Doute). La carte du dessus de la pile est alors révélée. Si c'est autre chose que le rang annoncé par le meneur, la personne qui l'a jouée doit ramasser la pile. Le joueur contestant mène alors. Si la carte jouée correspond au rang annoncé par le meneur, c'est le joueur contesté qui mène et le contestataire qui doit ramasser la pile.
 
-## Ending the Game
+## Fin de la partie
 
-When the player whose turn it is to play has just one card, and that card is the correct rank to match the lead (or if it is that player's turn to lead to a new stack), the player wins the game.
+Lorsque le joueur dont c'est le tour de jouer n'a plus qu'une carte, et que cette carte est du bon rang pour correspondre au meneur (ou si c'est à ce joueur de mener une nouvelle pile), le joueur gagne la partie.
 
-## Variations
+## Variantes
 
 ### Bluff
 
-Sandipan Tarafdar describes a variant called **Bluff** played in West Bengal. The rules are the same as above, except that a player may play more than one card in a turn, declaring all the played cards to be of the currently required rank. When starting a new round a player choose any rank and play any number of cards declaring them all to be of that rank - for example three sevens. A player who wishes to challenge does so by saying "Bluff".
+Sandipan Tarafdar décrit une variante appelée **Bluff** jouée au Bengale occidental. Les règles sont les mêmes que ci-dessus, sauf qu'un joueur peut jouer plus d'une carte à son tour, déclarant que toutes les cartes jouées sont du rang actuellement requis. Lors du début d'une nouvelle manche, un joueur choisit n'importe quel rang et joue n'importe quel nombre de cartes en les déclarant toutes de ce rang — par exemple trois septs. Un joueur qui souhaite contester le fait en disant « Bluff ».
 
-Shruti Raghavan reports that Bluff is sometimes played with a pack including jokers. In this case the jokers are wild and are always the truth, no matter what rank is supposed to be played.
+Shruti Raghavan rapporte que le Bluff est parfois joué avec un jeu incluant des jokers. Dans ce cas, les jokers sont jokers et sont toujours la vérité, quel que soit le rang supposé être joué.
 
-In Bluff, a player who has passed is not allowed to put down cards again in that round, though they are still allowed to challenge.
+Au Bluff, un joueur qui a passé n'est pas autorisé à poser des cartes à nouveau lors de cette manche, bien qu'il soit toujours autorisé à contester.
 
-Rather than ending as soon as the first player has run out of cards, the play may be continued until only one player has cards left. In this case the first player who ran out of cards wins, the next takes second place, and so on, with the last player holding cards as the loser.
+Plutôt que de se terminer dès que le premier joueur n'a plus de cartes, le jeu peut être continué jusqu'à ce qu'un seul joueur ait des cartes. Dans ce cas, le premier joueur qui n'a plus de cartes gagne, le suivant prend la deuxième place, etc., le dernier joueur détenant des cartes étant le perdant.
 
-**Tactics.** It is an advantage to start rounds, as the player who does so can choose what rank to play. If a player has many cards of a certian rank, he or she should choose that rank for that round. An often used strategy is to lie about your cards the first time you play them and tell the truth the second or third time. This way, your opponents have no idea whether or not you're telling the truth.
+**Tactique.** Il est avantageux de commencer des manches, car le joueur qui le fait peut choisir le rang à jouer. Si un joueur a beaucoup de cartes d'un certain rang, il devrait choisir ce rang pour cette manche. Une stratégie souvent utilisée est de mentir sur vos cartes la première fois que vous les jouez et de dire la vérité la deuxième ou troisième fois. De cette façon, vos adversaires ne savent pas si vous dites la vérité ou non.
 
 ### Force
 
-Hwei Yin invented the **"force"** option to make two-player games possible. This variation makes the pace slower and more intense, and, although still hilarious, "force" strategies may get too subtle for young children.
+Hwei Yin a inventé l'option **« force »** pour rendre les jeux à deux joueurs possibles. Cette variante rend le rythme plus lent et plus intense, et, bien que toujours hilarante, les stratégies de « force » peuvent devenir trop subtiles pour les jeunes enfants.
 
-When playing this variation there are two ways of challenging. The challenger must say either "doubt" or "force". If the challenger says "doubt" the challenge is resolved as explained above. If the challenger says "force", the person whose play was challenged must produce **from his hand** a card whose rank matches the announced rank of the lead. If such a card is produced, then the challenger must pick up both that card and the stack, and the challenged player leads the next round. If the challenged player fails to produce such a card, he must pick up the stack and the challenger leads.
+Lorsqu'on joue cette variante, il y a deux façons de contester. Le contestataire doit dire soit « doubt » soit « force ». Si le contestataire dit « doubt », la contestation est résolue comme expliqué ci-dessus. Si le contestataire dit « force », la personne dont la joue a été contestée doit produire **de sa main** une carte dont le rang correspond au rang annoncé par le meneur. Si une telle carte est produite, le contestataire doit ramasser cette carte et la pile, et le joueur contesté mène la manche suivante. Si le joueur contesté ne produit pas une telle carte, il doit ramasser la pile et le contestataire mène.
 
-A player who has just played his last card may be "doubted" but cannot be "forced".
+Un joueur qui vient de jouer sa dernière carte peut être « douté » mais ne peut pas être « forcé ».
 
-## Basic observations on tactics
+## Observations de base sur la tactique
 
-The key to winning (with or without the "force" variation) is getting the lead and setting the rank to your preference. This is done by winning challenges or ensuring that your card is the last played on the stack.
+La clé pour gagner (avec ou sans la variante « force ») est d'obtenir le meneur et de fixer le rang selon ses préférences. Cela se fait en gagnant des contestations ou en s'assurant que votre carte est la dernière jouée sur la pile.
 
-Eventually one person tends to collect all cards of a given rank. This is especially dangerous in the basic game: if this person gets the lead, she knows that everyone else must pass, so it's easier for her to sneak junk in as she dumps several cards uninterrupted.
+Finalement, une personne tend à collecter toutes les cartes d'un rang donné. C'est particulièrement dangereux dans le jeu de base : si cette personne obtient le meneur, elle sait que tout le monde doit passer, il est donc plus facile pour elle de glisser des mauvaises cartes pendant qu'elle décharge plusieurs cartes sans interruption.
 
-The essential quandary for "forcing" comes when you have only one card that matches the lead. If you play it, then someone can "force" you and you'll lose the challenge. If you lie and play something else then you are safe from a force, but you might be doubted instead. After being stung with a few forces, people often don't have the guts to play at all with only one matching card.
+Le dilemme essentiel du « forçage » survient lorsque vous n'avez qu'une seule carte correspondant au meneur. Si vous la jouez, quelqu'un peut vous « forcer » et vous perdrez la contestation. Si vous mentez et jouez autre chose, vous êtes à l'abri d'une force, mais vous pourriez être douté à la place. Après avoir été mordu par quelques forces, les gens n'ont souvent plus l'audace de jouer avec une seule carte correspondante.
 
-Like all bluffing games, IDI essentially becomes a game of pattern recognition. The player who wins exploits patterns in her opponent's play before they can adjust. Thus, a bad player can hand the game to the same person every time by repeatedly challenging her and losing. This also means that two player games are very intense, as each player has only one other personality to concentrate on.
+Comme tous les jeux de bluff, IDI devient essentiellement un jeu de reconnaissance de motifs. Le joueur qui gagne exploite les motifs dans le jeu de son adversaire avant qu'il ne puisse s'adapter. Ainsi, un mauvais joueur peut remettre la victoire à la même personne à chaque fois en la contestant à plusieurs reprises et en perdant. Cela signifie aussi que les jeux à deux joueurs sont très intenses, car chaque joueur n'a qu'une seule autre personnalité sur laquelle se concentrer.
 
-## Other WWW pages
+## Autres pages web
 
-Here is David Zechiel's "Tierney family version" of I Doubt It, known as [Liars Poker](http://www.zechiel.com/liars_poker.html), though it is an entirely different game from the Liars Poker (Poker Menteur) on pagat.com.
+Voici la version de la « famille Tierney » du I Doubt It de David Zechiel, connue sous le nom de [Liars Poker](http://www.zechiel.com/liars_poker.html), bien que ce soit un jeu entièrement différent du Liars Poker (Poker Menteur) sur pagat.com.
 
-Another description of this game, rejoicing in the name "Fourshit", can be found on Khopesh's [Bullshit](https://web.archive.org/web/20260326110318/https://khopesh.tripod.com/ent/bs.html) page (archive copy).
+Une autre description de ce jeu, se réjouissant du nom « Fourshit », se trouve sur la page [Bullshit](https://web.archive.org/web/20260326110318/https://khopesh.tripod.com/ent/bs.html) de Khopesh (copie d'archive).
 
-Calvin Yoshitake has developed a variation Cal's BS in which the play is in any order rather than in turn and two jokers are added to the deck.
+Calvin Yoshitake a développé une variante Cal's BS dans laquelle le jeu se fait dans n'importe quel ordre plutôt qu'à tour de rôle et deux jokers sont ajoutés au jeu.
 
-On this site, there are pages on the very similar Russian game Verish' ne verish' and the related game Bullshit, in which the rank of cards played changes by one on each turn.
-
-Home Page > Classified Index > Shedding and Accumulation Games > Beating Games > I Doubt It
+Sur ce site, il y a des pages sur le jeu russe très similaire Verish' ne verish' et le jeu apparenté Bullshit, dans lequel le rang des cartes jouées change d'un à chaque tour.

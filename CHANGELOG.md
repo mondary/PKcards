@@ -54,7 +54,7 @@ Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 - [x] Batch Banque/bluff/mises : 36 fiches FR
 - [x] Batch Compilations/divers : 49 fiches FR
 - [x] Batch Divers : 79 fiches FR (lots 14a+14b)
-- [x] Traduction/résumé FR des 394 fiches anglaises (par batches)
+- [x] Traduction FR complète pagat (394+118 = 512 fiches)
 
 ---
 

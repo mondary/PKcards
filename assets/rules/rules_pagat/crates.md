@@ -2,263 +2,188 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** An enhanced version of the card game Crazy Eights developed in Chicago in 1970.
+**But :** Une version améliorée du jeu de cartes Crazy Eights développée à Chicago en 1970.
 
 ---
 
 ## Introduction
 
-Crates is a form of Crazy Eights, played with a normal 52-card deck, with enough extra rules to be
-amusing. Like most Eights-type games, it is somewhat reminiscent of the later commercial game Uno. 
+Crates est une variante du Crazy Eights, jouée avec un jeu de 52 cartes standard, avec suffisamment de règles supplémentaires pour être amusant. Comme la plupart des jeux de type Huit, il rappelle un peu le jeu commercial ultérieur Uno.
 
-According to Sheldon Kahn, Crates was developed by a group of Bridge players in Chicago in the fall of 1970, and was played at Bridge tournaments while waiting for the sessions to start. The game gained popularity in Chicago over the next few years and several summer parties with up to 100 players were held. Since many Crates players also played in national Bridge tournaments, the game spread around the country over the next few years.
+Selon Sheldon Kahn, Crates a été développé par un groupe de joueurs de bridge à Chicago à l'automne 1970, et était joué lors de tournois de bridge en attendant le début des sessions. Le jeu a gagné en popularité à Chicago au cours des années suivantes et plusieurs soirées d'été avec jusqu'à 100 joueurs ont été organisées. Comme de nombreux joueurs de Crates participaient également à des tournois de bridge nationaux, le jeu s'est répandu dans tout le pays au cours des années suivantes.
 
-The main description on this page was contributed in 1996 by Richard Hussong, who explains how the game was played at that time around Boston, Massachusetts. Some other variants, including the original Chicago version, are described at the end of the page.
+La description principale de cette page a été contribuée en 1996 par Richard Hussong, qui explique comment le jeu était joué à cette époque dans la région de Boston, Massachusetts. D'autres variantes, dont la version originale de Chicago, sont décrites à la fin de la page.
 
-## Players and Cards
+## Joueurs et cartes
 
-Crates is normally played by four players, playing in two partnerships, but there are
-variants playable by from two to five players. In the four-player game, partners sit opposite one another.
+Crates se joue normalement avec quatre joueurs, formant deux partenariats, mais il existe des variantes jouables de deux à cinq joueurs. Dans le jeu à quatre, les partenaires sont assis en face l'un de l'autre.
 
-The Crates deck is a normal 52-card deck, with no relative ranking of suits or numbers. In
-one variant, the Kings and Queens are removed from the deck to decrease the size of the deck
-and increase the proportion of special cards.
+Le jeu de Crates utilise un jeu de 52 cartes standard, sans classement relatif des couleurs ou des numéros. Dans une variante, les Rois et les Dames sont retirés du jeu pour réduire la taille du jeu et augmenter la proportion de cartes spéciales.
 
-### Card Points Table
+### Tableau des points des cartes
 
-In the scoring phase of the game, each card is assigned a number of points. This assignment
-may be summarized as follows:
+Lors de la phase de notation, chaque carte se voit attribuer un certain nombre de points. Cette attribution peut être résumée comme suit :
 
-Card Score
-A 1
-2 20
-3 see scoring.
-4 15
-5 30
-6 30
-7 20
-8 50
-9 30
-10 25
-J 10
-Q 10
-K 10
+| Carte | Points |
+|-------|--------|
+| A | 1 |
+| 2 | 20 |
+| 3 | voir notation |
+| 4 | 15 |
+| 5 | 30 |
+| 6 | 30 |
+| 7 | 20 |
+| 8 | 50 |
+| 9 | 30 |
+| 10 | 25 |
+| V | 10 |
+| D | 10 |
+| R | 10 |
 
-## The Deal
+## La donne
 
-A game of crates consists of 15 hands. In the first hand, each player is dealt 8 cards; in
-the second hand, 7 cards, and so on until the eighth hand, in which each player is dealt 1 card.
-On the next, ninth hand, each player is dealt 2 cards; on the tenth hand 3 cards, and so on
-until the fifteenth hand, in which each player is dealt 8 cards.
+Une partie de Crates comporte 15 donnes. Lors de la première donne, chaque joueur reçoit 8 cartes ; lors de la deuxième donne, 7 cartes, et ainsi de suite jusqu'à la huitième donne, où chaque joueur reçoit 1 carte. Lors de la donne suivante, la neuvième, chaque joueur reçoit 2 cartes ; lors de la dixième donne 3 cartes, et ainsi de suite jusqu'à la quinzième donne, où chaque joueur reçoit 8 cartes.
 
-The deal begins with any player, and rotates to the left thereafter. When all cards have
-been dealt, the dealer places the deck of remaining cards on the table, turns up the top card
-of the deck, and places it next to the deck, to start the discard pile.
+La donne commence avec n'importe quel joueur, et tourne ensuite vers la gauche. Une fois toutes les cartes distribuées, le donneur place le tas de cartes restantes sur la table, retourne la carte supérieure du tas et la place à côté pour commencer la défausse.
 
-## The Goal
+## Le but
 
-The goal of Crates is to win by being the player with the fewest total points accumulated
-during the game.
+Le but de Crates est de gagner en étant le joueur avec le moins de points accumulés au total pendant la partie.
 
-## The Play
+## Le jeu
 
-### General method of play
+### Méthode générale de jeu
 
-At any moment during the play, there is a current suit, a current rank, and a current
-direction of play. The current suit is the suit of the top card of the discard pile unless that
-card is an 8 or a 9, in which case the current suit is the suit chosen by the player who played
-the 8 or 9. The current rank is always the rank of the top card of the discard pile. On each
-hand, the initial direction of play is clockwise.
+À tout moment pendant le jeu, il existe une couleur actuelle, un rang actuel et une direction de jeu actuelle. La couleur actuelle est la couleur de la carte du dessus de la défausse, sauf si cette carte est un 8 ou un 9, auquel cas la couleur actuelle est la couleur choisie par le joueur qui a joué le 8 ou le 9. Le rang actuel est toujours le rang de la carte du dessus de la défausse. À chaque donne, la direction initiale de jeu est dans le sens horaire.
 
-The card turned over by the dealer to create the discard pile is treated as if it had been
-played by the dealer in the ordinary course of play, except that, if it is an 8 or a 9, the
-dealer must choose a suit before examining his or her hand, and if the turned card is a 9,
-the suit must be of the same color as the 9. 
+La carte retournée par le donneur pour créer la défausse est traitée comme si elle avait été jouée par le donneur dans le cours normal du jeu, sauf que si c'est un 8 ou un 9, le donneur doit choisir une couleur avant d'examiner sa main, et si la carte retournée est un 9, la couleur doit être de la même famille que le 9.
 
-The general rule of play is that each player must play a card that matches the current suit
-or the current rank, or play a wild card (an 8 or 9). The only exception to this rule occurs
-during a 2-sequence. When a player cannot play on the discard pile, that
-player must draw one card from the deck, and play proceeds to the next player in the current
-direction.
+La règle générale du jeu est que chaque joueur doit jouer une carte qui correspond à la couleur actuelle ou au rang actuel, ou jouer une carte spéciale (un 8 ou un 9). La seule exception à cette règle se produit pendant une séquence de 2. Lorsqu'un joueur ne peut pas jouer sur la défausse, ce joueur doit piocher une carte du tas, et le jeu passe au joueur suivant dans la direction actuelle.
 
-When a card is played, there may be some further action to be taken before the next player's
-turn. See the table of card actions for the list of such actions.
+Lorsqu'une carte est jouée, il peut y avoir une action supplémentaire à effectuer avant le tour du joueur suivant. Voir le tableau des actions des cartes pour la liste de ces actions.
 
-When a player has exactly two cards, that player must say "one card" in a clearly
-audible fashion when playing a card. This applies even if the card played is a 6, which cannot
-actually leave the player with one card after the turn ends. If the player must make some
-other announcement (e.g., specify a suit for a wild card, or announce the total of a 2-sequence),
-"one card" must be said first. A player who fails to say "one card" when
-required to do so is penalized by having to draw two cards on his or her next turn. If the
-player does not get another turn in the current hand, the penalty is forgotten.
+Lorsqu'un joueur a exactement deux cartes, ce joueur doit dire « une carte » de manière clairement audible lorsqu'il joue une carte. Cela s'applique même si la carte jouée est un 6, qui ne peut pas réellement laisser le joueur avec une seule carte après la fin du tour. Si le joueur doit faire une autre annonce (par exemple, spécifier une couleur pour une carte spéciale, ou annoncer le total d'une séquence de 2), « une carte » doit être dit en premier. Un joueur qui omet de dire « une carte » lorsqu'il est tenu de le faire est pénalisé en devant piocher deux cartes lors de son prochain tour. Si le joueur n'a pas d'autre tour dans la donne en cours, la pénalité est oubliée.
 
-### Ending a hand
+### Fin d'une donne
 
-When one player no longer has any cards, the hand is over, unless a
-2-sequence is in progress, in which case the 2-sequence continues until
-it ends normally, at which time the hand is over, even if every player now has cards.
+Lorsqu'un joueur n'a plus aucune carte, la donne est terminée, sauf si une séquence de 2 est en cours, auquel cas la séquence de 2 continue jusqu'à ce qu'elle se termine normalement, moment auquel la donne est terminée, même si tous les joueurs ont maintenant des cartes.
 
-The following table summarizes the effects of playing a given card on the play of the game:
+Le tableau suivant résume les effets de la joue d'une carte donnée sur le déroulement du jeu :
 
-### Summary of card actions during play
+### Résumé des actions des cartes pendant le jeu
 
-| A: | used in a 2-sequence |
-| 2: | start a 2-sequence |
-| 3: | none |
-| 4: | skip the next player |
-| 5: | Cards for everyone |
-| 6: | same player plays again |
-| 7: | next player but one takes a card |
-| 8: | wild, and change to any suit |
-| 9: | wild, and change to same-color suit |
-| 10: | reverse direction of play |
-| J: | none |
-| Q: | none |
-| K: | none |
+| Carte | Effet |
+|-------|------|
+| A | utilisée dans une séquence de 2 |
+| 2 | démarre une séquence de 2 |
+| 3 | aucun |
+| 4 | passe le joueur suivant |
+| 5 | Cartes pour tout le monde |
+| 6 | le même joueur rejoue |
+| 7 | le joueur suivant mais un prend une carte |
+| 8 | joker, et change pour n'importe quelle couleur |
+| 9 | joker, et change pour une couleur de même famille |
+| 10 | inverse la direction du jeu |
+| V | aucun |
+| D | aucun |
+| R | aucun |
 
-### Special rules and notes
+### Règles spéciales et notes
 
-2-sequence:
+Séquence de 2 :
 
-When a player plays a 2, it starts a "2-sequence", known by some players as "the count". Thereafter, each player must
-play an A or 2, of any suit. When one player cannot do so, that player must draw a number of
-cards equal to the total number of pips played in the 2-sequence. The 2-sequence is then over,
-and the next player plays following number or suit, as usual. Note that this applies even if
-the player has gone out during the 2-sequence, so a player may actually have to draw cards
-after going out. 
+Lorsqu'un joueur joue un 2, cela démarre une « séquence de 2 », connue par certains joueurs sous le nom de « le décompte ». Par la suite, chaque joueur doit jouer un A ou un 2, de n'importe quelle couleur. Lorsqu'un joueur ne peut pas le faire, ce joueur doit piocher un nombre de cartes égal au total des points joués dans la séquence de 2. La séquence de 2 est alors terminée, et le joueur suivant joue en suivant le numéro ou la couleur, comme d'habitude. Notez que cela s'applique même si le joueur s'est débarrassé de ses cartes pendant la séquence de 2, donc un joueur peut effectivement devoir piocher des cartes après s'être débarrassé de ses cartes.
 
-Cards for everyone:
+Cartes pour tout le monde :
 
-When a player plays a 5, each other player must draw a card. These cards must be drawn in
-order, in the current direction, to ensure that any pressure goes to the correct player or
-partnership.
+Lorsqu'un joueur joue un 5, chaque autre joueur doit piocher une carte. Ces cartes doivent être piochées dans l'ordre, dans la direction actuelle, pour s'assurer que toute pression s'exerce sur le bon joueur ou partenariat.
 
-## Scoring
+## Notation
 
-At the end of each hand, players receive points according to the cards remaining in their
-hands. See the card points table for the point values of the various
-cards.
+À la fin de chaque donne, les joueurs reçoivent des points selon les cartes restantes dans leurs mains. Voir le tableau des points des cartes pour les valeurs en points des différentes cartes.
 
-At the end of the game (i.e., at the end of the fifteenth hand), the player or partnership
-with the fewest points wins the game.
+À la fin de la partie (c'est-à-dire à la fin de la quinzième donne), le joueur ou le partenariat avec le moins de points gagne la partie.
 
-### Scoring threes
+### Notation des trois
 
-The threes are special in scoring. A hand containing only threes counts -50 for each three
-in the hand. When threes are accompanied by other ranks, they score +3 instead. Also, a three
-can be used to "cover" any card but an eight. That is, if a hand
-contains both threes and "eligible cards" (i.e., cards that are not eights), the
-player may pair a three with an eligible card. The resulting pair is treated as a new eligible
-card, with score 3. This pairing continues until no bare threes remain. Which eligible cards are
-paired with threes is up to the player, but it is wise to pair the highest value cards possible.
+Les trois sont spéciaux dans la notation. Une main contenant uniquement des trois compte -50 pour chaque trois dans la main. Lorsque les trois sont accompagnés d'autres rangs, ils marquent +3 à la place. De plus, un trois peut être utilisé pour « couvrir » n'importe quelle carte sauf un huit. C'est-à-dire que si une main contient à la fois des trois et des « cartes éligibles » (c'est-à-dire des cartes qui ne sont pas des huits), le joueur peut associer un trois avec une carte éligible. La paire résultante est traitée comme une nouvelle carte éligible, avec un score de 3. Cette association continue jusqu'à ce qu'il ne reste plus de trois seuls. Le choix des cartes éligibles à associer aux trois revient au joueur, mais il est sage d'associer les cartes de la plus haute valeur possible.
 
-Scores for all hands are added together, and the winning player or partnership is that player
-or partnership with the fewest points after the end of the fifteenth hand.
+Les scores de toutes les donnes sont additionnés, et le joueur ou partenariat gagnant est celui qui a le moins de points après la fin de la quinzième donne.
 
-### Scoring examples
+### Exemples de notation
 
-Suppose a player is left with the following cards: **A, 2, 3, 3, 6, 8, K**.
-One three should cover the 6, and the other should cover the 2, since these are the
-highest-scoring eligible cards. The total score would then be **50 + 10 + 3 + 3 + 1 = 67** points
+Supposons qu'un joueur ait les cartes suivantes : **A, 2, 3, 3, 6, 8, R**.
+Un trois devrait couvrir le 6, et l'autre devrait couvrir le 2, puisque ce sont les cartes éligibles les plus hautes. Le score total serait alors **50 + 10 + 3 + 3 + 1 = 67** points.
 
-Suppose a player is left with just **3, 3, 8**. The threes are themselves eligible
-cards, so one of them covers the other, resulting in a score of 53.
+Supposons qu'un joueur n'ait que **3, 3, 8**. Les trois sont eux-mêmes des cartes éligibles, donc l'un d'eux couvre l'autre, résultant en un score de 53.
 
-### Pressures
+### Pressions
 
-When a player must draw a card, but the deck is exhausted, that player (or that player's
-partnership) is given a "pressure". The player must then shuffle all the played cards except the last and stack them face down to make a new deck from which they will draw. The first pressure a player or partnership
-receives counts 5 points, and each one thereafter counts double the value of the previous one.
-Pressures are accumulated throughout the game, but scored in the round in which they occur.
+Lorsqu'un joueur doit piocher une carte, mais que le tas est épuisé, ce joueur (ou le partenariat de ce joueur) reçoit une « pression ». Le joueur doit alors mélanger toutes les cartes jouées sauf la dernière et les empiler face cachée pour former un nouveau tas à partir duquel il piochera. La première pression reçue par un joueur ou un partenariat compte 5 points, et chacune par la suite compte le double de la valeur de la précédente. Les pressions s'accumulent tout au long de la partie, mais sont comptées dans la manche où elles se produisent.
 
-For example, if a partnership gets the first pressure of the game on hand 2, then two
-pressures on hand 3, the first pressure adds 5 points to the score for hand 2, while the second
-and third pressures add 10 + 20 = 30 points to the score for hand 3. The next pressure for
-that partnership will be worth 40 points.
+Par exemple, si un partenariat obtient la première pression de la partie lors de la donne 2, puis deux pressions lors de la donne 3, la première pression ajoute 5 points au score de la donne 2, tandis que la deuxième et la troisième pression ajoutent 10 + 20 = 30 points au score de la donne 3. La prochaine pression pour ce partenariat vaudra 40 points.
 
 ## Conventions
 
-- The hands in which 1 to 3 cards are dealt are referred to as the "skill hands",
-while the others are referred to as the "luck hands" (when they are referred to at all).
+- Les donnes où 1 à 3 cartes sont distribuées sont appelées les « donnes de skill », tandis que les autres sont appelées les « donnes de chance » (quand on les mentionne).
 
-- If one player has chosen a suit as a result of playing a wild card, and the next player
-plays a ten (thus reversing the direction of play), the player who plays the ten says
-"Play 'em" to the player who chose the suit.
+- Si un joueur a choisi une couleur suite à la joue d'une carte spéciale, et que le joueur suivant joue un dix (inversant ainsi la direction du jeu), le joueur qui joue le dix dit « Jouez-les » au joueur qui a choisi la couleur.
 
-- A player receiving a card as a result of another player's playing a seven should thank the
-donor. In particular, in a partnership game, a player who plays a seven should say
-"Card for my partner!", and the partner should respond
-"Thank you, partner!"
+- Un joueur qui reçoit une carte suite à la joue d'un sept par un autre joueur devrait remercier le donneur. En particulier, dans un jeu en partenariat, un joueur qui joue un sept devrait dire « Carte pour mon partenaire ! », et le partenaire devrait répondre « Merci, partenaire ! »
 
-- If a player's last card is a 6, and can be played, that player must play the 6 and
-immediately draw another card. This is known as a "Cooper". A player who Coopers
-need not (and should not) say "one card" on that turn, of course. The term
-"Cooper" is sometimes extended to cover all cases in which a 6 is played, then a
-card is drawn, but the "one card" rule does apply to two-card Coopers.
+- Si la dernière carte d'un joueur est un 6 et peut être jouée, ce joueur doit jouer le 6 et piocher immédiatement une autre carte. C'est ce qu'on appelle un « Cooper ». Un joueur qui fait un Cooper n'a pas besoin (et ne devrait pas) dire « une carte » lors de ce tour, bien sûr. Le terme « Cooper » est parfois étendu pour couvrir tous les cas où un 6 est joué puis une carte est piochée, mais la règle « une carte » s'applique aux Cooper à deux cartes.
 
-- A player who causes the other players to draw an unusually large number of cards in quick
-succession is said to be "working the deck".
+- Un joueur qui oblige les autres joueurs à piocher un nombre inhabituellement élevé de cartes en peu de temps est dit « travailler le tas ».
 
-- It is considered reprehensible to deliberately fail to say "one card" in order
-to avoid going out on the next turn.
+- Il est considéré comme répréhensible de omettre délibérément de dire « une carte » pour éviter de se débarrasser de ses cartes au tour suivant.
 
-- Saying "Uno" instead of "one card" is grounds for being vilified by the
-other players.
+- Dire « Uno » au lieu de « une carte » justifie d'être vilipendé par les autres joueurs.
 
-## Variants
+## Variantes
 
-### Two-player, Three-player, and Five-player Crates
+### Crates à deux, trois et cinq joueurs
 
-The rules for two-player, three-player, and five-player Crates are almost the same as those
-for the four-player game. The most obvious difference is that there are no partnerships, so
-scores and pressures are tallied individually. In addition, in the two-player and three-player
-games, the actions of certain cards are changed as follows:
+Les règles pour le Crates à deux, trois et cinq joueurs sont presque identiques à celles du jeu à quatre. La différence la plus évidente est qu'il n'y a pas de partenariats, donc les scores et les pressions sont comptabilisés individuellement. De plus, dans les jeux à deux et trois joueurs, les actions de certaines cartes sont modifiées comme suit :
 
-| 7: | next player takes a card |
-| J: | previous player takes a card |
+| Carte | Effet |
+|-------|------|
+| 7 | le joueur suivant prend une carte |
+| V | le joueur précédent prend une carte |
 
-Some players also prefer to remove the queens and kings from the pack in the two-player or
-three-player game, in order to produce more pressures.
+Certains joueurs préfèrent également retirer les dames et les rois du jeu lors d'une partie à deux ou trois joueurs, afin de produire plus de pressions.
 
-### 1970 Chicago Version
+### Version de Chicago 1970
 
-There are a few small differences between the Boston version of Crates described above and the original version developed in Chicago in 1970. Sheldon Kahn lists the following different rules and conventions of the 1970 Chicago version.
+Il y a quelques petites différences entre la version de Boston de Crates décrite ci-dessus et la version originale développée à Chicago en 1970. Sheldon Kahn énumère les règles et conventions suivantes de la version de Chicago 1970.
 
-- The game was always played between individuals, never with partners. Usually there wer 3 or 4 players, sometimes 5. 
+- Le jeu se jouait toujours entre individus, jamais avec des partenaires. Il y avait généralement 3 ou 4 joueurs, parfois 5.
 
-- A player whose last card was a 6 was required to say "one card" when playing it. Failure to do so resulted in the player having to draw two cards after playing the 6 instead of one. 
+- Un joueur dont la dernière carte était un 6 était tenu de dire « une carte » en la jouant. L'oubli entraînait le fait que le joueur devait piocher deux cartes après avoir joué le 6 au lieu d'une.
 
-- Another minor difference concerned what people said to each other during a game. Usually when a novice was playing , the other players would say “play a card” somewhat aggressively when the person didn’t know what to do or wasn’t paying attention.
+- Une autre différence mineure concernait ce que les gens se disaient pendant une partie. Habituellement, lorsqu'un débutant jouait, les autres joueurs disaient « joue une carte » de manière assez agressive lorsque la personne ne savait pas quoi faire ou ne faisait pas attention.
 
-- You couldn’t tell anybody else the rules. This was relevant because Crates was commonly played at bridge tournaments while waiting for the session to start. Not surprisingly, other players who were also waiting would gather around and watch. When asked what they were doing, the Crates players would tell them they were playing Crates, but wouldn’t tell them the rules. They had to watch and figure it out.
+- On ne pouvait dire les règles à personne d'autre. Cela était pertinent car Crates était couramment joué lors de tournois de bridge en attendant le début de la session. Sans surprise, d'autres joueurs qui attendaient également se rassemblaient et regardaient. Lorsqu'on leur demandait ce qu'ils faisaient, les joueurs de Crates leur disaient qu'ils jouaient à Crates, mais ne leur disaient pas les règles. Ils devaient regarder et comprendre par eux-mêmes.
 
-- There was a tradition, enforced only in private games, that you had to be stoned to play.
+- Il y avait une tradition, appliquée uniquement dans les parties privées, selon laquelle il fallait être défoncé pour jouer.
 
-### Standig Joker Adjunct
+### Ajout Joker de Standig
 
-David Standig suggests adding two Jokers to the deck. Their value is 40. A Joker can be played at any turn, and its effect is that the **previous** player must play again but the direction of play remains the same. Jokers are transparent with regard to following suit or number: the next play must match the suit or number required by the card before the Joker. Jokers may be played in "the count" (or "2 sequence"), adding zero pips to the count and requiring the previous player to play to the count again (or end the count by drawing the appropriate number of cards). A Joker played on a Joker will move the turn to play back a second step still without changing the direction of play. A Joker in a player's hand at the end of a game can be covered by a 3. 
+David Standig suggère d'ajouter deux Jokers au jeu. Leur valeur est de 40. Un Joker peut être joué à n'importe quel tour, et son effet est que le joueur **précédent** doit rejouer mais la direction de jeu reste la même. Les Jokers sont transparents en ce qui concerne le suivi de la couleur ou du numéro : la joue suivante doit correspondre à la couleur ou au numéro requis par la carte avant le Joker. Les Jokers peuvent être joués dans « le décompte » (ou « séquence de 2 »), ajoutant zéro point au décompte et obligeant le joueur précédent à rejouer dans le décompte (ou à terminer le décompte en piochant le nombre approprié de cartes). Un Joker joué sur un Joker fait reculer le tour de jeu d'une deuxième étape sans changer la direction. Un Joker dans la main d'un joueur à la fin d'une partie peut être couvert par un 3.
 
-### Pressure penalties
+### Pénalités de pression
 
-Some players have found that the pressure penalties increase too rapidly, resulting in inconveniently large scores. To get around this a possible chnage is to agree that the inrease in pressure penalty is capped at 20 points. So the first pressure for a player or team will be 5 points, the second 10, the third 20, the fourth 40, the fifth 60 (not 80), the sixth 80 (not 160), the seventh 100 (not 320) and so on.
+Certains joueurs ont constaté que les pénalités de pression augmentent trop rapidement, entraînant des scores trop élevés. Pour contourner cela, un changement possible est de convenir que l'augmentation de la pénalité de pression est plafonnée à 20 points. Ainsi la première pression pour un joueur ou une équipe sera de 5 points, la deuxième de 10, la troisième de 20, la quatrième de 40, la cinquième de 60 (et non 80), la sixième de 80 (et non 160), la septième de 100 (et non 320), etc.
 
-On the other hand David Standig has suggested that in the three-player game pressures are too rare. To make them more frequent he suggests the rule that playing a Queen forces the nest player to draw two cards before playing.
+D'autre part, David Standig a suggéré que dans le jeu à trois joueurs, les pressions sont trop rares. Pour les rendre plus fréquentes, il suggère la règle selon laquelle jouer une Dame oblige le joueur suivant à piocher deux cartes avant de jouer.
 
-### Skill-hand World Series
+### Série mondiale des donnes de skill
 
-(Thanks to Sunshine, of Philadelphia, for these rules) This is another two-player Crates
-variant. It is played with three hands, one of which is played by a dummy player, known
-conventionally as "Figgy" (or, more formally, "Fighdij"), whose hand is
-visible to both other players. 
+(Merci à Sunshine, de Philadelphie, pour ces règles) C'est une autre variante de Crates à deux joueurs. Elle se joue avec trois donnes, dont l'une est jouée par un joueur fictif, conventionnellement appelé « Figgy » (ou, plus formellement, « Fighdij »), dont la main est visible des deux autres joueurs.
 
-The rules are generally those of three-handed Crates, with some modifications:
+Les règles sont généralement celles du Crates à trois joueurs, avec quelques modifications :
 
-- Only the 1-card and 2-card skill hands are played; the sequence is 2-1-1-2.
+- Seules les donnes de skill à 1 et 2 cartes sont jouées ; la séquence est 2-1-1-2.
 
-- Figgy never deals, and his hand is played by the previous player in the current direction.
-Note that this means Figgy's hand will typically be played by both players at various times
-during each hand.
+- Figgy ne donne jamais, et sa main est jouée par le joueur précédent dans la direction actuelle. Notez que cela signifie que la main de Figgy sera typiquement jouée par les deux joueurs à divers moments au cours de chaque donne.
 
-- Figgy begins the game with -50 points, and never receives a pressure. If Figgy would normally receive a pressure, that pressure instead goes to the next player to play. Figgy can win the game, to the everlasting mortification of the human players.
-
-Home Page > Classified Index > Matching games > Eights Group > Crates
+- Figgy commence la partie avec -50 points, et ne reçoit jamais de pression. Si Figgy devait normalement recevoir une pression, cette pression va au joueur suivant à jouer. Figgy peut gagner la partie, à la mortification éternelle des joueurs humains.

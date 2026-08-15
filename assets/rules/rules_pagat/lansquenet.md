@@ -3,131 +3,125 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Banque, Banque
-**But :** How to play the ancient gambling card game Lansquenet and its modern relatives Ziginette or Zecchinetta and Skin.
+**But :** Comment jouer au ancien jeu de cartes d'argent Lansquenet et ses parents modernes, la Ziginette ou Zecchinetta et le Skin.
+**Autres noms :** Skin, Ziginette, Zecchinetta
 
 ---
 
 ## Introduction
 
-Lansquenet is an extremely simple gambling game. It is also one of the oldest recorded card games: it is mentioned in the list of games in the 1542 edition of Rabelais' *Gargantua*. The name is from the German *Landsknecht*, a medieval mercenary. A variant of it is still played in the USA, where it is known as Skin, a name which must derive from the middle syllable of (Lan**)squen**(et). Another variant Zecchinetta is played in Sicily and to some extent in other parts of Italy, and by Italian Americans under the name **Ziginette**.
+Le Lansquenet est un jeu d'argent extrêmement simple. C'est aussi l'un des plus anciens jeux de cartes enregistrés : il est mentionné dans la liste des jeux de l'édition de 1542 du *Gargantua* de Rabelais. Le nom vient de l'allemand *Landsknecht*, un mercenaire médiéval. Une variante est encore jouée aux États-Unis, où elle est connue sous le nom de Skin, nom qui doit dériver de la syllabe médiane de (Lan)**squen**(et). Une autre variante, la Zecchinetta, se joue en Sicile et dans une certaine mesure dans d'autres régions d'Italie, et par les Italo-Américains sous le nom de **Ziginette**.
 
-All these are pure games of chance, the result depending on the turn of a card. The banker has one card and the players have one or more cards, all these cards being of different ranks. The banker turns up further cards from the pack one at a time. Any player whose card is matched loses to the banker. If the banker's card is matched the banker loses to all players whose cards have not yet been matched.
+Tous ceux-ci sont des jeux de pur hasard, le résultat dépendant du retournement d'une carte. Le banquier a une carte et les joueurs ont une ou plusieurs cartes, toutes ces cartes étant de rangs différents. Le banquier retourne d'autres cartes du jeu une à la fois. Tout joueur dont la carte correspondante est trouvée perd face au banquier. Si la carte du banquier est trouvée, le banquier perd face à tous les joueurs dont les cartes n'ont pas encore été trouvées.
 
 ## Lansquenet
 
-This description is of the 19th century French version of the game.
+Cette description est de la version française du 19e siècle du jeu.
 
-### Players and cards
+### Joueurs et cartes
 
-There must be at least two players, and in principle there is no upper limit to the number that can play. Traditionally the game uses about six standard 52-card packs shuffled together, but it could equally well be played with a single 52-card pack which was shuffled before each deal. The suits of the cards are irrelevant and there is no particular ranking order - all that is important is that there is an equal number of cards of each rank.
+Il doit y avoir au moins deux joueurs, et en principe il n'y a pas de limite supérieure au nombre de joueurs. Traditionnellement, le jeu utilise environ six jeux standard de 52 cartes battus ensemble, mais il pourrait tout aussi bien se jouer avec un seul jeu de 52 cartes qui serait battu avant chaque donne. Les couleurs des cartes sont sans importance et il n'y a pas d'ordre de classement particulier — tout ce qui importe est qu'il y a un nombre égal de cartes de chaque rang.
 
-### Deal, stakes and play
+### Donne, mises et jeu
 
-At the start of the session, the players draw lots to decide who will be the first dealer. The dealer shuffles the cards, the player to dealer's left cuts, and the shuffled pack is stacked face down in front of the dealer. The dealer is also the banker, and this player must put up a stake that he or she is prepared to play for. 
+Au début de la partie, les joueurs tirent au sort pour décider qui sera le premier donneur. Le donneur bat les cartes, le joueur à sa gauche coupe, et le jeu battu est empilé face cachée devant le donneur. Le donneur est aussi le banquier, et ce joueur doit miser une somme qu'il est prêt à jouer.
 
-Then the other players, in anticlockwise order, starting to the right of the banker, place their stakes, whose total amount cannot be more than the banker's stake. Each player has the following options:
+Ensuite, les autres joueurs, dans le sens inverse des aiguilles d'une montre, en commençant par la droite du banquier, placent leurs mises, dont le montant total ne peut pas dépasser la mise du banquier. Chaque joueur a les options suivantes :
 
-- To place a stake equal to the banker's entire stake
+- Placer une mise égale à la mise totale du banquier
 
-- To place a stake less than the banker's stake and such that the total of the players' stakes does not exceed the banker's stake.
+- Placer une mise inférieure à celle du banquier de sorte que le total des mises des joueurs ne dépasse pas la mise du banquier.
 
-- To pass, placing no stake.
+- Passer, sans placer de mise.
 
-This continues for as many rounds as necessary until either
+Cela continue pour autant de tours que nécessaire jusqu'à ce que soit
 
-- Someone places an amount equal to the banker's whole stake. In this case all other players withdraw their stakes and the game proceeds.
+- Quelqu'un place un montant égal à la totalité de la mise du banquier. Dans ce cas, tous les autres joueurs retirent leurs mises et le jeu procède.
 
-- The total amount staked by the players is equal to the banker's stake.
+- Le montant total misé par les joueurs est égal à la mise du banquier.
 
-- All players pass, no one wishing to increase their stake.
+- Tous les joueurs passent, personne ne souhaitant augmenter sa mise.
 
-The dealer turns over the top two cards of the pack. The first card is the bankers' card, placed face up on the table to the dealer's left and the second is the players' card, placed face up on the table to the dealer's right. If these two cards are equal in rank, the dealer immediately wins all the players' stakes.
+Le donneur retourne les deux cartes du dessus du jeu. La première est la carte du banquier, placée face visible sur la table à la gauche du donneur, et la seconde est la carte des joueurs, placée face visible sur la table à la droite du donneur. Si ces deux cartes sont de même rang, le donneur gagne immédiatement toutes les mises des joueurs.
 
-If the banker's and players' cards are unequal, the banker turns up further cards one at a time until a card is turned that matches one of the first two cards, ignoring suits. If the banker's card is matched the banker wins all the players' stakes. If the players' card is matched the banker must pay each player the amount that that player staked.
+Si les cartes du banquier et des joueurs sont inégales, le banquier retourne d'autres cartes une à la fois jusqu'à ce qu'une carte corresponde à l'une des deux premières cartes, en ignorant les couleurs. Si la carte du banquier est trouvée, le banquier gagne toutes les mises des joueurs. Si la carte des joueurs est trouvée, le banquier doit payer à chaque joueur le montant que ce joueur a misé.
 
-### Passing the bank
+### Passer la banque
 
-If the banker loses, the bank must be passed to the next player in turn, who decides anew how much to stake on the next game. Normally the bank passes to the right, but if the bank has been "sold" to another player (see below) it passes to the player to the right of the original holder of that bank.
+Si le banquier perd, la banque doit être passée au joueur suivant, qui décide à nouveau du montant de sa mise pour le jeu suivant. Normalement, la banque passe à droite, mais si la banque a été « vendue » à un autre joueur (voir ci-dessous), elle passe au joueur à la droite du détenteur original de cette banque.
 
-If the banker wins, the banker has the choice whether to keep the bank or pass it on voluntarily. If the banker decides to keep the bank there are two cases:
+Si le banquier gagne, il a le choix de garder la banque ou de la passer volontairement. S'il décide de la garder, il y a deux cas :
 
-- If the banker won by matching the banker's card before the players' card, these winnings must be added to the banker's previous stake to make the new stake.
+- Si le banquier a gagné parce que sa carte a été trouvée avant celle des joueurs, ces gains doivent être ajoutés à sa mise précédente pour former la nouvelle mise.
 
-- If the banker won because the banker's and players' cards were equal, the banker has the option to add the winnings to the banker's stake, or to withdraw these winnings from the game.
+- Si le banquier a gagné parce que sa carte et celle des joueurs étaient égales, il a l'option d'ajouter les gains à sa mise, ou de retirer ces gains du jeu.
 
-If the banker passes on the bank voluntarily after winning, then any other player may offer to "buy" the bank. The buyer must put up a stake equal to the amount the banker would have had to stake if he or she had kept the bank. If several people want to buy the bank, the player nearest to the dealer's right has priority. If no one wants to buy the bank, it passes to the player to the right of the original holder of that bank, who may choose how large a stake to put up for the next deal.
+Si le banquier passe la banque volontairement après avoir gagné, tout autre joueur peut offrir d'« acheter » la banque. L'acheteur doit miser un montant égal à ce que le banquier aurait dû miser s'il avait gardé la banque. Si plusieurs personnes veulent acheter la banque, le joueur le plus proche de la droite du donneur a la priorité.
 
-A player who has bought the bank may choose to pass it on again after one or more wins, "selling" it to a player who is prepared to stake the necessary amount. A bank may be sold up to three times, but the fourth holder cannot sell it again. If this fourth banker chooses to pass it on after winning, it returns to the player to the right or the original holder.
+Un joueur qui a acheté la banque peut choisir de la passer à nouveau après un ou plusieurs gains, la « vendant » à un joueur prêt à miser le montant nécessaire. Une banque peut être vendue jusqu'à trois fois, mais le quatrième détenteur ne peut plus la vendre.
 
-**Example.** The players in anticlockwise order are A, B, C, D, E, F. The first banker A stakes 100 units. B stakes 50 units. C can now either stake 100, replacing B's bet, or any amount up to 50, or pass. Say B stakes 50. A's card is matched first so A takes A's and B's stakes and keeps the bank, which now contains 200. A stakes 50 again, B stakes 50 and C stakes 100. A's card is matched again so now there are 400 in the bank. A decides to pass on the bank. B, C and D do not want it but E decides to buy it. A keeps the 400 she has won and E puts up a new stake of 400. F bets 100, A 100, B 50, C 100 and D 50. The players' card is matched so E's 400 is paid out to the other players according to their stakes. The bank now returns to B, the player to the right of the original holder A.
+**Exemple.** Les joueurs dans le sens inverse des aiguilles d'une montre sont A, B, C, D, E, F. Le premier banquier A mise 100 unités. B mise 50 unités. C peut maintenant soit miser 100 (remplaçant la mise de B), soit n'importe quel montant jusqu'à 50, soit passer. Supposons que B mise 50. La carte de A est trouvée en premier, donc A prend les mises de A et B et garde la banque, qui contient maintenant 200. A mise à nouveau 50, B mise 50 et C mise 100. La carte de A est trouvée à nouveau, donc il y a maintenant 400 dans la banque. A décide de passer la banque. B, C et D ne la veulent pas, mais E décide de l'acheter. A garde les 400 qu'il a gagnés et E place une nouvelle mise de 400.
 
 ## Skin
 
-John Scarne describes this American game in *[Scarne on Cards](https://amzn.to/3pvXcjO)*. This is game is played with a single standard 52-card pack, and is said to be best for about six players. Traditionally, the cards are dealt from a dealing box to make it more difficult to cheat. The first banker is selected by dealing cards from the shuffled deck one at a time around the players until an Ace appears. The turn to be banker passes to the right after each deal. The cards are shuffled (banker has the right to shuffle last), any player may cut, and the cards are placed in the dealing box.
+John Scarne décrit ce jeu américain dans *[Scarne on Cards](https://amzn.to/3pvXcjO)*. Ce jeu se joue avec un seul jeu standard de 52 cartes, et convient idéalement pour environ six joueurs. Traditionnellement, les cartes sont distribuées depuis une boîte de distribution pour rendre la triche plus difficile.
 
-The banker deals the top card to the first player to the right. This player may accept the card if wishing to bet on it, or refuse it, in which case it is offered to the next player to the right and so on anticlockwise around the table until someone accepts it. If everyone rejects it, it is placed face up in the center of the table as a **fresh card**, and the next card from the box is offered to the players in turn.
+Le banquier distribue la carte du dessus au premier joueur à sa droite. Ce joueur peut accepter la carte s'il souhaite miser dessus, ou la refuser, auquel cas elle est offerte au joueur suivant à droite et ainsi de suite dans le sens inverse des aiguilles d'une montre jusqu'à ce que quelqu'un l'accepte. Si tout le monde la refuse, elle est placée face visible au centre de la table comme une **carte neuve**, et la carte suivante de la boîte est offerte aux joueurs à tour de rôle.
 
-When a player has accepted a card, the banker now deals another card from the box, which will be the banker's card, placed face up in front of the banker, provided that it is not equal to the player's card. If it does match the player's card, the two matching cards are discarded, all cards of this rank are now **dead**, and the procedure is restarted with the next card from the box which is offered to the player to dealer's right as before, and when that card has been accepted the following card becomes the dealer's card provided that it is different.
+Quand un joueur a accepté une carte, le banquier distribue maintenant une autre carte de la boîte, qui sera la carte du banquier, placée face visible devant lui, à condition qu'elle ne soit pas égale à la carte du joueur. Si elle correspond à la carte du joueur, les deux cartes correspondantes sont écartées, toutes les cartes de ce rang sont maintenant **mortes**, et la procédure est relancée avec la carte suivante de la boîte.
 
-When a player and the banker have different cards, the player must state the maximum amount he or she wishes to bet on the first card. This can be any amount, but the banker does not have to accept the entire bet. The banker places on the player's an amount of money less than or equal to the player's proposed bet and the player matches this, so that the banker and player have equal bets on the card. A similar procedure is used for all future bets.
+Quand un joueur et le banquier ont des cartes différentes, le joueur doit indiquer le montant maximum qu'il souhaite miser sur la première carte. Le banquier peut accepter la totalité ou seulement une partie de ce montant.
 
-The dealer now deals further cards from the top of the pack, one at a time. There are five possibilities:
+Le donneur distribue ensuite d'autres cartes du jeu, une à la fois. Il y a cinq possibilités :
 
-- The new card matches a player's card. The player in question loses, the dealer takes the bets from the card, the player's card is discarded, and cards of that rank are now dead.
+- La nouvelle carte correspond à la carte d'un joueur. Ce joueur perd, le donneur prend les mises sur la carte, la carte du joueur est écartée, et les cartes de ce rang sont maintenant mortes.
 
-- The new card matches the dealer's card. The dealer loses all bets, and all players take the bets from their own cards.
+- La nouvelle carte correspond à la carte du donneur. Le donneur perd toutes les mises, et tous les joueurs reprennent les mises sur leurs propres cartes.
 
-- The new card is a **fresh card**, a rank that has not been dealt before. The dealer offers the card to the next player to the right of the last player who accepted a card, and who does not already have a card. This player may accept the card and bet on it in the same way as the first player, or reject it, in which case it is offered in turn to all other players who do not already have cards. If no one accepts it, or if all players already have a card in play, the fresh card is placed in the centre of the table for possible future use.
+- La nouvelle carte est une **carte neuve**, un rang qui n'a pas encore été distribué. Le donneur offre la carte au prochain joueur à la droite du dernier joueur qui a accepté une carte. Ce joueur peut accepter la carte et miser dessus de la même manière que le premier joueur, ou la refuser.
 
-- The new card matches a card in the centre of the table that belongs to no one (no player bet on it when it appeared). The two cards are discarded and cards of that rank are now dead.
+- La nouvelle carte correspond à une carte au centre de la table qui n'appartient à personne (aucun joueur n'a misé dessus lorsqu'elle est apparue). Les deux cartes sont écartées et les cartes de ce rang sont maintenant mortes.
 
-- The new card is dead, because two cards of the same rank have already appeared. The dead card is discarded and the next card is dealt.
+- La nouvelle carte est morte, car deux cartes de même rang sont déjà apparues. La carte morte est écartée et la carte suivante est distribuée.
 
-Whenever a player accepts a card, after betting against the dealer the player may also propose side bets against any other players who already have card in play. The new player proposes a bet and the other player accepts all, part or none of it. These side bets are kept off the cards, to avoid mixing them with bets against the banker. It is not possible to propose a side bet on a card without first betting on that card against the banker. When a player's card is matched, the player not only loses to the dealer, but also loses all side bets against players whose cards are still in play.
+Chaque fois qu'un joueur accepte une carte, après avoir misé contre le donneur, il peut aussi proposer des mises annexes contre d'autres joueurs qui ont déjà des cartes en jeu.
 
-If there are any cards in the centre of the table, a player who loses is entitled to take any one of these cards, bet on it against the dealer and propose side bets against any other players with cards in play.
-
-If the dealer's card is matched while there are unresolved side bets between players, the dealer continues dealing cards. The dealer **may** take the next fresh card dealt as a new banker's card, and the players with cards in play **may** bet against this card but are not obliged to. Alternatively the dealer may continue dealing without a card, to resolve the remaining side bets between the players.
+Si le donneur a une carte correspondante alors qu'il y a des mises annexes non résolues entre joueurs, le donneur continue à distribuer des cartes.
 
 ## Zecchinetta
 
-**Zecchinetta** is the Italian equivalent of Lansquenet, which exists in several versions. Some Italian books describe a game very similar to French Lansquenet, with one card for the banker and one for the players. In the more usual version, which is particularly associated with Sicily but also played elsewhere, the players bet that their cards will **not** be matched before the banker's card. It differs from Skin in that two cards are initially dealt for the players, and that any player may bet on any of the players' cards. For information about this game I would like to thank Paolo Ronzoni and also Massimo Ilardo of oltreilpoker.it.
+La **Zecchinetta** est l'équivalent italien du Lansquenet, qui existe en plusieurs versions. Certains livres italiens décrivent un jeu très similaire au Lansquenet français, avec une carte pour le banquier et une pour les joueurs. Dans la version la plus courante, particulièrement associée à la Sicile mais aussi jouée ailleurs, les joueurs parient que leurs cartes ne seront **pas** trouvées avant celle du banquier. Elle diffère du Skin en ce que deux cartes sont initialement distribuées pour les joueurs, et que tout joueur peut miser sur n'importe quelle carte des joueurs.
 
-Since Zecchinetta has a bad reputation as a gambling game, it is illegal to play it in public places in Italy, but it is played privately, sometimes as a gambling game and sometimes as a social game for small stakes. It is also played in the USA, especially by Americans of Italian origin, and there it is called **Ziginette**. It is traditionally played with an Italian 40-card pack without 10's, 9's or 8's. In Italy, Latin suited cards are sometimes used for this game. The play is anti-clockwise.
+Puisque la Zecchinetta a une mauvaise réputation comme jeu d'argent, il est illégal d'y jouer dans les lieux publics en Italie, mais elle est jouée en privé, parfois comme jeu d'argent et parfois comme jeu social pour de petites mises.
 
-To choose the first banker, each player draws a card from the shuffled pack. The player who draws the highest (or by agreement the lowest) card is the banker of the first hand. The banker determines the minimum and maximum amounts that a player can bet on a card.
+Pour choisir le premier banquier, chaque joueur tire une carte du jeu battu. Le joueur qui tire la carte la plus haute (ou par accord la plus basse) est le banquier de la première main. Le banquier détermine les montants minimum et maximum qu'un joueur peut miser sur une carte.
 
-The banker shuffles the deck, offers it to be cut, and then reveals the top two cards of the stock, saying *“Per voi”* (for you): these cards are the losing cards for the players. If the banker reveals two cards of the same rank all the cards are reshuffled and there is a new deal, with the same banker.
+Le banquier bat le jeu, l'offre à couper, puis révèle les deux cartes du dessus du talon, disant *« Per voi »* (pour vous) : ces cartes sont les cartes perdantes pour les joueurs. Si le banquier révèle deux cartes de même rang, toutes les cartes sont rebattues et il y a une nouvelle donne, avec le même banquier.
 
-Now the players can bet on the two cards.
-When they have placed their bets, the banker reveals a third card and he says *“Per me”* (for me): this is the bank’s losing card, **but** if this third card has the same rank as one of the players' cards, the banker immediately wins all the bets. In this case the banker must pass on the bank to the next player to the right *(“Il banco vince e passa”)* for a new deal.
+Maintenant les joueurs peuvent miser sur les deux cartes. Quand ils ont placé leurs mises, le banquier révèle une troisième carte et dit *« Per me »* (pour moi) : c'est la carte perdante de la banque, **mais** si cette troisième carte a le même rang qu'une des cartes des joueurs, le banquier gagne immédiatement toutes les mises.
 
-When the banker's card and the players' two cards are all different, the game can begin. The banker turns up cards from the stock, one at a time.
+Quand la carte du banquier et les deux cartes des joueurs sont toutes différentes, le jeu peut commencer. Le banquier retourne les cartes du talon, une à la fois.
 
-- If the banker turns up a card that matches one of the players' cards, the banker wins all the bets on this card. The card is discarded from the game and cards of this rank become *carte male* (bad cards). If the players still have cards in play the deal continues. If not the hand ends and the same player keeps the bank.
+- Si le banquier retourne une carte qui correspond à l'une des cartes des joueurs, le banquier gagne toutes les mises sur cette carte. La carte est écartée et les cartes de ce rang deviennent *carte male* (mauvaises cartes).
 
-- If the banker turns up a card of a rank that has not been seen before - known as a *"carta buona"* or *"carta franca"* - it is put into play as an extra players' card, players can make new bets on it and the deal continues. 
+- Si le banquier retourne une carte d'un rang qui n'a pas encore été vu — appelée *« carta buona »* ou *« carta franca »* — elle est mise en jeu comme carte supplémentaire des joueurs, et les joueurs peuvent faire de nouvelles mises dessus.
 
-- If the banker turns up a *“carta mala”* (bad card) - a card which has already appeared two or more times - the card is discarded and the deal continues.
+- Si le banquier retourne une *« carta mala »* (mauvaise carte) — une carte qui est déjà apparue deux fois ou plus — la carte est écartée et la donne continue.
 
-- If the banker turns up a card that matches the bank’s losing card, the banker must pay each player an amount equal to their outstanding bets. The hand ends and the bank passes to the next player to the right.
+- Si le banquier retourne une carte qui correspond à la carte perdante de la banque, le banquier doit payer à chaque joueur un montant égal à leurs mises en cours. La main se termine et la banque passe au joueur suivant à droite.
 
-Since the banker has the advantage of winning when the two player cards are equal, the game should continue until all the players have had a turn to be the banker.
+Puisque le banquier a l'avantage de gagner quand les deux cartes des joueurs sont égales, le jeu devrait continuer jusqu'à ce que tous les joueurs aient eu leur tour d'être banquier.
 
-### Variations
+### Variantes
 
-Often the first banker is chosen by dealing cards around until a player receives an ace.
+Souvent, le premier banquier est choisi en distribuant des cartes jusqu'à ce qu'un joueur reçoive un As.
 
-There several alternative ways of dealing with the case when two or more of the first three cards are equal. 
+Il existe plusieurs méthodes alternatives pour traiter le cas où deux ou plus des trois premières cartes sont égales.
 
-- Some play that all such cases the cards are reshuffled and the deal is restarted by the same dealer. In this game the odds are dead even: the banker has no advantage.
+- Certains jouent que dans tous ces cas les cartes sont rebattues et la donne est recommencée par le même donneur. Dans ce jeu, les chances sont parfaitement égales : le banquier n'a aucun avantage.
 
-- Some play that any equal cards among the first three cards are stacked and act as a single player card. The dealer continues until cards of three different ranks have appeared. The third rank will be a single card, which is the banker's losing card. This is known as a "playette". In this version, if a player's card or stack of cards is matched, bets on that card lose to the bank immediately. But if the banker's card is matched, the banker only loses to single players' cards. If the players have stacks of cards, the matching card is placed on the banker's first losing card. The banker only loses to a stack when the banker's card has appeared more times than the cards in the player stack. So the banker loses top a players' two-card stack when the banker's card has been matched twice, and to a three-card stack when all four cards of the banker's losing rank appear, matching the banlker's card three times.
+- Certains jouent que toutes les cartes égales parmi les trois premières sont empilées et agissent comme une seule carte des joueurs. Le donneur continue jusqu'à ce que des cartes de trois rangs différents soient apparues.
 
-So far as I can tell, in a playette a player who wins on a stack is only paid out even money, and this seems to make it unprofitable ever to bet on a stack. The chance of winning on a two-card stack is only 30% and on a three card stack only 25%, so payouts at 2 to 1 and 3 to 1 respectively would be fairer. 
+## Autres pages
 
-## Other Pages
-
-Roland Scheicher has written an article on [Lansquenet (Landsknecht)](https://de.wikipedia.org/wiki/Lansquenet) for German Wikipedia. English Wikipedia also has a [Lansquenet](https://en.wikipedia.org/wiki/Lansquenet) page including a collection of literary references to the game.
-
-Home Page > Classified Index > Banking Games > Lansquenet
+Roland Scheicher a écrit un article sur le [Lansquenet (Landsknecht)](https://de.wikipedia.org/wiki/Lansquenet) pour Wikipédia allemand. Wikipédia anglais a aussi une [page sur le Lansquenet](https://en.wikipedia.org/wiki/Lansquenet) incluant une collection de références littéraires au jeu.

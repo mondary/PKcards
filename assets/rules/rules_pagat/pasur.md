@@ -2,136 +2,127 @@
 
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** Rules for the Iranian card game Pâsur, also known as Châr barg (four-cards), Haft khâj (seven-clubs) or Yâzdahtâyi (Eleveny).
-**Autres noms :** Châr barg
+**But :** Règles du jeu de cartes iranien Pâsur.
+**Autres noms :** Châr barg, Haft khâj, Yâzdahtâyi
 
 ---
 
 ## Introduction
 
-**Pâsur** is one of the most popular card games in Iran. It is a fishing card game in which numeral cards are captured by making a total of 11. Points are scored for aces, jacks, the majority of clubs, the **![club](../images/internat/club.gif)2** and the **![diamond](../images/internat/diamond.gif)10** and for clearing the table (**sur**). The object is to be the first player or team to reach 62 points. Other names sometimes used for this card game are: **Chahâr barg** (four-cards), **Haft khâj** (seven-clubs), **Yâzdahtâyi** ("eleveny") and **Haft va chahâr, yâzdah** (7+4=11). Although the name **Pâsur** traditionally refers to this specific game, by the start of the 21st century it had come to be used by some Iranian players as a word for card games in general.
+**Pâsur** est l'un des jeux de cartes les plus populaires en Iran. C'est un jeu de pêche dans lequel les cartes numériques sont capturées en formant un total de 11. Des points sont marqués pour les as, les valets, la majorité des trèfles, le **![trèfle](../images/internat/club.gif)2** et le **![carreau](../images/internat/diamond.gif)10** ainsi que pour vider la table (**sur**). Le but est d'être le premier joueur ou équipe à atteindre 62 points. D'autres noms parfois utilisés pour ce jeu sont : **Chahâr barg** (quatre-cartes), **Haft khâj** (sept-trèfles), **Yâzdahtâyi** (« onze ») et **Haft va chahâr, yâzdah** (7+4=11). Bien que le nom **Pâsur** désigne traditionnellement ce jeu spécifique, au début du 21e siècle, il est devenu un mot utilisé par certains joueurs iraniens pour les jeux de cartes en général.
 
-*This page is based on a description by Ali Jahânshiri and further information from Rama Morovati, Datis Khaje`ian and Fiona Zahedi.*
+*Cette page est basée sur une description d'Ali Jahânshiri et des informations complémentaires de Rama Morovati, Datis Khaje`ian et Fiona Zahedi.*
 
-## Players and cards
+## Joueurs et cartes
 
-A regular 52-card deck is used. Pâsur is typically a **2-player** game but it can also be played with **3** or **4** players. Four players can play as individuals usually play in partnership, with partners sitting opposite each other. It is possible but unusual for more than four to play using two packs of cards. 
+Un jeu de 52 cartes standard est utilisé. Pâsur est typiquement un jeu à **2 joueurs**, mais il peut aussi se jouer à **3** ou **4** joueurs. Quatre joueurs peuvent jouer en individuels ou généralement en partenariat, avec des partenaires assis en face l'un de l'autre. Il est possible mais inhabituel de jouer à plus de quatre avec deux jeux de cartes.
 
-Deal and play are anticlockwise. 
+La distribution et le jeu se font dans le sens antihoraire.
 
-## Deal
+## Distribution
 
-The dealer shuffles and then deals out the cards in batches of four: four cards to each player face down, starting with the player to dealer's right, and then four cards to table face up. If a the face up cards include more than one jack, more than two queens or more than two kings, the dealer must gather all the cards, reshuffle and deal again. Otherwise, if a single jack is face up on the table, the dealer buries this card in the undealt pack and replaces it with the top card of the undealt pack. 
+Le donneur mélange puis distribue les cartes par lots de quatre : quatre cartes face cachée à chaque joueur, en commençant par le joueur à droite du donneur, puis quatre cartes face visible sur la table. Si les cartes face visibles incluent plus d'un valet, plus de deux dames ou plus de deux rois, le donneur doit ramasser toutes les cartes, remélanger et redistribuer. Sinon, si un seul valet est face visible sur la table, le donneur enterre cette carte dans le tas non distribué et la remplace par la carte du haut du tas.
 
-The remainder of the deck is temporarily put aside. After everybody has played their four cards, another hand of four cards is dealt to each player from the undealt part of the pack, but no more cards are dealt to table after the first deal. When these cards have been played there is another deal, and this continues until all 52 cards have been dealt (this takes six deals for 2-player game, four deals for the 3-player game and three deals for 4-player game).
+Le reste du jeu est temporairement mis de côté. Après que tout le monde a joué ses quatre cartes, une autre main de quatre cartes est distribuée à chaque joueur à partir de la partie non distribuée, mais aucune carte n'est plus distribuée sur la table après la première distribution. Quand ces cartes ont été jouées, il y a une autre distribution, et cela continue jusqu'à ce que les 52 cartes aient été distribuées (cela prend six distributions pour le jeu à 2 joueurs, quatre pour le jeu à 3 et trois pour le jeu à 4).
 
-After all the cards have been played and the game scored, the turn to deal passes to the next player to the right. 
+Après que toutes les cartes ont été jouées et le jeu marqué, le tour de distribution passe au joueur suivant à droite.
 
-## Play
+## Jeu
 
-Starting from the player to dealer's right, each player in turn must play one card to table face up. This play may result in some cards being captured from the table. In this case, the played card and the captured card(s) are taken and stacked face down in front of the player. If played card can't capture any table cards, then it remains on the table to be available for other players. 
+En commençant par le joueur à droite du donneur, chaque joueur à son tour doit jouer une carte face visible sur la table. Ce jeu peut entraîner la capture de cartes sur la table. Dans ce cas, la carte jouée et les cartes capturées sont prises et empilées face cachée devant le joueur. Si la carte jouée ne peut capturer aucune carte de la table, elle reste sur la table pour être disponible pour les autres joueurs.
 
-When all the cards have been played in the final four-card deal (when there are no more cards to deal), the last player who made a capture wins all the remaining table cards. 
+Quand toutes les cartes ont été jouées lors de la dernière distribution de quatre cartes (quand il n'y a plus de cartes à distribuer), le dernier joueur qui a fait une capture gagne toutes les cartes restantes sur la table.
 
-### Card capturing rules
+### Règles de capture des cartes
 
-Kings and queens capture by pairing
-A king played from hand captures a king from the table. A queen played from hand captures a queen from the table. This is the only way kings and queens can be captured.
-Numeral cards capture by addition
-Each numeral card from ace to ten has its pip value: **A**=1, **2**=2, ... **10**=10. When a numeral card is played which makes a total of 11 when added to one or more cards on the table, that set of cards is captured. For example a 4 can capture a 7, an ace can capture a 10, a 6 can capture a 3 and a 2.
-Jacks capture all numeral cards and jacks
-When a jack is played, it captures all the cards from the table at once, **except** for queens and kings. If a jack is played when the table is empty or contains only kings and queens, the jack does not capture anything and just remains on the table.
+Les rois et dames capturent par appariement
+Un roi joué depuis la main capture un roi de la table. Une dame jouée depuis la main capture une dame de la table. C'est la seule façon dont les rois et dames peuvent être capturés.
+Les cartes numériques capturent par addition
+Chaque carte numérique de l'as au dix a sa valeur de points : **A**=1, **2**=2, ... **10**=10. Quand une carte numérique est jouée et forme un total de 11 avec une ou plusieurs cartes sur la table, cet ensemble de cartes est capturé. Par exemple, un 4 peut capturer un 7, un as peut capturer un 10, un 6 peut capturer un 3 et un 2.
+Les valets capturent toutes les cartes numériques et les valets
+Quand un valet est joué, il capture toutes les cartes de la table d'un coup, **sauf** les dames et les rois. Si un valet est joué quand la table est vide ou ne contient que des rois et des dames, le valet ne capture rien et reste simplement sur la table.
 
-**Notes:**
+**Remarques :**
 
-- There is no obligation to play a card that makes a capture just because you can. You can play any card you wish to. However, if you played a card which does make a capture, you must take the captured cards.
+- Il n'y a aucune obligation de jouer une carte qui fait une capture simplement parce que vous le pouvez. Vous pouvez jouer n'importe quelle carte de votre choix. Cependant, si vous jouez une carte qui fait effectivement une capture, vous devez prendre les cartes capturées.
 
-- Sometimes there may be a choice of captures. For example the cards on the table are A, 2, 4, 5. If you play a 5 you may capture **either** the 5 and the ace **or** the 4 and the 2: it's your choice.
+- Il peut parfois y avoir un choix de captures. Par exemple, les cartes sur la table sont A, 2, 4, 5. Si vous jouez un 5, vous pouvez capturer **soit** le 5 et l'as **soit** le 4 et le 2 : c'est votre choix.
 
 ### Sur
 
-If a player plays a card other than a jack and captures all the cards from the table, the player scores a **Sur**. For example, if there is a queen alone on the table, playing a queen and capturing it scores a Sur. If the only cards on the table are a 2 and a 3, playing a 6 captures both of them and scores a Sur.
+Si un joueur joue une carte autre qu'un valet et capture toutes les cartes de la table, le joueur marque un **Sur**. Par exemple, s'il y a une seule dame sur la table, jouer une dame et la capturer marque un Sur. Si les seules cartes sur la table sont un 2 et un 3, jouer un 6 capture les deux et marque un Sur.
 
-There are three exceptions, when emptying the table does not score a Sur:
+Il y a trois exceptions, quand vider la table ne marque pas un Sur :
 
-1. Playing a jack never scores a Sur
-If the table is not empty, and has no queens and kings, playing a jack captures all the table cards leaving it empty but no Sur is scored for this.
-2. A Sur cannot be scored in the last deal
-After the dealer has dealt the final four cards to each player, and there are no more cards to deal, emptying the table does not count as a Sur.
-3. A player or team with 50 or more points cannot score a Sur
-Emptying the table does not count as a Sur if the player or team already has a score of 50 or more points. This refers to the score the last time the points were counted - points for cards in the player's current capture pile are not included.
+1. Jouer un valet ne marque jamais un Sur
+Si la table n'est pas vide et ne contient ni dames ni rois, jouer un valet capture toutes les cartes de la table, la laissant vide, mais aucun Sur n'est marqué.
+2. Un Sur ne peut pas être marqué lors de la dernière distribution
+Après que le donneur a distribué les quatre dernières cartes à chaque joueur et qu'il n'y a plus de cartes à distribuer, vider la table ne compte pas comme un Sur.
+3. Un joueur ou une équipe avec 50 points ou plus ne peut pas marquer de Sur
+Vider la table ne compte pas comme un Sur si le joueur ou l'équipe a déjà un score de 50 points ou plus. Cela fait référence au score au moment où les points ont été comptés pour la dernière fois — les points pour les cartes dans la pile de capture actuelle du joueur ne sont pas inclus.
 
-Each Sur is represented by a card taken from the player's capture pile and placed separately face down beside it. However, if you score a Sur and an opponent already has one or more Surs, instead of scoring your own Sur you cancel one of the opponent's Surs, and the card is returned to the opponent's capture pile. Thus only one player or team can have Surs at any one time, and only this player will score points for Surs after all the cards have been played.
+Chaque Sur est représenté par une carte prise de la pile de capture du joueur et placée séparément face cachée à côté de celle-ci. Cependant, si vous marquez un Sur et qu'un adversaire a déjà un ou plusieurs Surs, au lieu de marquer votre propre Sur, vous annulez un des Surs de l'adversaire, et la carte est retournée à sa pile de capture. Ainsi, un seul joueur ou une seule équipe peut avoir des Surs à un moment donné, et seul ce joueur marquera des points pour les Surs après que toutes les cartes ont été jouées.
 
-Note that a player who has 50 or more points on the score sheet can neither score a Sur nor cancel an opponent's Sur.
+Notez qu'un joueur qui a 50 points ou plus sur la feuille de marque ne peut ni marquer un Sur ni annuler le Sur d'un adversaire.
 
-## Scoring
+## Marque
 
-After all the cards have been played, the players or teams count points according to the cards in their capture piles and the Surs.
+Après que toutes les cartes ont été jouées, les joueurs ou équipes comptent les points selon les cartes de leurs piles de capture et les Surs.
 
-- Having **7 or more of Clubs** (which is called Haft Khâj "seven-clubs") is worth **7** points
+- Avoir **7 trèfles ou plus** (ce qui s'appelle Haft Khâj « sept-trèfles ») vaut **7** points
 
-- Each **Ace** is worth **1** point
+- Chaque **As** vaut **1** point
 
-- Each **Jack** is worth **1** point
+- Chaque **Valet** vaut **1** point
 
-- **2 of Clubs** is worth **2** points
+- **2 de trèfle** vaut **2** points
 
-- **10 of Diamonds** is worth **3** points
+- **10 de carreau** vaut **3** points
 
-- Each Sur is worth **5** points
+- Chaque Sur vaut **5** points
 
-Players normally count their clubs first, then add their Surs, and then go through their cards a second time to add their remaining points, keeping a cumulative total. For example 8 clubs: 7, plus two Surs: 17, plus an ace: 18, a jack: 19, two of clubs: 21, another ace: 22, another jack: 23, another jack: 24.
+Les joueurs comptent généralement leurs trèfles en premier, puis ajoutent leurs Surs, puis repassent leurs cartes une deuxième fois pour ajouter leurs points restants, en gardant un total cumulé. Par exemple, 8 trèfles : 7, plus deux Surs : 17, plus un as : 18, un valet : 19, deux de trèfle : 21, un autre as : 22, un autre valet : 23, un autre valet : 24.
 
-The scores of the players or teams should add up to 20 points, plus 5 points for each Sur. Each of the players or teams adds these points to their cumulative total for the game. 
+Les scores des joueurs ou équipes doivent s'additionner à 20 points, plus 5 points pour chaque Sur. Chaque joueur ou équipe ajoute ces points à son total cumulé pour le jeu.
 
-The first player or team to reach 62 or more points over as many deals as it takes wins the game. If more than one player has 62 or more points, the player or team with most points wins. If there is a tie for most points, the game continues.
+Le premier joueur ou équipe à atteindre 62 points ou plus en autant de distributions que nécessaire gagne le jeu. Si plus d'un joueur a 62 points ou plus, le joueur ou l'équipe avec le plus de points gagne. S'il y a égalité pour le plus grand nombre de points, le jeu continue.
 
-If the cards you have captured so far and any Sur that you have enable you to reach or pass 62 points, you may stop the game by saying **"per shodam**". The points are counted and the player or team with most points wins, provided that they have at least 62. If there is a tie for most the game continues. (If you stop the game and it turns out that you have less than 62 points you have made a fool of yourself. If no one has as many as 62, the game continues.)
+Si les cartes que vous avez capturées jusqu'à présent et tout Sur que vous avez permettent d'atteindre ou de dépasser 62 points, vous pouvez arrêter le jeu en disant **« per shodam »**. Les points sont comptés et le joueur ou l'équipe avec le plus de points gagne, à condition d'avoir au moins 62. S'il y a égalité pour le plus haut, le jeu continue. (Si vous arrêtez le jeu et qu'il s'avère que vous avez moins de 62 points, vous vous êtes couvert de ridicule. Si personne n'a 62 points, le jeu continue.)
 
-It is not possible to stop a game which is being continued because the points were tied at 62 or more when they were last counted. In this case the game must contnue until all the cards have been played before the points are counted again.
+Il n'est pas possible d'arrêter un jeu qui est continué parce que les points étaient à égalité à 62 ou plus lorsqu'ils ont été comptés pour la dernière fois. Dans ce cas, le jeu doit continuer jusqu'à ce que toutes les cartes aient été jouées avant de compter les points à nouveau.
 
-## Three-player game
+## Jeu à trois joueurs
 
-The rules given above also apply to the three-player game. Notice that when two players eachscore a Sur, the second Sur cancels the first one, benefitting the third player. When there are just two players, the player with who scored most Surs scores for the difference between the Surs made by the players. With three players the result depends on the order in which the Surs are scored. For example if the players are A, B and C and five Surs are scored in the order A, B, B, A, C then it is C who will score one Sur, since the Surs scored by A and B cancel each other. On the other hand if they were scored in the order A, C, B, A, B it would be B who scored.
+Les règles données ci-dessus s'appliquent aussi au jeu à trois joueurs. Notez que quand deux joueurs marquent chacun un Sur, le deuxième Sur annule le premier, bénéficiant au troisième joueur. Quand il n'y a que deux joueurs, le joueur qui a marqué le plus de Surs marque pour la différence entre les Surs réalisés par les joueurs. Avec trois joueurs, le résultat dépend de l'ordre dans lequel les Surs sont marqués. Par exemple, si les joueurs sont A, B et C et que cinq Surs sont marqués dans l'ordre A, B, B, A, C, c'est C qui marquera un Sur, puisque les Surs marqués par A et B s'annulent mutuellement. En revanche, s'ils étaient marqués dans l'ordre A, C, B, A, B, ce serait B qui marquerait.
 
-In three-player version, if two players have the same number of clubs, then it is the third player who gets the 7 points for "haft khâj". This is true even if the third player actually had fewest clubs - for example the clubs are divided 5-5-3.
+Dans la version à trois joueurs, si deux joueurs ont le même nombre de trèfles, c'est le troisième joueur qui obtient les 7 points pour « haft khâj ». C'est vrai même si le troisième joueur a en fait le moins de trèfles — par exemple, les trèfles sont répartis 5-5-3.
 
-## Tactics
+## Tactique
 
-Some
-advice from Ali Jahânshiri: 
+Quelques conseils d'Ali Jahânshiri :
 
-- When it's your turn to play and you see that you can't capture any card then it'd be better to play a high card because it's less probable that your opponent can use it to make a combination. For example, a **10** can be only captured by an **A** whereas a low card such as **2** can be used in various combinations to make **11**.
+- Quand c'est votre tour de jouer et que vous voyez que vous ne pouvez capturer aucune carte, il vaut mieux jouer une carte haute car il est moins probable que votre adversaire puisse l'utiliser pour faire une combinaison. Par exemple, un **10** ne peut être capturé que par un **A**, alors qu'une carte basse comme un **2** peut être utilisée dans diverses combinaisons pour faire **11**.
 
-- Your focus should be on taking most of **clubs** in order to become Haft Khâj because it is worth **7** points.
+- Votre priorité devrait être de prendre le plus de **trèfles** possible pour devenir Haft Khâj car cela vaut **7** points.
 
-- As far as possible, **don't play a club** unless you are going to match it with table cards.
+- Dans la mesure du possible, **ne jouez pas de trèfle** à moins que vous ne puissiez l'associer avec des cartes de la table.
 
-- When you match and capture face cards (i.e. **K**s and **Q**s), it's a good idea to throw one of them onto your opponent's captured pile (being careful not to throw a club) to make sure that these cards are separated in the next round.
+- Quand vous associez et capturez des figures (c'est-à-dire des **R** et des **D**), c'est une bonne idée de jeter l'une d'elles dans la pile de capture de votre adversaire (en faisant attention de ne pas jeter un trèfle) pour vous assurer que ces cartes seront séparées au tour suivant.
 
-- If you can make several combinations, always make the one bringing you more points. For example, you have **![heart](../images/internat/heart.gif)4** in your hand an there's a **![club](../images/internat/club.gif)7** and a** ![diamond](../images/internat/diamond.gif)7D** on the table. Here, you must go for the **![club](../images/internat/club.gif)7 **because it's a club and can help you become Haft Khâj.
+- Si vous pouvez faire plusieurs combinaisons, faites toujours celle qui vous rapporte le plus de points. Par exemple, vous avez un **![cœur](../images/internat/heart.gif)4** dans votre main et il y a un **![trèfle](../images/internat/club.gif)7** et un **![carreau](../images/internat/diamond.gif)7** sur la table. Ici, vous devez viser le **![trèfle](../images/internat/club.gif)7** car c'est un trèfle et cela peut vous aider à devenir Haft Khâj.
 
-- Whenever possible and appropriate, clear the table with a **Jack** because your opponent's next play to the empty table is likely to give you a Sur.
+- Chaque fois que c'est possible et approprié, videz la table avec un **Valet** car le prochain jeu de votre adversaire sur la table vide vous donnera probablement un Sur.
 
-- It's a good tactic to leave a minimum of **11** points on the table in order to hinder your opponent from scoring a Sur. Accordingly, avoid capturing cards which would leave a total of **10 or less** on the table.
+- C'est une bonne tactique de laisser un minimum de **11** points sur la table pour empêcher votre adversaire de marquer un Sur. Par conséquent, évitez de capturer des cartes qui laisseraient un total de **10 ou moins** sur la table.
 
-- If the total on the table is **already 10 or less** and you can't benefit from this situation, the best play to hinder a Sur is a face card, but if you don't have one, play any card raising the total on the table to **11 or more**.
+- Si le total sur la table est **déjà 10 ou moins** et que vous ne pouvez pas en tirer parti, le meilleur jeu pour empêcher un Sur est une figure, mais si vous n'en avez pas, jouez n'importe quelle carte portant le total sur la table à **11 ou plus**.
 
-Note, however, that in a three-player game, if your left-hand opponent scores a Sur, it may be good to leave a lone King or Queen or a total of less than 11 on the table, if possible without clubs, to help your right-hand opponent to score a Sur which will cancel the first Sur.
+Notez cependant que dans un jeu à trois joueurs, si votre adversaire de gauche marque un Sur, il peut être bon de laisser un roi ou une dame seul ou un total inférieur à 11 sur la table, si possible sans trèfles, pour aider votre adversaire de droite à marquer un Sur qui annulera le premier Sur.
 
-## Variations
+## Variantes
 
-The target score varies. Some play to 100 instead of 62. Some play to 61.
+Le score cible varie. Certains jouent à 100 au lieu de 62. Certains jouent à 61.
 
-Some play that a Sur cannot be scored by a player or team with more than 40 points. On the other hand, some players impose no restriction and allow a Sur to be scored irrespective of how many points you already have.
+Certains jouent qu'un Sur ne peut pas être marqué par un joueur ou une équipe ayant plus de 40 points. D'autres joueurs n'imposent aucune restriction et autorisent un Sur quel que soit le nombre de points déjà accumulés.
 
-Some play that although you cannot score a Sur for yourself after the last deal, when playing your last four cards, you can still make a Sur to cancel an opponent's Sur during this period.
-
-## Other Pâsur web pages
-
-Here is an archive copy of [Ali Jahânshiri's Pâsur page](https://web.archive.org/web/20131006153246/jahanshiri.ir/cardgames/en/pasur.html).
-
-At [playpasur.com](https://playpasur.com/) you can play Pâsur online against a friend, either live of asynchronously, or against the computer.
-
-Home Page > Classified Index > Fishing Games > Pâsur
+Certains jouent que bien que vous ne puissiez pas marquer un Sur pour vous-même après la dernière distribution, lors du jeu de vos quatre dernières cartes, vous pouvez toujours faire un Sur pour annuler le Sur d'un adversaire pendant cette période.

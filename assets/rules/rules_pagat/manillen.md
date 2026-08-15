@@ -2,147 +2,137 @@
 
 **Difficulté :** —
 **Type :** Divers, Divers
-**But :** A Flemish point-trick card game for 4 players in partnership in which the 10's are the highest cards.
+**But :** Un jeu de cartes flamand de levées à points pour 4 joueurs en partenariat dans lequel les 10 sont les cartes les plus hautes.
 
 ---
 
-This page is based mainly on a contribution from Lennert Lanssens.
+Cette page est basée principalement sur une contribution de Lennert Lanssens.
 
 ## Introduction
 
-Manillen is a game played extensively in the Belgian region West-Flanders. In origin it’s a French game called Manille, which is derived in turn from the Spanish game Malilla or Manilla. The term Manille is also used to note the highest card of each suit.
+Le Manillen est un jeu joué abondamment dans la région belge de Flandre-Occidentale. À l'origine, c'est un jeu français appelé Manille, qui dérive à son tour du jeu espagnol Malilla ou Manilla. Le terme Manille est aussi utilisé pour désigner la carte la plus haute de chaque couleur.
 
-Manillen is a point trick taking game for 4 players without bidding in fixed partnerships, but variations for 2 or 6 players exist. The rules are very simple, but a game can be won with bad cards and great memory skills.
+Le Manillen est un jeu de levées à points pour 4 joueurs sans enchères en partenariats fixes, mais des variantes pour 2 ou 6 joueurs existent. Les règles sont très simples, mais une partie peut être gagnée avec de mauvaises cartes et d'excellentes compétences de mémoire.
 
-## Players and Cards
+## Joueurs et cartes
 
-The 4 players in fixed partnerships sit facing each other and the game is played clockwise.
+Les 4 joueurs en partenariats fixes sont assis face à face et le jeu se joue dans le sens des aiguilles d'une montre.
 
-The game is played with a 32 card deck and the cards rank in each suit from high to low: 
+Le jeu se joue avec un jeu de 32 cartes et les cartes sont classées dans chaque couleur de haut en bas :
 
-10 (Manille) - A - K - Q - J - 9 - 8 - 7.
+10 (Manille) - A - R - D - V - 9 - 8 - 7.
 
-## The Aim
+## Le but
 
-The aim of this game is to be the first team to collect 101 points or more. One game up to 101 is called a boam ("tree"). Only the points in the tricks are important, not the number of tricks taken. You can win a game with fewer tricks than your opponents if there are more points in them. You can play as many boams as you want, but in tournaments usually the best of three boams are played (the first team to win two boams are the victors).
+Le but de ce jeu est d'être la première équipe à atteindre 101 points ou plus. Une partie jusqu'à 101 est appelée un « boom » (arbre). Seuls les points dans les levées importent, pas le nombre de levées remportées. Vous pouvez gagner une partie avec moins de levées que vos adversaires s'il y a plus de points dedans. Vous pouvez jouer autant de booms que vous le souhaitez, mais lors des tournois, on joue généralement le meilleur de trois booms (la première équipe à gagner deux booms est victorieuse).
 
-## The Deal
+## La donne
 
-To determine which player should deal first at the start of a boam, the deck is placed face down and each player takes a pile of cards in his hands. The player with the highest card at the bottom of the pile deals first. The cards are shuffled by the dealer (not more than twice preferably) and the player to the dealer’s right cuts the deck. The dealer than deals clockwise in batches of 3-2-3 cards, so that every player has 8 card and no cards are left. The next dealer is the player sitting left of the current one.
+Pour déterminer quel joueur doit distribuer en premier au début d'un boom, le jeu est placé face cachée et chaque joueur prend une pile de cartes dans ses mains. Le joueur avec la carte la plus haute au fond de la pile distribue en premier. Les cartes sont battues par le donneur (pas plus de deux fois de préférence) et le joueur à la droite du donneur coupe le jeu. Le donneur distribue ensuite dans le sens des aiguilles d'une montre par paquets de 3-2-3 cartes, de sorte que chaque joueur a 8 cartes et qu'il ne reste aucune carte. Le donneur suivant est le joueur assis à la gauche du donneur actuel.
 
-During the deal the partner of the dealer is not allowed to look at his cards before the dealer has chosen a trump suit. The aim of this rule is to avoid signalling. When the dealer's partner does look at his cards before trumps have been chosen, the cards are thrown in and the turn to deal passes on to the next player.
+Pendant la distribution, le partenaire du donneur n'est pas autorisé à regarder ses cartes avant que le donneur ait choisi une couleur d'atout. Le but de cette règle est d'éviter les signaux. Quand le partenaire du donneur regarde ses cartes avant que les atouts aient été choisis, les cartes sont jetées et le tour de donne passe au joueur suivant.
 
-## Choosing trumps
+## Choisir les atouts
 
-The dealer looks at his cards and selects a trump suit. He can declare diamonds (koekens), spades (piekens), clubs (klavers), hearts (ertens) or no trump (muulen). No trump doubles the score for the hand. There is no bidding - the players must simply accept the dealer's choice of trumps. Some players allow the option blènde muul, in which the dealer declares no trumps before he looks at his cards and the points are multiplied by four. This is usually used when a partnership is far behind in points. 
+Le donneur regarde ses cartes et sélectionne une couleur d'atout. Il peut déclarer carreaux (koekens), piques (piekens), trèfles (klavers), cœurs (ertens) ou sans atout (muulen). Sans atout double le score de la main. Il n'y a pas d'enchères — les joueurs doivent simplement accepter le choix d'atout du donneur. Certains joueurs autorisent l'option blènde muul, dans laquelle le donneur déclare sans atout avant de regarder ses cartes et les points sont multipliés par quatre. Cela est généralement utilisé lorsqu'un partenariat est loin derrière en points.
 
-When the trump suit chosen is favourable for one of the opponents, he can say: "Ik ga mee" (I go along), which means that score for the hand will be doubled. If the dealer or his partner believes that his team will nevertheless win he can reply: "Ik ga tegen" (I go against), so that the score will be multiplied by 4.
+Quand la couleur d'atout choisie est favorable pour un adversaire, il peut dire : « Ik ga mee » (je vais avec), ce qui signifie que le score de la main sera doublé. Si le donneur ou son partenaire croit que son équipe gagnera quand même, il peut répondre : « Ik ga tegen » (je vais contre), de sorte que le score sera multiplié par 4.
 
-## The Play
+## Le jeu
 
-The player to the dealer’s left leads to the first trick. He can play any card. Each trick is won by the highest trump, or by the highest card of the suit let if it contains no trumps. The winner of the trick leads the next one. Players must always follow suit if they are able to.
+Le joueur à la gauche du donneur entame la première levée. Il peut jouer n'importe quelle carte. Chaque levée est remportée par le plus haut atout, ou par la carte la plus haute de la couleur demandée si elle ne contient pas d'atout. Le gagnant de la levée entame la suivante. Les joueurs doivent toujours suivre la couleur s'ils le peuvent.
 
-If an opponent is currently winning the trick, you must beat the winning card if you are able to, subject to the requirement to follow suit when possible.
+Si un adversaire gagne actuellement la levée, vous devez battre la carte gagnante si vous en êtes capable, sous réserve de l'obligation de suivre la couleur lorsque c'est possible.
 
-- If your opponent is winning with a card of the suit led, when following suit you must play a higher card than your opponent's winning card if possible. If unable to follow suit you must trump if possible; with no trumps and no cards of the suit led you may play any card. 
+- Si votre adversaire gagne avec une carte de la couleur demandée, en suivant la couleur vous devez jouer une carte plus haute que la carte gagnante de votre adversaire si possible. Si vous ne pouvez pas suivre la couleur, vous devez couper si possible ; sans atout et sans cartes de la couleur demandée, vous pouvez jouer n'importe quelle carte.
 
-- If a plain suit has been led and an opponent is winning with a trump, you must overtrump if unable to follow suit. If you have no cards of the suit led and no sufficiently high trumps, you discard a card of another non-trump suit.
+- Si une couleur ordinaire a été demandée et qu'un adversaire gagne avec un atout, vous devez surcouper si vous ne pouvez pas suivre la couleur. Si vous n'avez pas de carte de la couleur demandée et pas d'atouts suffisamment hauts, vous vous défaussez d'une carte d'une autre couleur non-atout.
 
-If your partner is winning the trick, there is no obligation to beat your partner's card when following suit, and you do not have to trump if unable to follow suit.
+Si votre partenaire gagne la levée, il n'y a aucune obligation de battre la carte de votre partenaire en suivant la couleur, et vous n'avez pas à couper si vous ne pouvez pas suivre.
 
-It is illegal to undertrump. That is, if a plain suit is led and trumped, following players are not allowed to play a lower trump than the one currently winning the trick (unless they have nothing left in their hand except small trumps).
+Il est interdit de sous-couper. C'est-à-dire que si une couleur ordinaire est demandée et coupée, les joueurs suivants ne sont pas autorisés à jouer un atout inférieur à celui qui gagne actuellement la levée (sauf s'ils n'ont plus rien dans leur main à part des petits atouts).
 
-### Examples:
+### Exemples :
 
-Spades are trumps. When the first player leads the ![heart](../images/internat/heart.gif)Q and the second trumps with the ![spade](../images/internat/spade.gif)8, then the third player still has to follow suit and plays any heart he wants, because no heart can win the trick - for example he plays ![heart](../images/internat/heart.gif)7. The fourth player doesn’t have to trump if he can’t follow suit because the trick is already won by the partnership, so he plays a high card of another suit, because that rewards his team with more points: ![club](../images/internat/club.gif)A.
+Les piques sont l'atout. Quand le premier joueur entame la ![cœur](../images/internat/heart.gif)D et le deuxième coupe avec le ![pique](../images/internat/spade.gif)8, le troisième joueur doit encore suivre la couleur et jouer le cœur de son choix, car aucun cœur ne peut gagner la levée — par exemple il joue le ![cœur](../images/internat/heart.gif)7. Le quatrième joueur n'a pas à couper s'il ne peut pas suivre la couleur car la levée est déjà gagnée par le partenariat, alors il joue une carte haute d'une autre couleur, car cela récompense son équipe avec plus de points : le ![trèfle](../images/internat/club.gif)A.
 
-Spades are trumps, each player has just two cards left are trumps and it is West's turn to lead:
+Les piques sont l'atout, chaque joueur n'a plus que deux cartes qui sont des atouts et c'est le tour de l'Ouest d'entamer :
 
-West: ![diamond](../images/internat/diamond.gif)9, ![spade](../images/internat/spade.gif)8.     North: ![spade](../images/internat/spade.gif)K, ![club](../images/internat/club.gif)7.     East: ![spade](../images/internat/spade.gif)9, ![heart](../images/internat/heart.gif)A.     South: ![heart](../images/internat/heart.gif)9 ![heart](../images/internat/heart.gif)8.
+Ouest : ![carreau](../images/internat/diamond.gif)9, ![pique](../images/internat/spade.gif)8.    Nord : ![pique](../images/internat/spade.gif)R, ![trèfle](../images/internat/club.gif)7.    Est : ![pique](../images/internat/spade.gif)9, ![cœur](../images/internat/heart.gif)A.    Sud : ![cœur](../images/internat/heart.gif)9 ![cœur](../images/internat/heart.gif)8.
 
-West knows he has the only diamond and leads it to force out the king of spades from North. Now East would like to undertrump with his 9 of spades, and keep his ace of hearts for the last trick, which West would win. But undertruming is not allowed, so East is forced to play his ![heart](../images/internat/heart.gif)A, giving it to North, and then play his trump 9 uselessly on West's trump 8 in the worthless final trick.
+Ouest sait qu'il a le seul carreau et l'entame pour forcer le Roi de pique du Nord. Maintenant, Est voudrait sous-couper avec son 9 de pique, et garder son As de cœur pour la dernière levée, que l'Ouest gagnerait. Mais le sous-coupage n'est pas autorisé, donc Est est forcé de jouer son ![cœur](../images/internat/heart.gif)A, le donnant au Nord, puis de jouer son atout 9 inutilement sur l'atout 8 de l'Ouest lors de la dernière levée sans valeur.
 
-## The Scoring
+## Le marquage des points
 
-The play continues until all eight tricks have been played. The each team counts the points they have taken in tricks. The values of the cards are as follows: 
+Le jeu continue jusqu'à ce que les huit levées aient été jouées. Chaque équipe compte les points qu'elle a pris dans les levées. Les valeurs des cartes sont les suivantes :
 
-| Each 10 | ... 5 points |
-| Each Ace | ... 4 points |
-| Each King | ... 3 points |
-| Each Queen | ... 2 points |
-| Each Jack | ... 1 point |
-| Each 9,8 and 7 | ... 0 points |
+| Chaque 10 | ... 5 points |
+| Chaque As | ... 4 points |
+| Chaque Roi | ... 3 points |
+| Chaque Dame | ... 2 points |
+| Chaque Valet | ... 1 point |
+| Chaque 9, 8 et 7 | ... 0 points |
 
-The total value of all the cards in the pack is therefore 60 points.
+La valeur totale de toutes les cartes du jeu est donc de 60 points.
 
-The team that has more points in tricks scores the difference of its points from 30, while the other team scores nothing.
+L'équipe qui a le plus de points dans les levées marque la différence de ses points par rapport à 30, tandis que l'autre équipe ne marque rien.
 
-Normally it is quicker for the team with fewer tricks to count. For example if they have 21, the other team must have 39, and therefore they score 9 points (assuming they are playing a simple game with trumps and no one said "Ik ga mee".
+Normalement, il est plus rapide pour l'équipe avec le moins de levées de compter. Par exemple, si elle a 21 points, l'autre équipe doit avoir 39, et elle marque donc 9 points (en supposant qu'elle joue une partie simple avec atout et que personne n'a dit « Ik ga mee »).
 
-If each team has 30, there is a tie and neither team scores for the deal, but the next deal counts double.
+Si chaque équipe a 30 points, il y a égalité et aucune équipe ne marque pour la donne, mais la donne suivante compte double.
 
-If a team takes all the tricks (and therefore all the points) their score is doubled - 60 points - or 120 or more if there are further doubles to be applied, which would win the boam outright.
+Si une équipe remporte toutes les levées (et donc tous les points), son score est doublé — 60 points — ou 120 ou plus s'il y a d'autres doubles à appliquer, ce qui gagnerait le boom d'emblée.
 
-In summary, the reasons for doubling are:
+En résumé, les raisons de doubler sont :
 
-- The previous deal was a tie
+- La donne précédente était une égalité
 
-- The dealer chose to play with no trumps (muulen)
+- Le donneur a choisi de jouer sans atout (muulen)
 
-- An opponent of the dealer says "Ik ga mee"
+- Un adversaire du donneur dit « Ik ga mee »
 
-- After an opponent has said "Ik ga mee", the dealer or his partner says "Ik ga tegen".
+- Après qu'un adversaire a dit « Ik ga mee », le donneur ou son partenaire dit « Ik ga tegen ».
 
-- One team wins all the tricks.
+- Une équipe remporte toutes les levées.
 
-So for example if you play in no trumps after a tie, and an opponent "goes along", and one team has 37 in cards, they will score 56 points (7 * 2 * 2 * 2).
+Ainsi par exemple si vous jouez sans atout après une égalité, et qu'un adversaire « va avec », et qu'une équipe a 37 en cartes, elle marquera 56 points (7 × 2 × 2 × 2).
 
-In theory, after "Ik ga mee" - "Ik ga tegen" the opponents can double again, then the dealer's team, and so on indefinitely. However this is rare, and also pointles after the first few doubles, since the score will then be enough for the winning team to win the boam on that deal. These big scores tend to spoil the game, so some players agree that there can't be more then two doubles in one deal - the raw points are multiplied by at most 4.
+## Tactiques
 
-## Tactics
+Normalement, un joueur entame une manille (10) d'une couleur non-atout, car il a de bonnes chances que la manille fasse le tour (laten rondgoan) et que personne ne puisse couper. À la deuxième levée, il est déjà dangereux d'entamer l'As de la même couleur, mais vous pouvez toujours essayer de gagner une deuxième levée de cette façon.
 
-Normally a player leads a manille (10) of a non-trump suit, because he has a good chance that the manille will go round (laten rondgoan) and no one will be able to trump. In the second trick it’s already dangerous to lead the ace of the same suit, but you can always try to win a second trick that way.
+Une bonne tactique consiste à essayer de créer un vide en vous débarrassant de votre seule carte d'une couleur, peut-être sur une levée que votre partenaire gagne. Ensuite, quand cette couleur est demandée, vous pourrez couper et gagner la levée.
 
-A good tactic is trying to make a renoang (void) by throwing away your only card of a suit, perhaps on a trick that your partner is winning. Then when that suit is led you will be able to trump and win the trick.
+L'une des situations les plus ennuyeuses est de détenir un As sans aucune autre carte de cette couleur. Pour éviter le risque de perdre cet As face à une manille d'un adversaire, vous devriez essayer de défausser cet As sur une levée que votre partenaire gagne, quand vous ne pouvez pas suivre la couleur.
 
-One of the most annoying situations is to hold an ace without any other card of that suit. This is called a bloaten aas. To avoid the risk of losing this ace to an opponent's manille, you should try to discard this ace on a trick that your partner is winning, when you;'re unable to follow suit. Playing a high value card on youre partners trick is called vet’n (fattening).
+La main la plus difficile lors du choix des atouts est ce qu'on appelle le boeketje Vlaanderen (petit bouquet flamand). Cette main se compose de 2 cartes de chaque couleur, donc aucune couleur ne se distingue vraiment comme atout potentiel.
 
-The most difficult hand when choosing trumps is what is called boeketje Vlaanderen (little Flemish bouquet). This hand consists of 2 cards of every suit, so no suit really stands out as a potential trump suit, and whatever suit you choose, the opponents could well have the majority of trumps. 
+La tactique la plus importante pour gagner au Manillen est de compter les cartes. Essayez de vous souvenir qu'il y a 8 cartes dans une couleur et lesquelles ont été jouées.
 
-The most important tactic in winning Manillen is counting the cards. This is important in all trick taking games of course, but in Manillen it’s the only weapon you have when you get bad cards. Try to remember there are 8 cards in a suit and which ones where played, or you will lose every time. An experienced and skilled player can guess the cards in everyone’s hand, just by looking at the first 2 or 3 tricks.
+## Variantes
 
-## Variations
+Parfois, un boom est joué dans lequel chaque partenariat est obligé de déclarer deux muuls et deux blènde muuls.
 
-Sometimes a boam is played in which each partnership is obliged to declare two muuls and two blènde muuls. The idea is to make the game more exciting, but ends it faster too.
+Bien sûr, personne n'est autorisé à tricher dans ce jeu, mais il arrive parfois que quelqu'un essaie de faire un signe à un partenaire en touchant son oreille ou en clignant des yeux de manière suspecte. Quand un partenariat est pris en flagrant délit de signalisation ou de tricherie, il perd la donne et 20 points sont donnés à l'autre équipe.
 
-Of course no one is allowed to cheat in this game, but occasionally it may happen that someone tries to signal to a partner by touching his ear or blinking suspiciously. When a partnership is caught signalling or cheating in any way, they lose the deal and 20 points are given to the other team.
+Certains redistribuent quand un joueur a une boerecoarte ou boerinnecoarte — une main qui contient un Valet (zot) et cinq cartes à 0 point (7, 8 et 9 — appelés klintjes).
 
-Some players deal again when a player has a boerecoarte of boerinnecoarte - a hand which constains a jack (zot) and five 0-point cards (7's, 8's and 9 - known as klintjes).
+## Manillen à deux joueurs
 
-## Manillen for two players
+Les règles de choix des atouts, de jeu et de marquage sont exactement les mêmes que dans le jeu à quatre joueurs. La seule différence réside dans la façon dont les cartes sont distribuées. Il y a deux formes de jeu.
 
-The rules making trumps, playing and scoring are exactly the same as in the four player game. The only difference is in how the cards are dealt. There are two forms of play.
+La première forme est comme le jeu en partenariat à quatre joueurs avec un joueur de chaque équipe remplacé par un muet. Le muet se compose de quatre tas de deux cartes, chacun consistant en une carte face cachée avec une carte face visible au-dessus.
 
-The first form is like the four-player partnership game with one player from each team replaced by a dummy. The dummy consists of four two-card stacks, each consisting of a face down card with a face up card on top of it. Only the human players take turns to deal and choose trumps. When it is your partner's turn to play, you choose one of the face up cards. At the end of the trick, the face down card under the dummy card that you played is turned up. In this version each trick still consists of four cards.
+La seconde est un jeu à deux joueurs plus populaire dans lequel chaque joueur a une rangée de quatre cartes face cachée/face visible devant lui, et une levée ne se compose que de deux cartes. À votre tour, vous pouvez choisir de jouer une carte de votre main ou une des cartes face visibles sur la table.
 
-The is a more popular two-player game in which each player has a row of four face down/face up cards in front of him, and a trick only consists of two cards. At your turn you can choose to play a card from your hand or one of the face up cards on the table. The cards are dealt follows: a batch of 3 cards to each player's hand, 4 face down cards in front of each player, a batch of 2 cards to each player's hand, 4 face up cards to each player, a batch of 3cards to each player's hand. The table cards are dealt in this order:
+## Manillen à trois ou six joueurs
 
-| 1 | 3 | 5 | 7 | Opponent’s cards |
-| | |
-| 2 | 4 | 6 | 8 | Dealer’s cards |
+La version à trois joueurs est rarement jouée. 10 cartes sont distribuées à chacun et les deux restantes sont placées face visible. Ces deux cartes ne sont pas utilisées dans le jeu mais comptent pour le donneur, qui choisit les atouts et joue seul contre les deux autres joueurs, qui sont des partenaires temporaires. Des scores individuels sont conservés dans cette version.
 
-The dealer selects trumps and the other player leads a card. The play is exactly the same as in the four-player game, except for the fact that you can see some of each others cards. Sometimes a power play situation can occur, when a player used all his hand cards and only has some on the table. The other player can take advantage of this situation.
+La version à six joueurs est encore plus inhabituelle, et la chance y joue un grand rôle. Elle se joue entre deux équipes de trois joueurs, chaque joueur étant assis entre deux adversaires. Cinq cartes sont distribuées à chacun, et deux face visibles sur la table comme dans le jeu à 3 joueurs.
 
-## Manillen for three or six players
+## Autres sites web
 
-The three-player version is rarely played. 10 cards each are dealt and the remaining two cards are face up. These two cards are not used in the play but count for the dealer, who chooses trumps and plays alone against the other two players, who are temporary partners. Individual scores are kept in this version. If the dealer's opponents win, both score the points they have over 30.
+La [International World Whist Association](https://www.whistiwwa.com/) promeut le Wiezen, le Kleurenwiezen, le Rikken et le Manillen, fournissant des informations et organisant des tournois.
 
-The six-player version is even more unusual, and luck plays a large part. It is played between two teams of three players, each player sitting between two opponents. Five cards each are dealt, and two face up on the table as in the 3-player game.
-
-## Other web sites
-
-The [International World Whist Association](https://www.whistiwwa.com/) promotes Wiezen, Kleurenwiezen, Rikken and Manillen, providing information and organising tournaments.
-
-At Sebastiaan Marynissen's [Whisthub](https://www.whisthub.com/manille) you can play Manillen online against live or AI opponents.
-
-Home Page > Classified Index > Trick Taking Games > Manille Group > Manillen
+Sur le [Whisthub](https://www.whisthub.com/manille) de Sebastiaan Marynissen, vous pouvez jouer au Manillen en ligne contre des adversaires en direct ou l'IA.

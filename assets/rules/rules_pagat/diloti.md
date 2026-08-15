@@ -3,209 +3,205 @@
 **Nombre de cartes :** 52
 **Difficulté :** —
 **Type :** Pêche, Pêche
-**But :** A fishing game for two or four players with similarities to Casino.
+**But :** Un jeu de pêche pour deux ou quatre joueurs, apparenté au Casino.
 
 ---
 
-*This page is based on information from Alexandros Kouridakis, Michael Mihelakakis and Thanos Tsakonas.*
+*Cette page est basée sur des informations d'Alexandros Kouridakis, Michael Mihelakakis et Thanos Tsakonas.*
 
 ## Introduction
 
-Diloti is a Greek fishing game which combines ideas from two other Greek games Kontsina and Xeri and adds the possibility of declaring, which is similar to building in the related game Casino. The name Diloti (Greek: *Δηλωτή*) is derived from the verb «*δηλώνω*» which means “to declare”.
+Le Diloti est un jeu de pêche grec qui combine des idées de deux autres jeux grecs, le Kontsina et le Xeri, et ajoute la possibilité de déclarer, qui est similaire à la construction dans le jeu apparenté Casino. Le nom Diloti (grec : *Δηλωτή*) est dérivé du verbe « *δηλώνω* » qui signifie « déclarer ».
 
-## Players, Cards and Deal
+## Joueurs, cartes et donne
 
-Diloti is played with a standard international 52-card deck. It can be played either by 2 players or by 4 players in two fixed partnerships of 2. The two-player game will be described first.
+Le Diloti se joue avec un jeu international standard de 52 cartes. Il peut être joué soit par 2 joueurs, soit par 4 joueurs en deux partenariats fixes de 2. Le jeu à deux joueurs sera décrit en premier.
 
-The first dealer is chosen by any convenient method. It is generally considered disadvantageous to be the dealer since the non-dealer has the first opportunity to capture any desirable cards that may be on the table at the start of the game. The turn to deal alternates after each round.
+Le premier donneur est choisi par la méthode la plus pratique. Il est généralement considéré comme désavantageux d'être le donneur puisque le non-donneur a la première opportunité de capturer les cartes souhaitables qui peuvent être sur la table au début du jeu. Le tour de donner alterne après chaque manche.
 
-Each player is dealt 6 cards: the first 6 cards are dealt to the dealer's opponent and the next six to the dealer. The next four cards are placed separately face up on the table. In the rare event that the face up cards include 3 or 4 face cards of the same value, the table cards are shuffled into the pack and a new set of four face up cards is dealt. The rest of the pack is set aside face down, and will be dealt out later in the round.
+Chaque joueur reçoit 6 cartes : les 6 premières sont distribuées à l'adversaire du donneur et les 6 suivantes au donneur. Les 4 cartes suivantes sont placées séparément face ouverte sur la table. Dans le rare cas où les cartes face ouverte incluent 3 ou 4 figures de même valeur, les cartes de table sont mélangées dans le jeu et un nouvel ensemble de 4 cartes face ouverte est distribué. Le reste du jeu est mis de côté face cachée, et sera distribué plus tard dans la manche.
 
-## The Play
+## Le jeu
 
-The non-dealer plays first after each deal, and the turn to play passes back and forth between the players. On their turn, each player must play exactly one card from their hand, performing one of the following four actions:
+Le non-donneur joue en premier après chaque donne, et le tour de jouer passe d'un joueur à l'autre. À son tour, chaque joueur doit jouer exactement une carte de sa main, en effectuant l'une des quatre actions suivantes :
 
-- Capture a card from the table by playing a card of matching value from their hand. If it happens that two or three numeral cards of the same value are on the table, a player may capture all of them by playing a single card of that value. However, if a face card (K, Q or J) is played that matches the value of another face card on the table, the player *must* capture *exactly* one matching card with the played card and no more than that.
+- Capturer une carte de la table en jouant une carte de même valeur de sa main. S'il se trouve que deux ou trois cartes numériques de même valeur sont sur la table, un joueur peut toutes les capturer en jouant une seule carte de cette valeur. Cependant, si une figure (R, D ou V) est jouée et correspond à la valeur d'une autre figure sur la table, le joueur *doit* capturer *exactement* une carte correspondante et pas plus.
 
-- Capture cards from the table whose sum of values is equal to the value of a card in the player’s hand, by playing that card. Face cards do not have a numerical value. Aces count as numerical cards with value one. If two or more separate combinations of cards yields the same sum, all of these combinations can be captured by playing a single card with a value equal to the sum. Examples:
+- Capturer des cartes de la table dont la somme des valeurs est égale à la valeur d'une carte dans la main du joueur, en jouant cette carte. Les figures n'ont pas de valeur numérique. Les As comptent comme cartes numériques avec une valeur de un. Si deux combinaisons séparées de cartes donnent la même somme, toutes ces combinaisons peuvent être capturées en jouant une seule carte de valeur égale à la somme. Exemples :
 
-- Cards on the table: 3, 5. One single 8 can capture both cards.
+- Cartes sur la table : 3, 5. Un seul 8 peut capturer les deux cartes.
 
-- Cards on the table: A, 4, 5. One 10 can capture all three cards.
+- Cartes sur la table : A, 4, 5. Un 10 peut capturer les trois cartes.
 
-- Cards on the table: 2, 4, 6. One 6 can capture all three cards (2+4=6 and 6=6 by itself)
+- Cartes sur la table : 2, 4, 6. Un 6 peut capturer les trois cartes (2+4=6 et 6=6 par lui-même).
 
-- Cards on the table: A, 4, 5, 8: One 9 can capture all four cards (A+8=9 and 4+5=9)
+- Cartes sur la table : A, 4, 5, 8. Un 9 peut capturer les quatre cartes (A+8=9 et 4+5=9).
 
-- Cards on the table: A, 2, 3, 6, 7: one 10 can capture A+2+7 or A+3+6 or 3+7, whichever the player chooses, but the remaining cards must be left on the face up on the table.
+- Cartes sur la table : A, 2, 3, 6, 7. Un 10 peut capturer A+2+7 ou A+3+6 ou 3+7, au choix du joueur, mais les cartes restantes doivent être laissées face ouverte sur la table.
 
-- use the card to create or add to a declaration - see below
+- Utiliser la carte pour créer ou ajouter à une déclaration — voir ci-dessous.
 
-- capture a declaration, alone or along with other cards - see below
+- Capturer une déclaration, seule ou avec d'autres cartes — voir ci-dessous.
 
-- If the player cannot or does not wish to capture anything, nor create or add to a declaration, they must leave the card they play from their hand face-up on the table, alongside any others. This is referred to as “**laying**” a card on the table. However, it is not possible to lay a face card if another face card of the same value is present on the table; the player **must** capture exactly one of the matching cards, as mentioned above.
+- Si le joueur ne peut pas ou ne souhaite pas capturer quoi que ce soit, ni créer ou ajouter à une déclaration, il doit laisser la carte qu'il joue de sa main face ouverte sur la table, à côté des autres. C'est ce qu'on appelle « **poser** » une carte sur la table. Cependant, il n'est pas possible de poser une figure si une autre figure de même valeur est présente sur la table ; le joueur **doit** capturer exactement une des cartes correspondantes, comme mentionné ci-dessus.
 
-Whenever any cards are captured from the table, these cards along with the card card played to capture them are added to a face down capture pile in front of the player who made the capture. The cards in the players' capture piles may not be looked at again until the end of the play.
+Chaque fois que des cartes sont capturées de la table, ces cartes ainsi que la carte jouée pour les capturer sont ajoutées à une pile de capture face cachée devant le joueur qui a effectué la capture. Les cartes dans les piles de capture des joueurs ne peuvent plus être regardées jusqu'à la fin du jeu.
 
-### Declarations
+### Déclarations
 
-Diloti allows additional types of action called "declarations" which are not available in the simpler game Kontsina. Declarations in Diloti are similar to builds in Casino. They are the essence of the game of Diloti and give it its name. When making a declaration, a player gathers one or more numeral cards from the table along with their played card, and puts them together in a pile face up on the table, and declares the value of the pile. This pile of cards can now be captured by a card matching its value, but the cards in the pile can no longer be captured separately. A player who makes a declaration must hold a card in their hand that matches its value and they are responsible for making this capture if no other player meanwhile captures the declaration or alters its value. There are two types of declaration: **plain** declarations and **group** or **family** declarations. Single cards on the table that are not part of any declaration will be referred to as "loose" cards.
+Le Diloti permet des types d'action supplémentaires appelés « déclarations » qui ne sont pas disponibles dans le jeu plus simple du Kontsina. Les déclarations au Diloti sont similaires aux constructions au Casino. Elles sont l'essence du jeu de Diloti et lui donnent son nom. Lors d'une déclaration, un joueur rassemble une ou plusieurs cartes numériques de la table avec sa carte jouée, et les met ensemble dans une pile face ouverte sur la table, et déclare la valeur de la pile. Cette pile de cartes peut désormais être capturée par une carte correspondant à sa valeur, mais les cartes de la pile ne peuvent plus être capturées séparément. Un joueur qui fait une déclaration doit détenir une carte dans sa main qui correspond à sa valeur et il est responsable d'effectuer cette capture si aucun autre joueur ne capture entre-temps la déclaration ou n'en modifie la valeur. Il y a deux types de déclarations : les déclarations **simples** et les déclarations de **groupe** ou de **famille**. Les cartes simples sur la table qui ne font partie d'aucune déclaration seront appelées cartes « libres ».
 
-**Plain Declarations**
+**Déclarations simples**
 
-A player combines a number card played from their hand with one or more loose number cards that are on the table into a pile. The pile is a "plain declaration" and its value is the sum of the value of the cards in it. Usually the player will verbally declare the value of the pile, for example playing an Ace, combining it with a loose 2 and 5 and declaring "eight", though this is not obligatory. In order to make a plain declaration, the player must have a card of the declared value in their hand.
+Un joueur combine une carte numérique jouée de sa main avec une ou plusieurs cartes numériques libres sur la table en une pile. La pile est une « déclaration simple » et sa valeur est la somme des valeurs des cartes qu'elle contient. Habituellement, le joueur annonce verbalement la valeur de la pile, par exemple en jouant un As, en le combinant avec un 2 et un 5 libres et en déclarant « huit », bien que cela ne soit pas obligatoire. Pour faire une déclaration simple, le joueur doit avoir une carte de la valeur déclarée dans sa main.
 
-A plain declaration can be captured by any player who plays a card that matches the value of the declaration. At the same time other cards that match the declaration value and sets of cards that add up to the value of the declaration can be captured. 
+Une déclaration simple peut être capturée par tout joueur qui joue une carte correspondant à la valeur de la déclaration. En même temps, d'autres cartes correspondant à la valeur de la déclaration et des ensembles de cartes dont la somme est égale à la valeur de la déclaration peuvent être capturés.
 
-A plain declaration may be “raised” by the opponent of the player who declared it. A declaration is raised by adding to the pile a card played from hand. This creates a new plain declaration whose value is equal to the new total value of the cards in the pile. A player who raises a declaration must have in hand a card equal to the new value of the declaration. A player is not allowed to raise his or her own declaration, but if your plain declaration has been raised by your opponent you may then raise it again provided that you hold a card of the new value. In this way a declaration may be raised several times, though not of course beyond the value of 10, since there are no single cards with a value higher than 10. 
+Une déclaration simple peut être « surenchérie » par l'adversaire du joueur qui l'a déclarée. Une déclaration est surenchérie en ajoutant à la pile une carte jouée de la main. Cela crée une nouvelle déclaration simple dont la valeur est égale à la nouvelle valeur totale des cartes de la pile. Un joueur qui surenchérit une déclaration doit avoir en main une carte égale à la nouvelle valeur de la déclaration. Un joueur n'est pas autorisé à surenchérir sa propre déclaration, mais si votre déclaration simple a été surenchérie par votre adversaire, vous pouvez ensuite la surenchérir à nouveau pourvu que vous déteniez une carte de la nouvelle valeur. Ainsi, une déclaration peut être surenchérie plusieurs fois, bien que pas au-delà de la valeur de 10, puisqu'il n'y a pas de carte unique de valeur supérieure à 10.
 
-Examples of plain declarations:
+Exemples de déclarations simples :
 
-- There is a loose 5 on table. The player whose turn it is plays a 3 onto the 5 creating a pile and declares it as "8".
+- Il y a un 5 libre sur la table. Le joueur dont c'est le tour joue un 3 sur le 5, créant une pile et la déclare comme « 8 ».
 
-- A loose Ace and a loose 3 are on the table. The player plays a 6, putting it together with the Ace and 3 to make a plain declaration of 10. 
+- Un As libre et un 3 libre sont sur la table. Le joueur joue un 6, le mettant avec l'As et le 3 pour faire une déclaration simple de 10.
 
-- A player has made a declaration of 4. The opponent raises the declaration by adding a 5 to the pile, declaring it as "9".
+- Un joueur a fait une déclaration de 4. L'adversaire surenchérit la déclaration en ajoutant un 5 à la pile, la déclarant comme « 9 ».
 
-- There is a declaration of 7 on the table. A player may capture it by playing a 7.
+- Il y a une déclaration de 7 sur la table. Un joueur peut la capturer en jouant un 7.
 
-**Group Declarations**  (also called “family” declarations). 
+**Déclarations de groupe** (aussi appelées déclarations de « famille »).
 
-A group declaration consists of at least two components, each component being a single card equal to the value of the group or a set of cards whose total is equal to the value of the group. For example a group declaration of value 8 could consists of two 8's, or (8, 5, 3, 7, A) because 5+3=7+1=8, or (5, 3, 6, 2). A group declaration is formed by playing a card from hand, combining it with one or more loose cards on the table, and possibly also with a plain declaration whose value is equal to that of the group declaration. 
+Une déclaration de groupe consiste en au moins deux composantes, chaque composante étant une carte unique égale à la valeur du groupe ou un ensemble de cartes dont le total est égal à la valeur du groupe. Par exemple, une déclaration de groupe de valeur 8 pourrait consister en deux 8, ou (8, 5, 3, 7, A) parce que 5+3=7+1=8, ou (5, 3, 6, 2). Une déclaration de groupe est formée en jouant une carte de la main, en la combinant avec une ou plusieurs cartes libres sur la table, et éventuellement aussi avec une déclaration simple dont la valeur est égale à celle de la déclaration de groupe.
 
-A group declaration follows special rules; it may not be raised, and the only way to capture it is by playing a card of the same value as the declaration. For example a group of 9’s and an Ace cannot be captured together by playing a single 10; however, a group of 9’s and a loose 9 may be captured together by a single 9. A group of 9’s, a loose 4 and a loose 5 may also be captured with a single 9. 
+Une déclaration de groupe suit des règles spéciales ; elle ne peut pas être surenchérie, et la seule façon de la capturer est de jouer une carte de même valeur que la déclaration. Par exemple, un groupe de 9 et un As ne peuvent pas être capturés ensemble en jouant un seul 10 ; cependant, un groupe de 9 et un 9 libre peuvent être capturés ensemble par un seul 9. Un groupe de 9, un 4 libre et un 5 libre peuvent aussi être capturés par un seul 9.
 
-When making a group declaration, the player usually announces the value of the group - e.g. by saying “two 9’s” or “group of 9’s” or “family of 9’s”; this is not normally obligatory, but must be done if there is ambiguity as to the type of declaration. For example a declaration consisting of two 4’s may either be a group of 4’s or a plain declaration of 8; this needs to be clarified by the player.
+Lors d'une déclaration de groupe, le joueur annonce généralement la valeur du groupe — par exemple en disant « deux 9 » ou « groupe de 9 » ou « famille de 9 » ; cela n'est normalement pas obligatoire, mais doit être fait s'il y a ambiguïté sur le type de déclaration. Par exemple, une déclaration consistant en deux 4 peut être soit un groupe de 4 soit une déclaration simple de 8 ; cela doit être clarifié par le joueur.
 
-As with a plain declaration, a player who creates or adds to a group declaration must have a card equal to the value of the declaration in their hand.
+Comme pour une déclaration simple, un joueur qui crée ou ajoute à une déclaration de groupe doit avoir une carte égale à la valeur de la déclaration dans sa main.
 
-Examples of group declarations:
+Exemples de déclarations de groupe :
 
-- There is a loose 5 on the table. The player forms a group of two 5’s by playing another 5 on top of it.
+- Il y a un 5 libre sur la table. Le joueur forme un groupe de deux 5 en jouant un autre 5 par-dessus.
 
-- There is a 6, a 4 and a 2 on the table. The player forms a group of three 6’s by playing a 6 and collecting this together with the other 6 and the 4+2 into a face-up pile of four cards.
+- Il y a un 6, un 4 et un 2 sur la table. Le joueur forme un groupe de trois 6 en jouant un 6 et en rassemblant celui-ci avec l'autre 6 et le 4+2 dans une pile face ouverte de quatre cartes.
 
-- There is an 8 and a 2 on the table. The player forms a group of two 8’s by playing a 6 from their hand and forming a pile with this, the 2 and the 8.
+- Il y a un 8 et un 2 sur la table. Le joueur forme un groupe de deux 8 en jouant un 6 de sa main et en formant une pile avec celui-ci, le 2 et le 8.
 
-- There is a plain declaration of 8 and one 9 on the table. The player raises the 8-declaration with an Ace, and combines the raised declaration with the 9 to form a group of two 9’s.
+- Il y a une déclaration simple de 8 et un 9 sur la table. Le joueur surenchérit la déclaration de 8 avec un As, et combine la déclaration surenchérie avec le 9 pour former un groupe de deux 9.
 
-- A player forms a plain declaration of 7. His opponent then forms a plain declaration of 5. The first player raises his opponent’s declaration with a 2 and combines it with his own to create a group of two 7’s.
+- Un joueur forme une déclaration simple de 7. Son adversaire forme ensuite une déclaration simple de 5. Le premier joueur surenchérit la déclaration de son adversaire avec un 2 et la combine avec la sienne pour créer un groupe de deux 7.
 
-- A player forms a plain declaration of 6. On his next turn, he adds another 6 to the declaration, forming it into a group of two 6’s.
+- Un joueur forme une déclaration simple de 6. À son tour suivant, il ajoute un autre 6 à la déclaration, la transformant en un groupe de deux 6.
 
-- An extreme case would be as follows: The table cards are 2, 3, 4, 8. A player plays an Ace and forms a group of two 8’s along with the 3, 4 and 8 from the table.  The opponent then forms a plain declaration of 6 by playing a 4 onto the 2 on table. The first player raises that declaration to 8 by playing another 2 and adds it to his group, making it a group of three 8’s. Afterwards, the opponent lays an Ace on the table. The first player plays a 7 on top of the Ace and adds the two cards to his group, making it a group of four 8’s. On his next turn, that player adds an 8 from his hand to the group, making it a group of five 8’s. And finally, on his next turn, the player plays another 8 and captures the whole group of ten cards (A+3+4, 8, 4+2+2, A+7, 8) along with the 8 played to capture it.
+- Un cas extrême serait le suivant : les cartes sur la table sont 2, 3, 4, 8. Un joueur joue un As et forme un groupe de deux 8 avec le 3, le 4 et le 8 de la table. L'adversaire forme ensuite une déclaration simple de 6 en jouant un 4 sur le 2 de la table. Le premier joueur surenchérit cette déclaration à 8 en jouant un autre 2 et l'ajoute à son groupe, en faisant un groupe de trois 8. Ensuite, l'adversaire pose un As sur la table. Le premier joueur joue un 7 par-dessus l'As et ajoute les deux cartes à son groupe, en faisant un groupe de quatre 8. À son tour suivant, ce joueur ajoute un 8 de sa main au groupe, en faisant un groupe de cinq 8. Et enfin, à son tour suivant, le joueur joue un autre 8 et capture tout le groupe de dix cartes (A+3+4, 8, 4+2+2, A+7, 8) avec le 8 joué pour la capture.
 
-The rules governing declarations might seem complex at first sight, but they quickly become second nature once the game has been played a few times.
+Les règles régissant les déclarations peuvent sembler complexes au premier abord, mais elles deviennent rapidement une seconde nature une fois que le jeu a été joué quelques fois.
 
-Note that face cards may **never** be part of any declaration. Face cards can only be captured separately one at a time by matching a single face card on the table with another of the same rank played from hand.
+Notez que les figures ne peuvent **jamais** faire partie d'aucune déclaration. Les figures ne peuvent être capturées séparément qu'une à la fois en faisant correspondre une figure de la table avec une autre de même rang jouée de la main.
 
-### Obligations of the declarer
+### Obligations du déclarant
 
-When a player declares (or raises or adds to an existing declaration, thus making it their own), they promise to capture the declaration before laying any cards on the table and before making any further declarations. Therefore, until their declaration is captured, raised or added to by another player, the only actions available to a player who has made any declaration are the following:
+Lorsqu'un joueur déclare (ou surenchérit ou ajoute à une déclaration existante, se l'appropriant ainsi), il s'engage à capturer la déclaration avant de poser des cartes sur la table et avant de faire d'autres déclarations. Par conséquent, jusqu'à ce que sa déclaration soit capturée, surenchérie ou complétée par un autre joueur, les seules actions disponibles pour un joueur qui a fait une déclaration sont les suivantes :
 
-- Capture a card or cards from the table by any of the methods described above.
+- Capturer une ou plusieurs cartes de la table par l'une des méthodes décrites ci-dessus.
 
-- Capture their own declaration by playing a card of equal value to the declaration.
+- Capturer sa propre déclaration en jouant une carte de valeur égale à la déclaration.
 
-- Add to their declaration to form a group declaration of the same value. 
+- Ajouter à sa déclaration pour former une déclaration de groupe de même valeur.
 
-Also the player who made the declaration must hold a card whose value is equal to the declaration, and is not allowed to use this card for any purpose other than capturing the declaration unless the declaration is raised or captured by another player.
+Le joueur qui a fait la déclaration doit également détenir une carte dont la valeur est égale à la déclaration, et n'est pas autorisé à utiliser cette carte à d'autre fin que la capture de la déclaration, à moins que la déclaration ne soit surenchérie ou capturée par un autre joueur.
 
-### The “Xeri”
+### Le « Xeri »
 
-A player who plays a card that and captures **all** the face up cards from the table is said to have captured the cards as a “**xeri**” («ξερή» = “dry”, “plain”). In that case, one of the captured cards is placed face-up under the player’s capture pile and perpendicular to it, so that about half the card is shown. The card still counts as part of the player’s captured cards; it is placed face-up to keep a record of how many “xeri” captures each player has made. A player may make any number of “xeri” during play. 
+Un joueur qui joue une carte et capture **toutes** les cartes face ouverte de la table est dit avoir capturé les cartes comme un « **xeri** » (*ξερή* = « sec », « nu »). Dans ce cas, l'une des cartes capturées est placée face ouverte sous la pile de capture du joueur et perpendiculairement à celle-ci, de sorte qu'environ la moitié de la carte est visible. La carte compte toujours comme faisant partie des cartes capturées du joueur ; elle est placée face ouverte pour garder une trace du nombre de captures « xeri » que chaque joueur a effectuées. Un joueur peut faire autant de « xeri » qu'il le souhaite pendant le jeu.
 
-The very first card played in a round does not count as a "xeri", even if it captures all four of the cards dealt to the table by the dealer. 
+La toute première carte jouée dans une manche ne compte pas comme un « xeri », même si elle capture les quatre cartes distribuées sur la table par le donneur.
 
-The existence of “xeri” and their high value makes the game much more strategically complex. Players must take advantage of any opportunity to score "xeri" themselves while being careful not to allow an opponent to score any “xeri”. Here are some examples of how a “xeri” can be scored (apart from a player making the most obvious blunder of leaving a lone card on the table):
+L'existence des « xeri » et leur grande valeur rendent le jeu beaucoup plus complexe stratégiquement. Les joueurs doivent profiter de toute opportunité de marquer des « xeri » eux-mêmes tout en faisant attention à ne pas permettre à un adversaire d'en marquer. Voici quelques exemples de la façon dont un « xeri » peut être marqué (outre le fait qu'un joueur commette l'erreur la plus évidente de laisser une carte seule sur la table) :
 
-- The cards on the table are 3, 5, 7. If a player captures the 3, the opponent cannot score a “xeri” (there is no card valued 12). If, however, the player captures the 5 or the 7, the opponent can score a “xeri” by having the appropriate card (a 10 or an 8, respectively)
+- Les cartes sur la table sont 3, 5, 7. Si un joueur capture le 3, l'adversaire ne peut pas marquer un « xeri » (il n'y a pas de carte valant 12). Si, cependant, le joueur capture le 5 ou le 7, l'adversaire peut marquer un « xeri » avec la carte appropriée (un 10 ou un 8, respectivement).
 
-- The cards on the table are 5, 9, J. A player adds a 3 to the 5 and declares 8. The opponent captures the 9. The declarer is not allowed to lay a card now. If the declarer does not have either a Jack to capture the Jack or two 9's so that one can be added to the declaration to make it a group, the only possibility is to capture the declaration. At this point, if the opponent has a Jack, they will score a “xeri”.
+- Les cartes sur la table sont 5, 9, V. Un joueur ajoute un 3 au 5 et déclare 8. L'adversaire capture le 9. Le déclarant n'est pas autorisé à poser une carte maintenant. Si le déclarant n'a ni Valet pour capturer le Valet ni deux 9 pour pouvoir en ajouter un à la déclaration pour en faire un groupe, la seule possibilité est de capturer la déclaration. À ce moment, si l'adversaire a un Valet, il marquera un « xeri ».
 
-- The cards on the table are 10, J and each player holds just one card in hand. If the player whose turn is next has a Jack, they are not allowed to lay it, since it is a face card. They must capture the Jack from the table leaving the 10 alone. The opponent will then score a “xeri” if they have a 10 in hand.
+- Les cartes sur la table sont 10, V et chaque joueur n'a qu'une carte en main. Si le joueur dont le tour vient ensuite a un Valet, il n'est pas autorisé à le poser, puisque c'est une figure. Il doit capturer le Valet de la table, laissant le 10 seul. L'adversaire marquera alors un « xeri » s'il a un 10 en main.
 
-### Further Deals and the End of the Round
+### Donnes ultérieures et fin de la manche
 
-Players alternate turns playing cards until their hands are both depleted. When that happens, the dealer deals 6 more cards from undealt part of the pack to each player to start a new hand. No further cards are dealt to the table. Play proceeds as before, with the non-dealer acting first after each deal. This continues until the whole pack has been dealt and the final cards played. 
+Les joueurs alternent les tours en jouant des cartes jusqu'à ce que leurs mains soient épuisées. Lorsque cela se produit, le donneur distribue 6 autres cartes de la partie non distribuée du jeu à chaque joueur pour commencer une nouvelle main. Aucune carte supplémentaire n'est distribuée sur la table. Le jeu procède comme avant, avec le non-donneur jouant en premier après chaque donne. Cela continue jusqu'à ce que tout le jeu ait été distribué et les dernières cartes jouées.
 
-When the pack and both players’ hands are all depleted, any cards left on the table are added to the capture pile of the player who last captured any cards from the table. This ends the round. Taking these last cards from the table does not automatically count as a "xeri", but the dealer can score a "xeri" with the last card of a deal if this card validly captures all the cards from the table by matching.
+Lorsque le jeu et les mains des deux joueurs sont tous épuisés, toute carte restante sur la table est ajoutée à la pile de capture du joueur qui a capturé des cartes en dernier. Cela termine la manche. Prendre ces dernières cartes de la table ne compte pas automatiquement comme un « xeri », mais le donneur peut marquer un « xeri » avec la dernière carte d'une donne si cette carte capture validement toutes les cartes de la table par correspondance.
 
-## Scoring
+## Notation
 
-After the end of the round, each player scores points for the cards they have captured. There are 11 points in total, plus additional points for any “xeri” made. The points are awarded as follows:
+Après la fin de la manche, chaque joueur marque des points pour les cartes qu'il a capturées. Il y a 11 points au total, plus des points supplémentaires pour chaque « xeri » effectué. Les points sont attribués comme suit :
 
-- **4 points for “the cards”**: awarded to the player who has captured the most cards. In the event that both players capture exactly 26 cards, the cards are said to be “split” and neither player scores for “the cards”.
+- **4 points pour « les cartes »** : attribués au joueur qui a capturé le plus de cartes. Dans le cas où les deux joueurs capturent exactement 26 cartes, les cartes sont dites « partagées » et aucun joueur ne marque pour « les cartes ».
 
-- **1 point for each Ace** that the player has captured. (4 points total)
+- **1 point pour chaque As** que le joueur a capturé. (4 points au total)
 
-- **2 points for “the good 10”:** Awarded to the player who captures the 10 of diamonds.
+- **2 points pour « le bon 10 »** : attribués au joueur qui capture le 10 de carreaux.
 
-- **1 point for “the good 2”:** Awarded to the player who captures the 2 of clubs.
+- **1 point pour « le bon 2 »** : attribués au joueur qui capture le 2 de trèfles.
 
-- **10 points for each “xeri”**.
+- **10 points pour chaque « xeri »**.
 
-The points scored by each player are accumulated over the rounds. 
+Les points marqués par chaque joueur s'accumulent au fil des manches.
 
-The target score is usually set to 61. When a player reaches that score, they win the game. If both players reach 61 in the same round the player with the higher score wins. If the scores are equal, another round is played.
+Le score cible est généralement fixé à 61. Lorsqu'un joueur atteint ce score, il gagne la partie. Si les deux joueurs atteignent 61 lors de la même manche, le joueur avec le score le plus élevé gagne. Si les scores sont égaux, une autre manche est jouée.
 
-## Four-Player Game
+## Jeu à quatre joueurs
 
-The four players form two fixed partnerships of two. Partners sit facing each other across the table, so that each player sits between two opponents. Deal and play are anticlockwise, and the turn to deal passes to the right after each round. 
+Les quatre joueurs forment deux partenariats fixes de deux. Les partenaires sont assis face à face de chaque côté de la table, de sorte que chaque joueur est assis entre deux adversaires. La donne et le jeu se font dans le sens antihoraire, et le tour de donner passe à droite après chaque manche.
 
-As in the two-player game, six cards are dealt to each player: the first six cards to dealer's right, then six to dealer's partner, then six to dealer's left, then six to the dealer, after which for cards are dealt face up to the table. The play proceeds in the same way as in the two player game, beginning with the player to dealer's right, and when the hands are depleted there is a second deal of six cards to each player, which exhausts the pack. 
+Comme dans le jeu à deux joueurs, six cartes sont distribuées à chaque joueur : les six premières au partenaire à droite du donneur, puis six au partenaire du donneur, puis six à la gauche du donneur, puis six au donneur, après quoi quatre cartes sont distribuées face ouverte sur la table. Le jeu procède de la même manière que dans le jeu à deux joueurs, en commençant par le joueur à la droite du donneur, et lorsque les mains sont épuisées, il y a une seconde donne de six cartes à chaque joueur, qui épuise le jeu.
 
-Any declaration binds only the player who made it; their partner is free to play in whatever way they wish. Any plain declarations that a player makes may only be raised by an opponent, not by the declarer's partner. However, cards may be added to a declaration by any player to make a group declaration of the same value. The player who adds to the declaration takes over the responsibility to keep a card with which to capture the declaration.
+Toute déclaration n'engage que le joueur qui l'a faite ; son partenaire est libre de jouer comme il le souhaite. Toute déclaration simple qu'un joueur fait ne peut être surenchérie que par un adversaire, pas par le partenaire du déclarant. Cependant, des cartes peuvent être ajoutées à une déclaration par n'importe quel joueur pour faire une déclaration de groupe de même valeur. Le joueur qui ajoute à la déclaration reprend la responsabilité de conserver une carte avec laquelle capturer la déclaration.
 
-Once the round is over, the cards each partnership has captured are added together, and points are counted as usual for each partnership. 
+Une fois la manche terminée, les cartes que chaque partenariat a capturées sont additionnées, et les points sont comptés comme d'habitude pour chaque partenariat.
 
-## Variations
+## Variantes
 
-### Deal
+### Donne
 
-Some allow the dealer to look at the bottom card of the pack before dealing. In this case the dealer will know in advance one of the cards that he or she will receive in the final deal of the round.
+Certains permettent au donneur de regarder la carte du bas du jeu avant de distribuer. Dans ce cas, le donneur saura à l'avance l'une des cartes qu'il recevra lors de la dernière donne de la manche.
 
-Some allow a player who receives 5 or 6 face cards (K, Q, J) in the first deal of a round to cancel the round and demand that the cards be shuffled and dealt again by the same dealer. Some allow this privilege not only in the first deal of a round but in any deal.
+Certains permettent à un joueur qui reçoit 5 ou 6 figures (R, D, V) lors de la première donne d'une manche d'annuler la manche et d'exiger que les cartes soient mélangées et redistribuées par le même donneur. Certains permettent ce privilège non seulement lors de la première donne d'une manche mais lors de n'importe quelle donne.
 
-Some do not redeal the table cards when they include exactly three equal face cards (for example three Queens). Instead, in this special case, the player who plays the fourth card of this rank captures all three of the matching face cards from the table.
+Certains ne redistribuent pas les cartes de table lorsqu'elles incluent exactement trois figures égales (par exemple trois Dames). Au lieu de cela, dans ce cas spécial, le joueur qui joue la quatrième carte de ce rang capture les trois figures correspondantes de la table.
 
-### Forced Capture
+### Capture forcée
 
-In this variation, when a card is played that can make a capture, the capture must be made and the player is not allowed to leave on the table any cards or sets that could have been captured by the played card. This does not necessarily mean that the player must capture as many cards as possible. For example if the cards on the table are A, 3, 4, 5, 9 and a 9 is played, the player may choose to capture (A+3+5, 9) leaving the 4 or (4+5, 9) leaving the A and 3, but cannot for example capture just the (A+3+5) leaving 4 and 9 on the table to avoid the danger of a xeri, or capture just the 9 leaving the other cards. As this example shows, in this variation extra care is needed to avoid being forced to give away a xeri.
+Dans cette variante, lorsqu'une carte est jouée et peut faire une capture, la capture doit être faite et le joueur n'est pas autorisé à laisser sur la table des cartes ou des ensembles qui auraient pu être capturés par la carte jouée. Cela ne signifie pas nécessairement que le joueur doit capturer autant de cartes que possible. Par exemple, si les cartes sur la table sont A, 3, 4, 5, 9 et qu'un 9 est joué, le joueur peut choisir de capturer (A+3+5, 9) en laissant le 4 ou (4+5, 9) en laissant le A et le 3, mais ne peut pas, par exemple, capturer seulement le (A+3+5) en laissant le 4 et le 9 sur la table pour éviter le danger d'un xeri, ou capturer seulement le 9 en laissant les autres cartes. Comme cet exemple le montre, dans cette variante, une attention supplémentaire est nécessaire pour éviter d'être forcé de céder un xeri.
 
-### Use of Plain Declarations
+### Utilisation des déclarations simples
 
-Some groups play with more liberal rules on the use of plain declarations, treating them like single cards for certain purposes. Some treat plain declarations as though they were single cards when forming or adding to group declarations. Some also treat plain declarations like single cards when raising a plain declaration or when making a capture. Here are some examples.
+Certains groupes jouent avec des règles plus libérales sur l'utilisation des déclarations simples, les traitant comme des cartes simples à certaines fins. Certains traitent les déclarations simples comme des cartes simples lors de la formation ou de l'ajout à des déclarations de groupe. Certains traitent aussi les déclarations simples comme des cartes simples lors de la surenchérite d'une déclaration simple ou lors d'une capture. Voici quelques exemples.
 
-Plain declarations treated as single cards when forming group declarations
-a) On the table there is
-a 4+3, declared as 7 by an opponent, and a separate Ace. You
-have two eights in your hand. You play one of your eights
-and combine it with the 4+3 and the Ace on the table to declare
-'eights'.
-b) I have a group declaration of '10s' on the table, and there is also a declaration of 5 and a loose 2. I play a 3 from my hand, combine it with the 5-declaration and the 2 and add it to my 10's declaration.
-Plain declarations treated as single cards when raising plain declarations
-c) On the table there is a plain declaration of 6 (4+2) declared by an opponent and a loose 3. A player holding an Ace and a 10 plays the Ace and combines it with the 6-declaration and the 3 to raise the declaration to 10.
-Plain declarations treated as single cards for capturing
-d) There is a declaration of 5 on the table, as well as a loose Ace. A player may capture both the declaration and the Ace by playing a single 6.
-e) On the table is a declaration of 7, a declaration of 9 and a loose 2. A 9 is played, capturing the 7-declaration and the 2 as well as the 9-declaration. 
+Déclarations simples traitées comme des cartes simples lors de la formation de déclarations de groupe :
+a) Sur la table, il y a un 4+3, déclaré comme 7 par un adversaire, et un As séparé. Vous avez deux 8 dans votre main. Vous jouez un de vos 8 et le combinez avec le 4+3 et l'As de la table pour déclarer « huit ».
+b) J'ai une déclaration de groupe de « 10 » sur la table, et il y a aussi une déclaration de 5 et un 2 libre. Je joue un 3 de ma main, le combine avec la déclaration de 5 et le 2 et l'ajoute à ma déclaration de 10.
+
+Déclarations simples traitées comme des cartes simples lors de la surenchérite de déclarations simples :
+c) Sur la table, il y a une déclaration simple de 6 (4+2) déclarée par un adversaire et un 3 libre. Un joueur détenant un As et un 10 joue l'As et le combine avec la déclaration de 6 et le 3 pour surenchérir la déclaration à 10.
+
+Déclarations simples traitées comme des cartes simples pour la capture :
+d) Il y a une déclaration de 5 sur la table, ainsi qu'un As libre. Un joueur peut capturer à la fois la déclaration et l'As en jouant un seul 6.
+e) Sur la table, il y a une déclaration de 7, une déclaration de 9 et un 2 libre. Un 9 est joué, capturant la déclaration de 7 et le 2 ainsi que la déclaration de 9.
 
 ### Soy
 
-Some players use the term "soy" to refer to any group declaration. However the book *Το αλφαβητάρι του χαρτοπαίκτη* by *Γιωργος Κουσουνελος* (Δίαυλος, Athens, 1998) appears to consider a "soy" to be a special type of group declaration consisting only of a pair of equal numeral cards, such as two 8's. According to this book, no cards may be added to a "soy" declaration and it may only be captured by another card of the same value. 
+Certains joueurs utilisent le terme « soy » pour désigner toute déclaration de groupe. Cependant, le livre *Το αλφαβητάρι του χαρτοπαίκτη* de *Γιωργος Κουσουνελος* (Δίαυλος, Athènes, 1998) semble considérer un « soy » comme un type spécial de déclaration de groupe consistant uniquement en une paire de cartes numériques égales, comme deux 8. Selon ce livre, aucune carte ne peut être ajoutée à une déclaration « soy » et elle ne peut être capturée que par une autre carte de même valeur.
 
 ### Xeri
 
-Some play that the very last card played by the dealer does not count as a xeri even if it captures all the cards remaining on the table by matching.
+Certains jouent que la toute dernière carte jouée par le donneur ne compte pas comme un xeri même si elle capture toutes les cartes restantes sur la table par correspondance.
 
-On the other hand, some play that a xeri is scored whenever a player captures all the cards from the table by matching them, even with the very first card of a round.
+D'un autre côté, certains jouent qu'un xeri est marqué chaque fois qu'un joueur capture toutes les cartes de la table par correspondance, même avec la toute première carte d'une manche.
 
-### Target Score
+### Score cible
 
-For a longer game, the target score is sometimes set to 121 rather than 61, or any other value that the players may agree in advance.
+Pour une partie plus longue, le score cible est parfois fixé à 121 plutôt que 61, ou à toute autre valeur sur laquelle les joueurs peuvent s'accorder à l'avance.
 
-## Software
+## Logiciels
 
-You can download a freeware Diloti program from [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
-
-Home Page > Classified Index > Fishing Games > Diloti
+Vous pouvez télécharger un programme gratuit de Diloti sur [Thanos Card Games](https://thanoscardgames.jimdofree.com/).
