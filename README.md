@@ -4,14 +4,16 @@
 
 # PKcards
 
-Découvrez plus de 160 jeux de cartes en swipant : parcourez, apprenez les règles et sauvegardez vos favoris.
+Découvrez plus de 700 jeux de cartes en swipant : parcourez, apprenez les règles et sauvegardez vos favoris.
 
 ## ✅ Fonctionnalités
 
-- Catalogue de 160+ jeux de cartes avec règles complètes
+- Catalogue de 700+ jeux de cartes avec règles complètes
 - Interface de découverte par swipe (oui / non)
 - Fiches enrichies : difficulté, type, autres noms, nombre de joueurs et de cartes
 - Règle courte et version longue pour chaque jeu
+- Miniatures de cartes dans les règles : les mentions de cartes (« 7 de trèfle », « A♥️ ») s'affichent automatiquement en visuels (v3)
+- 8 thèmes d'interface commutables (v3)
 - Recherche des règles en vidéo sur YouTube en un clic
 - Votez pour vos jeux préférés et consultez le classement « Meilleurs jeux »
 - Favoris synchronisés sur tous vos appareils via un simple email (sans mot de passe)
@@ -40,7 +42,7 @@ node assets/scripts/build.js       # génère site/v1/data.js depuis assets/rule
 Le catalogue est généré depuis les fichiers Markdown de `assets/rules/rules_original/`. Après toute modification des règles, régénérez les données :
 
 ```bash
-node scripts/build.js
+node assets/scripts/build.js
 ```
 
 ## 🗄️ Backend (votes & favoris)
@@ -70,7 +72,7 @@ Pour un aperçu du catalogue seul (sans votes/favoris), un serveur statique suff
 
 - **Compteur de scores** (`tools/score/`) — notez les points de chaque manche pour 2 à 10 joueurs, totaux automatiques, historique corrigeable. 100 % statique (un seul fichier), pensé mobile. En ligne : https://mondary.design/pk/-Games-cards/score/
 - **Tracker PV Régicide** (`tools/regicide-hp.html`) — compteur de points de vie pour le jeu Régicide. Ouvrez le fichier dans un navigateur mobile. Grille de cartes avec mode zoom plein écran, badges d'attaque par rang (Valet ⚔10, Dame ⚔15, Roi ⚔20), persistance automatique des PV.
-- **Images des cartes** (`tools/cards/`) — scans des cartes utilisés par le tracker.
+- **Images des cartes** (`assets/cards/`) — scans des 55 cartes, utilisés par le tracker et les miniatures des règles v3.
 
 ## 📋 Changelog
 
@@ -78,9 +80,10 @@ Voir le [CHANGELOG](CHANGELOG.md) pour l'historique complet.
 
 ## 🔗 Liens
 
+- **App v3** (reader, thèmes, miniatures de cartes) : [`site/v3/`](site/v3/) · en ligne : https://mondary.design/pk/-Games-cards/cards3/
 - **App v2** (mobile, HTMX) : [`site/v2/`](site/v2/) · en ligne : https://mondary.design/pk/site/v2/
 - App v1 (archive) : [`site/v1/`](site/v1/)
 - Règles des jeux : dossier [`assets/rules/`](assets/rules/)
-- Règles CLM (Régicide, Yaniv) : dossier [`assets/rules/rules_clm/`](assets/rules/rules_clm/)
+- Règles CLM (Régicide, Yaniv, Scoundrel…) : dossier [`assets/rules/rules_clm/`](assets/rules/rules_clm/)
 - Tracker Régicide : [`tools/regicide/`](tools/regicide/) · en ligne : https://mondary.design/pk/tools/regicide/
 - Scripts de build : dossier [`scripts/`](scripts/)

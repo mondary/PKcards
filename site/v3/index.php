@@ -65,6 +65,8 @@ class Vault {
      self::importClm();
      self::importPagat();
      self::importMistigri();
+     self::importOriginal();
+     self::importCards();
      self::syncCatalog();
      return $pdo;
   }
@@ -125,18 +127,27 @@ class Vault {
       if (!preg_match('/^#\s+(.+)$/m', $md, $titleMatch)) continue;
       $title = trim(preg_replace('/^\p{So}+\s*/u', '', $titleMatch[1]));
       $title = trim(preg_replace('/\s*\([^)]*\)/', '', $title));
-      preg_match('/\*\*[^*]*joueurs?\s*:\s*\*\*\s*(.+)/iu', $md, $playersMatch);
-      preg_match('/\*\*[^*]*cartes?\s*:\s*\*\*\s*(.+)/iu', $md, $cardsMatch);
-      preg_match('/\*\*[^*]*autres?\s+noms?\s*:\s*\*\*\s*(.+)/iu', $md, $aliasesMatch);
+      preg_match('/^\*\*(?:nombre\s+de\s+)?joueurs?\s*:\s*\*\*\s*(.+)/miu', $md, $playersMatch);
+      preg_match('/^\*\*(?:nombre\s+de\s+)?cartes?\s*:\s*\*\*\s*(.+)/miu', $md, $cardsMatch);
+      preg_match('/^\*\*autres?\s+noms?\s*:\s*\*\*\s*(.+)/miu', $md, $aliasesMatch);
       $players = trim($playersMatch[1] ?? '');
       $cards = trim($cardsMatch[1] ?? '');
+      $type = 'Règle maison';
+      if ($players === '' && preg_match('/^\*\*(.+)\*\*\s*$/m', $md, $bullet)) {
+        $parts = array_map('trim', explode('•', $bullet[1]));
+        if (preg_match('/^\d+(?:\s*(?:à|-|–)\s*\d+)?\s*joueurs?$/iu', $parts[0] ?? '')) {
+          $players = $parts[0];
+          if (isset($parts[1]) && $parts[1] !== '') $type = $parts[1];
+          if ($cards === '' && preg_match('/(\d+)\s*cartes?/iu', $bullet[1], $deckMatch)) $cards = $deckMatch[1];
+        }
+      }
       preg_match('/^(?:.*?)(\d+)\s*(?:à|-|–)\s*(\d+)\s*joueurs?/iu', $players, $range);
       $min = (int)($range[1] ?? 0); $max = (int)($range[2] ?? 0);
       if (!$min && preg_match('/^(\d+)\s*joueurs?/iu', $players, $single)) $min = $max = (int)$single[1];
       $plain = trim(preg_replace('/\s+/', ' ', strip_tags(preg_replace('/[#*_>`|-]+/', ' ', $md))));
-      $values = [$title, $players, $cards, '', 'Règle maison', 'clm', '#ca9ee6', mb_strimwidth($plain, 0, 160, '…', 'UTF-8'), $min, $max, $slug];
+      $values = [$title, $players, $cards, '', $type, 'clm', '#ca9ee6', mb_strimwidth($plain, 0, 160, '…', 'UTF-8'), $min, $max, $slug];
       $update->execute($values);
-      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', 'Règle maison', '', 'clm', '#ca9ee6', $values[7], $min, $max, $sort++, 1]);
+      if (!$update->rowCount()) $insert->execute([$slug, $title, $players, $cards, '', $type, '', 'clm', '#ca9ee6', $values[7], $min, $max, $sort++, 1]);
       foreach (array_filter(array_merge([$title], preg_split('/[,\/]/u', $aliasesMatch[1] ?? ''))) as $name) {
         $name = trim($name);
         if ($name !== '' && $name !== '—' && mb_strtolower($name) !== 'aucun') $gn->execute([$slug, $name]);
@@ -194,6 +205,56 @@ class Vault {
     }
   }
 
+  /** Importe les règles classiques (rules_original) sauf doublons de slug déjà présents. */
+  static function importOriginal(): void {
+    $dir = __DIR__ . '/../../assets/rules/rules_original';
+    if (!is_dir($dir)) return;
+    $db = self::$pdo;
+    $insert = $db->prepare('INSERT OR IGNORE INTO games
+      (slug,title,players,cards,difficulty,type,goal,category,color,excerpt,playerMin,playerMax,sort,is_clm)
+      VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
+    $gn = $db->prepare('INSERT OR IGNORE INTO game_names(slug,name) VALUES(?,?)');
+    $sort = (int)$db->query('SELECT COALESCE(MAX(sort), -1) + 1 FROM games')->fetchColumn();
+    foreach (glob($dir . '/*.md') ?: [] as $file) {
+      $slug = pathinfo($file, PATHINFO_FILENAME);
+      if ($slug[0] === '_' || str_ends_with($slug, '-v3')) continue; // ponytail: -v3 = variantes en attente de tri, lever quand le dédoublonnage est fini
+      if ($db->query('SELECT 1 FROM games WHERE slug=' . $db->quote($slug))->fetchColumn()) continue;
+      $md = file_get_contents($file) ?: '';
+      if (!preg_match('/^#\s+(.+)$/m', $md, $titleMatch)) continue;
+      $title = trim(preg_replace('/^\p{So}+\s*/u', '', $titleMatch[1]));
+      $title = trim(preg_replace('/\s*\([^)]*\)/', '', $title));
+      preg_match('/^\*\*(?:nombre\s+de\s+)?joueurs?\s*:\s*\*\*\s*(.+)/miu', $md, $playersMatch);
+      preg_match('/^\*\*(?:nombre\s+de\s+)?cartes?\s*:\s*\*\*\s*(.+)/miu', $md, $cardsMatch);
+      preg_match('/^\*\*(?:le\s+)?but(?:\s+du\s+jeu)?\s*:\s*\*\*\s*(.+)/miu', $md, $goalMatch);
+      preg_match('/^\*\*autres?\s+noms?\s*:\s*\*\*\s*(.+)/miu', $md, $aliasesMatch);
+      $players = trim($playersMatch[1] ?? '');
+      $cards = trim($cardsMatch[1] ?? '');
+      $goal = trim($goalMatch[1] ?? '');
+      preg_match('/^(?:.*?)(\d+)\s*(?:à|-|–)\s*(\d+)\s*joueurs?/iu', $players, $range);
+      $min = (int)($range[1] ?? 0); $max = (int)($range[2] ?? 0);
+      if (!$min && preg_match('/^(\d+)\s*joueurs?/iu', $players, $single)) $min = $max = (int)$single[1];
+      $plain = trim(preg_replace('/\s+/', ' ', strip_tags(preg_replace('/[#*_>`|-]+/', ' ', $md))));
+      $excerpt = mb_strimwidth($plain, 0, 160, '…', 'UTF-8');
+      $insert->execute([$slug, $title, $players, $cards, '', 'Règle classique', $goal, 'original', '#7eaafb', $excerpt, $min, $max, $sort++, 0]);
+      foreach (array_filter(array_merge([$title], preg_split('/[,\/]/u', $aliasesMatch[1] ?? ''))) as $name) {
+        $name = trim($name);
+        if ($name !== '' && $name !== '—' && mb_strtolower($name) !== 'aucun') $gn->execute([$slug, $name]);
+      }
+      self::write('/games/' . $slug . '.md', $md, 'text/markdown');
+    }
+  }
+
+  /** Charge les 55 PNG de cartes dans le KV pour les sprites inline (?img=/cards/...). */
+  static function importCards(): void {
+    $dir = __DIR__ . '/../../assets/cards';
+    if (!is_dir($dir)) return;
+    $db = self::$pdo;
+    if ((int)$db->query("SELECT COUNT(*) FROM kv WHERE path LIKE '/cards/%'")->fetchColumn() >= 55) return;
+    foreach (glob($dir . '/*.png') ?: [] as $file) {
+      self::write('/cards/' . basename($file), file_get_contents($file) ?: '', 'image/png');
+    }
+  }
+
   /** Importe les règles pagat (pagat.com) en excluant les doublons locaux. */
   static function importPagat(): void {
     $dir = __DIR__ . '/../../assets/rules/rules_pagat';
@@ -216,9 +277,9 @@ class Vault {
       if (!preg_match('/^#\s+(.+)$/m', $md, $titleMatch)) continue;
       $title = trim(preg_replace('/^\p{So}+\s*/u', '', $titleMatch[1]));
       $title = trim(preg_replace('/\s*\([^)]*\)/', '', $title));
-      preg_match('/\*\*[^*]*joueurs?\s*:\s*\*\*\s*(.+)/iu', $md, $playersMatch);
-      preg_match('/\*\*[^*]*cartes?\s*:\s*\*\*\s*(.+)/iu', $md, $cardsMatch);
-      preg_match('/\*\*[^*]*autres?\s+noms?\s*:\s*\*\*\s*(.+)/iu', $md, $aliasesMatch);
+      preg_match('/^\*\*(?:nombre\s+de\s+)?joueurs?\s*:\s*\*\*\s*(.+)/miu', $md, $playersMatch);
+      preg_match('/^\*\*(?:nombre\s+de\s+)?cartes?\s*:\s*\*\*\s*(.+)/miu', $md, $cardsMatch);
+      preg_match('/^\*\*autres?\s+noms?\s*:\s*\*\*\s*(.+)/miu', $md, $aliasesMatch);
       $players = trim($playersMatch[1] ?? '');
       $cards = trim($cardsMatch[1] ?? '');
       preg_match('/^(?:.*?)(\d+)\s*(?:à|-|–)\s*(\d+)\s*joueurs?/iu', $players, $range);
@@ -535,7 +596,26 @@ function md2html(string $md): string {
   if ($inT) $html[] = '</table>';
   if ($inU) $html[] = '</ul>';
   if ($inO) $html[] = '</ol>';
-  return implode("\n", $html);
+  return card_sprites(implode("\n", $html));
+}
+
+/** Remplace « X de couleur » (7 de trèfle, As de cœur…) par une miniature de carte. */
+function card_sprites(string $html): string {
+  static $ranks = [
+    'As' => '01', 'Deux' => '02', 'Trois' => '03', 'Quatre' => '04', 'Cinq' => '05',
+    'Six' => '06', 'Sept' => '07', 'Huit' => '08', 'Neuf' => '09', 'Dix' => '10',
+    '2' => '02', '3' => '03', '4' => '04', '5' => '05', '6' => '06',
+    '7' => '07', '8' => '08', '9' => '09', '10' => '10',
+    'Valet' => 'V', 'Dame' => 'D', 'Roi' => 'R', 'A' => '01',
+  ];
+  static $suits = ['carreau' => 'carreau', 'coeur' => 'coeur', 'cœur' => 'coeur', 'pique' => 'pique', 'trèfle' => 'trefle', 'trefle' => 'trefle', '♥' => 'coeur', '♦' => 'carreau', '♠' => 'pique', '♣' => 'trefle'];
+  $rankPat = implode('|', array_map('preg_quote', array_keys($ranks)));
+  $suitPat = implode('|', array_map('preg_quote', array_keys($suits)));
+  return preg_replace_callback(
+    '/(?<!\w)(' . $rankPat . ')\s*(?:de\s+)?(' . $suitPat . ')\x{FE0F}?(?!\w)/iu',
+    fn($m) => '<img class="cs" src="?img=/cards/' . $ranks[ucfirst(mb_strtolower($m[1]))] . '-' . $suits[str_replace("\u{FE0F}", '', mb_strtolower($m[2]))] . '.png" alt="' . $m[0] . '" loading="lazy">',
+    $html
+  );
 }
 
 function json_out($d, int $code = 200): void {
@@ -674,7 +754,7 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inhe
 
 .reader{display:grid;grid-template-columns:minmax(380px,42vw) minmax(0,1fr);min-height:100dvh;background:var(--paper)}.bar{position:fixed;z-index:20;top:0;left:0;width:42vw;display:flex;justify-content:space-between;align-items:center;padding:calc(18px + env(safe-area-inset-top)) 24px 16px;color:#fff;font:.64rem var(--mono);text-transform:uppercase}.bar__back{padding:9px 11px;border:0;border-radius:6px;background:rgba(16,38,31,.72)}
 .reader-hero{position:sticky;top:0;height:100dvh;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;padding:100px clamp(24px,4vw,64px) 44px;background:var(--ink);color:#fff;isolation:isolate}.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:rgba(10,10,10,.46)}.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;filter:saturate(.9) contrast(1.12)}.reader-hero__eyebrow{display:inline-block;width:max-content;padding:3px 7px;background:var(--yellow);color:var(--ink);font:700 .65rem var(--mono);text-transform:uppercase;transform:rotate(-2deg)}.reader-hero h1{margin:16px 0 20px;font:400 clamp(3.4rem,7vw,7.4rem)/.82 var(--display);text-transform:uppercase;text-shadow:4px 4px 0 var(--pink),8px 8px 0 var(--blue);text-wrap:balance}.reader-hero__alts{display:flex;flex-wrap:wrap;gap:16px;margin-bottom:30px}.reader-hero__alt{color:#fff;font:600 .62rem var(--mono);text-decoration:underline;text-decoration-color:var(--pink);text-decoration-thickness:3px}.reader-hero__meta{display:flex;gap:36px}.reader-hero__meta span{font:.72rem var(--mono)}.reader-hero__meta small{display:block;margin-bottom:6px;color:#ddd;font-size:.55rem;text-transform:uppercase}
-.reader-body{min-width:0}.reader-body-inner{max-width:780px;margin:auto;padding:clamp(90px,10vw,150px) clamp(24px,6vw,92px) 100px}.reader-summary{padding-bottom:22px}.reader-summary::before{content:'Règle express';display:inline-block;margin-bottom:20px;padding:4px 8px;background:var(--pink);color:var(--ink);font:700 .65rem var(--mono);text-transform:uppercase;transform:rotate(-1deg)}.reader-summary__text{font-size:clamp(1.3rem,2.3vw,2rem);font-weight:700;line-height:1.25;text-wrap:pretty}.raction{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0}.rbtn{min-height:50px;border:0;border-radius:3px;background:var(--blue);color:#fff;font:700 .68rem var(--mono);text-transform:uppercase}.rbtn--like{background:var(--pink);color:var(--ink)}
+.reader-body{min-width:0}.reader-body-inner{max-width:780px;margin:auto;padding:clamp(90px,10vw,150px) clamp(24px,6vw,92px) 100px}.reader-summary{padding-bottom:22px}.reader-summary::before{content:'Règle express';display:inline-block;margin-bottom:20px;padding:4px 8px;background:var(--pink);color:var(--ink);font:700 .65rem var(--mono);text-transform:uppercase;transform:rotate(-1deg)}.reader-summary__text{font-size:clamp(1.3rem,2.3vw,2rem);font-weight:700;line-height:1.25;text-wrap:pretty}.cs{height:1.5em;width:auto;vertical-align:-.32em;margin:0 2px;border-radius:3px;box-shadow:0 1px 2px rgba(0,0,0,.3)}.raction{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0}.rbtn{min-height:50px;border:0;border-radius:3px;background:var(--blue);color:#fff;font:700 .68rem var(--mono);text-transform:uppercase}.rbtn--like{background:var(--pink);color:var(--ink)}
 .reader__youtube{display:block;padding:16px;border:0;border-radius:3px;background:var(--yellow);color:var(--ink);font-size:.84rem;font-weight:700}.yt-alts{display:flex;flex-wrap:wrap;gap:14px;margin:12px 0 30px}.yt-alt{color:var(--blue);font:600 .65rem var(--mono)}
 .rules-title,.related__title{margin:52px 0 20px;font:700 .76rem var(--mono);text-transform:uppercase}.rules{font-size:1.08rem;line-height:1.75}.rules h1,.rules h2,.rules h3{line-height:1.15}.rules h1{margin:42px 0 14px;font-size:2rem}.rules h2{margin:36px 0 12px;font-size:1.6rem;padding-bottom:8px}.rules h3{margin:26px 0 9px;font-size:1.25rem}.rules p{margin:10px 0}.rules ul,.rules ol{margin:11px 0 11px 24px}.rules li{margin:6px 0}.rules strong{font-weight:700}.rules hr{margin:32px 0;border:0;border-top:1px solid var(--line)}.rules table{width:100%;margin:20px 0;border-collapse:collapse;font-size:.92rem}.rules td{padding:10px;border:1px solid var(--line)}.rules img{max-width:100%;margin:14px 0}.rules blockquote{margin:20px 0;padding:16px 18px;border-radius:8px;background:var(--soft)}.rules a{text-decoration:underline}
 .related{margin-top:60px}.related__grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.related__card{display:flex;flex-direction:column;gap:5px;padding:18px;border-radius:3px;background:#ffbad8}.related__card:nth-child(even){background:#b8c3ff}.related__card:hover{transform:rotate(-1deg)}.related__rel{font:700 .55rem var(--mono);text-transform:uppercase;color:var(--ink)}.related__name{font-weight:700}.related__note{font-size:.68rem;color:var(--muted)}

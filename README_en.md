@@ -4,14 +4,16 @@
 
 # PKcards
 
-Discover 160+ card games by swiping: browse, learn the rules and save your favorites.
+Discover 700+ card games by swiping: browse, learn the rules and save your favorites.
 
 ## ✅ Features
 
-- Catalog of 160+ card games with full rules
+- Catalog of 700+ card games with full rules
 - Swipe-based discovery interface (yes / no)
 - Rich game sheets: difficulty, type, other names, number of players and cards
 - Short rule and long version for each game
+- Card thumbnails inside the rules: card mentions ("7 de trèfle", "A♥️") automatically render as card visuals (v3)
+- 8 switchable interface themes (v3)
 - One-click YouTube search for video rules
 - Vote for your favorite games and check the "Best games" ranking
 - Favorites synced across all your devices via a simple email (no password)
@@ -40,7 +42,7 @@ node assets/scripts/build.js       # generates site/v1/data.js from assets/rules
 The catalog is generated from the Markdown files in `assets/rules/rules_original/`. After editing any rule, regenerate the data:
 
 ```bash
-node scripts/build.js
+node assets/scripts/build.js
 ```
 
 ## 🗄️ Backend (votes & favorites)
@@ -70,7 +72,7 @@ For a catalog-only preview (without votes/favorites), a static server is enough 
 
 - **Score counter** (`tools/score/`) — track each round's points for 2 to 10 players, automatic totals, editable history. 100% static (single file), mobile-first. Live: https://mondary.design/pk/-Games-cards/score/
 - **Régicide HP Tracker** (`tools/regicide-hp.html`) — hit point tracker for the Régicide card game. Open the file in a mobile browser. Card grid with fullscreen zoom mode, attack badges per rank (Jack ⚔10, Queen ⚔15, King ⚔20), automatic HP persistence.
-- **Card images** (`tools/cards/`) — card scans used by the tracker.
+- **Card images** (`assets/cards/`) — scans of the 55 cards, used by the tracker and the v3 rule thumbnails.
 
 ## 📋 Changelog
 
@@ -78,9 +80,10 @@ See [CHANGELOG](CHANGELOG.md) for full history.
 
 ## 🔗 Links
 
+- **App v3** (reader, themes, card thumbnails): [`site/v3/`](site/v3/) · live: https://mondary.design/pk/-Games-cards/cards3/
 - **App v2** (mobile, HTMX): [`site/v2/`](site/v2/) · live: https://mondary.design/pk/site/v2/
 - App v1 (archive): [`site/v1/`](site/v1/)
 - Game rules: [`assets/rules/`](assets/rules/) folder
-- CLM rules (Régicide, Yaniv): [`assets/rules/rules_clm/`](assets/rules/rules_clm/) folder
+- CLM rules (Régicide, Yaniv, Scoundrel…): [`assets/rules/rules_clm/`](assets/rules/rules_clm/) folder
 - Régicide tracker: [`tools/regicide/`](tools/regicide/) · live: https://mondary.design/pk/tools/regicide/
 - Build scripts: [`scripts/`](scripts/) folder

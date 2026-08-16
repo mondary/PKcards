@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
+Statut : `1.2026.10` (sprites de cartes v3 + fiches dungeon crawlers CLM)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -60,6 +60,18 @@ Statut : `1.2026.9` (import pagat.com + batch de pêche FR)
 ---
 
 ## Releases
+
+### [1.2026.10] - 2026-08-16
+#### Added
+- **Sprites de cartes dans les règles (v3)** : les mentions « 7 de trèfle », « As de cœur », « A♥️ », « Valet ♠ »… deviennent automatiquement des miniatures de cartes dans le texte des règles — 55 PNG de `assets/cards/` chargés dans le KV v3, servis via `?img=/cards/…` (déploiement toujours self-contained : `index.php` + `vault.sqlite`)
+- `importOriginal()` : le dossier `rules_original/` alimente la base v3 (exclus : fichiers `_`-préfixés et variantes `-v3` en attente de tri) — **705 jeux** en base
+- 8 nouvelles fiches CLM : Fief de Norbois, Scoundrel, Donsol, Dungeon Solitaire (Labyrinth of Souls), Loot the Loop, Cuttle, Gridcannon, Cradije : Fates & Dungeon
+- Parseur du format libre `**1 joueur • Type • Durée • 52 cartes**` dans `importClm()` (players/type/cards extraits)
+
+#### Fixed
+- Regex front-matter (`**Joueurs :**`…) ancrées en début de ligne dans les 3 importeurs : elles pouvaient matcher à travers plusieurs lignes et capturer du texte du corps comme métadonnée (ex. « +2 dégâts… » lu comme joueurs)
+- `card_sprites()` : `\u{FE0F}` invalide en PCRE → `\x{FE0F}`
+- Rapports d'audit renommés `_pagat-duplicates.md` / `_pagat-gap.md` (leur titre `#` les aurait importés comme jeux) ; `site/v1/data.js` régénéré (239 jeux)
 
 ### [1.2026.9] - 2026-08-14
 #### Added
