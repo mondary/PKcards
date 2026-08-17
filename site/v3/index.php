@@ -63,6 +63,7 @@ class Vault {
     self::$pdo = $pdo;
      self::seed();
      self::importClm();
+     self::removeLegacyPagatDuplicates();
      self::importPagat();
      self::importMistigri();
      self::importOriginal();
@@ -255,7 +256,46 @@ class Vault {
     }
   }
 
-  /** Importe les règles pagat (pagat.com) en excluant les doublons locaux. */
+  /**
+   * Nettoie l'ancien essai d'import qui avait créé une carte `pagat-*` en plus
+   * de la fiche locale. Les fichiers source ne sont pas supprimés : ils restent
+   * disponibles pour la revue éditoriale des variantes.
+   */
+  static function removeLegacyPagatDuplicates(): void {
+    $db = self::$pdo;
+    $marker = $db->query("SELECT 1 FROM kv WHERE path='/meta/pagat-dedupe-v1'")->fetchColumn();
+    if ($marker) return;
+    $skipFile = __DIR__ . '/../../assets/rules/rules_pagat/_skip.json';
+    $skip = is_file($skipFile) ? (json_decode((string)file_get_contents($skipFile), true) ?: []) : [];
+    $slugs = $db->query("SELECT slug FROM games WHERE category='pagat' AND slug LIKE 'pagat-%'")->fetchAll(PDO::FETCH_COLUMN);
+    if ($skip) {
+      $marks = implode(',', array_fill(0, count($skip), '?'));
+      $st = $db->prepare("SELECT slug FROM games WHERE category='pagat' AND slug IN ($marks)");
+      $st->execute(array_keys($skip));
+      $slugs = array_merge($slugs, $st->fetchAll(PDO::FETCH_COLUMN));
+    }
+    $slugs = array_values(array_unique($slugs));
+    if ($slugs) {
+      $marks = implode(',', array_fill(0, count($slugs), '?'));
+      foreach (['game_names', 'game_families', 'game_sources'] as $table) {
+        $st = $db->prepare("DELETE FROM $table WHERE slug IN ($marks)");
+        $st->execute($slugs);
+      }
+      foreach (['votes' => 'game_id', 'favorites' => 'game_id', 'vote_log' => 'game_id'] as $table => $column) {
+        $st = $db->prepare("DELETE FROM $table WHERE $column IN ($marks)");
+        $st->execute($slugs);
+      }
+      $st = $db->prepare("DELETE FROM game_links WHERE slug IN ($marks) OR related IN ($marks)");
+      $st->execute([...$slugs, ...$slugs]);
+      $st = $db->prepare("DELETE FROM kv WHERE path IN (" . implode(',', array_fill(0, count($slugs), '?')) . ")");
+      $st->execute(array_map(fn($slug) => '/games/' . $slug . '.md', $slugs));
+      $st = $db->prepare("DELETE FROM games WHERE slug IN ($marks)");
+      $st->execute($slugs);
+    }
+    self::write('/meta/pagat-dedupe-v1', 'done');
+  }
+
+  /** Importe les règles Pagat uniques, sans dupliquer les fiches locales. */
   static function importPagat(): void {
     $dir = __DIR__ . '/../../assets/rules/rules_pagat';
     if (!is_dir($dir)) return;
