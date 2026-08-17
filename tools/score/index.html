@@ -79,7 +79,7 @@ button:disabled{opacity:.3; pointer-events:none}
 .pnameLine{display:flex;align-items:center;gap:4px;min-width:0}
 .pnameLine .pnm{flex:1;min-width:0}
 .ren{
-  width:25px;height:25px;flex:none;border:1px solid transparent;border-radius:7px;
+  width:25px;height:25px;flex:none;margin-left:-4px;border:1px solid transparent;border-radius:7px;
   color:var(--mut);font-size:13px;line-height:1;
 }
 .ren:active{border-color:var(--acc);color:var(--acc);background:#fff}
@@ -306,7 +306,7 @@ function render(){
       +(p.photo
         ?'<img class="init ph" data-photo="'+p.id+'" src="'+p.photo+'" alt="">'
         :'<button class="init noph" data-photo="'+p.id+'" title="Photo">'+esc(ini(p.name))+'</button>')
-      +'<span class="pmid"><span class="pnameLine"><span class="pnm">'+esc(p.name)+'</span><button class="ren" data-ren="'+p.id+'" title="Renommer '+esc(p.name)+'" aria-label="Renommer '+esc(p.name)+'">✎</button></span>'
+      +'<span class="pmid"><span class="pnameLine"><button class="ren" data-ren="'+p.id+'" title="Renommer '+esc(p.name)+'" aria-label="Renommer '+esc(p.name)+'">✎</button><span class="pnm">'+esc(p.name)+'</span></span>'
       +(segs.length?'<span class="pbd">'+segs.join('')+'</span>':'')
       +'</span>'
       +'<span class="tot">'+tot(p.id)+'</span>'
@@ -564,7 +564,7 @@ document.getElementById('list').addEventListener('click',function(e){
   var ren=e.target.closest('[data-ren]');
   if(ren){
     var pl=P(ren.dataset.ren);
-    var v=prompt('Nom du joueur :',pl.name);
+    var v=prompt('Nom du joueur :',(/^Joueur \d+$/.test(pl.name)?'':pl.name));
     if(v!==null&&v.trim()){pl.name=v.trim().slice(0,14);save();render()}
     return;
   }
@@ -581,7 +581,7 @@ document.getElementById('list').addEventListener('click',function(e){
     save();
     select(S.players[S.players.length-1].id);
     var np=S.players[S.players.length-1];
-    var v2=prompt('Nom du joueur :',np.name);
+    var v2=prompt('Nom du joueur :',(/^Joueur \d+$/.test(np.name)?'':np.name));
     if(v2!==null&&v2.trim()){np.name=v2.trim().slice(0,14);save()}
     render();
     return;
