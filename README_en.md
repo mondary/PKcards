@@ -70,7 +70,7 @@ For a catalog-only preview (without votes/favorites), a static server is enough 
 
 ## 🛠️ Tools
 
-- **Score counter** (`tools/score/`) — track each round's points for 2 to 10 players, automatic totals, editable history. 100% static (single file), mobile-first. Live: https://mondary.design/pk/-Games-cards/score/
+- **Score counter** (`tools/score/`) — create one table per group and switch between their separate games, players and leaderboards; track round points, automatic totals and editable history. 100% static and mobile-first. Live: https://mondary.design/pk/-Games-cards/score/
 - **Régicide HP Tracker** (`tools/regicide-hp.html`) — hit point tracker for the Régicide card game. Open the file in a mobile browser. Card grid with fullscreen zoom mode, attack badges per rank (Jack ⚔10, Queen ⚔15, King ⚔20), automatic HP persistence.
 - **Card images** (`assets/cards/`) — scans of the 55 cards, used by the tracker and the v3 rule thumbnails.
 

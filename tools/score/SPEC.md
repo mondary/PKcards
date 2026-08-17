@@ -6,7 +6,7 @@ dépendance, zéro build), hébergé statiquement :
 https://mondary.design/pk/-Games-cards/score/
 
 Source : demande du 2026-08-14, itérée par tests utilisateurs. Ce document
-décrit le produit livré en `1.2026.8`.
+décrit le produit livré en `1.2026.11`.
 
 ---
 
@@ -30,20 +30,32 @@ décrit le produit livré en `1.2026.8`.
   `1-9 / ⌫ / − / ↩ undo / 0 / Valider (large)`. Touche **−** : préfixe ou
   bascule le signe. Valider → enregistre et **avance au joueur suivant** non
   compté de la manche ; dernier joueur = manche scellée.
+- **Écran « Les tables »** : l'accueil présente des cartes de tables avec leurs
+  joueurs, l'état de la partie et une action « Reprendre ». On crée, ouvre,
+  renomme ou supprime une table depuis cet écran ; le bouton de table dans le
+  compteur y ramène. Chaque table possède ses propres joueurs, manches en
+  cours, photos et palmarès : on peut donc alterner entre plusieurs groupes
+  sans clôturer une partie.
 - **Menu** (dans l'entête de liste) : 🏁 Terminer la partie (podium +
   archivage palmarès + Rejouer) · ⟳ Recommencer à la manche 1 · Fermer.
 - **🏆 Palmarès** : victoires cumulées par joueur (clé `pk.score.games`,
   60 dernières parties, effaçable).
 
-## 3. Modèle de données (localStorage `pk.score.v3`)
+## 3. Modèle de données (localStorage `pk.score.tables.v1`)
 
 ```json
 {
-  "players": [{"id": "…", "name": "Clément", "photo": "data:image/jpeg…"}],
-  "rounds":  [{"scores": {"id": 12}, "done": true}],
-  "log":     [{"pid": "…", "ridx": 0, "prev": null}]
+  "activeId": "t-…",
+  "tables": [{
+    "id": "t-…", "name": "Famille",
+    "state": {"players": [], "rounds": [], "log": []},
+    "games": []
+  }]
 }
 ```
+
+La première ouverture migre automatiquement les clés historiques `pk.score.v3`
+et `pk.score.games` dans « Table 1 ».
 
 - `rounds[].done` : manche complète (tous les joueurs présents) → scellée ;
   l'ajout d'un joueur après une manche scellée ne la rouvre pas.

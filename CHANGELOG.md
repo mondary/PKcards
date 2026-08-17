@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.10` (sprites de cartes v3 + fiches dungeon crawlers CLM)
+Statut : `1.2026.11` (gestion multi-tables du compteur de scores)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -31,6 +31,7 @@ Statut : `1.2026.10` (sprites de cartes v3 + fiches dungeon crawlers CLM)
 
 ### Phase 4 — Outils (`tools/`)
 - [x] Compteur de scores générique (`tools/score/`) : joueurs rapides, manches, totaux auto, historique éditable, photos, palmarès
+- [x] Gestion multi-tables du compteur : groupes, parties et palmarès séparés
 
 ### Phase 5 — Import pagat.com (en cours)
 - [x] Réorganisation des dossiers règles : `rules_original/` (188 fiches racine + rules3 fusionné), `rules_garraud/` (ex-rules2), scripts/README mis à jour
@@ -60,6 +61,13 @@ Statut : `1.2026.10` (sprites de cartes v3 + fiches dungeon crawlers CLM)
 ---
 
 ## Releases
+
+### [1.2026.11] - 2026-08-17
+#### Added
+- Compteur de scores : gestion de tables indépendantes pour alterner entre plusieurs groupes sans perdre une partie en cours. Chaque table conserve ses joueurs, photos, manches et palmarès ; création, changement de table, renommage et suppression depuis l'entête.
+
+#### Changed
+- Migration automatique des sauvegardes historiques vers « Table 1 » lors de la première ouverture.
 
 ### [1.2026.10] - 2026-08-16
 #### Added

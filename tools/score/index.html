@@ -25,6 +25,12 @@ button:disabled{opacity:.3; pointer-events:none}
   max-width:640px; width:100%; margin:0 auto; height:100dvh;
   display:flex; flex-direction:column; overflow:hidden;
 }
+#scoreView{display:flex;flex:1;min-height:0;flex-direction:column}
+#scoreView[hidden],#tablesView[hidden]{display:none}
+
+/* ----- accueil : les tables ----- */
+#tablesView{flex:1;overflow-y:auto;padding:calc(env(safe-area-inset-top) + 20px) 18px calc(env(safe-area-inset-bottom) + 24px);background:#f2efe8}
+.tablesTop{display:flex;align-items:start;justify-content:space-between;gap:12px;margin-bottom:26px}.tablesTop .ey{margin:0 0 5px;color:var(--mut);font-size:11px;font-weight:700;letter-spacing:.11em;text-transform:uppercase}.tablesTop h1{margin:0;font-size:34px;letter-spacing:-1.4px}.tableAdd{width:43px;height:43px;border-radius:14px;background:var(--acc);color:#fff;font-size:25px;box-shadow:0 4px 0 #153a94}.tableAdd:active{transform:translateY(3px);box-shadow:0 1px 0 #153a94}.tablesIntro{margin:0 0 22px;color:var(--mut);font-size:14px;line-height:1.4}.tableCards{display:grid;gap:13px}.tableCard{position:relative;overflow:hidden;min-height:150px;border-radius:20px;padding:18px;background:#264d8d;color:#fff;box-shadow:0 8px 18px rgba(30,43,67,.16)}.tableCard::after{content:'';position:absolute;right:-37px;bottom:-55px;width:175px;height:175px;border:1px solid rgba(255,255,255,.3);border-radius:50%;box-shadow:0 0 0 24px rgba(255,255,255,.06),0 0 0 49px rgba(255,255,255,.04)}.tableCard.c1{background:#2050c8}.tableCard.c2{background:#a84649}.tableCard.c3{background:#267560}.tableCard.c4{background:#7052a1}.tableCard>*{position:relative;z-index:1}.tableCard .tmeta{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;opacity:.72}.tableCard h2{margin:7px 0 7px;font-size:25px;letter-spacing:-.7px}.tableCard .tstate{font-size:14px;opacity:.93}.avatars{display:flex;margin-top:16px}.avatar{display:grid;place-items:center;width:29px;height:29px;margin-right:-6px;border:2px solid rgba(255,255,255,.85);border-radius:50%;background:#f5e7c7;color:var(--ink);font-size:10px;font-weight:800;overflow:hidden}.avatar img{width:100%;height:100%;object-fit:cover}.tableCard .resume{position:absolute;right:15px;bottom:16px;border-radius:999px;padding:9px 12px;background:#fff;color:var(--ink);font-size:12px;font-weight:800}.tableTools{position:absolute;right:14px;top:13px;display:flex;gap:3px}.tableTools button{width:29px;height:29px;border-radius:9px;background:rgba(255,255,255,.15);color:#fff;font-size:13px}.tableTools button:active{background:rgba(255,255,255,.32)}.tablesEmpty{padding:48px 6px;text-align:center;color:var(--mut)}
 
 /* ----- entête de liste ----- */
 #listHead{
@@ -33,6 +39,7 @@ button:disabled{opacity:.3; pointer-events:none}
 }
 #listHead b{font-size:15px}
 #listHead .grow{flex:1}
+.tableName{max-width:145px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .mini{
   height:30px; padding:0 10px; border-radius:8px; border:1px solid var(--line);
   font-size:12.5px; font-weight:600; background:#fff;
@@ -69,7 +76,13 @@ button:disabled{opacity:.3; pointer-events:none}
   display:block; font-size:16px; font-weight:600; text-align:left;
   overflow:hidden; text-overflow:ellipsis; white-space:nowrap; padding:2px 0;
 }
-.pnm:active{color:var(--acc)}
+.pnameLine{display:flex;align-items:center;gap:4px;min-width:0}
+.pnameLine .pnm{flex:1;min-width:0}
+.ren{
+  width:25px;height:25px;flex:none;border:1px solid transparent;border-radius:7px;
+  color:var(--mut);font-size:13px;line-height:1;
+}
+.ren:active{border-color:var(--acc);color:var(--acc);background:#fff}
 .pbd{
   display:flex; flex-wrap:wrap; gap:3px 0; color:var(--mut); font-size:13px;
   margin-top:5px; line-height:1.5; font-variant-numeric:tabular-nums;
@@ -101,8 +114,11 @@ button:disabled{opacity:.3; pointer-events:none}
   border-top:1px solid var(--line); background:#fff;
   padding:8px 12px calc(env(safe-area-inset-bottom) + 8px);
 }
-#padBar{display:flex; align-items:center; gap:8px; padding:0 2px 8px}
+#padBar{display:flex; align-items:center; gap:9px; padding:0 2px 8px}
+.padAvatar{width:35px;height:35px;flex:none;display:grid;place-items:center;overflow:hidden;border-radius:50%;background:#e7e4dc;color:var(--ink);font-size:11px;font-weight:800;letter-spacing:.02em}
+.padAvatar img{width:100%;height:100%;object-fit:cover}
 #padWho{flex:1; min-width:0; text-align:left}
+#padWho small{display:block;margin-bottom:1px;color:var(--mut);font-size:10px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
 #padWho b{font-size:15px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
 #padVal{
   font-size:24px; font-weight:800; font-variant-numeric:tabular-nums;
@@ -168,20 +184,24 @@ button:disabled{opacity:.3; pointer-events:none}
 </head>
 <body>
 <div id="app">
-  <div id="list"></div>
-  <div id="pad">
-    <div id="padBar">
-      <button id="padWho"><b id="pwName"></b></button>
-      <span id="padVal"></span>
+  <section id="tablesView"></section>
+  <section id="scoreView" hidden>
+    <div id="list"></div>
+    <div id="pad">
+      <div id="padBar">
+        <span id="pwAvatar" class="padAvatar" aria-hidden="true"></span>
+        <button id="padWho"><small>Points pour</small><b id="pwName"></b></button>
+        <span id="padVal"></span>
+      </div>
+      <div id="pgrid">
+        <button data-k="1">1</button><button data-k="2">2</button><button data-k="3">3</button><button data-k="b" class="fn">⌫</button>
+        <button data-k="4">4</button><button data-k="5">5</button><button data-k="6">6</button><button data-k="s" class="fn">−</button>
+        <button data-k="7">7</button><button data-k="8">8</button><button data-k="9">9</button><button id="undoBtn" class="fn" title="Annuler la dernière saisie du joueur">↩</button>
+        <button data-k="0">0</button>
+        <button id="padOk">Valider</button>
+      </div>
     </div>
-    <div id="pgrid">
-      <button data-k="1">1</button><button data-k="2">2</button><button data-k="3">3</button><button data-k="b" class="fn">⌫</button>
-      <button data-k="4">4</button><button data-k="5">5</button><button data-k="6">6</button><button data-k="s" class="fn">−</button>
-      <button data-k="7">7</button><button data-k="8">8</button><button data-k="9">9</button><button id="undoBtn" class="fn" title="Annuler la dernière saisie du joueur">↩</button>
-      <button data-k="0">0</button>
-      <button id="padOk">Valider</button>
-    </div>
-  </div>
+  </section>
 </div>
 
 <div id="ovEnd" class="ov" hidden></div>
@@ -191,26 +211,29 @@ button:disabled{opacity:.3; pointer-events:none}
 
 <script>
 'use strict';
-var KEY='pk.score.v3', GKEY='pk.score.games';
-var S=load(), GAMES=loadGames();
+var LEGACY_KEY='pk.score.v3', LEGACY_GKEY='pk.score.games', TABLEKEY='pk.score.tables.v1';
+var STORE=loadStore(), S=activeTable().state, GAMES=activeTable().games;
 var SEL=null, CUR='', FIX=null, toastT=0;
 
 function lsGet(k){if(location.protocol==='file:')return null;try{return localStorage.getItem(k)}catch(e){return null}}
 function lsSet(k,v){if(location.protocol==='file:')return;try{localStorage.setItem(k,v)}catch(e){}}
-function load(){
-  try{var d=JSON.parse(lsGet(KEY)||'null');if(d&&d.players)return d}catch(e){}
+function freshState(){
   return {players:[
     {id:uid(),name:'Joueur 1'},
     {id:uid(),name:'Joueur 2'},
     {id:uid(),name:'Joueur 3'}
   ],rounds:[],log:[]};
 }
-function loadGames(){
-  try{var d=JSON.parse(lsGet(GKEY)||'null');if(Array.isArray(d))return d}catch(e){}
-  return [];
+function loadStore(){
+  try{var s=JSON.parse(lsGet(TABLEKEY)||'null');if(s&&Array.isArray(s.tables)&&s.tables.length)return s}catch(e){}
+  var legacy=null,games=[];
+  try{legacy=JSON.parse(lsGet(LEGACY_KEY)||'null')}catch(e){}
+  try{games=JSON.parse(lsGet(LEGACY_GKEY)||'[]');if(!Array.isArray(games))games=[]}catch(e){}
+  return {activeId:'table-1',tables:[{id:'table-1',name:'Table 1',state:(legacy&&legacy.players?legacy:freshState()),games:games}]};
 }
-function save(){lsSet(KEY,JSON.stringify(S))}
-function saveGames(){lsSet(GKEY,JSON.stringify(GAMES))}
+function activeTable(){for(var i=0;i<STORE.tables.length;i++)if(STORE.tables[i].id===STORE.activeId)return STORE.tables[i];STORE.activeId=STORE.tables[0].id;return STORE.tables[0]}
+function save(){activeTable().state=S;activeTable().games=GAMES;lsSet(TABLEKEY,JSON.stringify(STORE))}
+function saveGames(){save()}
 function uid(){return Math.random().toString(36).slice(2,9)}
 function esc(s){return String(s).replace(/[&<>"']/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
 function ini(n){
@@ -258,7 +281,7 @@ function nextMissing(fromPid){
 function render(){
   var list=document.getElementById('list');
   var cur=curRound();
-  var h='<div id="listHead"><b>Manche '+roundNo()+'</b><span class="grow"></span>'
+  var h='<div id="listHead"><button class="mini tableName" id="btnTables" title="Changer de table">⌘ '+esc(activeTable().name)+'</button><b>Manche '+roundNo()+'</b><span class="grow"></span>'
     +'<button class="mini" id="btnPal">🏆 Palmarès</button>'
     +'<button class="mini" id="btnMenu">Menu</button></div>';
   h+=S.players.map(function(p){
@@ -273,7 +296,7 @@ function render(){
       +(p.photo
         ?'<img class="init ph" data-photo="'+p.id+'" src="'+p.photo+'" alt="">'
         :'<button class="init noph" data-photo="'+p.id+'" title="Photo">'+esc(ini(p.name))+'</button>')
-      +'<span class="pmid"><button class="pnm" data-ren="'+p.id+'">'+esc(p.name)+'</button>'
+      +'<span class="pmid"><span class="pnameLine"><span class="pnm">'+esc(p.name)+'</span><button class="ren" data-ren="'+p.id+'" title="Renommer '+esc(p.name)+'" aria-label="Renommer '+esc(p.name)+'">✎</button></span>'
       +(segs.length?'<span class="pbd">'+segs.join('')+'</span>':'')
       +'</span>'
       +'<span class="tot">'+tot(p.id)+'</span>'
@@ -292,6 +315,9 @@ function setEntry(v){CUR=String(v===null||v===undefined?'':v)}
 function syncPad(){
   var p=P(SEL);
   document.getElementById('pwName').textContent=p?(p.name+(FIX?' — corriger':'')):'';
+  document.getElementById('pwAvatar').innerHTML=p
+    ?(p.photo?'<img src="'+esc(p.photo)+'" alt="">':esc(ini(p.name)))
+    :'';
   var pv=document.getElementById('padVal');
   pv.textContent=entryText();
   pv.className=entryText().length>6?'long':'';
@@ -446,6 +472,40 @@ function resetRounds(){
   render();toast('Scores remis à zéro — manche 1');
 }
 
+/* ----- tables ----- */
+function tableById(id){for(var i=0;i<STORE.tables.length;i++)if(STORE.tables[i].id===id)return STORE.tables[i]}
+function tableStatus(t){
+  var rs=t.state.rounds||[],last=rs[rs.length-1],open=last&&!last.done;
+  if(open)return 'Partie en cours · manche '+rs.length;
+  if(rs.length)return 'Prête pour la manche '+(rs.length+1);
+  return 'Nouvelle partie';
+}
+function renderTables(){
+  var host=document.getElementById('tablesView'),active=activeTable();
+  host.innerHTML='<header class="tablesTop"><div><p class="ey">Score · vos groupes</p><h1>Les tables</h1></div><button class="tableAdd" data-table-new aria-label="Créer une table">＋</button></header>'
+    +'<p class="tablesIntro">Chaque table garde sa partie, ses joueurs et son palmarès. Reprends exactement où vous vous étiez arrêtés.</p>'
+    +'<div class="tableCards">'+STORE.tables.map(function(t,i){
+      var people=t.state.players||[],shown=people.slice(0,4),more=people.length-shown.length;
+      return '<article class="tableCard c'+(i%4+1)+'" data-table-open="'+t.id+'"><span class="tmeta">'+(t.id===active.id?'Table active':'Table')+'</span><h2>'+esc(t.name)+'</h2><p class="tstate">'+tableStatus(t)+'</p><div class="avatars">'+shown.map(function(p){return '<span class="avatar">'+(p.photo?'<img src="'+p.photo+'" alt="">':esc(ini(p.name)))+'</span>'}).join('')+(more?'<span class="avatar">+'+more+'</span>':'')+'</div><div class="tableTools"><button data-table-ren="'+t.id+'" aria-label="Renommer">✎</button>'+(STORE.tables.length>1?'<button data-table-del="'+t.id+'" aria-label="Supprimer">✕</button>':'')+'</div><button class="resume">'+(t.id===active.id?'Reprendre':'Ouvrir')+' →</button></article>';
+    }).join('')+'</div>';
+}
+function showTables(){document.getElementById('scoreView').hidden=true;document.getElementById('tablesView').hidden=false;renderTables()}
+function showScore(){document.getElementById('tablesView').hidden=true;document.getElementById('scoreView').hidden=false;render()}
+function activateTable(id){
+  var found=null;for(var i=0;i<STORE.tables.length;i++)if(STORE.tables[i].id===id)found=STORE.tables[i];
+  if(!found)return;
+  STORE.activeId=id;S=found.state;GAMES=found.games||[];SEL=S.players.length?S.players[0].id:null;CUR='';FIX=null;save();showScore();toast(found.name+' ouverte');
+}
+function openTables(){
+  showTables();
+}
+function newTable(){
+  var n=prompt('Nom de la table :','Table '+(STORE.tables.length+1));
+  if(n===null)return;
+  n=n.trim().slice(0,28)||'Table '+(STORE.tables.length+1);
+  var t={id:'t-'+uid(),name:n,state:freshState(),games:[]};STORE.tables.push(t);activateTable(t.id);
+}
+
 /* ----- événements ----- */
 document.getElementById('list').addEventListener('click',function(e){
   var rm=e.target.closest('[data-rm]');
@@ -529,6 +589,7 @@ document.getElementById('pgrid').addEventListener('click',function(e){
 document.getElementById('padOk').addEventListener('click',padOk);
 document.getElementById('undoBtn').addEventListener('click',undo);
 document.getElementById('list').addEventListener('click',function(e){
+  if(e.target.closest('#btnTables')){openTables();return}
   if(e.target.closest('#btnPal')){palmares();return}
   if(e.target.closest('#btnMenu')){openMenu();return}
 });
@@ -552,7 +613,16 @@ document.getElementById('ovPal').addEventListener('click',function(e){
   if(b.dataset.p==='wipe'&&confirm('Effacer tout le palmarès ?')){GAMES=[];saveGames()}
   document.getElementById('ovPal').hidden=true;
 });
+document.getElementById('tablesView').addEventListener('click',function(e){
+  if(e.target.closest('[data-table-new]')){newTable();return}
+  var ren=e.target.closest('[data-table-ren]');
+  if(ren){var t=tableById(ren.dataset.tableRen),n=prompt('Nom de la table :',t.name);if(n&&n.trim()){t.name=n.trim().slice(0,28);save();renderTables()}return}
+  var del=e.target.closest('[data-table-del]');
+  if(del){var d=tableById(del.dataset.tableDel);if(confirm('Supprimer « '+d.name+' » et ses scores ?')){STORE.tables=STORE.tables.filter(function(x){return x.id!==d.id});if(STORE.activeId===d.id){STORE.activeId=STORE.tables[0].id;S=STORE.tables[0].state;GAMES=STORE.tables[0].games||[]}save();renderTables()}return}
+  var card=e.target.closest('[data-table-open]');if(card)activateTable(card.dataset.tableOpen);
+});
 document.addEventListener('keydown',function(e){
+  if(document.getElementById('scoreView').hidden)return;
   if(!document.getElementById('ovEnd').hidden||!document.getElementById('ovPal').hidden)return;
   if(/^[0-9]$/.test(e.key))padKey(e.key);
   else if(e.key==='Backspace'){e.preventDefault();padKey('b')}
@@ -563,7 +633,7 @@ document.addEventListener('keydown',function(e){
 
 /* démarrage : sélectionne le 1er joueur */
 SEL=S.players.length?S.players[0].id:null;
-render();
+showTables();
 </script>
 </body>
 </html>
