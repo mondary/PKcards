@@ -264,6 +264,14 @@ function commit(pid,v,ridx){
     ridx=S.rounds.length-1;
   }
   var rr=S.rounds[ridx];
+  if(S.solo){
+    S.players.forEach(function(p){
+      if(p.id!==pid&&!(p.id in rr.scores)){
+        rr.scores[p.id]=0;
+        S.log.push({pid:p.id,ridx:ridx,prev:null,value:0});
+      }
+    });
+  }
   rr.done=S.players.every(function(p){return p.id in rr.scores});
   S.log.push({pid:pid,ridx:ridx,prev:prev,value:v});
   if(S.log.length>200)S.log.shift();
@@ -383,7 +391,7 @@ function padOk(){
     var n=nextMissing(SEL);
     if(n){SEL=n;setEntry(curRoundVal(n)!==null?curRoundVal(n):null)}
     else{
-      toast('Manche '+S.rounds.length+' complète ✓');
+      if(!S.solo)toast('Manche '+S.rounds.length+' complète ✓');
       SEL=nextMissing(null);clearEntry();
       if(!SEL&&S.players.length)SEL=S.players[0].id;
     }
@@ -488,6 +496,7 @@ function openMenu(){
     +'<p class="sub2">Partie en cours : manche '+Math.max(1,S.rounds.length)+'</p>'
     +'<div class="btns">'
     +'<button class="bmain" data-m="end"'+(S.rounds.length?'':' disabled')+'>🏁 Terminer la partie<small style="display:block;font-weight:400;font-size:12px;opacity:.85">classement final + victoire au palmarès</small></button>'
+    +'<button class="bghost" data-m="solo">'+(S.solo?'✓ ':'')+'Un seul marque par manche<small style="display:block;font-weight:400;font-size:12px;opacity:.85">'+(S.solo?'activé — ':'')+'les autres joueurs marquent 0 automatiquement</small></button>'
     +'<button class="bghost" data-m="reset"'+(S.rounds.length?'':' disabled')+'>⟳ Recommencer à la manche 1</button>'
     +'<button class="bghost" data-m="close">Fermer</button>'
     +'</div></div>';
@@ -514,7 +523,7 @@ function renderTables(){
     +'<p class="tablesIntro">Chaque table garde sa partie, ses joueurs et son palmarès. Reprends exactement où vous vous étiez arrêtés.</p>'
     +'<div class="tableCards">'+STORE.tables.map(function(t,i){
       var people=t.state.players||[],shown=people.slice(0,4),more=people.length-shown.length;
-      return '<article class="tableCard c'+(i%4+1)+'" data-table-open="'+t.id+'"><span class="tmeta">'+(t.id===active.id?'Table active':'Table')+'</span><h2>'+esc(t.name)+'</h2><p class="tstate">'+tableStatus(t)+'</p><div class="avatars">'+shown.map(function(p){return '<span class="avatar">'+(p.photo?'<img src="'+p.photo+'" alt="">':esc(ini(p.name)))+'</span>'}).join('')+(more?'<span class="avatar">+'+more+'</span>':'')+'</div><div class="tableTools"><button data-table-ren="'+t.id+'" aria-label="Renommer">✎</button>'+(STORE.tables.length>1?'<button data-table-del="'+t.id+'" aria-label="Supprimer">✕</button>':'')+'</div><button class="resume">'+(t.id===active.id?'Reprendre':'Ouvrir')+' →</button></article>';
+      return '<article class="tableCard c'+(t.c||(i%4+1))+'" data-table-open="'+t.id+'"><span class="tmeta">'+(t.id===active.id?'Table active':'Table')+'</span><h2>'+esc(t.name)+'</h2><p class="tstate">'+tableStatus(t)+'</p><div class="avatars">'+shown.map(function(p){return '<span class="avatar">'+(p.photo?'<img src="'+p.photo+'" alt="">':esc(ini(p.name)))+'</span>'}).join('')+(more?'<span class="avatar">+'+more+'</span>':'')+'</div><div class="tableTools"><button data-table-ren="'+t.id+'" aria-label="Renommer">✎</button><button data-table-del="'+t.id+'" aria-label="Supprimer">✕</button></div><button class="resume">'+(t.id===active.id?'Reprendre':'Ouvrir')+' →</button></article>';
     }).join('')+'</div><button class="tableAddRow" data-table-new><span class="addMark">＋</span><span>Ajouter une table</span></button>';
 }
 function showTables(){document.getElementById('scoreView').hidden=true;document.getElementById('tablesView').hidden=false;renderTables()}
@@ -531,7 +540,7 @@ function newTable(){
   var n=prompt('Nom de la table :','Table '+(STORE.tables.length+1));
   if(n===null)return;
   n=n.trim().slice(0,28)||'Table '+(STORE.tables.length+1);
-  var t={id:'t-'+uid(),name:n,state:freshState(),games:[]};STORE.tables.push(t);activateTable(t.id);
+  var t={id:'t-'+uid(),name:n,state:freshState(),games:[],c:(STORE.tables.length%4)+1};STORE.tables.push(t);activateTable(t.id);
 }
 
 /* ----- événements ----- */
@@ -627,6 +636,7 @@ document.getElementById('ovMenu').addEventListener('click',function(e){
   var b=e.target.closest('[data-m]');if(!b)return;
   document.getElementById('ovMenu').hidden=true;
   if(b.dataset.m==='end')endGame();
+  else if(b.dataset.m==='solo'){S.solo=!S.solo;save();toast(S.solo?'Un marque par manche — activé':'Un marque par manche — désactivé');openMenu()}
   else if(b.dataset.m==='reset'&&confirm('Effacer toutes les manches et revenir à la manche 1 ?'))resetRounds();
 });
 document.getElementById('ovEnd').addEventListener('click',function(e){
@@ -648,7 +658,7 @@ document.getElementById('tablesView').addEventListener('click',function(e){
   var ren=e.target.closest('[data-table-ren]');
   if(ren){var t=tableById(ren.dataset.tableRen),n=prompt('Nom de la table :',t.name);if(n&&n.trim()){t.name=n.trim().slice(0,28);save();renderTables()}return}
   var del=e.target.closest('[data-table-del]');
-  if(del){var d=tableById(del.dataset.tableDel);if(confirm('Supprimer « '+d.name+' » et ses scores ?')){STORE.tables=STORE.tables.filter(function(x){return x.id!==d.id});if(STORE.activeId===d.id){STORE.activeId=STORE.tables[0].id;S=STORE.tables[0].state;GAMES=STORE.tables[0].games||[]}save();renderTables()}return}
+  if(del){var d=tableById(del.dataset.tableDel);if(confirm('Supprimer « '+d.name+' » — scores, partie en cours et palmarès ?')){STORE.tables=STORE.tables.filter(function(x){return x.id!==d.id});if(!STORE.tables.length)STORE.tables.push({id:'table-1',name:'Table 1',state:freshState(),games:[]});if(STORE.activeId===d.id){STORE.activeId=STORE.tables[0].id;S=STORE.tables[0].state;GAMES=STORE.tables[0].games||[]}save();renderTables()}return}
   var card=e.target.closest('[data-table-open]');if(card)activateTable(card.dataset.tableOpen);
 });
 document.addEventListener('keydown',function(e){

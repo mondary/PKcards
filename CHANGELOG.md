@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.11` (gestion multi-tables du compteur de scores)
+Statut : `1.2026.12` (compteur de scores : un seul marque par manche)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,16 @@ Statut : `1.2026.11` (gestion multi-tables du compteur de scores)
 ---
 
 ## Releases
+
+### [1.2026.12] - 2026-08-17
+#### Added
+- Compteur de scores : option « Un seul marque par manche » (Menu) — pour les jeux où un seul joueur marque par donne ; les autres joueurs marquent 0 automatiquement et la manche est scellée.
+
+#### Changed
+- Suppression d'une table toujours possible (bouton ✕ visible même sur la dernière table, qui repart sur une « Table 1 » neuve).
+
+#### Fixed
+- La couleur d'une carte de table ne change plus quand une autre table est supprimée (couleur stockée sur la table).
 
 ### [1.2026.11] - 2026-08-17
 #### Added

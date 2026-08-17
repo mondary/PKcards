@@ -33,12 +33,15 @@ décrit le produit livré en `1.2026.11`.
   compté de la manche ; dernier joueur = manche scellée.
 - **Écran « Les tables »** : l'accueil présente des cartes de tables avec leurs
   joueurs, l'état de la partie et une action « Reprendre ». On crée, ouvre,
-  renomme ou supprime une table depuis cet écran ; le bouton de table dans le
-  compteur y ramène. Chaque table possède ses propres joueurs, manches en
+  renomme ou supprime une table depuis cet écran (✕ toujours disponible ;
+  supprimer la dernière table repart sur une « Table 1 » neuve) ; le bouton
+  de table dans le compteur y ramène. Chaque table garde sa couleur (4
+  palettes, stockée sur la table) et possède ses propres joueurs, manches en
   cours, photos et palmarès : on peut donc alterner entre plusieurs groupes
   sans clôturer une partie.
 - **Menu** (dans l'entête de liste) : 🏁 Terminer la partie (podium +
-  archivage palmarès + Rejouer) · ⟳ Recommencer à la manche 1 · Fermer.
+  archivage palmarès + Rejouer) · ✓ Un seul marque par manche (les autres
+  joueurs marquent 0 automatiquement) · ⟳ Recommencer à la manche 1 · Fermer.
 - **🏆 Palmarès** : victoires cumulées par joueur (clé `pk.score.games`,
   60 dernières parties, effaçable).
 
@@ -76,6 +79,10 @@ et `pk.score.games` dans « Table 1 ».
 - Historique = une puce par manche (« M1 12 », « M2 14 », « M3 −10 ») sous
   le nom, sur autant de lignes que nécessaire — aucun score n'est masqué.
 - Manche courante affichée dans l'entête (« Manche N »).
+- **Un seul marque par manche** (`state.solo`, par table, Menu) : pour les
+  jeux où un seul joueur marque par donne (à 2 en alternance…). Valider le
+  score d'un joueur scelle la manche et met 0 aux autres (0 stockés comme
+  scores normaux → totaux, undo, correction inchangés).
 
 ## 5. Identité visuelle
 
