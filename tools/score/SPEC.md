@@ -26,9 +26,10 @@ décrit le produit livré en `1.2026.11`.
   (appareil photo mobile, recadrage carré 112 px canvas, ~5 Ko stocké).
   Photo pleine hauteur de tuile, collée au bord gauche, coins haut-gauche/
   bas-gauche arrondis (14 px, épouse le rayon de sélection).
-- **Pavé permanent** : barre (joueur sélectionné + valeur) et grille
-  `1-9 / ⌫ / − / ↩ undo / 0 / Valider (large)`. Touche **−** : préfixe ou
-  bascule le signe. Valider → enregistre et **avance au joueur suivant** non
+- **Pavé permanent** : barre (avatar du joueur sélectionné + valeur) et grille
+  `1-9 / ⌫ / − / ↩ undo / 0 / ↪ redo / Ajouter`. Touche **−** : préfixe ou
+  bascule le signe. Le bouton indique clairement « Ajouter +N » ou
+  « Modifier MN ». Valider → enregistre et **avance au joueur suivant** non
   compté de la manche ; dernier joueur = manche scellée.
 - **Écran « Les tables »** : l'accueil présente des cartes de tables avec leurs
   joueurs, l'état de la partie et une action « Reprendre ». On crée, ouvre,
@@ -59,18 +60,21 @@ et `pk.score.games` dans « Table 1 ».
 
 - `rounds[].done` : manche complète (tous les joueurs présents) → scellée ;
   l'ajout d'un joueur après une manche scellée ne la rouvre pas.
-- `log` : pile d'actions pour l'undo ciblé (200 max).
+- `log` / `redo` : piles d'actions pour l'annulation et le rétablissement
+  ciblés (200 max pour l'historique actif).
 
 ## 4. Comportements clés
 
 - **Undo ↩ par joueur** : annule la dernière saisie du joueur sélectionné
   (restore la valeur précédente, dé-scelle/supprime la manche si vide).
+- **Redo ↪ par joueur** : rétablit la dernière saisie annulée du joueur
+  sélectionné ; toute nouvelle saisie vide la pile de redo.
 - **Correction** : tap sur une valeur de l'historique → pavé en mode
   correction (pré-rempli), Valider réécrit.
 - **Re-sélection d'un joueur compté** : pré-remplit sa valeur de manche
   (édition) ; ⌫ puis nouvelle valeur pour remplacer.
-- Historique = chips « 12 + 14 − 10 » sous le nom, retour à la ligne
-  automatique (jamais de scroll horizontal).
+- Historique = une puce par manche (« M1 12 », « M2 14 », « M3 −10 ») sous
+  le nom, sur autant de lignes que nécessaire — aucun score n'est masqué.
 - Manche courante affichée dans l'entête (« Manche N »).
 
 ## 5. Identité visuelle
