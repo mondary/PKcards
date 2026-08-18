@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.12` (compteur de scores : un seul marque par manche)
+Statut : `1.2026.13` (règle Yaniv réécrite + sprites de cartes agrandis)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,12 @@ Statut : `1.2026.12` (compteur de scores : un seul marque par manche)
 ---
 
 ## Releases
+
+### [1.2026.13] - 2026-08-18
+#### Changed
+- Règle Yaniv (CLM) réécrite : jokers par défaut (0 point), Yaniv ≤ 5 points, élimination à 100, défausse éventailée (récupération par les extrémités uniquement), exemples en tableaux.
+- Variantes regroupées en fin de fiche : Main Verte (annonce ≤ 7), dernier tour de contre, Asaf strict (égalité = nul), Flash, Blast, main vide, Kluft.
+- Sprites de cartes : reconnaissance V/D/R seuls, taille agrandie (tableaux 4.2em, texte 2.8em).
 
 ### [1.2026.12] - 2026-08-17
 #### Added
