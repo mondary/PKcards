@@ -652,6 +652,7 @@ function card_sprites(string $html): string {
   static $suits = ['carreau' => 'carreau', 'coeur' => 'coeur', 'cœur' => 'coeur', 'pique' => 'pique', 'trèfle' => 'trefle', 'trefle' => 'trefle', '♥' => 'coeur', '♦' => 'carreau', '♠' => 'pique', '♣' => 'trefle'];
   $rankPat = implode('|', array_map('preg_quote', array_keys($ranks)));
   $suitPat = implode('|', array_map('preg_quote', array_keys($suits)));
+  $html = str_replace("\u{1F0CF}", '<img class="cs" src="?img=/cards/joker-rouge.png" alt="Joker" loading="lazy">', $html);
   return preg_replace_callback(
     '/(?<!\w)(' . $rankPat . ')\s*(?:de\s+)?(' . $suitPat . ')\x{FE0F}?(?!\w)/iu',
     fn($m) => '<img class="cs" src="?img=/cards/' . $ranks[ucfirst(mb_strtolower($m[1]))] . '-' . $suits[str_replace("\u{FE0F}", '', mb_strtolower($m[2]))] . '.png" alt="' . $m[0] . '" loading="lazy">',
