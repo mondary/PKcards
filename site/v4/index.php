@@ -16,10 +16,40 @@ final class Library {
     $db->exec('CREATE INDEX IF NOT EXISTS idx_versions_game ON game_versions(game_slug,status)');
     $db->exec('CREATE TABLE IF NOT EXISTS game_version_links(version_id INTEGER NOT NULL,kind TEXT NOT NULL,language TEXT,label TEXT NOT NULL,url TEXT NOT NULL,PRIMARY KEY(version_id,url))');
     $db->exec('CREATE TABLE IF NOT EXISTS content(path TEXT PRIMARY KEY,body TEXT NOT NULL)');
+    $db->exec('CREATE TABLE IF NOT EXISTS game_families(game_slug TEXT NOT NULL,family TEXT NOT NULL,PRIMARY KEY(game_slug,family))');
+    foreach (['player_min INTEGER', 'player_max INTEGER', 'difficulty TEXT', 'game_type TEXT'] as $column) {
+      try { $db->exec('ALTER TABLE games ADD COLUMN ' . $column); } catch (PDOException) {}
+    }
     self::$db = $db;
     self::import();
+    self::syncFamilies();
+    self::syncMetadata();
     self::reconcileVersions();
     return $db;
+  }
+
+  private static function syncFamilies(): void {
+    $db = self::$db;
+    if ($db->query('SELECT 1 FROM game_families LIMIT 1')->fetchColumn()) return;
+    $v3 = realpath(__DIR__ . '/../v3/vault.sqlite');
+    if (!$v3) return;
+    $db->exec("ATTACH DATABASE '" . str_replace("'", "''", $v3) . "' AS families_v3");
+    $db->exec('INSERT OR IGNORE INTO game_families(game_slug,family) SELECT slug,family FROM families_v3.game_families');
+    $db->exec('DETACH DATABASE families_v3');
+  }
+
+  private static function syncMetadata(): void {
+    $db = self::$db;
+    if ($db->query('SELECT COUNT(*) FROM games WHERE player_min IS NOT NULL OR difficulty IS NOT NULL')->fetchColumn()) return;
+    $v3 = realpath(__DIR__ . '/../v3/vault.sqlite');
+    if (!$v3) return;
+    $db->exec("ATTACH DATABASE '" . str_replace("'", "''", $v3) . "' AS metadata_v3");
+    $db->exec('UPDATE games SET
+      player_min=(SELECT playerMin FROM metadata_v3.games WHERE slug=games.slug),
+      player_max=(SELECT playerMax FROM metadata_v3.games WHERE slug=games.slug),
+      difficulty=(SELECT difficulty FROM metadata_v3.games WHERE slug=games.slug),
+      game_type=(SELECT type FROM metadata_v3.games WHERE slug=games.slug)');
+    $db->exec('DETACH DATABASE metadata_v3');
   }
 
   private static function key(string $value): string {
@@ -125,16 +155,39 @@ if (isset($_GET['card'])) {
 
 $db = Library::db();
 $slug = (string)($_GET['game'] ?? ''); $version = (int)($_GET['version'] ?? 0); $q = trim((string)($_GET['q'] ?? ''));
+$view = $_GET['view'] ?? 'deal'; if (!in_array($view, ['deal', 'grid'], true)) $view = 'deal';
+$fam = trim((string)($_GET['fam'] ?? ''));
+$dealFilters = array_values(array_intersect((array)($_GET['filters'] ?? []), ['players', 'easy', 'strategy']));
+$total = (int)$db->query('SELECT COUNT(*) FROM games')->fetchColumn();
+$totalVersions = (int)$db->query('SELECT COUNT(*) FROM game_versions')->fetchColumn();
+$families = $db->query('SELECT family, COUNT(*) n FROM game_families GROUP BY family ORDER BY n DESC,family')->fetchAll();
 if ($slug) {
   $g = $db->prepare('SELECT * FROM games WHERE slug=?'); $g->execute([$slug]); $game = $g->fetch();
   if (!$game) { http_response_code(404); exit('Jeu introuvable'); }
   $games = [];
+  $namesBy = [];
+  foreach ($db->query('SELECT game_slug,name FROM game_names') as $n) $namesBy[$n['game_slug']][$n['name']] = true;
+  $catalog = [];
+  foreach ($db->query('SELECT g.slug,g.title,g.category,g.players,COUNT(v.id) vc FROM games g LEFT JOIN game_versions v ON v.game_slug=g.slug GROUP BY g.slug ORDER BY g.title') as $g2)
+    $catalog[] = ['slug' => $g2['slug'], 't' => $g2['title'], 'c' => $g2['category'] ?: 'jeu', 'p' => $g2['players'] ?: '', 'v' => (int)$g2['vc'], 'n' => $namesBy[$g2['slug']] ?? []];
   $versions = $db->prepare('SELECT * FROM game_versions WHERE game_slug=? ORDER BY status="primary" DESC, source, title'); $versions->execute([$slug]); $versions = $versions->fetchAll();
   $current = null; foreach ($versions as $v) if ($v['id'] === $version || (!$version && $v['status'] === 'primary')) { $current = $v; break; } $current ??= $versions[0] ?? null;
-  $names = $db->prepare('SELECT DISTINCT name,language,role FROM game_names WHERE game_slug=? ORDER BY role="title" DESC,name'); $names->execute([$slug]); $names = $names->fetchAll();
+  $names = $db->prepare('SELECT DISTINCT name FROM game_names WHERE game_slug=? ORDER BY name'); $names->execute([$slug]); $names = $names->fetchAll(PDO::FETCH_COLUMN);
 } else {
-  $s = $db->prepare('SELECT g.*,COUNT(v.id) AS version_count FROM games g LEFT JOIN game_versions v ON v.game_slug=g.slug WHERE g.title LIKE ? OR EXISTS(SELECT 1 FROM game_names n WHERE n.game_slug=g.slug AND n.name LIKE ?) GROUP BY g.slug ORDER BY g.title LIMIT 150'); $s->execute(['%'.$q.'%','%'.$q.'%']); $games = $s->fetchAll();
-  $deal = $db->query('SELECT g.*,COUNT(v.id) AS version_count FROM games g LEFT JOIN game_versions v ON v.game_slug=g.slug GROUP BY g.slug ORDER BY RANDOM() LIMIT 3')->fetchAll();
+  $limit = $view === 'grid' ? 600 : 150;
+  $famSql = $fam !== '' ? " AND EXISTS(SELECT 1 FROM game_families gf WHERE gf.game_slug=g.slug AND gf.family=" . $db->quote($fam) . ')' : '';
+  $s = $db->prepare('SELECT g.*,COUNT(v.id) AS version_count FROM games g LEFT JOIN game_versions v ON v.game_slug=g.slug WHERE (g.title LIKE ? OR EXISTS(SELECT 1 FROM game_names n WHERE n.game_slug=g.slug AND n.name LIKE ?))' . $famSql . ' GROUP BY g.slug ORDER BY g.title LIMIT ' . $limit); $s->execute(['%'.$q.'%','%'.$q.'%']); $games = $s->fetchAll();
+  $dealWhere = [];
+  if (in_array('players', $dealFilters, true)) $dealWhere[] = 'g.player_min <= 4 AND g.player_max >= 2';
+  if (in_array('easy', $dealFilters, true)) $dealWhere[] = "g.difficulty='Facile'";
+  if (in_array('strategy', $dealFilters, true)) $dealWhere[] = "(g.difficulty='Difficile' OR g.game_type LIKE '%Enchères%' OR g.game_type LIKE '%Combat%')";
+  $dealSql = $dealWhere ? ' WHERE ' . implode(' AND ', $dealWhere) : '';
+  $deal = $db->query('SELECT g.*,COUNT(v.id) AS version_count FROM games g LEFT JOIN game_versions v ON v.game_slug=g.slug' . $dealSql . ' GROUP BY g.slug ORDER BY RANDOM() LIMIT 3')->fetchAll();
+  $namesBy = [];
+  foreach ($db->query('SELECT game_slug,name FROM game_names') as $n) $namesBy[$n['game_slug']][$n['name']] = true;
+  $catalog = [];
+  foreach ($db->query('SELECT g.slug,g.title,g.category,g.players,COUNT(v.id) vc FROM games g LEFT JOIN game_versions v ON v.game_slug=g.slug GROUP BY g.slug ORDER BY g.title') as $g)
+    $catalog[] = ['slug' => $g['slug'], 't' => $g['title'], 'c' => $g['category'] ?: 'jeu', 'p' => $g['players'] ?: '', 'v' => (int)$g['vc'], 'n' => array_keys($namesBy[$g['slug']] ?? [])];
 }
 require __DIR__ . '/table.php';
 exit;
