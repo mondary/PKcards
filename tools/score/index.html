@@ -34,36 +34,32 @@ button:disabled{opacity:.3; pointer-events:none}
 
 /* ----- entête de liste ----- */
 #listHead{
-  display:flex; align-items:center; gap:8px;
-  padding:2px 0 10px;
+  display:flex; align-items:center; gap:4px;
+  min-height:38px; padding:0 0 9px; border-bottom:1px solid var(--line);
 }
-#listHead b{font-size:15px}
+#listHead b{font-size:15px; font-variant-numeric:tabular-nums}
 #listHead .grow{flex:1}
-.tableName{max-width:145px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tableName{max-width:125px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .mini{
-  height:30px; padding:0 10px; border-radius:8px; border:1px solid var(--line);
-  font-size:12.5px; font-weight:600; background:#fff;
+  height:30px; padding:0 8px; border:0;
+  font-size:12.5px; font-weight:700; background:transparent;
 }
 .mini:active{background:var(--ink); color:#fff}
-#listHead{
-  display:flex; align-items:center; gap:8px;
-  padding:2px 0 10px;
-}
-#listHead b{font-size:15px}
-#listHead .grow{flex:1}
+.mini.icon{width:30px;padding:0;font-size:16px}
+.mini.end{color:#b3261e}
+.ren,.padAvatar,#toast{border-radius:0}
 
 /* ----- liste des joueurs ----- */
 #list{flex:1; overflow-y:auto; padding:calc(env(safe-area-inset-top) + 10px) 14px 10px; -webkit-overflow-scrolling:touch}
 .prow{
   display:flex; align-items:stretch;
-  padding:0; margin:0 -14px; border-radius:14px;
+  padding:0; margin:0 -14px; border-bottom:1px solid var(--line);
 }
-.prow.sel{background:#eef1fb}
+.prow.sel{background:#eef1fb; box-shadow:inset 3px 0 var(--acc)}
 .init{
-  width:64px; min-height:64px; flex:none; align-self:stretch;
-  display:grid; place-items:center; font-weight:700; font-size:16px;
-  background:#eceae4; overflow:hidden; position:relative;
-  border-radius:14px 0 0 14px;
+   width:64px; min-height:64px; flex:none; align-self:stretch;
+   display:grid; place-items:center; font-weight:700; font-size:16px;
+   background:#eceae4; overflow:hidden; position:relative;
 }
 .init.ph{padding:0; border:0; object-fit:cover; display:block; width:64px; height:auto}
 .pmid{
@@ -84,27 +80,28 @@ button:disabled{opacity:.3; pointer-events:none}
 }
 .ren:active{border-color:var(--acc);color:var(--acc);background:#fff}
 .pbd{
-  display:grid; grid-template-columns:repeat(auto-fill,minmax(42px,1fr)); gap:4px;
-  width:100%; margin-top:6px; color:var(--mut); font-size:13px;
+  display:flex; flex-wrap:wrap; gap:0 7px;
+  width:100%; margin-top:3px; color:var(--mut); font-size:12px;
   line-height:1.25; font-variant-numeric:tabular-nums;
 }
 .pbd:empty{display:none}
 .pbd [data-fix]{
-  min-width:0; padding:4px 3px; border-radius:6px; text-align:center;
-  border:1px dashed #c9c3b6; white-space:nowrap;
+  min-width:0; padding:1px 0; text-align:center; white-space:nowrap;
 }
-.pbd [data-fix]:active{color:var(--acc); border-color:var(--acc)}
-.pbd small{display:block;margin-bottom:1px;font-size:9px;font-weight:700;letter-spacing:.04em;color:#aaa398}
+.pbd [data-fix]:active{color:var(--acc); text-decoration:underline}
+.pbd small{display:inline;margin-right:2px;font-size:10px;font-weight:700;letter-spacing:.04em;color:#aaa398}
 .tot{font-size:30px; font-weight:800; font-variant-numeric:tabular-nums; letter-spacing:-.5px; align-self:center; padding-right:8px}
+.padd{width:32px;align-self:center;color:var(--acc);font-size:25px;font-weight:400;line-height:1}
+.padd:active{background:var(--acc);color:#fff}
 .rx{color:#c9c3b6; font-size:15px; padding:8px; margin-right:4px; align-self:center}
 .rx:active{color:#b3261e}
 
 #addRow{
-  display:flex; align-items:center; gap:12px; width:100%;
-  padding:10px 10px; margin:0 -14px; border-radius:14px; color:var(--mut);
+   display:flex; align-items:center; gap:12px; width:100%;
+   padding:10px 10px; margin:0 -14px; color:var(--mut);
 }
 #addRow .init{
-  width:46px; min-height:46px; align-self:center; border-radius:14px;
+   width:46px; min-height:46px; align-self:center;
   border:1.5px dashed #c9c3b6; background:none; color:#c9c3b6; font-size:18px;
 }
 #addRow span{font-size:15px}
@@ -129,7 +126,7 @@ button:disabled{opacity:.3; pointer-events:none}
 #padVal:empty::after{content:"—"; color:#c9c3b6; font-weight:400}
 #pgrid{display:grid; grid-template-columns:repeat(4,1fr); gap:6px}
 #pgrid button{
-  height:46px; border:1px solid var(--line); border-radius:11px;
+   height:46px; border:1px solid var(--line); border-radius:0;
   font-size:20px; font-weight:600; background:var(--paper);
 }
 #pgrid button:active{background:var(--ink); color:#fff; border-color:var(--ink)}
@@ -150,7 +147,7 @@ button:disabled{opacity:.3; pointer-events:none}
 }
 .ov[hidden]{display:none}
 .sheet{
-  width:100%; max-width:380px; background:#fff; border-radius:18px;
+  width:100%; max-width:380px; background:#fff; border-radius:0;
   padding:20px 18px 16px; max-height:80dvh; overflow-y:auto;
 }
 .sheet h2{margin:0 0 4px; font-size:20px}
@@ -165,9 +162,9 @@ button:disabled{opacity:.3; pointer-events:none}
 .rline .v{font-weight:800; font-variant-numeric:tabular-nums}
 .rline.win .w::after{content:" 🏆"}
 .sheet .btns{display:flex; flex-direction:column; gap:8px; margin-top:14px}
-.bmain{padding:14px; border-radius:12px; background:var(--acc); color:#fff; font-weight:600; font-size:15.5px}
+.bmain{padding:14px; border-radius:0; background:var(--acc); color:#fff; font-weight:600; font-size:15.5px}
 .bmain:active{background:var(--ink)}
-.bghost{padding:12px; border-radius:12px; border:1px solid var(--line); color:var(--mut); font-size:14.5px}
+.bghost{padding:12px; border-radius:0; border:1px solid var(--line); color:var(--mut); font-size:14.5px}
 
 #toast{
    position:fixed; bottom:calc(env(safe-area-inset-bottom) + 310px); left:50%;
@@ -291,9 +288,10 @@ function nextMissing(fromPid){
 function render(){
   var list=document.getElementById('list');
   var cur=curRound();
-  var h='<div id="listHead"><button class="mini tableName" id="btnTables" title="Changer de table">⌘ '+esc(activeTable().name)+'</button><b>Manche '+roundNo()+'</b><span class="grow"></span>'
-    +'<button class="mini" id="btnPal">🏆 Palmarès</button>'
-    +'<button class="mini" id="btnMenu">Menu</button></div>';
+   var h='<div id="listHead"><button class="mini tableName" id="btnTables" title="Changer de table">← '+esc(activeTable().name)+'</button><b>Manche '+roundNo()+'</b><span class="grow"></span>'
+     +'<button class="mini end" id="btnEnd" title="Terminer la partie">Fin</button>'
+     +'<button class="mini icon" id="btnPal" title="Palmarès" aria-label="Palmarès">🏆</button>'
+     +'<button class="mini icon" id="btnMenu" title="Réglages de la partie" aria-label="Réglages de la partie">⚙</button></div>';
   h+=S.players.map(function(p){
     var segs=[];
     S.rounds.forEach(function(r,i){
@@ -307,10 +305,11 @@ function render(){
         ?'<img class="init ph" data-photo="'+p.id+'" src="'+p.photo+'" alt="">'
         :'<button class="init noph" data-photo="'+p.id+'" title="Photo">'+esc(ini(p.name))+'</button>')
       +'<span class="pmid"><span class="pnameLine"><button class="ren" data-ren="'+p.id+'" title="Renommer '+esc(p.name)+'" aria-label="Renommer '+esc(p.name)+'">✎</button><span class="pnm">'+esc(p.name)+'</span></span>'
-      +(segs.length?'<span class="pbd">'+segs.join('')+'</span>':'')
-      +'</span>'
-      +'<span class="tot">'+tot(p.id)+'</span>'
-      +'<button class="rx" data-rm="'+p.id+'" title="Retirer">✕</button>'
+       +(segs.length?'<span class="pbd">'+segs.join('')+'</span>':'')
+       +'</span>'
+       +'<span class="tot">'+tot(p.id)+'</span>'
+       +'<button class="padd" data-add-score="'+p.id+'" title="Ajouter un score pour '+esc(p.name)+'" aria-label="Ajouter un score pour '+esc(p.name)+'">＋</button>'
+       +'<button class="rx" data-rm="'+p.id+'" title="Retirer">✕</button>'
       +'</div>';
   }).join('');
   h+='<button id="addRow" data-act="add"><span class="init">＋</span><span>Ajouter un joueur</span></button>';
@@ -436,7 +435,7 @@ function redo(){
 
 /* ----- fin de partie & palmarès ----- */
 function endGame(){
-  if(!S.rounds.length)return;
+   if(!S.rounds.length){toast('Ajoute au moins une manche avant de terminer');return}
   var st=S.players.map(function(p){return{name:p.name,s:tot(p.id)}}).sort(function(a,b){return b.s-a.s});
   var best=st[0].s;
   GAMES.push({d:Date.now(),w:st.filter(function(x){return x.s===best}).map(function(x){return x.name}),s:st});
@@ -491,12 +490,11 @@ function pickPhoto(pid){
 }
 
 function openMenu(){
-  var ov=document.getElementById('ovMenu');
-  ov.innerHTML='<div class="sheet"><h2>Menu</h2>'
-    +'<p class="sub2">Partie en cours : manche '+Math.max(1,S.rounds.length)+'</p>'
-    +'<div class="btns">'
-    +'<button class="bmain" data-m="end"'+(S.rounds.length?'':' disabled')+'>🏁 Terminer la partie<small style="display:block;font-weight:400;font-size:12px;opacity:.85">classement final + victoire au palmarès</small></button>'
-    +'<button class="bghost" data-m="solo">'+(S.solo?'✓ ':'')+'Un seul marque par manche<small style="display:block;font-weight:400;font-size:12px;opacity:.85">'+(S.solo?'activé — ':'')+'les autres joueurs marquent 0 automatiquement</small></button>'
+   var ov=document.getElementById('ovMenu');
+   ov.innerHTML='<div class="sheet"><h2>Réglages de la partie</h2>'
+     +'<p class="sub2">Partie en cours : manche '+Math.max(1,S.rounds.length)+'</p>'
+     +'<div class="btns">'
+     +'<button class="bghost" data-m="solo">'+(S.solo?'✓ ':'')+'Un seul marque par manche<small style="display:block;font-weight:400;font-size:12px;opacity:.85">'+(S.solo?'activé — ':'')+'les autres joueurs marquent 0 automatiquement</small></button>'
     +'<button class="bghost" data-m="reset"'+(S.rounds.length?'':' disabled')+'>⟳ Recommencer à la manche 1</button>'
     +'<button class="bghost" data-m="close">Fermer</button>'
     +'</div></div>';
@@ -568,11 +566,20 @@ document.getElementById('list').addEventListener('click',function(e){
     if(v!==null&&v.trim()){pl.name=v.trim().slice(0,14);save();render()}
     return;
   }
-  var fx=e.target.closest('[data-fix]');
+   var fx=e.target.closest('[data-fix]');
   if(fx){
     select(fx.dataset.pid);
-    return;
-  }
+     return;
+   }
+   var addScore=e.target.closest('[data-add-score]');
+   if(addScore){
+     var addPid=addScore.dataset.addScore,vAdd=entryVal();
+     if(vAdd===null){select(addPid);toast('Entre les points, puis ajoute-les à '+P(addPid).name);return}
+     SEL=addPid;FIX=null;commit(addPid,vAdd);toast(P(addPid).name+' : '+vAdd);
+     var following=nextMissing(addPid);
+     SEL=following||(S.players[0]&&S.players[0].id)||null;clearEntry();render();
+     return;
+   }
   var ad=e.target.closest('[data-act="add"]');
   if(ad){
     if(S.players.length>=10){toast('10 joueurs max');return}
@@ -628,9 +635,10 @@ document.getElementById('padOk').addEventListener('click',padOk);
 document.getElementById('undoBtn').addEventListener('click',undo);
 document.getElementById('redoBtn').addEventListener('click',redo);
 document.getElementById('list').addEventListener('click',function(e){
-  if(e.target.closest('#btnTables')){openTables();return}
-  if(e.target.closest('#btnPal')){palmares();return}
-  if(e.target.closest('#btnMenu')){openMenu();return}
+   if(e.target.closest('#btnTables')){openTables();return}
+   if(e.target.closest('#btnPal')){palmares();return}
+   if(e.target.closest('#btnEnd')){endGame();return}
+   if(e.target.closest('#btnMenu')){openMenu();return}
 });
 document.getElementById('ovMenu').addEventListener('click',function(e){
   var b=e.target.closest('[data-m]');if(!b)return;

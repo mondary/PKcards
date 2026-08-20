@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.13` (règle Yaniv réécrite + sprites de cartes agrandis)
+Statut : `1.2026.14` (compteur de scores : saisie et historique compactés)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,11 @@ Statut : `1.2026.13` (règle Yaniv réécrite + sprites de cartes agrandis)
 ---
 
 ## Releases
+
+### [1.2026.14] - 2026-08-20
+#### Changed
+- Compteur de scores : en-tête allégé, action Fin visible et réglages de partie séparés.
+- Saisie directe par joueur avec le bouton ＋, historique des manches compact et interface sans arrondis superflus.
 
 ### [1.2026.13] - 2026-08-18
 #### Changed

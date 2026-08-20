@@ -6,7 +6,7 @@ dépendance, zéro build), hébergé statiquement :
 https://mondary.design/pk/-Games-cards/score/
 
 Source : demande du 2026-08-14, itérée par tests utilisateurs. Ce document
-décrit le produit livré en `1.2026.11`.
+décrit le produit livré en `1.2026.14`.
 
 ---
 
@@ -39,9 +39,10 @@ décrit le produit livré en `1.2026.11`.
   palettes, stockée sur la table) et possède ses propres joueurs, manches en
   cours, photos et palmarès : on peut donc alterner entre plusieurs groupes
   sans clôturer une partie.
-- **Menu** (dans l'entête de liste) : 🏁 Terminer la partie (podium +
-  archivage palmarès + Rejouer) · ✓ Un seul marque par manche (les autres
-  joueurs marquent 0 automatiquement) · ⟳ Recommencer à la manche 1 · Fermer.
+- **Entête de liste** : retour à la table, manche courante, **Fin** visible
+  (podium + archivage palmarès + Rejouer), accès au palmarès et réglages.
+  Les réglages regroupent ✓ Un seul marque par manche (les autres joueurs
+  marquent 0 automatiquement) et ⟳ Recommencer à la manche 1.
 - **🏆 Palmarès** : victoires cumulées par joueur (clé `pk.score.games`,
   60 dernières parties, effaçable).
 
@@ -76,8 +77,9 @@ et `pk.score.games` dans « Table 1 ».
   correction (pré-rempli), Valider réécrit.
 - **Re-sélection d'un joueur compté** : pré-remplit sa valeur de manche
   (édition) ; ⌫ puis nouvelle valeur pour remplacer.
-- Historique = une puce par manche (« M1 12 », « M2 14 », « M3 −10 ») sous
-  le nom, sur autant de lignes que nécessaire — aucun score n'est masqué.
+- Historique = une mention compacte par manche (« M1 12 », « M2 14 »,
+  « M3 −10 ») sous le nom, sur autant de lignes que nécessaire — aucun score
+  n'est masqué. Le bouton ＋ de la ligne ajoute la valeur saisie au joueur.
 - Manche courante affichée dans l'entête (« Manche N »).
 - **Un seul marque par manche** (`state.solo`, par table, Menu) : pour les
   jeux où un seul joueur marque par donne (à 2 en alternance…). Valider le
