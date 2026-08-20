@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.14` (compteur de scores : saisie et historique compactés)
+Statut : `1.2026.15` (compteur de scores : fin de partie confirmée, pavé compact, couleur par joueur)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,15 @@ Statut : `1.2026.14` (compteur de scores : saisie et historique compactés)
 ---
 
 ## Releases
+
+### [1.2026.15] - 2026-08-20
+#### Added
+- Compteur de scores : couleur par joueur (marqueur de ligne, avatar et bouton Ajouter à la couleur du joueur actif).
+- Confirmation avant fin de partie ; après validation, Rejouer reste sur le compteur et Fermer revient aux tables.
+
+#### Changed
+- Pavé numérique compact 3 rangées (1-2-3 ⌫ / 4-5-6 − / 7-8-9 0) + Annuler/Rétablir ; bouton « Ajouter +N » dans la barre du joueur sélectionné.
+- Historique des manches en grille alignée à droite, manche courante centrée dans l'entête.
 
 ### [1.2026.14] - 2026-08-20
 #### Changed

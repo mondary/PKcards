@@ -39,12 +39,16 @@ décrit le produit livré en `1.2026.14`.
   palettes, stockée sur la table) et possède ses propres joueurs, manches en
   cours, photos et palmarès : on peut donc alterner entre plusieurs groupes
   sans clôturer une partie.
-- **Entête de liste** : retour à la table, manche courante, **Fin** visible
-  (podium + archivage palmarès + Rejouer), accès au palmarès et réglages.
+- **Entête de liste** : retour à la table, manche courante centrée, **Fin**
+  visible (confirmation, podium, archivage palmarès + Rejouer), accès au
+  palmarès et réglages.
   Les réglages regroupent ✓ Un seul marque par manche (les autres joueurs
   marquent 0 automatiquement) et ⟳ Recommencer à la manche 1.
 - **🏆 Palmarès** : victoires cumulées par joueur (clé `pk.score.games`,
   60 dernières parties, effaçable).
+- **Fin de partie** : Annuler conserve la partie en cours ; confirmer archive
+  le classement et remet la table à la manche 1. Rejouer reste sur le compteur,
+  Retour aux tables revient à la liste des groupes.
 
 ## 3. Modèle de données (localStorage `pk.score.tables.v1`)
 
@@ -78,8 +82,13 @@ et `pk.score.games` dans « Table 1 ».
 - **Re-sélection d'un joueur compté** : pré-remplit sa valeur de manche
   (édition) ; ⌫ puis nouvelle valeur pour remplacer.
 - Historique = une mention compacte par manche (« M1 12 », « M2 14 »,
-  « M3 −10 ») sous le nom, sur autant de lignes que nécessaire — aucun score
-  n'est masqué. Le bouton ＋ de la ligne ajoute la valeur saisie au joueur.
+  « M3 −10 ») sous le nom, alignée en grille sans bordures, avec les valeurs
+  alignées à droite, sur autant de lignes que nécessaire — aucun score n'est
+  masqué. Le bouton « Ajouter +N » est à côté de la photo et de la valeur du
+  joueur sélectionné.
+- **Couleur par joueur** (palette des tables, par position dans la liste) :
+  la barre de sélection, l'avatar du pavé et le bouton « Ajouter » prennent
+  la couleur du joueur actif.
 - Manche courante affichée dans l'entête (« Manche N »).
 - **Un seul marque par manche** (`state.solo`, par table, Menu) : pour les
   jeux où un seul joueur marque par donne (à 2 en alternance…). Valider le

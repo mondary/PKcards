@@ -34,12 +34,12 @@ button:disabled{opacity:.3; pointer-events:none}
 
 /* ----- entête de liste ----- */
 #listHead{
-  display:flex; align-items:center; gap:4px;
+  position:relative; display:flex; align-items:center; gap:4px;
   min-height:38px; padding:0 0 9px; border-bottom:1px solid var(--line);
 }
-#listHead b{font-size:15px; font-variant-numeric:tabular-nums}
+#listHead b{position:absolute;left:50%;transform:translateX(-50%);font-size:15px;font-variant-numeric:tabular-nums;white-space:nowrap}
 #listHead .grow{flex:1}
-.tableName{max-width:125px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.tableName{max-width:92px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .mini{
   height:30px; padding:0 8px; border:0;
   font-size:12.5px; font-weight:700; background:transparent;
@@ -55,7 +55,7 @@ button:disabled{opacity:.3; pointer-events:none}
   display:flex; align-items:stretch;
   padding:0; margin:0 -14px; border-bottom:1px solid var(--line);
 }
-.prow.sel{background:#eef1fb; box-shadow:inset 3px 0 var(--acc)}
+.prow.sel{background:#eef1fb; box-shadow:inset 3px 0 var(--pc,var(--acc))}
 .init{
    width:64px; min-height:64px; flex:none; align-self:stretch;
    display:grid; place-items:center; font-weight:700; font-size:16px;
@@ -80,19 +80,19 @@ button:disabled{opacity:.3; pointer-events:none}
 }
 .ren:active{border-color:var(--acc);color:var(--acc);background:#fff}
 .pbd{
-  display:flex; flex-wrap:wrap; gap:0 7px;
-  width:100%; margin-top:3px; color:var(--mut); font-size:12px;
+  display:grid; grid-template-columns:repeat(auto-fill,minmax(64px,1fr)); gap:2px 7px;
+  width:100%; margin-top:4px; font-size:12px;
   line-height:1.25; font-variant-numeric:tabular-nums;
 }
 .pbd:empty{display:none}
 .pbd [data-fix]{
-  min-width:0; padding:1px 0; text-align:center; white-space:nowrap;
+  display:grid; grid-template-columns:21px 1fr; min-width:0; padding:1px 0;
+  color:var(--ink); font-weight:700; white-space:nowrap;
 }
 .pbd [data-fix]:active{color:var(--acc); text-decoration:underline}
-.pbd small{display:inline;margin-right:2px;font-size:10px;font-weight:700;letter-spacing:.04em;color:#aaa398}
+.pbd small{margin:0;font-size:10px;font-weight:800;letter-spacing:.04em;color:#8a857a;text-align:right}
+.pbd strong{font:inherit;text-align:right}
 .tot{font-size:30px; font-weight:800; font-variant-numeric:tabular-nums; letter-spacing:-.5px; align-self:center; padding-right:8px}
-.padd{width:32px;align-self:center;color:var(--acc);font-size:25px;font-weight:400;line-height:1}
-.padd:active{background:var(--acc);color:#fff}
 .rx{color:#c9c3b6; font-size:15px; padding:8px; margin-right:4px; align-self:center}
 .rx:active{color:#b3261e}
 
@@ -112,7 +112,7 @@ button:disabled{opacity:.3; pointer-events:none}
   border-top:1px solid var(--line); background:#fff;
   padding:8px 12px calc(env(safe-area-inset-bottom) + 8px);
 }
-#padBar{display:flex; align-items:center; gap:9px; padding:0 2px 8px}
+#padBar{display:flex; align-items:center; gap:8px; padding:0 2px 8px}
 .padAvatar{width:35px;height:35px;flex:none;display:grid;place-items:center;overflow:hidden;border-radius:50%;background:#e7e4dc;color:var(--ink);font-size:11px;font-weight:800;letter-spacing:.02em}
 .padAvatar img{width:100%;height:100%;object-fit:cover}
 #padWho{flex:1; min-width:0; text-align:left}
@@ -120,25 +120,23 @@ button:disabled{opacity:.3; pointer-events:none}
 #padWho b{font-size:15px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
 #padVal{
   font-size:24px; font-weight:800; font-variant-numeric:tabular-nums;
-  min-width:70px; text-align:right; letter-spacing:.5px; white-space:nowrap;
+  min-width:44px; text-align:right; letter-spacing:.5px; white-space:nowrap;
 }
 #padVal.long{font-size:17px}
 #padVal:empty::after{content:"—"; color:#c9c3b6; font-weight:400}
+#padOk{height:35px;flex:none;padding:0 10px;background:var(--acc);color:#fff;font-size:13px;font-weight:700;white-space:nowrap}
+#padOk:active{background:var(--ink)}
+#padOk.fix{background:var(--ink)}
 #pgrid{display:grid; grid-template-columns:repeat(4,1fr); gap:6px}
+#pgrid .fn{font-size:15px}
 #pgrid button{
    height:46px; border:1px solid var(--line); border-radius:0;
   font-size:20px; font-weight:600; background:var(--paper);
 }
 #pgrid button:active{background:var(--ink); color:#fff; border-color:var(--ink)}
 #pgrid .fn{color:var(--mut); font-size:17px}
-#pgrid #undoBtn,#pgrid #redoBtn{border-color:var(--line)}
+#pgrid #undoBtn,#pgrid #redoBtn{grid-column:span 2;border-color:var(--line)}
 #pgrid #undoBtn.attn,#pgrid #redoBtn.attn{border-color:var(--acc); color:var(--acc)}
-#pgrid #padOk{
-  grid-column:span 2; background:var(--acc); color:#fff; border-color:var(--acc);
-  font-size:15.5px;
-}
-#pgrid #padOk:active{background:var(--ink); border-color:var(--ink)}
-#pgrid #padOk.fix{background:var(--ink); border-color:var(--ink)}
 
 /* ----- overlays ----- */
 .ov{
@@ -175,8 +173,9 @@ button:disabled{opacity:.3; pointer-events:none}
  #toast.on{opacity:1}
 
 @media (min-width:600px){
-  #list{display:grid; grid-template-columns:1fr 1fr; align-content:start; gap:2px 10px}
-  .tot{font-size:34px}
+   #list{display:grid; grid-template-columns:1fr 1fr; align-content:start; gap:2px 10px}
+   #listHead{grid-column:1/-1}
+   .tot{font-size:34px}
 }
 </style>
 </head>
@@ -187,16 +186,16 @@ button:disabled{opacity:.3; pointer-events:none}
     <div id="list"></div>
     <div id="pad">
       <div id="padBar">
-        <span id="pwAvatar" class="padAvatar" aria-hidden="true"></span>
-        <button id="padWho"><small>Points pour</small><b id="pwName"></b></button>
-        <span id="padVal"></span>
+         <span id="pwAvatar" class="padAvatar" aria-hidden="true"></span>
+         <button id="padWho"><small>Points pour</small><b id="pwName"></b></button>
+         <span id="padVal"></span>
+         <button id="padOk">Ajouter</button>
       </div>
       <div id="pgrid">
         <button data-k="1">1</button><button data-k="2">2</button><button data-k="3">3</button><button data-k="b" class="fn">⌫</button>
         <button data-k="4">4</button><button data-k="5">5</button><button data-k="6">6</button><button data-k="s" class="fn">−</button>
-        <button data-k="7">7</button><button data-k="8">8</button><button data-k="9">9</button><button id="undoBtn" class="fn" title="Annuler la dernière saisie du joueur">↩</button>
-      <button data-k="0">0</button><button id="redoBtn" class="fn" title="Rétablir la dernière saisie annulée">↪</button>
-      <button id="padOk">Valider</button>
+        <button data-k="7">7</button><button data-k="8">8</button><button data-k="9">9</button><button data-k="0">0</button>
+        <button id="undoBtn" class="fn" title="Annuler la dernière saisie du joueur">↩ Annuler</button><button id="redoBtn" class="fn" title="Rétablir la dernière saisie annulée">↪ Rétablir</button>
       </div>
     </div>
   </section>
@@ -241,6 +240,9 @@ function ini(n){
   return (w[0].charAt(0)+(w[1]?w[1].charAt(0):'')).toUpperCase();
 }
 function P(id){for(var i=0;i<S.players.length;i++)if(S.players[i].id===id)return S.players[i]}
+var PCOLORS=['#2050c8','#a84649','#267560','#7052a1'];
+function pIdx(pid){for(var i=0;i<S.players.length;i++)if(S.players[i].id===pid)return i;return 0}
+function pcolor(pid){return PCOLORS[pIdx(pid)%PCOLORS.length]}
 function tot(pid){var t=0;S.rounds.forEach(function(r){t+=r.scores[pid]||0});return t}
 function curRound(){
   var r=S.rounds[S.rounds.length-1];
@@ -297,19 +299,18 @@ function render(){
     S.rounds.forEach(function(r,i){
       if(!(p.id in r.scores))return;
       var v=r.scores[p.id];
-      segs.push('<span data-fix="'+i+'" data-pid="'+p.id+'"><small>M'+(i+1)+'</small>'
-        +(v<0?'−'+Math.abs(v):v)+'</span>');
+       segs.push('<span data-fix="'+i+'" data-pid="'+p.id+'"><small>M'+(i+1)+'</small>'
+         +'<strong>'+(v<0?'−'+Math.abs(v):v)+'</strong></span>');
     });
-    return '<div class="prow'+(SEL===p.id?' sel':'')+'" data-pid="'+p.id+'">'
+    return '<div class="prow'+(SEL===p.id?' sel':'')+'" data-pid="'+p.id+'" style="--pc:'+pcolor(p.id)+'">'
       +(p.photo
         ?'<img class="init ph" data-photo="'+p.id+'" src="'+p.photo+'" alt="">'
         :'<button class="init noph" data-photo="'+p.id+'" title="Photo">'+esc(ini(p.name))+'</button>')
       +'<span class="pmid"><span class="pnameLine"><button class="ren" data-ren="'+p.id+'" title="Renommer '+esc(p.name)+'" aria-label="Renommer '+esc(p.name)+'">✎</button><span class="pnm">'+esc(p.name)+'</span></span>'
-       +(segs.length?'<span class="pbd">'+segs.join('')+'</span>':'')
-       +'</span>'
-       +'<span class="tot">'+tot(p.id)+'</span>'
-       +'<button class="padd" data-add-score="'+p.id+'" title="Ajouter un score pour '+esc(p.name)+'" aria-label="Ajouter un score pour '+esc(p.name)+'">＋</button>'
-       +'<button class="rx" data-rm="'+p.id+'" title="Retirer">✕</button>'
+        +(segs.length?'<span class="pbd">'+segs.join('')+'</span>':'')
+        +'</span>'
+        +'<span class="tot">'+tot(p.id)+'</span>'
+        +'<button class="rx" data-rm="'+p.id+'" title="Retirer">✕</button>'
       +'</div>';
   }).join('');
   h+='<button id="addRow" data-act="add"><span class="init">＋</span><span>Ajouter un joueur</span></button>';
@@ -328,9 +329,15 @@ function syncPad(){
   document.getElementById('pwAvatar').innerHTML=p
     ?(p.photo?'<img src="'+esc(p.photo)+'" alt="">':esc(ini(p.name)))
     :'';
+  var pwA=document.getElementById('pwAvatar');
+  pwA.style.background=p?pcolor(p.id):'';
+  pwA.style.color=p?'#fff':'';
   var pv=document.getElementById('padVal');
   pv.textContent=entryText();
   pv.className=entryText().length>6?'long':'';
+  pv.style.color=(p&&entryText())?pcolor(p.id):'';
+  var okBtn=document.getElementById('padOk');
+  okBtn.style.background=(FIX!=null)?'#1c1b18':(p?pcolor(p.id):'#2050c8');
   var action='Ajouter';
   if(FIX!=null)action='Modifier M'+(FIX+1);
   else if(entryText())action='Ajouter '+(CUR.charAt(0)==='-'?'':'＋')+entryText();
@@ -434,20 +441,33 @@ function redo(){
 }
 
 /* ----- fin de partie & palmarès ----- */
-function endGame(){
-   if(!S.rounds.length){toast('Ajoute au moins une manche avant de terminer');return}
-  var st=S.players.map(function(p){return{name:p.name,s:tot(p.id)}}).sort(function(a,b){return b.s-a.s});
-  var best=st[0].s;
+function standings(){return S.players.map(function(p){return{name:p.name,s:tot(p.id)}}).sort(function(a,b){return b.s-a.s})}
+function finishGame(){
+  var st=standings(),best=st[0].s;
   GAMES.push({d:Date.now(),w:st.filter(function(x){return x.s===best}).map(function(x){return x.name}),s:st});
   if(GAMES.length>60)GAMES.shift();
-  saveGames();
+  S.rounds=[];S.log=[];S.redo=[];saveGames();
+  return st;
+}
+function endGame(){
+   if(!S.rounds.length){toast('Ajoute au moins une manche avant de terminer');return}
+  var st=standings();
+  var ov=document.getElementById('ovEnd');
+  ov.innerHTML='<div class="sheet"><h2>Terminer la partie ?</h2>'
+    +'<p class="sub2">Le classement sera ajouté au palmarès et la table repartira à la manche 1.</p>'
+    +st.map(function(x,i){return '<div class="rline'+(x.s===st[0].s?' win':'')+'"><span class="c">'+(i+1)+'</span><span class="w">'+esc(x.name)+'</span><span class="v">'+x.s+'</span></div>'}).join('')
+    +'<div class="btns"><button class="bmain" data-e="confirm">Confirmer la fin</button>'
+    +'<button class="bghost" data-e="cancel">Annuler</button></div></div>';
+  ov.hidden=false;
+}
+function showEndSummary(st){
+  var best=st[0].s;
   var ov=document.getElementById('ovEnd');
   ov.innerHTML='<div class="sheet"><h2>Partie terminée</h2>'
     +'<p class="sub2">'+esc(GAMES.length)+' partie'+(GAMES.length>1?'s':'')+' au palmarès</p>'
     +st.map(function(x,i){return '<div class="rline'+(x.s===best?' win':'')+'"><span class="c">'+(i+1)+'</span><span class="w">'+esc(x.name)+'</span><span class="v">'+x.s+'</span></div>'}).join('')
     +'<div class="btns"><button class="bmain" data-e="again">Rejouer (mêmes joueurs)</button>'
-    +'<button class="bghost" data-e="close">Fermer</button></div></div>';
-  ov.hidden=false;
+    +'<button class="bghost" data-e="close">Retour aux tables</button></div></div>';
 }
 function palmares(){
   var ov=document.getElementById('ovPal');
@@ -571,15 +591,6 @@ document.getElementById('list').addEventListener('click',function(e){
     select(fx.dataset.pid);
      return;
    }
-   var addScore=e.target.closest('[data-add-score]');
-   if(addScore){
-     var addPid=addScore.dataset.addScore,vAdd=entryVal();
-     if(vAdd===null){select(addPid);toast('Entre les points, puis ajoute-les à '+P(addPid).name);return}
-     SEL=addPid;FIX=null;commit(addPid,vAdd);toast(P(addPid).name+' : '+vAdd);
-     var following=nextMissing(addPid);
-     SEL=following||(S.players[0]&&S.players[0].id)||null;clearEntry();render();
-     return;
-   }
   var ad=e.target.closest('[data-act="add"]');
   if(ad){
     if(S.players.length>=10){toast('10 joueurs max');return}
@@ -649,12 +660,13 @@ document.getElementById('ovMenu').addEventListener('click',function(e){
 });
 document.getElementById('ovEnd').addEventListener('click',function(e){
   var b=e.target.closest('[data-e]');if(!b)return;
+  if(b.dataset.e==='cancel'){document.getElementById('ovEnd').hidden=true;return}
+  if(b.dataset.e==='confirm'){showEndSummary(finishGame());return}
   document.getElementById('ovEnd').hidden=true;
   if(b.dataset.e==='again'){
-    S.rounds=[];S.log=[];S.redo=[];save();
     SEL=S.players.length?S.players[0].id:null;clearEntry();
     render();toast('Nouvelle partie — mêmes joueurs');
-  }
+  }else if(b.dataset.e==='close')showTables();
 });
 document.getElementById('ovPal').addEventListener('click',function(e){
   var b=e.target.closest('[data-p]');if(!b)return;
