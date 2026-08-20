@@ -94,6 +94,9 @@ et `pk.score.games` dans « Table 1 ».
   jeux où un seul joueur marque par donne (à 2 en alternance…). Valider le
   score d'un joueur scelle la manche et met 0 aux autres (0 stockés comme
   scores normaux → totaux, undo, correction inchangés).
+- **Le plus bas gagne** (`state.low`, par table, Menu) : classement et 🏆
+  inversés à la fin de partie — pour les jeux où l'on perd des points
+  (Yaniv, Golf…).
 
 ## 5. Identité visuelle
 

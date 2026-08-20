@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.15` (compteur de scores : fin de partie confirmée, pavé compact, couleur par joueur)
+Statut : `1.2026.16` (compteur de scores : le plus bas gagne, historique en colonnes)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,13 @@ Statut : `1.2026.15` (compteur de scores : fin de partie confirmée, pavé compa
 ---
 
 ## Releases
+
+### [1.2026.16] - 2026-08-20
+#### Added
+- Compteur de scores : réglage « Le plus bas gagne » par table (Yaniv, Golf…) — classement et 🏆 inversés.
+
+#### Changed
+- Historique des manches en colonnes compactes : numéro de manche en petit gris au-dessus, score en gras dessous, aligné à droite.
 
 ### [1.2026.15] - 2026-08-20
 #### Added

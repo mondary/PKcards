@@ -80,18 +80,17 @@ button:disabled{opacity:.3; pointer-events:none}
 }
 .ren:active{border-color:var(--acc);color:var(--acc);background:#fff}
 .pbd{
-  display:grid; grid-template-columns:repeat(auto-fill,minmax(64px,1fr)); gap:2px 7px;
-  width:100%; margin-top:4px; font-size:12px;
-  line-height:1.25; font-variant-numeric:tabular-nums;
+  display:grid; grid-template-columns:repeat(auto-fill,minmax(40px,1fr)); gap:3px 8px;
+  width:100%; margin-top:5px; font-variant-numeric:tabular-nums;
 }
 .pbd:empty{display:none}
 .pbd [data-fix]{
-  display:grid; grid-template-columns:21px 1fr; min-width:0; padding:1px 0;
-  color:var(--ink); font-weight:700; white-space:nowrap;
+  display:flex; flex-direction:column; align-items:flex-end; min-width:0; padding:1px 0;
+  color:var(--ink);
 }
-.pbd [data-fix]:active{color:var(--acc); text-decoration:underline}
-.pbd small{margin:0;font-size:10px;font-weight:800;letter-spacing:.04em;color:#8a857a;text-align:right}
-.pbd strong{font:inherit;text-align:right}
+.pbd [data-fix]:active{color:var(--acc)}
+.pbd small{margin:0;font-size:9px;font-weight:800;letter-spacing:.05em;color:#8a857a;text-align:right}
+.pbd strong{font-size:13.5px;font-weight:700;text-align:right;line-height:1.2}
 .tot{font-size:30px; font-weight:800; font-variant-numeric:tabular-nums; letter-spacing:-.5px; align-self:center; padding-right:8px}
 .rx{color:#c9c3b6; font-size:15px; padding:8px; margin-right:4px; align-self:center}
 .rx:active{color:#b3261e}
@@ -441,7 +440,7 @@ function redo(){
 }
 
 /* ----- fin de partie & palmarès ----- */
-function standings(){return S.players.map(function(p){return{name:p.name,s:tot(p.id)}}).sort(function(a,b){return b.s-a.s})}
+function standings(){return S.players.map(function(p){return{name:p.name,s:tot(p.id)}}).sort(function(a,b){return S.low?a.s-b.s:b.s-a.s})}
 function finishGame(){
   var st=standings(),best=st[0].s;
   GAMES.push({d:Date.now(),w:st.filter(function(x){return x.s===best}).map(function(x){return x.name}),s:st});
@@ -514,7 +513,8 @@ function openMenu(){
    ov.innerHTML='<div class="sheet"><h2>Réglages de la partie</h2>'
      +'<p class="sub2">Partie en cours : manche '+Math.max(1,S.rounds.length)+'</p>'
      +'<div class="btns">'
-     +'<button class="bghost" data-m="solo">'+(S.solo?'✓ ':'')+'Un seul marque par manche<small style="display:block;font-weight:400;font-size:12px;opacity:.85">'+(S.solo?'activé — ':'')+'les autres joueurs marquent 0 automatiquement</small></button>'
+      +'<button class="bghost" data-m="solo">'+(S.solo?'✓ ':'')+'Un seul marque par manche<small style="display:block;font-weight:400;font-size:12px;opacity:.85">'+(S.solo?'activé — ':'')+'les autres joueurs marquent 0 automatiquement</small></button>'
+     +'<button class="bghost" data-m="low">'+(S.low?'✓ ':'')+'Le plus bas gagne<small style="display:block;font-weight:400;font-size:12px;opacity:.85">'+(S.low?'activé — ':'')+'pour les jeux où on perd des points (Yaniv, Golf…)</small></button>'
     +'<button class="bghost" data-m="reset"'+(S.rounds.length?'':' disabled')+'>⟳ Recommencer à la manche 1</button>'
     +'<button class="bghost" data-m="close">Fermer</button>'
     +'</div></div>';
@@ -655,7 +655,8 @@ document.getElementById('ovMenu').addEventListener('click',function(e){
   var b=e.target.closest('[data-m]');if(!b)return;
   document.getElementById('ovMenu').hidden=true;
   if(b.dataset.m==='end')endGame();
-  else if(b.dataset.m==='solo'){S.solo=!S.solo;save();toast(S.solo?'Un marque par manche — activé':'Un marque par manche — désactivé');openMenu()}
+   else if(b.dataset.m==='solo'){S.solo=!S.solo;save();toast(S.solo?'Un marque par manche — activé':'Un marque par manche — désactivé');openMenu()}
+   else if(b.dataset.m==='low'){S.low=!S.low;save();toast(S.low?'Le plus bas gagne — activé':'Le plus haut gagne — activé');openMenu()}
   else if(b.dataset.m==='reset'&&confirm('Effacer toutes les manches et revenir à la manche 1 ?'))resetRounds();
 });
 document.getElementById('ovEnd').addEventListener('click',function(e){
