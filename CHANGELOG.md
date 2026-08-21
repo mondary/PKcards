@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.16` (compteur de scores : le plus bas gagne, historique en colonnes)
+Statut : `1.2026.17` (compteur de scores : réglages restructurés, pavé Neutre/Filaire/Rempli)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,12 @@ Statut : `1.2026.16` (compteur de scores : le plus bas gagne, historique en colo
 ---
 
 ## Releases
+
+### [1.2026.17] - 2026-08-21
+#### Changed
+- Compteur de scores : réglages restructurés — pictos, descriptions, état actif en couleur.
+- Pavé du joueur : sélecteur exclusif Neutre / Filaire (défaut) / Rempli — corrige le mode rempli inopérant.
+- Écran des tables épuré : « Vos tables » + intro en une ligne.
 
 ### [1.2026.16] - 2026-08-20
 #### Added

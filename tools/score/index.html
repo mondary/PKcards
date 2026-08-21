@@ -30,7 +30,7 @@ button:disabled{opacity:.3; pointer-events:none}
 
 /* ----- accueil : les tables ----- */
 #tablesView{flex:1;overflow-y:auto;padding:calc(env(safe-area-inset-top) + 20px) 18px calc(env(safe-area-inset-bottom) + 24px);background:#f2efe8}
-.tablesTop{margin-bottom:26px}.tablesTop .ey{margin:0 0 5px;color:var(--mut);font-size:11px;font-weight:700;letter-spacing:.11em;text-transform:uppercase}.tablesTop h1{margin:0;font-size:34px;letter-spacing:-1.4px}.tablesIntro{margin:0 0 22px;color:var(--mut);font-size:14px;line-height:1.4}.tableCards{display:grid;gap:13px}.tableCard{position:relative;overflow:hidden;min-height:150px;border-radius:20px;padding:18px;background:#264d8d;color:#fff;box-shadow:0 8px 18px rgba(30,43,67,.16)}.tableCard::after{content:'';position:absolute;right:-37px;bottom:-55px;width:175px;height:175px;border:1px solid rgba(255,255,255,.3);border-radius:50%;box-shadow:0 0 0 24px rgba(255,255,255,.06),0 0 0 49px rgba(255,255,255,.04)}.tableCard.c1{background:#2050c8}.tableCard.c2{background:#a84649}.tableCard.c3{background:#267560}.tableCard.c4{background:#7052a1}.tableCard>*{position:relative;z-index:1}.tableCard .tmeta{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;opacity:.72}.tableCard h2{margin:7px 0 7px;font-size:25px;letter-spacing:-.7px}.tableCard .tstate{font-size:14px;opacity:.93}.avatars{display:flex;margin-top:16px}.avatar{display:grid;place-items:center;width:29px;height:29px;margin-right:-6px;border:2px solid rgba(255,255,255,.85);border-radius:50%;background:#f5e7c7;color:var(--ink);font-size:10px;font-weight:800;overflow:hidden}.avatar img{width:100%;height:100%;object-fit:cover}.tableCard .resume{position:absolute;right:15px;bottom:16px;border-radius:999px;padding:9px 12px;background:#fff;color:var(--ink);font-size:12px;font-weight:800}.tableTools{position:absolute;right:14px;top:13px;display:flex;gap:3px}.tableTools button{width:29px;height:29px;border-radius:9px;background:rgba(255,255,255,.15);color:#fff;font-size:13px}.tableTools button:active{background:rgba(255,255,255,.32)}.tableAddRow{display:flex;align-items:center;gap:12px;width:100%;margin-top:4px;padding:10px;border-radius:14px;color:var(--mut);text-align:left}.tableAddRow .addMark{display:grid;place-items:center;width:46px;height:46px;border:1.5px dashed #c9c3b6;border-radius:14px;color:#c9c3b6;font-size:18px}.tableAddRow span:last-child{font-size:15px}.tableAddRow:active{background:#e8e4db;color:var(--ink)}.tablesEmpty{padding:48px 6px;text-align:center;color:var(--mut)}
+.tablesTop{margin-bottom:22px}.tablesTop .ey{margin:0 0 6px;color:var(--mut);font-size:11px;font-weight:800;letter-spacing:.14em;text-transform:uppercase}.tablesTop h1{margin:0;font-size:38px;letter-spacing:-1.6px}.tablesIntro{margin:6px 0 20px;color:var(--mut);font-size:14px;line-height:1.4}.tableCards{display:grid;gap:13px}.tableCard{position:relative;overflow:hidden;min-height:150px;border-radius:20px;padding:18px;background:#264d8d;color:#fff;box-shadow:0 8px 18px rgba(30,43,67,.16)}.tableCard::after{content:'';position:absolute;right:-37px;bottom:-55px;width:175px;height:175px;border:1px solid rgba(255,255,255,.3);border-radius:50%;box-shadow:0 0 0 24px rgba(255,255,255,.06),0 0 0 49px rgba(255,255,255,.04)}.tableCard.c1{background:#2050c8}.tableCard.c2{background:#a84649}.tableCard.c3{background:#267560}.tableCard.c4{background:#7052a1}.tableCard>*{position:relative;z-index:1}.tableCard .tmeta{font-size:11px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;opacity:.72}.tableCard h2{margin:7px 0 7px;font-size:25px;letter-spacing:-.7px}.tableCard .tstate{font-size:14px;opacity:.93}.avatars{display:flex;margin-top:16px}.avatar{display:grid;place-items:center;width:29px;height:29px;margin-right:-6px;border:2px solid rgba(255,255,255,.85);border-radius:50%;background:#f5e7c7;color:var(--ink);font-size:10px;font-weight:800;overflow:hidden}.avatar img{width:100%;height:100%;object-fit:cover}.tableCard .resume{position:absolute;right:15px;bottom:16px;border-radius:999px;padding:9px 12px;background:#fff;color:var(--ink);font-size:12px;font-weight:800}.tableTools{position:absolute;right:14px;top:13px;display:flex;gap:3px}.tableTools button{width:29px;height:29px;border-radius:9px;background:rgba(255,255,255,.15);color:#fff;font-size:13px}.tableTools button:active{background:rgba(255,255,255,.32)}.tableAddRow{display:flex;align-items:center;gap:12px;width:100%;margin-top:4px;padding:10px;border-radius:14px;color:var(--mut);text-align:left}.tableAddRow .addMark{display:grid;place-items:center;width:46px;height:46px;border:1.5px dashed #c9c3b6;border-radius:14px;color:#c9c3b6;font-size:18px}.tableAddRow span:last-child{font-size:15px}.tableAddRow:active{background:#e8e4db;color:var(--ink)}.tablesEmpty{padding:48px 6px;text-align:center;color:var(--mut)}
 
 /* ----- entête de liste ----- */
 #listHead{
@@ -158,6 +158,20 @@ button:disabled{opacity:.3; pointer-events:none}
 .rline .c{color:var(--mut); font-size:13px}
 .rline .v{font-weight:800; font-variant-numeric:tabular-nums}
 .rline.win .w::after{content:" 🏆"}
+.sets{margin-top:4px;border-top:1px solid var(--line)}
+.set{display:flex;align-items:center;gap:12px;width:100%;padding:12px 2px;border-bottom:1px solid var(--line);text-align:left}
+.set .sic{width:34px;height:34px;flex:none;display:grid;place-items:center;background:#f1eee7;font-weight:800;font-size:15px;color:var(--mut)}
+.set.on .sic{background:var(--acc);color:#fff}
+.set .stx{flex:1;min-width:0}
+.set .stx b{display:block;font-size:14.5px}
+.set .stx small{display:block;margin-top:1px;color:var(--mut);font-size:12px;line-height:1.3}
+.set .sw{flex:none;width:22px;font-weight:800;font-size:16px;color:transparent}
+.set.on .sw{color:var(--acc)}
+.set.on .stx b{color:var(--acc)}
+.setlab{margin:14px 0 6px;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--mut)}
+.seg{display:flex;border:1px solid var(--line)}
+.seg button{flex:1;padding:11px 4px;font-size:12.5px;font-weight:700;color:var(--mut)}
+.seg button.on{background:var(--acc);color:#fff}
 .sheet .btns{display:flex; flex-direction:column; gap:8px; margin-top:14px}
 .bmain{padding:14px; border-radius:0; background:var(--acc); color:#fff; font-weight:600; font-size:15.5px}
 .bmain:active{background:var(--ink)}
@@ -337,6 +351,11 @@ function syncPad(){
   pv.style.color=(p&&entryText())?pcolor(p.id):'';
   var okBtn=document.getElementById('padOk');
   okBtn.style.background=(FIX!=null)?'#1c1b18':(p?pcolor(p.id):'#2050c8');
+  var keys=document.querySelectorAll('#pgrid button'),kc=(p&&S.pad!==0)?pcolor(p.id):'';
+  for(var i=0;i<keys.length;i++){
+    if(kc&&S.pad===2){keys[i].style.color='#fff';keys[i].style.background=kc;keys[i].style.borderColor=kc}
+    else{keys[i].style.color=kc;keys[i].style.background='';keys[i].style.borderColor=kc||''}
+  }
   var action='Ajouter';
   if(FIX!=null)action='Modifier M'+(FIX+1);
   else if(entryText())action='Ajouter '+(CUR.charAt(0)==='-'?'':'＋')+entryText();
@@ -510,15 +529,22 @@ function pickPhoto(pid){
 
 function openMenu(){
    var ov=document.getElementById('ovMenu');
+   var pv=S.pad===2?2:(S.pad===0?0:1);
    ov.innerHTML='<div class="sheet"><h2>Réglages de la partie</h2>'
-     +'<p class="sub2">Partie en cours : manche '+Math.max(1,S.rounds.length)+'</p>'
-     +'<div class="btns">'
-      +'<button class="bghost" data-m="solo">'+(S.solo?'✓ ':'')+'Un seul marque par manche<small style="display:block;font-weight:400;font-size:12px;opacity:.85">'+(S.solo?'activé — ':'')+'les autres joueurs marquent 0 automatiquement</small></button>'
-     +'<button class="bghost" data-m="low">'+(S.low?'✓ ':'')+'Le plus bas gagne<small style="display:block;font-weight:400;font-size:12px;opacity:.85">'+(S.low?'activé — ':'')+'pour les jeux où on perd des points (Yaniv, Golf…)</small></button>'
-    +'<button class="bghost" data-m="reset"'+(S.rounds.length?'':' disabled')+'>⟳ Recommencer à la manche 1</button>'
-    +'<button class="bghost" data-m="close">Fermer</button>'
-    +'</div></div>';
-  ov.hidden=false;
+     +'<p class="sub2">'+esc(activeTable().name)+' · manche '+Math.max(1,S.rounds.length)+'</p>'
+     +'<div class="sets">'
+     +'<button class="set'+(S.solo?' on':'')+'" data-m="solo"><span class="sic">1</span><span class="stx"><b>Un seul marque par manche</b><small>les autres joueurs marquent 0 automatiquement</small></span><span class="sw">✓</span></button>'
+     +'<button class="set'+(S.low?' on':'')+'" data-m="low"><span class="sic">↓</span><span class="stx"><b>Le plus bas gagne</b><small>classement inversé (Yaniv, Golf…)</small></span><span class="sw">✓</span></button>'
+     +'</div>'
+     +'<div class="setlab">Pavé numérique</div>'
+     +'<div class="seg">'
+     +'<button data-m="pad0"'+(pv===0?' class="on"':'')+'>Neutre</button>'
+     +'<button data-m="pad1"'+(pv===1?' class="on"':'')+'>Filaire</button>'
+     +'<button data-m="pad2"'+(pv===2?' class="on"':'')+'>Rempli</button>'
+     +'</div>'
+     +'<div class="btns"><button class="bghost" data-m="reset"'+(S.rounds.length?'':' disabled')+'>⟳ Recommencer à la manche 1</button>'
+     +'<button class="bghost" data-m="close">Fermer</button></div></div>';
+   ov.hidden=false;
 }
 function resetRounds(){
   S.rounds=[];S.log=[];S.redo=[];save();
@@ -537,8 +563,8 @@ function tableStatus(t){
 }
 function renderTables(){
   var host=document.getElementById('tablesView'),active=activeTable();
-  host.innerHTML='<header class="tablesTop"><p class="ey">Score · vos groupes</p><h1>Les tables</h1></header>'
-    +'<p class="tablesIntro">Chaque table garde sa partie, ses joueurs et son palmarès. Reprends exactement où vous vous étiez arrêtés.</p>'
+  host.innerHTML='<header class="tablesTop"><p class="ey">Score</p><h1>Vos tables</h1></header>'
+    +'<p class="tablesIntro">Une table par groupe : sa partie en cours, ses joueurs et son palmarès.</p>'
     +'<div class="tableCards">'+STORE.tables.map(function(t,i){
       var people=t.state.players||[],shown=people.slice(0,4),more=people.length-shown.length;
       return '<article class="tableCard c'+(t.c||(i%4+1))+'" data-table-open="'+t.id+'"><span class="tmeta">'+(t.id===active.id?'Table active':'Table')+'</span><h2>'+esc(t.name)+'</h2><p class="tstate">'+tableStatus(t)+'</p><div class="avatars">'+shown.map(function(p){return '<span class="avatar">'+(p.photo?'<img src="'+p.photo+'" alt="">':esc(ini(p.name)))+'</span>'}).join('')+(more?'<span class="avatar">+'+more+'</span>':'')+'</div><div class="tableTools"><button data-table-ren="'+t.id+'" aria-label="Renommer">✎</button><button data-table-del="'+t.id+'" aria-label="Supprimer">✕</button></div><button class="resume">'+(t.id===active.id?'Reprendre':'Ouvrir')+' →</button></article>';
@@ -657,6 +683,9 @@ document.getElementById('ovMenu').addEventListener('click',function(e){
   if(b.dataset.m==='end')endGame();
    else if(b.dataset.m==='solo'){S.solo=!S.solo;save();toast(S.solo?'Un marque par manche — activé':'Un marque par manche — désactivé');openMenu()}
    else if(b.dataset.m==='low'){S.low=!S.low;save();toast(S.low?'Le plus bas gagne — activé':'Le plus haut gagne — activé');openMenu()}
+   else if(b.dataset.m==='pad0'){S.pad=0;save();openMenu();render()}
+   else if(b.dataset.m==='pad1'){S.pad=1;save();openMenu();render()}
+   else if(b.dataset.m==='pad2'){S.pad=2;save();openMenu();render()}
   else if(b.dataset.m==='reset'&&confirm('Effacer toutes les manches et revenir à la manche 1 ?'))resetRounds();
 });
 document.getElementById('ovEnd').addEventListener('click',function(e){

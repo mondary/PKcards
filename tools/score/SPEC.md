@@ -97,6 +97,9 @@ et `pk.score.games` dans « Table 1 ».
 - **Le plus bas gagne** (`state.low`, par table, Menu) : classement et 🏆
   inversés à la fin de partie — pour les jeux où l'on perd des points
   (Yaniv, Golf…).
+- **Pavé du joueur** (`state.pad`, par table, Réglages, sélecteur Neutre /
+  Filaire / Rempli ; défaut filaire) : `1` = filaire (chiffres et bordures
+  à la couleur du joueur), `2` = rempli (touches pleines), `0` = neutre.
 
 ## 5. Identité visuelle
 
