@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.18` (compteur de scores : import/export des données)
+Statut : `1.2026.19` (compteur de scores : couleur joueur partout, historique en puces)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,11 @@ Statut : `1.2026.18` (compteur de scores : import/export des données)
 ---
 
 ## Releases
+
+### [1.2026.19] - 2026-08-21
+#### Changed
+- Compteur de scores : la couleur du joueur teinte la ligne sélectionnée et l'encart d'initiales (J1, J2…) en permanence.
+- Historique des manches en puces compactes « M1 | 7 » remplaçant la grille en colonnes.
 
 ### [1.2026.18] - 2026-08-21
 #### Added

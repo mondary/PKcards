@@ -81,11 +81,9 @@ et `pk.score.games` dans « Table 1 ».
   correction (pré-rempli), Valider réécrit.
 - **Re-sélection d'un joueur compté** : pré-remplit sa valeur de manche
   (édition) ; ⌫ puis nouvelle valeur pour remplacer.
-- Historique = une mention compacte par manche (« M1 12 », « M2 14 »,
-  « M3 −10 ») sous le nom, alignée en grille sans bordures, avec les valeurs
-  alignées à droite, sur autant de lignes que nécessaire — aucun score n'est
-  masqué. Le bouton « Ajouter +N » est à côté de la photo et de la valeur du
-  joueur sélectionné.
+- Historique = une puce par manche (« M1 12 », « M2 14 », « M3 −10 ») sous
+  le nom : étiquettes grises compactes (numéro de manche + séparateur +
+  score), sur autant de lignes que nécessaire — aucun score n'est masqué.
 - **Couleur par joueur** (palette des tables, par position dans la liste) :
   la barre de sélection, l'avatar du pavé et le bouton « Ajouter » prennent
   la couleur du joueur actif.
