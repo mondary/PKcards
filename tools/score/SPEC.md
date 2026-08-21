@@ -118,3 +118,10 @@ Sans animation superflue ; `user-scalable=no` + `touch-action: manipulation`.
 
 Upload FTP du dossier vers `/www/pk/-Games-cards/score/`
 (index.html + apple-touch-icon.png ; SPEC.md reste au dépôt).
+
+## 8. Import / export
+
+Écran des tables : « ↓ Exporter » télécharge `score-tables.json` (tables,
+parties, palmarès et réglages). « ↑ Importer » remplace tout le contenu
+après confirmation puis recharge — permet le transfert entre appareils sans
+synchro cloud.

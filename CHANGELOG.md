@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.17` (compteur de scores : réglages restructurés, pavé Neutre/Filaire/Rempli)
+Statut : `1.2026.18` (compteur de scores : import/export des données)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,10 @@ Statut : `1.2026.17` (compteur de scores : réglages restructurés, pavé Neutre
 ---
 
 ## Releases
+
+### [1.2026.18] - 2026-08-21
+#### Added
+- Compteur de scores : export des tables/parties/palmarès/réglages en fichier `score-tables.json` et import (avec confirmation) pour transférer d'un appareil à l'autre.
 
 ### [1.2026.17] - 2026-08-21
 #### Changed
