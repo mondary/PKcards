@@ -747,7 +747,6 @@ $q    = trim((string)($_GET['q'] ?? ''));
 $cat  = (string)($_GET['cat'] ?? '');
 $family = trim((string)($_GET['family'] ?? ''));
 $view = ($slug !== '' && !isset($_GET['q'])) ? 'reader' : 'home';
-if (isset($_GET['top'])) $view = 'top';
 
 /* ============================================================
    VUES
@@ -804,6 +803,7 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inhe
 
 #toast{position:fixed;z-index:60;left:50%;bottom:24px;transform:translateX(-50%);padding:10px 16px;border-radius:3px;background:var(--ink);color:#fff;font-size:.78rem;opacity:0;pointer-events:none;transition:opacity .15s}#toast.show{opacity:1}.sheet{position:fixed;inset:0;z-index:50;display:flex;align-items:flex-end;background:rgba(0,0,0,.55);opacity:0;visibility:hidden;transition:opacity .15s}.sheet.open{opacity:1;visibility:visible}.sheet__panel{width:min(100%,680px);max-height:85dvh;margin:auto;padding:28px 24px calc(28px + env(safe-area-inset-bottom));overflow:auto;border-radius:12px 12px 0 0;background:var(--paper);transform:translateY(20px);transition:transform .2s}.sheet.open .sheet__panel{transform:none}.sheet__grab{width:40px;height:4px;border-radius:4px;background:var(--pink);margin:0 auto 20px}.sheet__title{margin-bottom:16px;font:2rem var(--display);text-transform:uppercase}.note{margin-bottom:10px;color:var(--muted);font-size:.75rem;line-height:1.5}.field{display:flex;gap:8px;margin-bottom:18px}.field input{min-width:0;flex:1;height:46px;padding:0 12px;border:2px solid var(--ink);border-radius:3px;background:var(--surface)}.btn{padding:0 18px;border:0;border-radius:3px;background:var(--blue);color:#fff;font-weight:700}.fav-row{display:flex;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}.fav-row__img{width:48px;height:48px;border-radius:6px;object-fit:cover;background:var(--soft);flex-shrink:0}.fav-row__t{flex:1;min-width:0}.fav-row__t b,.fav-row__t small{display:block}.fav-row__t small{margin-top:3px;color:var(--muted)}.fav-row__star{color:var(--yellow);font-size:1.1rem;flex-shrink:0}.fav-default{display:flex;align-items:center;gap:8px;margin-bottom:18px;color:var(--muted);font-size:.78rem;cursor:pointer}.fav-default input{width:18px;height:18px}.theme-options{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;margin-top:14px}.theme-option{display:flex;align-items:center;gap:10px;padding:14px 12px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:inherit;font:700 .7rem var(--mono);text-transform:uppercase;cursor:pointer;text-align:left}.theme-option:hover{border-color:var(--ink)}.theme-option[aria-pressed="true"]{border:2px solid var(--ink);box-shadow:0 0 0 3px color-mix(in srgb,var(--pink) 45%,transparent)}.theme-option__swatch{width:26px;height:26px;flex:none;border-radius:8px;border:1px solid rgba(0,0,0,.2)}.theme-option__sub{display:block;margin-top:3px;color:var(--muted);font:500 .6rem var(--mono);text-transform:none}
 
+.fav-sort{display:flex;gap:6px;margin:0 0 12px}.fav-sort button{padding:7px 9px;border:1px solid var(--line);border-radius:999px;background:transparent;color:var(--muted);font:700 .62rem var(--mono);text-transform:uppercase}.fav-sort button.on{border-color:var(--ink);background:var(--ink);color:var(--paper)}
 @media(max-width:760px){
   .brandrow{min-width:0;gap:6px}.brand{flex:0 0 28px;min-width:0;overflow:hidden;white-space:nowrap;font-size:0}.brand b{font-size:1rem}.brand .ver{display:none}.iconbtn{min-height:44px;flex:none;padding:7px;font-size:.62rem}
   .launcher{display:block;width:100%;max-width:100vw;padding-top:54px}.launcher::after{left:auto;right:18px;top:28px;font-size:.9rem}.launcher h1{font-size:clamp(4.3rem,21vw,6.2rem);text-shadow:3px 3px 0 var(--pink),6px 6px 0 var(--blue)}.launcher__intro>p:last-child{margin:30px 0 34px}.search input{height:62px;box-shadow:5px 5px 0 var(--blue)}.chips{margin:26px -18px 0;padding:0 18px}.chip,.random{min-height:44px}.launcher__actions{justify-content:flex-start;flex-wrap:wrap;gap:12px 20px}
@@ -1036,9 +1036,9 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
 
 else:
   // ----- HOME / TOP -----
-  $isTop = ($view === 'top');
+  $isTop = false;
   $isFamily = $family !== '';
-  $games = $isTop ? Vault::games(['top' => true, 'limit' => 100]) : Vault::games($isFamily ? ['family' => $family] : []);
+  $games = Vault::games($isFamily ? ['family' => $family] : []);
   // Map slug -> tous les noms (game_names) pour la recherche et l'affichage.
   $namesMap = [];
   $altNamesMap = [];
@@ -1067,7 +1067,7 @@ else:
         <a class="brand" href="<?= e(qs_home()) ?>" aria-label="Retour à l'accueil"><b>PK</b> / GUIDE DE TABLE <span class="ver">v<?= VERSION ?></span></a>
         <span class="spacer"></span>
         <button class="theme-menu" id="themeMenuBtn" type="button">Thème</button>
-        <a class="iconbtn" href="<?= e(qs_home(['top' => 1])) ?>">Top</a>
+        <button class="iconbtn" id="topBtn" type="button">Top</button>
         <button class="iconbtn" id="favOpen">Favoris <span class="dot" id="favDot" hidden>0</span></button>
       </div>
     </div>
@@ -1081,7 +1081,7 @@ else:
         <h1 id="heroTitle"><?= $isFamily ? e($family) : 'On joue<br>à quoi ?' ?></h1>
         <p><?= $isFamily ? 'Une sélection réunie par mécanique de jeu.' : 'Nom officiel, surnom local ou type de jeu : une frappe suffit.' ?></p>
       </div>
-      <?php if (!$isTop && !$isFamily): ?>
+      <?php if (!$isFamily): ?>
       <div class="search">
         <label for="searchInput">Trouver une règle</label>
         <input type="search" id="searchInput" placeholder="Yaniv, Main Verte, Speed…" autocomplete="off" autocapitalize="off" spellcheck="false">
@@ -1094,17 +1094,14 @@ else:
       <div class="chips" id="chips">
         <button class="chip chip--active" data-cat="">Tous</button>
         <button class="chip chip--fav" data-cat="__fav__">★ Favoris <span id="favChipCount">0</span></button>
+        <button class="chip chip--top" data-cat="__top__">▲ Top <span><?= count(array_filter($games, fn($g) => (int)($g['votes'] ?? 0) > 0)) ?></span></button>
         <?php foreach ($CATEGORIES as $key => $info): ?>
           <button class="chip" data-cat="<?= e($key) ?>"><?= e($info['label'] ?? $key) ?> <span><?= (int)($info['count'] ?? 0) ?></span></button>
         <?php endforeach; ?>
       </div>
-      <?php elseif ($isTop): ?>
-      <p class="top-intro">Les règles les plus utiles selon les joueurs.</p>
-      <?php else: ?>
-      <p class="top-intro"><a href="#list">Voir les jeux</a> · <a href="?">Toutes les familles</a></p>
       <?php endif; ?>
     </section>
-    <div class="section-head"><p class="eyebrow"><?= $isTop ? 'Classement' : ($isFamily ? 'Famille · '.e($family) : 'Répertoire') ?></p><p class="count-line" id="countLine" data-ver="v<?= VERSION ?>"><?= count($games) ?> jeux · v<?= VERSION ?></p></div>
+    <div class="section-head"><p class="eyebrow"><?= $isFamily ? 'Famille · '.e($family) : 'Répertoire' ?></p><p class="count-line" id="countLine" data-ver="v<?= VERSION ?>"><?= count($games) ?> jeux · v<?= VERSION ?></p></div>
 
   <div class="list" id="list">
     <?php foreach ($games as $index => $g):
@@ -1115,6 +1112,7 @@ else:
          data-names="<?= e(mb_strtolower((string)($namesMap[$g['slug']] ?? ''))) ?>"
          data-type="<?= e(mb_strtolower((string)$g['type'])) ?>"
          data-cat="<?= e($g['category']) ?>"
+         data-votes="<?= (int)($g['votes'] ?? 0) ?>"
          data-slug="<?= e($g['slug']) ?>"
          data-clm="<?= (int)($g['is_clm'] ?? 0) ?>">
         <img class="game__image lazy-image" data-src="<?= e(game_photo($g, true)) ?>" data-fallback="<?= e(hero_photo($g, 640)) ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">
@@ -1133,7 +1131,7 @@ else:
     <?php endforeach; ?>
     <div class="empty" id="emptyState" hidden><h2>Aucun jeu trouvé</h2><p>Essayez un autre nom ou une autre famille.</p></div>
   </div>
-  <?php if ($families && !$isFamily && !$isTop): ?>
+  <?php if ($families && !$isFamily): ?>
   <section class="families" id="families">
     <div class="families__head"><h2 class="families__title">Familles</h2></div>
     <div class="families__grid">
@@ -1163,6 +1161,11 @@ else:
       <button class="btn" id="emailSave">OK</button>
     </div>
     <label class="fav-default"><input type="checkbox" id="defaultFavsToggle"> Afficher mes favoris à l'accueil par défaut</label>
+    <div class="fav-sort" role="group" aria-label="Trier mes favoris">
+      <button type="button" class="on" data-fav-sort="date">Récents</button>
+      <button type="button" data-fav-sort="votes">Votes</button>
+      <button type="button" data-fav-sort="alpha">A-Z</button>
+    </div>
     <div id="favList"></div>
   </div>
 </div>
@@ -1255,17 +1258,27 @@ document.getElementById('emailSave').addEventListener('click', async ()=>{
   syncFavUI();
   toast('Favori enregistré');
 });
+let favSort='date';
 async function renderFavList(){
   const box=document.getElementById('favList'); box.innerHTML='';
   if(!email){ box.innerHTML='<p class="note">Entrez votre email.</p>'; return; }
   if(!favs.size){ box.innerHTML='<p class="note">Aucun favori pour le moment.</p>'; return; }
-  const titles = <?= json_encode(array_column(Vault::games(), 'title', 'slug'), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
-  [...favs].forEach(s=>{
+  const gameData = <?= json_encode(array_column(Vault::games(), null, 'slug'), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
+  const rows=[...favs];
+  if(favSort==='votes') rows.sort((a,b)=>(gameData[b]?.votes||0)-(gameData[a]?.votes||0));
+  if(favSort==='alpha') rows.sort((a,b)=>(gameData[a]?.title||a).localeCompare(gameData[b]?.title||b,'fr'));
+  rows.forEach(s=>{
     const d=document.createElement('a'); d.className='fav-row'; d.href='?game='+encodeURIComponent(s);
-    d.innerHTML='<img class="fav-row__img" src="?visual='+encodeURIComponent(s)+'&v=<?= VERSION ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><div class="fav-row__t"><b>'+ (titles[s]||s) +'</b><small>Ouvrir la règle</small></div><span class="fav-row__star">★</span>';
+    const game=gameData[s]||{};
+    d.innerHTML='<img class="fav-row__img" src="?visual='+encodeURIComponent(s)+'&v=<?= VERSION ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><div class="fav-row__t"><b>'+ (game.title||s) +'</b><small>'+((game.votes||0)+' vote'+((game.votes||0)>1?'s':'')+' · ouvrir la règle')+'</small></div><span class="fav-row__star">★</span>';
     box.appendChild(d);
   });
 }
+document.querySelectorAll('[data-fav-sort]').forEach(b=>b.addEventListener('click',()=>{
+  favSort=b.dataset.favSort;
+  document.querySelectorAll('[data-fav-sort]').forEach(x=>x.classList.toggle('on',x===b));
+  renderFavList();
+}));
 
 // ---- VOTE (reader) ----
 const lb=document.getElementById('likeBtn');
@@ -1284,13 +1297,22 @@ const countLineEl = document.getElementById('countLine');
 const emptyState = document.getElementById('emptyState');
 let activeCat = '';
 const normalizeSearch = s => s.normalize('NFD').replace(/\p{Diacritic}/gu, '').toLowerCase();
+const defaultOrder = listEl ? [...listEl.querySelectorAll('.game')] : [];
+function sortList(mode){
+  if(!listEl) return;
+  const items = [...listEl.querySelectorAll('.game')];
+  if(mode==='votes') items.sort((a,b)=>(+b.dataset.votes||0)-(+a.dataset.votes||0));
+  else items.sort((a,b)=>defaultOrder.indexOf(a)-defaultOrder.indexOf(b));
+  items.forEach(el=>listEl.appendChild(el));
+  const empty=document.getElementById('emptyState'); if(empty) listEl.appendChild(empty);
+}
 function applyFilter(){
   if(!listEl) return;
   const q = searchInputEl ? normalizeSearch(searchInputEl.value.trim()) : '';
   let shown = 0;
   listEl.querySelectorAll('.game').forEach(el=>{
     const okQ = !q || normalizeSearch(el.dataset.names).includes(q) || normalizeSearch(el.dataset.type).includes(q);
-    const okC = !activeCat || (activeCat==='__fav__' ? favs.has(el.dataset.slug) : el.dataset.cat === activeCat);
+    const okC = !activeCat || (activeCat==='__fav__' ? favs.has(el.dataset.slug) : activeCat==='__top__' ? (+el.dataset.votes||0)>0 : el.dataset.cat === activeCat);
     const show = okQ && okC;
     el.style.display = show ? '' : 'none';
     if(show) shown++;
@@ -1309,11 +1331,19 @@ if(searchInputEl){
   });
 }
 if(chipsEl) chipsEl.addEventListener('click', e=>{
-  const c = e.target.closest('.chip'); if(!c) return;
-  activeCat = c.dataset.cat || '';
+  const c=e.target.closest('.chip'); if(!c) return;
   chipsEl.querySelectorAll('.chip').forEach(x => x.classList.toggle('chip--active', x === c));
+  activeCat=c.dataset.cat||'';
+  sortList(activeCat==='__top__'?'votes':'default');
   applyFilter();
 });
+function activateTop(){
+  chipsEl?.querySelectorAll('.chip').forEach(x=>x.classList.toggle('chip--active', x.dataset.cat==='__top__'));
+  activeCat='__top__'; sortList('votes'); applyFilter();
+  document.getElementById('list')?.scrollIntoView({behavior:'smooth'});
+}
+document.getElementById('topBtn')?.addEventListener('click', activateTop);
+if(new URLSearchParams(location.search).has('top')) activateTop();
 
 // Option : afficher les favoris par défaut à l'accueil.
 const LS_DEFAULT_FAVS='pk_default_favs';
