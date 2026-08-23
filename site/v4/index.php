@@ -22,10 +22,21 @@ final class Library {
     }
     self::$db = $db;
     self::import();
+    self::syncClmContent();
     self::syncFamilies();
     self::syncMetadata();
     self::reconcileVersions();
     return $db;
+  }
+
+  private static function syncClmContent(): void {
+    $dir = __DIR__ . '/../../assets/rules/rules_clm';
+    if (!is_dir($dir)) return;
+    $write = self::$db->prepare('INSERT INTO content(path,body) VALUES(?,?) ON CONFLICT(path) DO UPDATE SET body=excluded.body');
+    foreach (glob($dir . '/*.md') ?: [] as $file) {
+      $slug = pathinfo($file, PATHINFO_FILENAME);
+      $write->execute(['/sources/clm/' . $slug . '.md', file_get_contents($file) ?: '']);
+    }
   }
 
   private static function syncFamilies(): void {
@@ -138,14 +149,122 @@ final class Library {
 }
 
 function e(string $v): string { return htmlspecialchars($v, ENT_QUOTES, 'UTF-8'); }
-function html(string $md): string {
-  $md = preg_replace('/^#\s+.*\n?/m', '', $md, 1);
-  $md = e($md);
-  $md = preg_replace('/^###\s+(.+)$/m', '<h3>$1</h3>', $md);
-  $md = preg_replace('/^##\s+(.+)$/m', '<h2>$1</h2>', $md);
-  $md = preg_replace('/\*\*(.+?)\*\*/s', '<strong>$1</strong>', $md);
-  $md = preg_replace('/\[(.+?)\]\((https?:[^)]+)\)/', '<a href="$2" target="_blank" rel="noopener">$1</a>', $md);
-  return implode("\n", array_map(fn($p) => trim($p) === '' || str_starts_with(trim($p), '<h') ? $p : '<p>' . $p . '</p>', preg_split('/\n{2,}/', $md)));
+function wiki_key(string $value): string {
+  $value = iconv('UTF-8', 'ASCII//TRANSLIT//IGNORE', mb_strtolower(strip_tags($value))) ?: $value;
+  return trim((string)preg_replace('/[^a-z0-9]+/', '-', $value), '-');
+}
+
+function wiki_links(): array {
+  static $links;
+  if ($links !== null) return $links;
+  $found = [];
+  foreach (Library::db()->query('SELECT game_slug,name FROM game_names') as $name) $found[wiki_key($name['name'])][$name['game_slug']] = true;
+  $links = [];
+  foreach ($found as $key => $games) if (count($games) === 1) $links[$key] = (string)array_key_first($games);
+  return $links;
+}
+
+function wiki_inline(string $text, string $currentSlug, array $sections, array &$sources): string {
+  $tokens = [];
+  $token = function(string $html) use (&$tokens): string { $key = "\x1A" . count($tokens) . "\x1A"; $tokens[$key] = $html; return $key; };
+  $links = wiki_links();
+  $text = preg_replace_callback('/\*\*([^*]+)\*\*/u', function($m) use ($currentSlug, $sections, $links, $token) {
+    $label = trim($m[1]); $key = wiki_key($label);
+    if (isset($sections[$key])) return $token('<a class="wiki-link" href="#' . e($sections[$key]) . '"><strong>' . e($label) . '</strong></a>');
+    if (isset($links[$key]) && $links[$key] !== $currentSlug) return $token('<a class="wiki-link" href="?game=' . rawurlencode($links[$key]) . '"><strong>' . e($label) . '</strong></a>');
+    return $token('<strong>' . e($label) . '</strong>');
+  }, $text);
+  $text = preg_replace_callback('/\[([^\]]+)\]\(([^)\s]+)\)/u', function($m) use ($currentSlug, $links, $token, &$sources) {
+    $label = trim($m[1]); $url = html_entity_decode($m[2], ENT_QUOTES); $key = wiki_key($label);
+    if (isset($links[$key]) && $links[$key] !== $currentSlug) return $token('<a class="wiki-link" href="?game=' . rawurlencode($links[$key]) . '">' . e($label) . '</a>');
+    if (str_starts_with($url, '#') || str_starts_with($url, '?game=')) return $token('<a class="wiki-link" href="' . e($url) . '">' . e($label) . '</a>');
+    if (preg_match('~^https?://~i', $url)) {
+      $index = null; foreach ($sources as $i => $source) if ($source['url'] === $url) $index = $i;
+      if ($index === null) { $sources[] = ['label' => $label, 'url' => $url]; $index = count($sources) - 1; }
+      return $token(e($label) . '<sup><a class="source-ref" href="#source-' . ($index + 1) . '">' . ($index + 1) . '</a></sup>');
+    }
+    return $token(e($label));
+  }, $text);
+  $cards = ['A' => '01', 'As' => '01', 'V' => 'V', 'Valet' => 'V', 'D' => 'D', 'Dame' => 'D', 'R' => 'R', 'Roi' => 'R'];
+  $suits = ['♥' => 'coeur', '♦' => 'carreau', '♠' => 'pique', '♣' => 'trefle'];
+  $text = preg_replace_callback('/(?<!\w)(As|Valet|Dame|Roi|A|V|D|R|10|[2-9])\s*([♥♦♠♣])(?!\w)/u', function($m) use ($cards, $suits, $token) {
+    $rank = $cards[$m[1]] ?? str_pad($m[1], 2, '0', STR_PAD_LEFT);
+    return $token('<img class="wiki-card" src="?card=' . $rank . '-' . $suits[$m[2]] . '.png" alt="' . e($m[0]) . '" loading="lazy">');
+  }, $text);
+  $text = str_replace('🃏', $token('<img class="wiki-card" src="?card=joker-rouge.png" alt="Joker" loading="lazy">'), $text);
+  $html = e($text);
+  $html = preg_replace('/`([^`]+)`/', '<code>$1</code>', $html);
+  $html = preg_replace('/\*([^*]+)\*/', '<em>$1</em>', $html);
+  return strtr($html, $tokens);
+}
+
+function wiki_markdown(string $md, string $currentSlug, array $canonicalSources = []): string {
+  $suitSymbols = ['diamond' => '♦', 'spade' => '♠', 'heart' => '♥', 'club' => '♣'];
+  $md = preg_replace_callback('/!\[(diamond|spade|heart|club)\]\([^)]+\)(A|10|[2-9]|V|D|R)/iu', fn($m) => $m[2] . $suitSymbols[mb_strtolower($m[1])], $md);
+  $md = preg_replace('/^#\s+.*\R?/m', '', $md, 1);
+  $headingRows = []; $seen = [];
+  preg_match_all('/^(#{1,3})\s+(.+)$/mu', $md, $matches, PREG_SET_ORDER);
+  foreach ($matches as $heading) {
+    $plain = trim((string)preg_replace('/[*_`]/', '', $heading[2])); $base = wiki_key($plain) ?: 'section';
+    $seen[$base] = ($seen[$base] ?? 0) + 1; $id = $base . ($seen[$base] > 1 ? '-' . $seen[$base] : '');
+    $headingRows[] = ['level' => strlen($heading[1]), 'label' => $plain, 'id' => $id];
+  }
+  $sections = [];
+  foreach ($headingRows as $heading) {
+    $clean = trim((string)preg_replace('/^[^\p{L}\p{N}]+/u', '', $heading['label']));
+    $sections[wiki_key($clean)] = $heading['id'];
+    if (preg_match('/^(.+?)\s*\(/u', $clean, $short)) $sections[wiki_key($short[1])] = $heading['id'];
+  }
+  $sources = $canonicalSources; $out = []; $paragraph = []; $list = null; $table = false; $meta = false; $headingIndex = 0;
+  $flushParagraph = function() use (&$paragraph, &$out, $currentSlug, $sections, &$sources) { if ($paragraph) { $out[] = '<p>' . wiki_inline(implode(' ', $paragraph), $currentSlug, $sections, $sources) . '</p>'; $paragraph = []; } };
+  $closeBlocks = function() use (&$out, &$list, &$table, &$meta) { if ($list) { $out[] = '</' . $list . '>'; $list = null; } if ($table) { $out[] = '</tbody></table>'; $table = false; } if ($meta) { $out[] = '</dl>'; $meta = false; } };
+  $lines = preg_split('/\R/u', $md) ?: [];
+  foreach ($lines as $i => $line) {
+    $trim = trim($line);
+    if ($trim === '') { $flushParagraph(); continue; }
+    if (preg_match('/^(#{1,3})\s+(.+)$/u', $trim, $m)) {
+      $flushParagraph(); $closeBlocks(); $heading = $headingRows[$headingIndex++] ?? ['level' => strlen($m[1]), 'label' => $m[2], 'id' => wiki_key($m[2])];
+      $label = wiki_inline($heading['label'], $currentSlug, $sections, $sources);
+      $headingName = trim((string)preg_replace('/^[^\p{L}\p{N}]+/u', '', $heading['label']));
+      if (preg_match('/^(.+?)\s*\(/u', $headingName, $short)) $headingName = $short[1];
+      $target = wiki_links()[wiki_key($headingName)] ?? null;
+      if ($target && $target !== $currentSlug) $label = '<a class="wiki-game-link" href="?game=' . rawurlencode($target) . '">' . $label . '</a>';
+      $tag = $heading['level'] <= 2 ? 'h2' : 'h3'; $out[] = '<' . $tag . ' id="' . e($heading['id']) . '">' . $label . '<a class="heading-anchor" href="#' . e($heading['id']) . '" aria-label="Lien vers cette section">#</a></' . $tag . '>'; continue;
+    }
+    if (preg_match('/^---+$/', $trim)) { $flushParagraph(); $closeBlocks(); $out[] = '<hr>'; continue; }
+    if (($headingIndex === 0 || $meta) && preg_match('/^\*\*(.+?)\s*:\*\*\s*(.*)$/u', $trim, $m)) {
+      $flushParagraph(); if ($list) { $out[] = '</' . $list . '>'; $list = null; } if (!$meta) { $out[] = '<dl class="wiki-meta">'; $meta = true; }
+      $out[] = '<div><dt>' . e(trim($m[1])) . '</dt><dd>' . wiki_inline($m[2] ?: '—', $currentSlug, $sections, $sources) . '</dd></div>'; continue;
+    }
+    if (preg_match('/^\|(.+)\|$/u', $trim, $m)) {
+      $flushParagraph(); if ($meta) { $out[] = '</dl>'; $meta = false; } if ($list) { $out[] = '</' . $list . '>'; $list = null; }
+      if (preg_match('/^\|?\s*:?-{3,}/', $trim)) continue;
+      if (!$table) { $out[] = '<table><tbody>'; $table = true; }
+      $cells = array_map('trim', explode('|', $m[1]));
+      $out[] = '<tr>' . implode('', array_map(fn($cell) => '<td>' . wiki_inline($cell, $currentSlug, $sections, $sources) . '</td>', $cells)) . '</tr>'; continue;
+    }
+    if (preg_match('/^-\s+(.+)$/u', $trim, $m)) {
+      $flushParagraph(); if ($meta) { $out[] = '</dl>'; $meta = false; } if ($table) { $out[] = '</tbody></table>'; $table = false; } if ($list !== 'ul') { if ($list) $out[] = '</' . $list . '>'; $out[] = '<ul>'; $list = 'ul'; }
+      $out[] = '<li>' . wiki_inline($m[1], $currentSlug, $sections, $sources) . '</li>'; continue;
+    }
+    if (preg_match('/^\d+\.\s+(.+)$/u', $trim, $m)) {
+      $flushParagraph(); if ($meta) { $out[] = '</dl>'; $meta = false; } if ($table) { $out[] = '</tbody></table>'; $table = false; } if ($list !== 'ol') { if ($list) $out[] = '</' . $list . '>'; $out[] = '<ol>'; $list = 'ol'; }
+      $out[] = '<li>' . wiki_inline($m[1], $currentSlug, $sections, $sources) . '</li>'; continue;
+    }
+    if (preg_match('/^>\s*(.+)$/u', $trim, $m)) { $flushParagraph(); $closeBlocks(); $out[] = '<blockquote>' . wiki_inline($m[1], $currentSlug, $sections, $sources) . '</blockquote>'; continue; }
+    $closeBlocks(); $paragraph[] = $trim;
+  }
+  $flushParagraph(); $closeBlocks();
+  $toc = '';
+  if (count($headingRows) > 2) {
+    $items = []; foreach ($headingRows as $heading) $items[] = '<li class="level-' . $heading['level'] . '"><a href="#' . e($heading['id']) . '">' . e($heading['label']) . '</a></li>';
+    $toc = '<details class="wiki-toc" open><summary>Sommaire <span>' . count($headingRows) . ' sections</span></summary><ol>' . implode('', $items) . '</ol></details>';
+  }
+  if ($sources) {
+    $sourceItems = []; foreach ($sources as $i => $source) $sourceItems[] = '<li id="source-' . ($i + 1) . '"><a href="' . e($source['url']) . '" target="_blank" rel="noopener noreferrer">' . e($source['label']) . '</a><small>' . e(parse_url($source['url'], PHP_URL_HOST) ?: '') . '</small></li>';
+    $out[] = '<section class="wiki-sources"><h2 id="sources">Sources</h2><ol>' . implode('', $sourceItems) . '</ol></section>';
+  }
+  return $toc . '<div class="wiki-content">' . implode("\n", $out) . '</div>';
 }
 
 if (isset($_GET['card'])) {
@@ -160,13 +279,13 @@ $slug = (string)($_GET['game'] ?? '');
 $version = (int)($_GET['version'] ?? 0);
 $total = (int)$db->query('SELECT COUNT(*) FROM games')->fetchColumn();
 $totalVersions = (int)$db->query('SELECT COUNT(*) FROM game_versions')->fetchColumn();
-$families = $db->query('SELECT family, COUNT(*) n FROM game_families GROUP BY family ORDER BY n DESC,family')->fetchAll();
+$families = $db->query('SELECT family, COUNT(*) n FROM game_families GROUP BY family ORDER BY family COLLATE NOCASE')->fetchAll();
 $namesBy = [];
 foreach ($db->query('SELECT game_slug,name FROM game_names') as $n) $namesBy[$n['game_slug']][$n['name']] = true;
 $familiesBy = [];
 foreach ($db->query('SELECT game_slug,family FROM game_families') as $f) $familiesBy[$f['game_slug']][] = $f['family'];
 $catalog = [];
-foreach ($db->query('SELECT g.*,COUNT(v.id) vc FROM games g LEFT JOIN game_versions v ON v.game_slug=g.slug GROUP BY g.slug ORDER BY g.title') as $g) {
+foreach ($db->query("SELECT g.*,COUNT(v.id) vc FROM games g LEFT JOIN game_versions v ON v.game_slug=g.slug GROUP BY g.slug ORDER BY CASE WHEN g.title GLOB '[0-9]*' THEN 1 ELSE 0 END,g.title") as $g) {
   $min = (int)$g['player_min']; $max = (int)$g['player_max'];
   if (preg_match('/(\d+)\s*(?:à|a|et|ou|-|–)\s*(\d+)/iu', $g['players'] ?? '', $range)) {
     $min = min((int)$range[1], (int)$range[2]); $max = max((int)$range[1], (int)$range[2]);
@@ -186,6 +305,24 @@ if ($slug) {
   $versions = $db->prepare('SELECT * FROM game_versions WHERE game_slug=? ORDER BY status="primary" DESC, source, title'); $versions->execute([$slug]); $versions = $versions->fetchAll();
   $current = null; foreach ($versions as $v) if ($v['id'] === $version || (!$version && $v['status'] === 'primary')) { $current = $v; break; } $current ??= $versions[0] ?? null;
   $names = $db->prepare('SELECT DISTINCT name FROM game_names WHERE game_slug=? ORDER BY name'); $names->execute([$slug]); $names = $names->fetchAll(PDO::FETCH_COLUMN);
+  $names = array_values(array_filter($names, fn($name) => wiki_key((string)$name) !== wiki_key((string)$game['title'])));
+  $currentMarkdown = $current ? Library::content($current['markdown_path']) : '';
+  $sectionAnchors = [];
+  if ($currentMarkdown) {
+    preg_match_all('/^#{1,3}\s+(.+)$/mu', $currentMarkdown, $sectionMatches);
+    foreach ($sectionMatches[1] ?? [] as $section) {
+      $clean = trim((string)preg_replace('/^[^\p{L}\p{N}]+/u', '', (string)preg_replace('/[*_`]/', '', $section)));
+      $anchor = wiki_key($clean); $sectionAnchors[$anchor] = $anchor;
+      if (preg_match('/^(.+?)\s*\(/u', $clean, $short)) $sectionAnchors[wiki_key($short[1])] = $anchor;
+    }
+  }
+  $canonicalSources = [];
+  if ($current && $current['source'] === 'pagat') {
+    $indexFile = __DIR__ . '/../../assets/rules/rules_pagat/_index.json';
+    $pagatIndex = is_file($indexFile) ? (json_decode((string)file_get_contents($indexFile), true) ?: []) : [];
+    $source = $pagatIndex[$current['source_slug']] ?? null;
+    if (!empty($source['url'])) $canonicalSources[] = ['label' => 'Règle originale sur Pagat', 'url' => $source['url']];
+  }
 }
 require __DIR__ . '/table.php';
 exit;

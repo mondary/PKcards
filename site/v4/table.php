@@ -2,54 +2,67 @@
 <html lang="fr">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="description" content="Bibliothèque de règles de jeux de cartes, recherche par nom, famille, joueurs et difficulté.">
 <title><?= $slug ? e($game['title']) . ' — PKcards' : 'PKcards — Bibliothèque de règles' ?></title>
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=DM+Mono:wght@400;500&family=Outfit:wght@400;500;600;700&display=swap');
-:root{--bg:#0d1a2c;--panel:#132940;--paper:#f8f2e6;--ink:#0b1828;--text:#f8f2e6;--muted:#9fb1c0;--line:#365068;--accent:#f05b58;--gold:#f3bc45;--display:'Barlow Condensed',sans-serif;--body:'Outfit',sans-serif;--mono:'DM Mono',monospace}
-*{box-sizing:border-box}html{background:var(--bg)}body{margin:0;min-height:100dvh;background:var(--bg);color:var(--text);font-family:var(--body)}a{color:inherit}.shell{width:min(1180px,100%);margin:auto;padding:calc(20px + env(safe-area-inset-top)) clamp(18px,4vw,48px) calc(60px + env(safe-area-inset-bottom))}.top{display:flex;align-items:center;justify-content:space-between;padding-bottom:18px;border-bottom:1px solid var(--line)}.brand{font:500 .75rem var(--mono);text-decoration:none;text-transform:uppercase}.brand b{color:var(--accent);font:700 1.2rem var(--display)}.library-count{color:var(--muted);font:.65rem var(--mono)}
-.hero{padding:clamp(46px,8vw,92px) 0 28px}.eyebrow{margin:0 0 12px;color:var(--gold);font:.65rem var(--mono);text-transform:uppercase}.query{display:block;width:100%;border:0;border-bottom:3px solid var(--accent);padding:0 0 10px;background:transparent;color:var(--text);outline:none;font:700 clamp(3.7rem,10vw,8rem)/.82 var(--display);text-transform:uppercase}.query::placeholder{color:var(--text);opacity:1}.query:focus::placeholder{color:var(--muted)}.instruction{margin:13px 0 0;color:var(--muted);font:.68rem var(--mono)}
-.filterbar{display:grid;grid-template-columns:minmax(180px,1fr) auto auto;gap:12px;padding:18px 0;border-bottom:1px solid var(--line)}.filter-group{display:flex;align-items:center;gap:7px;min-width:0}.filter-label{flex:0 0 auto;color:var(--muted);font:.6rem var(--mono);text-transform:uppercase}.select,.chip{min-height:38px;border:1px solid var(--line);border-radius:999px;background:transparent;color:var(--text);font:.68rem var(--mono)}.select{width:min(280px,100%);padding:0 34px 0 12px}.select option{background:var(--panel)}.chips{display:flex;gap:6px}.chip{padding:0 12px;cursor:pointer}.chip.on{border-color:var(--accent);background:var(--accent);color:var(--ink)}.chip:focus-visible,.select:focus-visible,.game-card:focus-visible{outline:3px solid var(--gold);outline-offset:2px}
-.result-head{display:flex;justify-content:space-between;align-items:center;padding:22px 0 12px}.result-count{font:.68rem var(--mono);color:var(--muted)}.clear{border:0;background:none;color:var(--accent);font:.68rem var(--mono);cursor:pointer}.clear[hidden]{display:none}.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}.game-card{position:relative;display:flex;min-height:174px;flex-direction:column;justify-content:space-between;overflow:hidden;border:1px solid var(--line);border-radius:12px;padding:15px;background:var(--panel);color:var(--text);text-decoration:none}.game-card:hover,.game-card.selected{border-color:var(--accent)}.game-card.selected{outline:2px solid var(--accent);outline-offset:2px}.game-family{position:relative;z-index:1;max-width:75%;color:var(--gold);font:.58rem var(--mono);text-transform:uppercase}.game-title{position:relative;z-index:1;max-width:84%;margin:22px 0 8px;font:700 clamp(1.75rem,3vw,2.45rem)/.82 var(--display);text-transform:uppercase;text-wrap:balance}.game-meta{position:relative;z-index:1;color:var(--muted);font:.59rem var(--mono)}.game-face{position:absolute;right:-22px;bottom:-35px;width:105px;opacity:.24;transform:rotate(-9deg);pointer-events:none}.empty{grid-column:1/-1;border:1px solid var(--line);border-radius:12px;padding:38px;text-align:center;color:var(--muted)}
-.reader{width:min(820px,100%);margin:auto;padding-top:28px}.reader-tools{display:flex;justify-content:space-between;align-items:center}.back,.search-link{color:var(--muted);font:.67rem var(--mono);text-decoration:none}.reader .eyebrow{margin-top:48px}.reader-title{margin:0;font:700 clamp(4rem,12vw,7.5rem)/.78 var(--display);text-transform:uppercase;text-wrap:balance}.names,.versions{display:flex;gap:7px;overflow:auto;padding:4px 0;scrollbar-width:none}.names{margin:22px 0}.name,.version{flex:0 0 auto;border:1px solid var(--line);border-radius:999px;padding:7px 10px;font:.62rem var(--mono)}.version{text-decoration:none}.version.on{border-color:var(--gold);background:var(--gold);color:var(--ink)}.rule-note{margin:22px 0 0;color:var(--muted);font:.62rem var(--mono)}.rule-card{margin-top:12px;border-radius:18px;background:var(--paper);color:var(--ink);padding:clamp(24px,5vw,54px)}.rule-card p{font-size:1.05rem;line-height:1.65;text-wrap:pretty}.rule-card h2{margin:38px 0 12px;font:700 2.2rem/.9 var(--display);text-transform:uppercase;text-wrap:balance}.rule-card h3{font:700 1.5rem var(--display)}.rule-card a{color:#075d6e}
-@media(max-width:900px){.grid{grid-template-columns:repeat(3,minmax(0,1fr))}.filterbar{grid-template-columns:1fr}.filter-group{overflow:auto;scrollbar-width:none}}
-@media(max-width:650px){.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.game-card{min-height:154px;padding:12px}.game-title{font-size:1.72rem}.game-face{width:88px}.query{font-size:clamp(3.3rem,17vw,5.4rem)}.filter-label{display:none}.chips{overflow:auto}.library-count{display:none}}
-@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+:root{--black:#0b0c0f;--black-2:#14161b;--paper:#ece9df;--paper-2:#f7f4eb;--ink:#17181b;--muted:#83858b;--line:#2b2e35;--line-light:#c8c4b9;--red:#f04d32;--sans:'Archivo',sans-serif;--mono:'IBM Plex Mono',monospace}
+@view-transition{navigation:auto}::view-transition-old(root){animation:page-out .28s cubic-bezier(.4,0,1,1) both}::view-transition-new(root){animation:page-in .55s cubic-bezier(.16,1,.3,1) both}
+*{box-sizing:border-box}html{background:var(--black)}body{margin:0;min-height:100dvh;background:var(--black);color:var(--paper);font-family:var(--sans);font-size:16px}button,input,select{font:inherit}a{color:inherit}.top{position:relative;z-index:4;display:flex;align-items:center;justify-content:space-between;height:64px;padding:0 clamp(18px,3vw,42px);border-bottom:1px solid var(--line);background:var(--black)}.brand{flex:0 0 auto;font:500 .72rem var(--mono);text-decoration:none}.brand strong{color:var(--red);font:700 1rem var(--sans)}.library-count{flex:0 0 auto;color:var(--muted);font:.66rem var(--mono);font-variant-numeric:tabular-nums}.catalog-top{position:sticky;top:0;height:78px;overflow:hidden;padding:0;background:rgba(11,12,15,.96)}.header-idle,.header-search{position:absolute;inset:0;display:flex;align-items:center;gap:18px;padding:0 clamp(18px,2.7vw,40px);transition:opacity .5s cubic-bezier(.16,1,.3,1),transform .65s cubic-bezier(.16,1,.3,1)}.header-controls{display:flex;align-items:center;gap:16px;min-width:0;margin-left:auto}.header-family,.header-filter{display:flex;align-items:center;gap:7px;white-space:nowrap}.header-family>span,.header-filter>span{color:#747780;font:.55rem var(--mono)}.header-family .select{width:155px;height:32px;padding-right:20px}.header-controls .chip{min-height:30px;padding:0 8px;font-size:.58rem}.header-clear,.search-open,.search-close{flex:0 0 auto;border:0;background:none;color:#a6a8ad;cursor:pointer;font:.61rem var(--mono)}.header-clear{color:var(--red)}.header-clear[hidden]{display:none}.search-open{border-bottom:1px solid #686b73;padding:7px 0}.search-open kbd{margin-left:4px;color:var(--red);font:inherit}.header-search{pointer-events:none;opacity:0;transform:translate3d(0,22px,0) scale(.985)}.catalog-top.searching .header-idle{pointer-events:none;opacity:0;transform:translate3d(0,-22px,0) scale(.985)}.catalog-top.searching .header-search{pointer-events:auto;opacity:1;transform:none}.search-mark{color:var(--red);font-size:1.8rem}.header-search .query{min-width:0;flex:1;border:0;padding:0;background:transparent;color:var(--paper);caret-color:var(--red);font:500 clamp(1.4rem,3vw,2.8rem)/1 var(--sans);animation:none}.header-search .query::placeholder{color:#656871}.header-result{flex:0 0 auto;color:#777a82;font:.61rem var(--mono)}.search-close{width:34px;height:34px;border:1px solid #3c3f47;font-size:1.15rem;transition:transform .4s cubic-bezier(.16,1,.3,1),border-color .3s cubic-bezier(.16,1,.3,1)}.search-close:hover{border-color:var(--paper);transform:rotate(90deg)}
+.library{position:relative;min-height:calc(100dvh - 78px);isolation:isolate}.stage{position:fixed;z-index:0;inset:78px 0 0;pointer-events:none;background:var(--black)}.stage canvas{display:block;width:100%;height:100%}.select{border:0;border-bottom:1px solid var(--line);border-radius:0;background:transparent;color:var(--paper);outline:none;font:.64rem var(--mono)}.select:focus{border-color:var(--red)}.select option{background:var(--black-2)}.switches{display:flex;gap:3px}.chip{min-height:34px;border:1px solid var(--line);border-radius:0;padding:0 10px;background:rgba(11,12,15,.72);color:#a6a8ad;cursor:pointer;font:.64rem var(--mono);transition:transform .35s cubic-bezier(.16,1,.3,1),border-color .35s cubic-bezier(.16,1,.3,1),background-color .35s cubic-bezier(.16,1,.3,1)}.chip:hover{border-color:#6d7077;color:var(--paper);transform:translateY(-2px)}.chip:active{transform:scale(.96)}.chip.on{border-color:var(--paper);background:var(--paper);color:var(--ink)}.chip:focus-visible,.select:focus-visible,.game-card:focus-visible,.query:focus-visible{outline:2px solid var(--red);outline-offset:2px}
+.collection{position:relative;z-index:1;min-width:0;padding:26px clamp(18px,2.6vw,38px) 70px;background:rgba(11,12,15,.54)}.collection-head{display:flex;align-items:end;justify-content:space-between;margin-bottom:18px;animation:command-in .7s .1s cubic-bezier(.16,1,.3,1) both}.collection-title{margin:0;font:500 clamp(1.35rem,2.2vw,2.2rem)/1 var(--sans);letter-spacing:-.035em}.result-count{color:var(--muted);font:.63rem var(--mono);font-variant-numeric:tabular-nums}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}.game-card{--tilt:0deg;--rx:0deg;--ry:0deg;--lift:0px;position:relative;display:flex;aspect-ratio:4/5;min-height:218px;flex-direction:column;justify-content:space-between;overflow:hidden;border:1px solid rgba(70,74,84,.8);padding:15px;background:rgba(20,22,27,.88);color:var(--paper);text-decoration:none;transform:perspective(900px) translate3d(0,var(--lift),0) rotateX(var(--rx)) rotateY(var(--ry)) rotateZ(var(--tilt));transform-style:preserve-3d;transition:transform .55s cubic-bezier(.16,1,.3,1),border-color .4s cubic-bezier(.16,1,.3,1),background-color .4s cubic-bezier(.16,1,.3,1)}.game-card:nth-child(3n+1){--tilt:-.35deg}.game-card:nth-child(3n+3){--tilt:.35deg}.game-card:hover{--lift:-7px;z-index:1;border-color:#878b95;background:rgba(25,27,33,.96)}.game-card:active{--lift:-2px}.game-card.selected{border-color:var(--red);outline:1px solid var(--red);outline-offset:-3px}.game-card.reveal{animation:card-in .72s var(--delay,0ms) cubic-bezier(.16,1,.3,1) both}.card-top{position:relative;z-index:1;display:flex;justify-content:space-between;gap:12px;transform:translateZ(25px)}.card-index{color:var(--red);font:.6rem var(--mono);font-variant-numeric:tabular-nums}.game-family{max-width:75%;color:#94979e;text-align:right;font:.56rem/1.35 var(--mono)}.game-title{position:relative;z-index:1;max-width:90%;margin:auto 0 12px;font:600 clamp(1.55rem,2.7vw,2.75rem)/.88 var(--sans);letter-spacing:-.055em;text-wrap:balance;transform:translateZ(36px)}.game-meta{position:relative;z-index:1;padding-top:10px;border-top:1px solid #32353d;color:#94979e;font:.57rem/1.4 var(--mono);transform:translateZ(22px)}.game-face{position:absolute;right:-16%;bottom:13%;width:58%;opacity:.18;transform:translate3d(var(--img-x,0px),var(--img-y,0px),30px) rotate(9deg);pointer-events:none;transition:transform .55s cubic-bezier(.16,1,.3,1),opacity .4s cubic-bezier(.16,1,.3,1)}.game-card:hover .game-face,.game-card.selected .game-face{opacity:.34;transform:translate3d(var(--img-x,0px),calc(var(--img-y,0px) - 6px),30px) rotate(3deg)}.empty{grid-column:1/-1;border-top:1px solid var(--line);padding:40px 0;color:var(--muted);font:.75rem var(--mono)}.load-more{grid-column:1/-1;min-height:58px;border:1px solid var(--line);background:rgba(11,12,15,.82);color:#a6a8ad;cursor:pointer;font:.65rem var(--mono);transition:transform .35s cubic-bezier(.16,1,.3,1),border-color .35s cubic-bezier(.16,1,.3,1),color .35s cubic-bezier(.16,1,.3,1)}.load-more:hover{border-color:var(--paper);color:var(--paper);transform:translateY(-2px)}
+.reader-shell{width:min(1040px,100%);margin:auto;padding:30px clamp(18px,4vw,50px) 80px}.reader-tools{display:flex;justify-content:space-between}.back,.search-link{color:var(--muted);font:.65rem var(--mono);text-decoration:none}.reader-head{margin:72px 0 32px;view-transition-name:rule-title}.reader-label{margin:0 0 12px;color:var(--red);font:.64rem var(--mono)}.reader-title{max-width:900px;margin:0;font:600 clamp(3.8rem,10vw,8rem)/.82 var(--sans);letter-spacing:-.07em;text-wrap:balance}.names,.versions{display:flex;gap:5px;overflow:auto;padding:4px 0;scrollbar-width:none}.names{margin:25px 0}.name,.version{flex:0 0 auto;border:1px solid var(--line);padding:7px 9px;color:#a6a8ad;font:.61rem var(--mono);text-decoration:none}.version.on{border-color:var(--paper);background:var(--paper);color:var(--ink)}.rule-note{margin:24px 0 10px;color:var(--muted);font:.61rem var(--mono)}.rule-card{background:var(--paper-2);color:var(--ink);padding:clamp(24px,6vw,68px);animation:rule-in .8s .08s cubic-bezier(.16,1,.3,1) both}.rule-card p{max-width:68ch;font-size:1.05rem;line-height:1.68;text-wrap:pretty}.rule-card h2{max-width:20ch;margin:42px 0 14px;font:600 2.25rem/.95 var(--sans);letter-spacing:-.035em;text-wrap:balance}.rule-card h3{font:600 1.4rem var(--sans)}.rule-card a{color:#9d301e}.wiki-reveal{opacity:0;transform:translate3d(0,24px,0);transition:opacity .7s cubic-bezier(.16,1,.3,1),transform .7s cubic-bezier(.16,1,.3,1)}.wiki-reveal.visible{opacity:1;transform:none}
+.wiki-toc{margin:0 0 46px;border-block:1px solid var(--line-light);padding:16px 0}.wiki-toc summary{display:flex;justify-content:space-between;cursor:pointer;font:600 .78rem var(--mono);list-style:none}.wiki-toc summary::-webkit-details-marker{display:none}.wiki-toc summary span{color:#777970;font-weight:400}.wiki-toc ol{columns:2;column-gap:40px;margin:18px 0 2px;padding:0;list-style:none}.wiki-toc li{break-inside:avoid;margin:0 0 7px}.wiki-toc li.level-3{padding-left:16px}.wiki-toc a{color:#54564f;text-decoration:none;font:.72rem/1.4 var(--mono)}.wiki-toc a:hover{color:var(--red)}
+.wiki-meta{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));margin:0 0 42px;border-top:1px solid var(--line-light)}.wiki-meta div{display:grid;grid-template-columns:minmax(100px,.8fr) 1.2fr;border-bottom:1px solid var(--line-light);padding:10px 12px 10px 0}.wiki-meta dt{color:#73756e;font:.63rem var(--mono)}.wiki-meta dd{margin:0;font-size:.85rem}.wiki-content h2,.wiki-content h3{scroll-margin-top:24px}.heading-anchor{margin-left:9px;opacity:0;text-decoration:none;font:.65em var(--mono)}.wiki-content h2:hover .heading-anchor,.wiki-content h3:hover .heading-anchor,.heading-anchor:focus{opacity:1}.wiki-game-link,.wiki-link{color:#9d301e;text-decoration-thickness:1px;text-underline-offset:3px}.wiki-content ul,.wiki-content ol{max-width:68ch;padding-left:1.4rem}.wiki-content li{margin:.55rem 0;line-height:1.58}.wiki-content hr{margin:38px 0;border:0;border-top:1px solid var(--line-light)}.wiki-content blockquote{max-width:68ch;margin:24px 0;border-left:3px solid var(--red);padding:4px 0 4px 18px;color:#54564f}.wiki-content code{border:1px solid var(--line-light);padding:1px 4px;font:.86em var(--mono)}.wiki-content table{display:block;max-width:100%;margin:24px 0;border-collapse:collapse;overflow-x:auto}.wiki-content td{border:1px solid var(--line-light);padding:10px 12px;vertical-align:top}.wiki-card{height:3.5em;width:auto;margin:2px 3px;vertical-align:middle;border:1px solid #b9b5aa}.wiki-content td .wiki-card{height:4.3em}.source-ref{margin-left:2px;text-decoration:none;font:.7em var(--mono)}.wiki-sources{margin-top:58px;padding-top:20px;border-top:2px solid var(--ink)}.wiki-sources h2{margin-top:0}.wiki-sources ol{padding-left:1.2rem}.wiki-sources li{padding:7px 0;border-bottom:1px solid var(--line-light)}.wiki-sources a{display:inline-block}.wiki-sources small{display:block;margin-top:3px;color:#777970;font:.6rem var(--mono)}
+@media(max-width:1050px){.library{grid-template-columns:310px 1fr}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.game-title{font-size:clamp(1.55rem,3.2vw,2.5rem)}}
+@keyframes command-in{from{opacity:0;transform:translate3d(0,22px,0)}to{opacity:1;transform:none}}@keyframes card-in{from{opacity:0;transform:perspective(900px) translate3d(0,30px,0) rotateX(6deg) scale(.96)}to{opacity:1;transform:perspective(900px) translate3d(0,0,0) rotateX(0) scale(1)}}@keyframes rule-in{from{opacity:0;transform:translate3d(0,34px,0)}to{opacity:1;transform:none}}@keyframes page-out{to{opacity:0;transform:scale(.985)}}@keyframes page-in{from{opacity:0;transform:translate3d(0,18px,0)}}
+@media(max-width:720px){.library{display:block}.command{position:relative;min-height:auto;border-right:0;border-bottom:1px solid var(--line);padding:32px 18px 26px;background:rgba(11,12,15,.72)}.stage{position:fixed;inset:64px 0 auto;height:calc(100dvh - 64px);opacity:.72}.query{max-width:560px;font-size:clamp(2.5rem,12vw,4rem)}.instruction{margin-bottom:24px}.filter-stack{grid-template-columns:1fr;gap:15px}.collection{padding:22px 12px 60px}.grid{gap:6px}.game-card{min-height:190px;padding:12px}.game-title{font-size:clamp(1.35rem,6vw,2rem)}.game-family{font-size:.5rem}.library-count{display:none}}
+@media(max-width:720px){.wiki-toc ol{columns:1}.wiki-meta{grid-template-columns:1fr}.wiki-card{height:3em}}
+@media(max-width:430px){.game-card{aspect-ratio:3/4;min-height:170px}.game-meta{font-size:.51rem}.card-index{display:none}}
+.collection{width:min(1540px,100%);margin:auto;padding:28px clamp(16px,2.6vw,42px) 70px}.grid{grid-template-columns:repeat(4,minmax(0,1fr))}
+@media(max-width:1200px){.grid{grid-template-columns:repeat(3,minmax(0,1fr))}.header-filter>span,.header-family>span{display:none}.header-controls{gap:8px}.header-family .select{width:130px}}
+@media(max-width:860px){.catalog-top{height:118px}.header-idle{align-content:center;flex-wrap:wrap;gap:8px 12px;padding-block:10px}.header-controls{order:3;width:100%;overflow-x:auto;margin:0;padding-bottom:2px;scrollbar-width:none}.header-clear{margin-left:auto}.catalog-top .library-count{display:none}.header-search{padding-inline:16px}.header-search .query{font-size:clamp(1.2rem,5vw,2rem);color:var(--paper)}.library{min-height:calc(100dvh - 118px)}.stage{inset:118px 0 0}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:520px){.catalog-top{height:126px}.search-open{margin-left:auto}.header-controls .chip{padding-inline:7px}.header-result{display:none}.stage{inset:126px 0 0}.collection{padding-inline:8px}.collection-head{padding-inline:4px}}
+@media(prefers-reduced-motion:reduce){::view-transition-group(*),.game-card,.game-face,.chip,.wiki-reveal{transition:none!important;animation:none!important}.game-card:hover{transform:none}.game-card.reveal,.index-label,.query,.instruction,.filter-stack,.collection-head,.rule-card{animation:none}.wiki-reveal{opacity:1;transform:none}}
 </style>
 <body>
-<main class="shell">
-  <header class="top">
-    <a class="brand" href="?"><b>PK</b> / cartes & règles</a>
-    <span class="library-count"><?= $total ?> jeux · <?= $totalVersions ?> règles</span>
-  </header>
-
 <?php if (!$slug): ?>
-  <section class="library" id="library">
-    <div class="hero">
-      <p class="eyebrow">Bibliothèque complète</p>
-      <input class="query" id="query" type="search" placeholder="À quoi joue-t-on ?" autocomplete="off" spellcheck="false" aria-label="Rechercher un jeu">
-      <p class="instruction">Tape n'importe où · flèches pour naviguer · entrée pour ouvrir · échap pour effacer</p>
+<header class="top catalog-top" id="catalogTop">
+  <div class="header-idle">
+    <a class="brand" href="?"><strong>PK</strong> / index</a>
+    <div class="header-controls" aria-label="Filtres">
+      <label class="header-family"><span>Famille</span><select class="select" id="family"><option value="">Toutes</option><?php foreach ($families as $f): ?><option value="<?= e($f['family']) ?>"><?= e($f['family']) ?> — <?= $f['n'] ?></option><?php endforeach; ?></select></label>
+      <div class="header-filter"><span>Joueurs</span><div class="switches" id="players"><button class="chip on" data-value="">Tous</button><button class="chip" data-value="1">Solo</button><button class="chip" data-value="2">2</button><button class="chip" data-value="3-4">3–4</button><button class="chip" data-value="5+">5+</button></div></div>
+      <div class="header-filter"><span>Niveau</span><div class="switches" id="difficulty"><button class="chip on" data-value="">Tous</button><button class="chip" data-value="Facile">Facile</button><button class="chip" data-value="Moyenne">Moyen</button><button class="chip" data-value="Difficile">Difficile</button></div></div>
     </div>
-
-    <div class="filterbar" aria-label="Filtres">
-      <label class="filter-group"><span class="filter-label">Famille</span><select class="select" id="family"><option value="">Toutes les familles</option><?php foreach ($families as $f): ?><option value="<?= e($f['family']) ?>"><?= e($f['family']) ?> (<?= $f['n'] ?>)</option><?php endforeach; ?></select></label>
-      <div class="filter-group"><span class="filter-label">Joueurs</span><div class="chips" id="players"><button class="chip on" data-value="">Tous</button><button class="chip" data-value="1">Solo</button><button class="chip" data-value="2">2</button><button class="chip" data-value="3-4">3–4</button><button class="chip" data-value="5+">5+</button></div></div>
-      <div class="filter-group"><span class="filter-label">Niveau</span><div class="chips" id="difficulty"><button class="chip on" data-value="">Tous</button><button class="chip" data-value="Facile">Facile</button><button class="chip" data-value="Moyenne">Moyen</button><button class="chip" data-value="Difficile">Difficile</button></div></div>
-    </div>
-
-    <div class="result-head"><span class="result-count" id="count"></span><button class="clear" id="clear" hidden>Tout effacer</button></div>
+    <button class="header-clear" id="clear" hidden>Effacer</button>
+    <button class="search-open" id="searchOpen">Rechercher <kbd>/</kbd></button>
+    <span class="library-count"><?= $total ?> jeux</span>
+  </div>
+  <div class="header-search">
+    <span class="search-mark">⌕</span>
+    <input class="query" id="query" type="search" placeholder="Chercher un jeu ou une variante…" autocomplete="off" spellcheck="false" aria-label="Rechercher un jeu">
+    <span class="header-result" id="headerResult"><?= $total ?> résultats</span>
+    <button class="search-close" id="searchClose" aria-label="Fermer la recherche">×</button>
+  </div>
+</header>
+<main class="library" id="library">
+  <div class="stage" id="stage" aria-hidden="true"></div>
+  <section class="collection">
+    <header class="collection-head"><h1 class="collection-title">Jeux de cartes</h1><span class="result-count" id="count"></span></header>
     <div class="grid" id="grid"></div>
   </section>
-<?php else: ?>
-  <section class="reader">
-    <div class="reader-tools"><a class="back" href="?">← Bibliothèque</a><a class="search-link" href="?" id="searchLink">⌕ Rechercher</a></div>
-    <p class="eyebrow">Une fiche · plusieurs traditions</p>
-    <h1 class="reader-title"><?= e($game['title']) ?></h1>
-    <div class="names"><?php foreach ($names as $name): ?><span class="name"><?= e($name) ?></span><?php endforeach; ?></div>
-    <nav class="versions" aria-label="Versions de la règle"><?php foreach ($versions as $v): ?><a class="version <?= $current && $v['id'] == $current['id'] ? 'on' : '' ?>" href="?game=<?= e($slug) ?>&version=<?= $v['id'] ?>"><?= e($v['source']) ?> · <?= e($v['language']) ?><?= $v['status'] === 'primary' ? ' ★' : '' ?></a><?php endforeach; ?></nav>
-    <?php if ($current): ?><p class="rule-note">Version <?= e($current['status']) ?> · source <?= e($current['source']) ?></p><article class="rule-card"><?= html(Library::content($current['markdown_path'])) ?></article><?php else: ?><article class="rule-card"><p>Cette fiche n'a pas encore de règle liée.</p></article><?php endif; ?>
-  </section>
-<?php endif; ?>
 </main>
+<?php else: ?>
+<header class="top"><a class="brand" href="?"><strong>PK</strong> / index des jeux</a><span class="library-count"><?= $total ?> jeux · <?= $totalVersions ?> textes</span></header>
+<main class="reader-shell">
+  <div class="reader-tools"><a class="back" href="?">← Index</a><a class="search-link" href="?" id="searchLink">Rechercher /</a></div>
+  <header class="reader-head"><p class="reader-label">Une fiche, plusieurs traditions</p><h1 class="reader-title"><?= e($game['title']) ?></h1></header>
+  <?php if ($names): ?><div class="names"><?php foreach ($names as $name): $anchor = $sectionAnchors[wiki_key((string)$name)] ?? null; ?><?php if ($anchor): ?><a class="name" href="#<?= e($anchor) ?>"><?= e($name) ?></a><?php else: ?><span class="name"><?= e($name) ?></span><?php endif; ?><?php endforeach; ?></div><?php endif; ?>
+  <nav class="versions" aria-label="Versions de la règle"><?php foreach ($versions as $v): ?><a class="version <?= $current && $v['id'] == $current['id'] ? 'on' : '' ?>" href="?game=<?= e($slug) ?>&version=<?= $v['id'] ?>"><?= e(ucfirst($v['source'])) ?> · <?= $v['language'] === 'fr' ? 'français' : e($v['language']) ?><?= $v['status'] === 'primary' ? ' ★' : '' ?></a><?php endforeach; ?></nav>
+  <?php if ($current): ?><p class="rule-note"><?= $current['status'] === 'primary' ? 'Texte principal' : 'Texte alternatif' ?> · source : <?= e(ucfirst($current['source'])) ?></p><article class="rule-card"><?= wiki_markdown($currentMarkdown, $slug, $canonicalSources) ?></article><?php else: ?><article class="rule-card"><p>Cette fiche n'a pas encore de règle liée.</p></article><?php endif; ?>
+</main>
+<?php endif; ?>
 
 <script>
 const CAT = <?= json_encode($catalog, JSON_UNESCAPED_UNICODE | JSON_HEX_TAG | JSON_HEX_AMP) ?>;
@@ -58,100 +71,76 @@ const STORAGE = 'pkcards-library-v4';
 const norm = value => String(value ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 
 if (HOME) {
-  const query = document.getElementById('query');
-  const family = document.getElementById('family');
-  const grid = document.getElementById('grid');
-  const count = document.getElementById('count');
-  const clear = document.getElementById('clear');
+  const query = document.getElementById('query'), family = document.getElementById('family'), grid = document.getElementById('grid'), count = document.getElementById('count'), clear = document.getElementById('clear'), top = document.getElementById('catalogTop'), headerResult = document.getElementById('headerResult');
   const faces = ['01-coeur.png','V-pique.png','D-carreau.png','R-pique.png','07-trefle.png','D-coeur.png','10-pique.png','V-coeur.png'];
-  let state = { q:'', family:'', players:'', difficulty:'', selected:-1 };
+  let state = { q:'', family:'', players:'', difficulty:'', selected:-1, limit:120 };
   try { state = { ...state, ...JSON.parse(sessionStorage.getItem(STORAGE) || '{}') }; } catch (_) {}
   CAT.forEach(game => game.haystack = norm([game.t, ...game.n].join(' ')));
-
-  const escapeHtml = value => String(value ?? '').replace(/[&<>"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[char]));
-  const matchesPlayers = game => {
-    if (!state.players) return true;
-    if (state.players === '1') return game.mi <= 1 && game.ma >= 1;
-    if (state.players === '2') return game.mi <= 2 && game.ma >= 2;
-    if (state.players === '3-4') return game.mi <= 4 && game.ma >= 3;
-    return game.ma >= 5;
-  };
+  const esc = value => String(value ?? '').replace(/[&<>"]/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[char]));
+  const matchesPlayers = game => !state.players || state.players === '1' && game.mi <= 1 && game.ma >= 1 || state.players === '2' && game.mi <= 2 && game.ma >= 2 || state.players === '3-4' && game.mi <= 4 && game.ma >= 3 || state.players === '5+' && game.ma >= 5;
+  const openSearch=()=>{if(top.classList.contains('searching'))return;top.classList.add('searching');dispatchEvent(new CustomEvent('pkcards:searchmode',{detail:{open:true}}));requestAnimationFrame(()=>query.focus())};
+  const closeSearch=()=>{state.q='';state.limit=120;query.value='';state.selected=-1;top.classList.remove('searching');query.blur();dispatchEvent(new CustomEvent('pkcards:searchmode',{detail:{open:false}}));render()};
   const save = () => sessionStorage.setItem(STORAGE, JSON.stringify({ ...state, selected:-1, scroll:scrollY }));
-  const filtered = () => {
-    const needle = norm(state.q.trim());
-    return CAT.filter(game => (!needle || game.haystack.includes(needle)) && (!state.family || game.f.includes(state.family)) && matchesPlayers(game) && (!state.difficulty || game.d === state.difficulty));
-  };
-  const paintSelection = () => {
-    const cards = [...grid.querySelectorAll('.game-card')];
-    cards.forEach((card, index) => card.classList.toggle('selected', index === state.selected));
-    cards[state.selected]?.scrollIntoView({ block:'nearest' });
-  };
+  const filtered = () => { const needle=norm(state.q.trim()); return CAT.filter(game => (!needle || game.haystack.includes(needle)) && (!state.family || game.f.includes(state.family)) && matchesPlayers(game) && (!state.difficulty || game.d === state.difficulty)); };
+  const paintSelection = () => { const cards=[...grid.querySelectorAll('.game-card')]; cards.forEach((card,index)=>card.classList.toggle('selected',index===state.selected)); cards[state.selected]?.scrollIntoView({block:'nearest'}); };
   const render = () => {
-    const games = filtered();
-    state.selected = Math.min(state.selected, games.length - 1);
-    if (state.q && games.length && state.selected < 0) state.selected = 0;
-    count.textContent = `${games.length} jeu${games.length > 1 ? 'x' : ''} sur ${CAT.length}`;
-    clear.hidden = !state.q && !state.family && !state.players && !state.difficulty;
-    document.getElementById('library').classList.toggle('is-filtering', !clear.hidden);
-    grid.innerHTML = games.length ? games.map((game, index) => `<a class="game-card" href="?game=${encodeURIComponent(game.slug)}" data-index="${index}"><span class="game-family">${escapeHtml(game.f.slice(0,2).join(' · ') || game.ty || 'Jeu de cartes')}</span><strong class="game-title">${escapeHtml(game.t)}</strong><span class="game-meta">${escapeHtml(game.p || 'Joueurs à préciser')} · ${game.v} règle${game.v > 1 ? 's' : ''}</span><img class="game-face" src="?card=${faces[index % faces.length]}" alt="" aria-hidden="true" loading="lazy"></a>`).join('') : '<p class="empty">Aucun jeu ne correspond. Efface un filtre pour élargir la sélection.</p>';
-    paintSelection();
-    save();
+    const games=filtered(),shown=games.slice(0,state.limit);state.selected=Math.min(state.selected,shown.length-1);if(state.q&&shown.length&&state.selected<0)state.selected=0;
+    count.textContent=`${games.length} / ${CAT.length}`;headerResult.textContent=`${games.length} résultat${games.length>1?'s':''}`;clear.hidden=!state.q&&!state.family&&!state.players&&!state.difficulty;
+    grid.innerHTML=games.length?shown.map((game,index)=>{const type=!game.ty||['pagat','Règle classique','Règle maison'].includes(game.ty)?'Jeu de cartes':game.ty;const reveal=index<36?' reveal':'';return `<a class="game-card${reveal}" style="--delay:${Math.min(index,18)*24}ms" href="?game=${encodeURIComponent(game.slug)}"><span class="card-top"><span class="card-index">${String(index+1).padStart(3,'0')}</span><span class="game-family">${esc(game.f.slice(0,2).join(' · ')||type)}</span></span><strong class="game-title">${esc(game.t)}</strong><span class="game-meta">${esc(game.p||'Joueurs à préciser')}<br>${game.v} texte${game.v>1?'s':''}</span><img class="game-face" src="?card=${faces[index%faces.length]}" alt="" aria-hidden="true" loading="lazy"></a>`}).join('')+(shown.length<games.length?`<button class="load-more">Afficher les ${Math.min(120,games.length-shown.length)} jeux suivants</button>`:''):'<p class="empty">Aucun résultat. Retire un filtre pour élargir la recherche.</p>';
+    grid.querySelectorAll('.reveal').forEach(card=>card.addEventListener('animationend',()=>card.classList.remove('reveal'),{once:true}));grid.querySelector('.load-more')?.addEventListener('click',()=>{state.limit+=120;render()});
+    dispatchEvent(new CustomEvent('pkcards:filter',{detail:{query:state.q,count:games.length}}));paintSelection();save();
   };
-  const setChip = (group, value) => {
-    state[group] = value;
-    document.querySelectorAll(`#${group} .chip`).forEach(chip => chip.classList.toggle('on', chip.dataset.value === value));
-    state.selected = -1;
-    render();
-  };
-
-  query.value = state.q;
-  family.value = state.family;
-  setChip('players', state.players);
-  setChip('difficulty', state.difficulty);
-  query.addEventListener('input', () => { state.q = query.value; state.selected = -1; render(); });
-  family.addEventListener('change', () => { state.family = family.value; state.selected = -1; render(); });
-  document.getElementById('players').addEventListener('click', event => { const chip = event.target.closest('.chip'); if (chip) setChip('players', chip.dataset.value); });
-  document.getElementById('difficulty').addEventListener('click', event => { const chip = event.target.closest('.chip'); if (chip) setChip('difficulty', chip.dataset.value); });
-  clear.addEventListener('click', () => { state = { q:'', family:'', players:'', difficulty:'', selected:-1 }; query.value=''; family.value=''; setChip('players',''); setChip('difficulty',''); query.focus(); });
-  grid.addEventListener('click', save);
-
-  document.addEventListener('keydown', event => {
-    const typing = event.target === query;
-    if (event.key === 'Escape') {
-      if (state.q) { state.q=''; query.value=''; state.selected=-1; render(); }
-      else if (state.family || state.players || state.difficulty) clear.click();
-      else query.blur();
-      return;
-    }
-    if (['INPUT','SELECT','TEXTAREA'].includes(event.target.tagName) && !typing) return;
-    const cards = [...grid.querySelectorAll('.game-card')];
-    if (event.key.startsWith('Arrow') && cards.length) {
-      event.preventDefault();
-      const columns = getComputedStyle(grid).gridTemplateColumns.split(' ').length;
-      if (state.selected < 0) state.selected = 0;
-      else if (event.key === 'ArrowRight') state.selected = Math.min(cards.length-1,state.selected+1);
-      else if (event.key === 'ArrowLeft') state.selected = Math.max(0,state.selected-1);
-      else if (event.key === 'ArrowDown') state.selected = Math.min(cards.length-1,state.selected+columns);
-      else state.selected = Math.max(0,state.selected-columns);
-      paintSelection();
-    } else if (event.key === 'Enter' && state.selected >= 0) {
-      event.preventDefault(); cards[state.selected]?.click();
-    } else if (!typing && !event.metaKey && !event.ctrlKey && !event.altKey && event.key.length === 1) {
-      event.preventDefault(); query.focus(); state.q += event.key; query.value = state.q; query.setSelectionRange(query.value.length,query.value.length); state.selected=-1; render();
-    }
+  const setChip=(group,value)=>{state[group]=value;state.limit=120;if(!state.q&&top.classList.contains('searching')){top.classList.remove('searching');query.blur();dispatchEvent(new CustomEvent('pkcards:searchmode',{detail:{open:false}}))}document.querySelectorAll(`#${group} .chip`).forEach(chip=>chip.classList.toggle('on',chip.dataset.value===value));state.selected=-1;render()};
+  query.value=state.q;family.value=state.family;setChip('players',state.players);setChip('difficulty',state.difficulty);
+  query.addEventListener('focus',openSearch);query.addEventListener('input',()=>{state.q=query.value;state.limit=120;state.selected=-1;render()});family.addEventListener('change',()=>{state.family=family.value;state.limit=120;if(!state.q&&top.classList.contains('searching')){top.classList.remove('searching');query.blur();dispatchEvent(new CustomEvent('pkcards:searchmode',{detail:{open:false}}))}state.selected=-1;render()});
+  document.getElementById('players').addEventListener('click',event=>{const chip=event.target.closest('.chip');if(chip)setChip('players',chip.dataset.value)}); document.getElementById('difficulty').addEventListener('click',event=>{const chip=event.target.closest('.chip');if(chip)setChip('difficulty',chip.dataset.value)});
+  clear.addEventListener('click',()=>{state={q:'',family:'',players:'',difficulty:'',selected:-1,limit:120};query.value='';family.value='';setChip('players','');setChip('difficulty','')});document.getElementById('searchOpen').addEventListener('click',openSearch);document.getElementById('searchClose').addEventListener('click',closeSearch);grid.addEventListener('click',save);
+  let tiltFrame=0,tiltEvent=null;
+  grid.addEventListener('pointermove',event=>{if(event.pointerType==='touch')return;tiltEvent=event;if(tiltFrame)return;tiltFrame=requestAnimationFrame(()=>{tiltFrame=0;const card=tiltEvent.target.closest('.game-card');if(!card)return;const box=card.getBoundingClientRect(),x=(tiltEvent.clientX-box.left)/box.width-.5,y=(tiltEvent.clientY-box.top)/box.height-.5;card.style.setProperty('--rx',`${-y*7}deg`);card.style.setProperty('--ry',`${x*9}deg`);card.style.setProperty('--img-x',`${x*10}px`);card.style.setProperty('--img-y',`${y*10}px`)})},{passive:true});
+  grid.addEventListener('pointerout',event=>{const card=event.target.closest('.game-card');if(card&&!card.contains(event.relatedTarget)){card.style.removeProperty('--rx');card.style.removeProperty('--ry');card.style.removeProperty('--img-x');card.style.removeProperty('--img-y')}});
+  document.addEventListener('keydown',event=>{
+    const typing=event.target===query;
+    if(event.key==='Escape'){if(state.q){state.q='';query.value='';state.selected=-1;render()}else if(top.classList.contains('searching'))closeSearch();else if(state.family||state.players||state.difficulty)clear.click();return}
+    if(['INPUT','SELECT','TEXTAREA'].includes(event.target.tagName)&&!typing)return;
+    const cards=[...grid.querySelectorAll('.game-card')];
+    if(event.key==='/'&&!typing){event.preventDefault();openSearch()}
+    else if(event.key.startsWith('Arrow')&&cards.length){event.preventDefault();const columns=getComputedStyle(grid).gridTemplateColumns.split(' ').length;if(state.selected<0)state.selected=0;else if(event.key==='ArrowRight')state.selected=Math.min(cards.length-1,state.selected+1);else if(event.key==='ArrowLeft')state.selected=Math.max(0,state.selected-1);else if(event.key==='ArrowDown')state.selected=Math.min(cards.length-1,state.selected+columns);else state.selected=Math.max(0,state.selected-columns);paintSelection()}
+    else if(event.key==='Enter'&&state.selected>=0){event.preventDefault();cards[state.selected]?.click()}
+    else if(!typing&&!event.metaKey&&!event.ctrlKey&&!event.altKey&&event.key.length===1){event.preventDefault();openSearch();state.q+=event.key;state.limit=120;query.value=state.q;query.setSelectionRange(query.value.length,query.value.length);state.selected=-1;requestAnimationFrame(()=>requestAnimationFrame(render))}
   });
-  render();
-  if (state.scroll) requestAnimationFrame(() => scrollTo(0,state.scroll));
-  if (sessionStorage.getItem('pkcards-focus-search')) { sessionStorage.removeItem('pkcards-focus-search'); query.focus(); }
+  render();if(state.q)openSearch();if(state.scroll)requestAnimationFrame(()=>scrollTo(0,state.scroll));if(sessionStorage.getItem('pkcards-focus-search')){sessionStorage.removeItem('pkcards-focus-search');openSearch()}
 } else {
-  document.getElementById('searchLink')?.addEventListener('click', () => sessionStorage.setItem('pkcards-focus-search','1'));
-  document.addEventListener('keydown', event => {
-    if (!event.metaKey && !event.ctrlKey && !event.altKey && event.key.length === 1 && !['INPUT','TEXTAREA'].includes(event.target.tagName)) {
-      sessionStorage.setItem(STORAGE, JSON.stringify({q:event.key,family:'',players:'',difficulty:'',selected:-1}));
-      location.href = '?';
-    }
-  });
+  document.getElementById('searchLink')?.addEventListener('click',()=>sessionStorage.setItem('pkcards-focus-search','1'));
+  if(!matchMedia('(prefers-reduced-motion: reduce)').matches){const targets=document.querySelectorAll('.wiki-content h2,.wiki-content h3,.wiki-content table,.wiki-content blockquote,.wiki-sources');const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('visible');observer.unobserve(entry.target)}}),{rootMargin:'0px 0px -8% 0px',threshold:.04});targets.forEach(target=>{target.classList.add('wiki-reveal');observer.observe(target)})}
+  document.addEventListener('keydown',event=>{if(!event.metaKey&&!event.ctrlKey&&!event.altKey&&event.key.length===1&&!['INPUT','TEXTAREA'].includes(event.target.tagName)){sessionStorage.setItem(STORAGE,JSON.stringify({q:event.key,family:'',players:'',difficulty:'',selected:-1}));location.href='?'}});
 }
 </script>
+<?php if (!$slug): ?>
+<script type="module">
+const stage=document.getElementById('stage');
+const reduced=matchMedia('(prefers-reduced-motion: reduce)'),coarse=matchMedia('(pointer: coarse)');
+if(stage&&!reduced.matches){
+  try{
+    const THREE=await import('https://unpkg.com/three@0.180.0/build/three.module.js');
+    const renderer=new THREE.WebGLRenderer({alpha:false,antialias:false,powerPreference:'high-performance'});renderer.setPixelRatio(Math.min(devicePixelRatio,coarse.matches?1:1.5));renderer.autoClear=false;stage.append(renderer.domElement);
+    const bgScene=new THREE.Scene(),bgCamera=new THREE.OrthographicCamera(-1,1,1,-1,0,1),bgUniforms={uTime:{value:0},uPointer:{value:new THREE.Vector2()},uEnergy:{value:0}};
+    const bgMaterial=new THREE.ShaderMaterial({depthWrite:false,depthTest:false,uniforms:bgUniforms,vertexShader:`varying vec2 vUv;void main(){vUv=uv;gl_Position=vec4(position,1.0);}`,fragmentShader:`precision highp float;varying vec2 vUv;uniform float uTime;uniform vec2 uPointer;uniform float uEnergy;float hash(vec2 p){return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453);}void main(){vec2 p=vUv-.5;float wave=sin((p.x*7.0+p.y*4.0)+uTime*.18)*.5+.5;float ring=.015/max(.02,abs(length(p-uPointer*.12)-(.26+sin(uTime*.11)*.035)));float grain=(hash(gl_FragCoord.xy+uTime)-.5)*.018;vec3 base=vec3(.026,.029,.038);vec3 red=vec3(.78,.12,.07);vec3 color=base+red*(wave*.018+ring*(.035+uEnergy*.025))+grain;gl_FragColor=vec4(color,1.0);}`});
+    const bgGeometry=new THREE.PlaneGeometry(2,2);bgScene.add(new THREE.Mesh(bgGeometry,bgMaterial));
+    const scene=new THREE.Scene(),camera=new THREE.PerspectiveCamera(36,1,.1,100);camera.position.z=10;const cardRoot=new THREE.Group();scene.add(cardRoot);
+    const createTexture=(rank,suit,red)=>{const canvas=document.createElement('canvas');canvas.width=256;canvas.height=356;const ctx=canvas.getContext('2d');ctx.fillStyle='#e9e5da';ctx.fillRect(0,0,256,356);ctx.strokeStyle='#14161b';ctx.lineWidth=5;ctx.strokeRect(9,9,238,338);ctx.fillStyle=red?'#d83d2a':'#17191e';ctx.font='600 48px Archivo';ctx.fillText(rank,24,62);ctx.font='64px serif';ctx.fillText(suit,22,120);ctx.globalAlpha=.14;ctx.font='170px serif';ctx.fillText(suit,78,260);const texture=new THREE.CanvasTexture(canvas);texture.colorSpace=THREE.SRGBColorSpace;return texture};
+    const textureDefs=[['A','♥',true],['K','♠',false],['Q','♦',true],['J','♣',false]],textures=textureDefs.map(def=>createTexture(...def));
+    const geometry=new THREE.PlaneGeometry(1.35,1.88),total=coarse.matches?10:28,perGroup=Math.ceil(total/textures.length),dummy=new THREE.Object3D(),groups=[],states=[];let seed=37;const random=()=>((seed=Math.imul(seed,48271)%2147483647)&2147483647)/2147483647;
+    textures.forEach((texture,groupIndex)=>{const count=Math.min(perGroup,total-groupIndex*perGroup);if(count<=0)return;const material=new THREE.MeshBasicMaterial({map:texture,transparent:true,opacity:coarse.matches?.12:.17,depthWrite:false,side:THREE.DoubleSide});const mesh=new THREE.InstancedMesh(geometry,material,count);mesh.frustumCulled=false;cardRoot.add(mesh);groups.push({mesh,material});const groupStates=[];for(let i=0;i<count;i++)groupStates.push({x:(random()-.5)*15,y:(random()-.5)*11,z:-1-random()*6,rx:(random()-.5)*.7,ry:(random()-.5)*.8,rz:(random()-.5)*1.5,scale:.55+random()*.75,phase:random()*6.283,speed:.3+random()*.45,drift:(random()-.5)*.45});states.push(groupStates)});
+    let pointerX=0,pointerY=0,smoothX=0,smoothY=0,energy=0,searchTarget=document.getElementById('catalogTop')?.classList.contains('searching')?1:0,searchMix=searchTarget,raf=0,running=true,last=performance.now();
+    const resize=()=>{const {width,height}=stage.getBoundingClientRect();if(!width||!height)return;renderer.setSize(width,height,false);camera.aspect=width/height;camera.updateProjectionMatrix()};
+    const draw=time=>{const seconds=time*.001,dt=Math.min(.05,(time-last)*.001);last=time;smoothX+=(pointerX-smoothX)*Math.min(1,dt*4);smoothY+=(pointerY-smoothY)*Math.min(1,dt*4);searchMix+=(searchTarget-searchMix)*Math.min(1,dt*3.5);energy*=Math.pow(.05,dt);bgUniforms.uTime.value=seconds;bgUniforms.uPointer.value.set(smoothX,smoothY);bgUniforms.uEnergy.value=Math.max(energy,searchMix*.72);cardRoot.rotation.y=smoothX*.13;cardRoot.rotation.x=-smoothY*.08;cardRoot.rotation.z=searchMix*.035;cardRoot.scale.setScalar(1+searchMix*.08);groups.forEach((group,g)=>{states[g].forEach((card,i)=>{const t=seconds*card.speed*(1+searchMix*.45);dummy.position.set(card.x*(1+searchMix*.06)+Math.sin(t+card.phase)*(.35+searchMix*.12)+smoothX*.7,card.y+Math.cos(t*.8+card.phase)*(.3+searchMix*.1)+smoothY*.45,card.z+searchMix*1.1);dummy.rotation.set(card.rx+Math.sin(t*.7)*.08,card.ry+Math.cos(t*.55)*.09,card.rz+t*card.drift*.08);dummy.scale.setScalar(card.scale*(1+energy*.025));dummy.updateMatrix();group.mesh.setMatrixAt(i,dummy.matrix)});group.mesh.instanceMatrix.needsUpdate=true});renderer.clear();renderer.render(bgScene,bgCamera);renderer.clearDepth();renderer.render(scene,camera);if(running)raf=requestAnimationFrame(draw)};
+    const pointer=event=>{pointerX=event.clientX/innerWidth-.5;pointerY=event.clientY/innerHeight-.5};const leave=()=>{pointerX=0;pointerY=0};const react=event=>{energy=Math.min(1,energy+.34+Math.min(1,event.detail.query.length/8)*.35)};const mode=event=>{searchTarget=event.detail.open?1:0;energy=1};
+    const visibility=()=>{running=!document.hidden;if(running){last=performance.now();cancelAnimationFrame(raf);raf=requestAnimationFrame(draw)}else cancelAnimationFrame(raf)};
+    const observer=new ResizeObserver(resize);observer.observe(stage);resize();if(!coarse.matches){addEventListener('pointermove',pointer,{passive:true});addEventListener('pointerleave',leave)}addEventListener('pkcards:filter',react);addEventListener('pkcards:searchmode',mode);document.addEventListener('visibilitychange',visibility);renderer.domElement.addEventListener('webglcontextlost',event=>{event.preventDefault();running=false;cancelAnimationFrame(raf);stage.dataset.fallback='true'});raf=requestAnimationFrame(draw);
+    addEventListener('pagehide',()=>{running=false;cancelAnimationFrame(raf);observer.disconnect();removeEventListener('pointermove',pointer);removeEventListener('pointerleave',leave);removeEventListener('pkcards:filter',react);removeEventListener('pkcards:searchmode',mode);document.removeEventListener('visibilitychange',visibility);geometry.dispose();bgGeometry.dispose();bgMaterial.dispose();groups.forEach(group=>group.material.dispose());textures.forEach(texture=>texture.dispose());renderer.dispose()},{once:true});
+  }catch(error){stage.dataset.fallback='true'}
+}
+</script>
+<?php endif; ?>
 </body>
 </html>
