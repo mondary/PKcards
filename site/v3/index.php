@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.28';
+const VERSION = '2026.08.29';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -216,10 +216,12 @@ class Vault {
       (slug,title,players,cards,difficulty,type,goal,category,color,excerpt,playerMin,playerMax,sort,is_clm)
       VALUES(?,?,?,?,?,?,?,?,?,?,?,?,?,?)');
     $gn = $db->prepare('INSERT OR IGNORE INTO game_names(slug,name) VALUES(?,?)');
+    $retired = self::retiredSlugs();
     $sort = (int)$db->query('SELECT COALESCE(MAX(sort), -1) + 1 FROM games')->fetchColumn();
     foreach (glob($dir . '/*.md') ?: [] as $file) {
       $slug = pathinfo($file, PATHINFO_FILENAME);
       if ($slug[0] === '_' || str_ends_with($slug, '-v3')) continue; // ponytail: -v3 = variantes en attente de tri, lever quand le dédoublonnage est fini
+      if (isset($retired[$slug])) continue;
       if ($db->query('SELECT 1 FROM games WHERE slug=' . $db->quote($slug))->fetchColumn()) continue;
       $md = file_get_contents($file) ?: '';
       if (!preg_match('/^#\s+(.+)$/m', $md, $titleMatch)) continue;
@@ -350,7 +352,17 @@ class Vault {
 
   static function retiredSlugs(): array {
     $applied = self::$pdo->query("SELECT 1 FROM kv WHERE path='/meta/catalog-version'")->fetchColumn();
-    return $applied ? array_fill_keys(array_keys(self::catalog()['duplicates'] ?? []), true) : [];
+    if (!$applied) return [];
+    $retired = array_fill_keys(array_keys(self::catalog()['duplicates'] ?? []), true);
+    foreach (self::catalog()['variants'] ?? [] as $vars) $retired += array_fill_keys(array_keys($vars), true);
+    return $retired;
+  }
+
+  /** Slug canonique d'une variante, si $slug en est une. */
+  static function variantOf(string $slug): ?string {
+    foreach (self::catalog()['variants'] ?? [] as $canonical => $vars)
+      if (isset($vars[$slug])) return $canonical;
+    return null;
   }
 
   /** Réconcilie une fois les noms et doublons sans écraser votes ni favoris. */
@@ -388,25 +400,33 @@ class Vault {
       $favorite = $db->prepare('INSERT OR IGNORE INTO favorites(email,game_id,created_at) SELECT email,?,created_at FROM favorites WHERE game_id=?');
       $links = $db->prepare('SELECT slug,related,rel,note FROM game_links WHERE slug=? OR related=?');
       $insertLink = $db->prepare('INSERT OR IGNORE INTO game_links(slug,related,rel,note) VALUES(?,?,?,?)');
-      foreach ($catalog['duplicates'] ?? [] as $duplicate => $canonical) {
-        $exists->execute([$duplicate]);
-        if (!$exists->fetchColumn()) continue;
-        $vote->execute([$canonical, $duplicate]);
-        $favorite->execute([$canonical, $duplicate]);
-        $db->prepare('UPDATE vote_log SET game_id=? WHERE game_id=?')->execute([$canonical, $duplicate]);
-        $links->execute([$duplicate, $duplicate]);
+      // Retire $dup : migre votes/favoris/liens vers le canonique, fusionne ses noms, supprime sa fiche.
+      $retire = function (string $dup, string $canonical) use ($db, $exists, $vote, $favorite, $links, $insertLink): void {
+        $exists->execute([$dup]);
+        if (!$exists->fetchColumn()) return;
+        $vote->execute([$canonical, $dup]);
+        $favorite->execute([$canonical, $dup]);
+        $db->prepare('UPDATE vote_log SET game_id=? WHERE game_id=?')->execute([$canonical, $dup]);
+        $links->execute([$dup, $dup]);
         $rows = $links->fetchAll();
-        $db->prepare('DELETE FROM game_links WHERE slug=? OR related=?')->execute([$duplicate, $duplicate]);
+        $db->prepare('DELETE FROM game_links WHERE slug=? OR related=?')->execute([$dup, $dup]);
         foreach ($rows as $row) {
-          $from = $row['slug'] === $duplicate ? $canonical : $row['slug'];
-          $to = $row['related'] === $duplicate ? $canonical : $row['related'];
+          $from = $row['slug'] === $dup ? $canonical : $row['slug'];
+          $to = $row['related'] === $dup ? $canonical : $row['related'];
           if ($from !== $to) $insertLink->execute([$from, $to, $row['rel'], $row['note']]);
         }
-        $db->prepare('DELETE FROM favorites WHERE game_id=?')->execute([$duplicate]);
-        $db->prepare('DELETE FROM votes WHERE game_id=?')->execute([$duplicate]);
-        $db->prepare('DELETE FROM game_names WHERE slug=?')->execute([$duplicate]);
-        $db->prepare('DELETE FROM games WHERE slug=?')->execute([$duplicate]);
-      }
+        $db->prepare('DELETE FROM favorites WHERE game_id=?')->execute([$dup]);
+        $db->prepare('DELETE FROM votes WHERE game_id=?')->execute([$dup]);
+        $db->prepare('INSERT OR IGNORE INTO game_names(slug,name) SELECT ?,name FROM game_names WHERE slug=?')->execute([$canonical, $dup]);
+        $db->prepare('DELETE FROM game_names WHERE slug=?')->execute([$dup]);
+        $db->prepare('DELETE FROM games WHERE slug=?')->execute([$dup]);
+      };
+      foreach ($catalog['duplicates'] ?? [] as $duplicate => $canonical)
+        $retire($duplicate, $canonical);
+      // Variantes : le canonique garde une seule fiche, la règle alternative reste lisible via l'onglet du reader.
+      foreach ($catalog['variants'] ?? [] as $canonical => $vars)
+        foreach ($vars as $duplicate => $label) // clés numériques ("8") décodées int par json_decode
+          $retire((string)$duplicate, $canonical);
 
       $gameExists = $db->prepare('SELECT 1 FROM games WHERE slug=?');
       $deleteNames = $db->prepare('DELETE FROM game_names WHERE slug=?');
@@ -488,9 +508,9 @@ class Vault {
     $st = self::db()->prepare('SELECT *, (SELECT count FROM votes WHERE game_id=slug) AS votes FROM games WHERE slug=?');
     $st->execute([$slug]);
     $g = $st->fetch();
-    if (!$g && isset(self::catalog()['duplicates'][$slug])) {
-      $st->execute([self::catalog()['duplicates'][$slug]]);
-      $g = $st->fetch();
+    if (!$g) {
+      $canonical = self::catalog()['duplicates'][$slug] ?? self::variantOf($slug);
+      if ($canonical) { $st->execute([$canonical]); $g = $st->fetch(); }
     }
     return $g ?: null;
   }
@@ -797,7 +817,7 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inhe
 .reader-hero{position:sticky;top:0;height:100dvh;overflow:hidden;display:flex;flex-direction:column;justify-content:flex-end;padding:100px clamp(24px,4vw,64px) 44px;background:var(--ink);color:#fff;isolation:isolate}.reader-hero::after{content:'';position:absolute;inset:0;z-index:-1;background:rgba(10,10,10,.46)}.reader-hero__image{position:absolute;inset:0;z-index:-2;width:100%;height:100%;object-fit:cover;filter:saturate(.9) contrast(1.12)}.reader-hero__eyebrow{display:inline-block;width:max-content;padding:3px 7px;background:var(--yellow);color:var(--ink);font:700 .65rem var(--mono);text-transform:uppercase;transform:rotate(-2deg)}.reader-hero h1{margin:16px 0 20px;font:400 clamp(3.4rem,7vw,7.4rem)/.82 var(--display);text-transform:uppercase;text-shadow:4px 4px 0 var(--pink),8px 8px 0 var(--blue);text-wrap:balance}.reader-hero__alts{display:flex;flex-wrap:wrap;gap:16px;margin-bottom:30px}.reader-hero__alt{color:#fff;font:600 .62rem var(--mono);text-decoration:underline;text-decoration-color:var(--pink);text-decoration-thickness:3px}.reader-hero__meta{display:flex;gap:36px}.reader-hero__meta span{font:.72rem var(--mono)}.reader-hero__meta small{display:block;margin-bottom:6px;color:#ddd;font-size:.55rem;text-transform:uppercase}
 .reader-body{min-width:0}.reader-body-inner{max-width:780px;margin:auto;padding:clamp(90px,10vw,150px) clamp(24px,6vw,92px) 100px}.reader-summary{padding-bottom:22px}.reader-summary::before{content:'Règle express';display:inline-block;margin-bottom:20px;padding:4px 8px;background:var(--pink);color:var(--ink);font:700 .65rem var(--mono);text-transform:uppercase;transform:rotate(-1deg)}.reader-summary__text{font-size:clamp(1.3rem,2.3vw,2rem);font-weight:700;line-height:1.25;text-wrap:pretty}.cs{height:4.2em;width:auto;vertical-align:middle;margin:0 3px;border-radius:5px;border:1px solid rgba(0,0,0,.18);box-shadow:0 1px 3px rgba(0,0,0,.35)}p .cs,li .cs{height:2.8em;vertical-align:-.7em}.rules td{padding:10px 12px}.raction{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0}.rbtn{min-height:50px;border:0;border-radius:3px;background:var(--blue);color:#fff;font:700 .68rem var(--mono);text-transform:uppercase}.rbtn--like{background:var(--pink);color:var(--ink)}.rbtn--fav.on{background:var(--yellow)!important;color:#151515!important;box-shadow:inset 0 -4px 0 rgba(0,0,0,.22)}
 .reader__youtube{display:flex;align-items:center;justify-content:center;gap:10px;padding:16px;border:0;border-radius:3px;background:#f00;color:#fff;font-size:.84rem;font-weight:700;text-decoration:none}.reader__youtube:hover{background:#c00}.reader__youtube svg{width:26px;height:19px;flex:none}.yt-alts{display:flex;flex-wrap:wrap;gap:14px;margin:12px 0 30px}.yt-alt{color:var(--blue);font:600 .65rem var(--mono)}
-.rules-title,.related__title{margin:52px 0 20px;font:700 .76rem var(--mono);text-transform:uppercase}.rules{font-size:1.08rem;line-height:1.75}.rules h1,.rules h2,.rules h3{line-height:1.15}.rules h1{margin:42px 0 14px;font-size:2rem}.rules h2{margin:36px 0 12px;font-size:1.6rem;padding-bottom:8px}.rules h3{margin:26px 0 9px;font-size:1.25rem}.rules p{margin:10px 0}.rules ul,.rules ol{margin:11px 0 11px 24px}.rules li{margin:6px 0}.rules strong{font-weight:700}.rules hr{margin:32px 0;border:0;border-top:1px solid var(--line)}.rules table{width:100%;margin:20px 0;border-collapse:collapse;font-size:.92rem}.rules td{padding:10px;border:1px solid var(--line)}.rules img{max-width:100%;margin:14px 0}.rules blockquote{margin:20px 0;padding:16px 18px;border-radius:8px;background:var(--soft)}.rules a{text-decoration:underline}
+.rules-title,.related__title{margin:52px 0 20px;font:700 .76rem var(--mono);text-transform:uppercase}.ver-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}.ver-tab{border:1px solid var(--line);background:transparent;color:var(--muted);padding:7px 14px;border-radius:999px;font:700 .72rem var(--mono);text-transform:uppercase;letter-spacing:.05em;cursor:pointer}.ver-tab:hover{color:var(--ink)}.ver-tab--on{background:var(--ink);color:var(--paper);border-color:var(--ink)}.rules{font-size:1.08rem;line-height:1.75}.rules h1,.rules h2,.rules h3{line-height:1.15}.rules h1{margin:42px 0 14px;font-size:2rem}.rules h2{margin:36px 0 12px;font-size:1.6rem;padding-bottom:8px}.rules h3{margin:26px 0 9px;font-size:1.25rem}.rules p{margin:10px 0}.rules ul,.rules ol{margin:11px 0 11px 24px}.rules li{margin:6px 0}.rules strong{font-weight:700}.rules hr{margin:32px 0;border:0;border-top:1px solid var(--line)}.rules table{width:100%;margin:20px 0;border-collapse:collapse;font-size:.92rem}.rules td{padding:10px;border:1px solid var(--line)}.rules img{max-width:100%;margin:14px 0}.rules blockquote{margin:20px 0;padding:16px 18px;border-radius:8px;background:var(--soft)}.rules a{text-decoration:underline}
 .related{margin-top:60px}.related__grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.related__card{display:flex;flex-direction:column;gap:5px;padding:18px;border-radius:3px;background:#ffbad8}.related__card:nth-child(even){background:#b8c3ff}.related__card:hover{transform:rotate(-1deg)}.related__rel{font:700 .55rem var(--mono);text-transform:uppercase;color:var(--ink)}.related__name{font-weight:700}.related__note{font-size:.68rem;color:var(--muted)}
 .reader-sources{margin-top:52px}.source-list{display:flex;flex-wrap:wrap;gap:8px}.source-list a{padding:9px 11px;border:1px solid var(--line);border-radius:3px;color:var(--muted);font:600 .65rem var(--mono)}.source-list a:hover{border-color:var(--blue);color:var(--blue)}
 
@@ -933,6 +953,13 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
   if (!$g) { http_response_code(404); $view = 'notfound'; $g = null; }
   if ($g):
     $md = Vault::read('/games/' . $g['slug'] . '.md') ?: '';
+    // Versions alternatives de la règle (classique vs maison) : onglets dans le reader.
+    $variantMds = [];
+    foreach (Vault::catalog()['variants'][$g['slug']] ?? [] as $vs => $vLabel) {
+      $vmd = Vault::read('/games/' . $vs . '.md');
+      if ($vmd !== null) $variantMds[$vs] = ['label' => $vLabel, 'md' => preg_replace('/^#\s+.+\n?/m', '', $vmd, 1)];
+    }
+    $initialVer = isset($variantMds[$slug]) ? $slug : $g['slug']; // ?game=kems ouvre directement l'onglet classique
     // Tous les noms du jeu depuis game_names (source unique). Sert pour YouTube + affichage.
     $_ns = Vault::db()->prepare("SELECT name FROM game_names WHERE slug=? ORDER BY (lower(name)=lower(?)) DESC, name");
     $_ns->execute([$g['slug'], $g['title']]);
@@ -1005,7 +1032,18 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
     <?php if ($yNames): ?><div class="yt-alts"><?php foreach ($yNames as $_n): ?><a class="yt-alt" href="<?= e($_yt($_n)) ?>" target="_blank" rel="noopener noreferrer"><?= e($_n) ?></a><?php endforeach; ?></div><?php endif; ?>
     <?php endif; ?>
     <h2 class="rules-title">Règles détaillées</h2>
-    <div class="rules"><?= md2html($md) ?></div>
+    <?php if ($variantMds): ?>
+    <div class="ver-tabs" id="verTabs" role="tablist" aria-label="Version de la règle">
+      <button class="ver-tab<?= $initialVer === $g['slug'] ? ' ver-tab--on' : '' ?>" type="button" role="tab" aria-selected="<?= $initialVer === $g['slug'] ? 'true' : 'false' ?>" data-ver="<?= e($g['slug']) ?>"><?= (int)$g['is_clm'] ? 'Version maison 👑' : 'Notre version' ?></button>
+      <?php foreach ($variantMds as $vs => $v): ?>
+      <button class="ver-tab<?= $initialVer === $vs ? ' ver-tab--on' : '' ?>" type="button" role="tab" aria-selected="<?= $initialVer === $vs ? 'true' : 'false' ?>" data-ver="<?= e($vs) ?>"><?= e($v['label']) ?></button>
+      <?php endforeach; ?>
+    </div>
+    <?php endif; ?>
+    <div class="rules" id="rules-<?= e($g['slug']) ?>"<?= $initialVer !== $g['slug'] ? ' hidden' : '' ?>><?= md2html($md) ?></div>
+    <?php foreach ($variantMds as $vs => $v): ?>
+    <div class="rules" id="rules-<?= e($vs) ?>"<?= $initialVer !== $vs ? ' hidden' : '' ?>><?= md2html($v['md']) ?></div>
+    <?php endforeach; ?>
     <?php if ($sources || $imageCredit): ?>
     <div class="reader-sources">
       <h2 class="related__title">Sources</h2>
@@ -1287,6 +1325,16 @@ if(lb){ lb.addEventListener('click', async ()=>{
   const r=await post('vote',{game:slug});
   if(r&&r.ok){ document.getElementById('likeCount').textContent=r.count; lb.style.transform='scale(.94)'; setTimeout(()=>lb.style.transform='',120); toast('Merci, '+r.count+' votes'); }
   else toast(r&&r.error==='too_soon'?'Trop vite !':'Vote bloqué');
+});}
+
+// ---- VERSIONS DE LA RÈGLE (reader : maison / classique) ----
+const verTabs=document.getElementById('verTabs');
+if(verTabs){ verTabs.addEventListener('click', e=>{
+  const b=e.target.closest('.ver-tab'); if(!b) return;
+  verTabs.querySelectorAll('.ver-tab').forEach(x=>{
+    const on=x===b; x.classList.toggle('ver-tab--on',on); x.setAttribute('aria-selected',on);
+  });
+  document.querySelectorAll('.rules').forEach(r=>r.hidden=r.id!=='rules-'+b.dataset.ver);
 });}
 
 // ---- LIVE FILTER (home : recherche + chips instantanés) ----

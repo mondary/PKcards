@@ -13,6 +13,7 @@ Découvrez plus de 700 jeux de cartes en swipant : parcourez, apprenez les règl
 - Fiches enrichies : difficulté, type, autres noms, nombre de joueurs et de cartes
 - Règle courte et version longue pour chaque jeu
 - Miniatures de cartes dans les règles : les mentions de cartes (« 7 de trèfle », « A♥️ ») s'affichent automatiquement en visuels (v3)
+- Une seule fiche par jeu : versions maison 👑 et classique basculables par onglets, tous les alias fusionnés (v3)
 - 8 thèmes d'interface commutables (v3)
 - Recherche des règles en vidéo sur YouTube en un clic
 - Votez pour vos jeux préférés et consultez le classement « Meilleurs jeux »

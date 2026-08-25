@@ -22,6 +22,20 @@
     "polignac": "jeu-de-valets",
     "rummy-500": "rami-500"
   },
+  "variants": {
+    "le-kems": {
+      "kems": "Kem's · classique"
+    },
+    "president": {
+      "trou-du-cul": "Trou du Cul · classique"
+    },
+    "8-americain": {
+      "8": "Le 8 · classique"
+    },
+    "bataille-corse": {
+      "bataille-corse-tarot": "Bataille Corse Tarot · classique"
+    }
+  },
   "restored_variants": {
     "animals": {
       "source": "animaux",
@@ -578,7 +592,8 @@
       "Last One",
       "Rockaway",
       "Tschausepp",
-      "Pesten"
+      "Pesten",
+      "Le 8"
     ],
     "all-fives": [
       "All Fives"
@@ -1225,7 +1240,9 @@
       "Canes",
       "Carré-Coupé",
       "Gemsch",
-      "Gämsch"
+      "Gämsch",
+      "Kem",
+      "Jeu des Mots"
     ],
     "le-killer": [
       "Le Killer",
@@ -1609,7 +1626,9 @@
       "Arsehole",
       "Rich Man Poor Man",
       "Bum",
-      "Capitalism"
+      "Capitalism",
+      "Le Pallmall",
+      "Président"
     ],
     "promenade": [
       "Promenade"

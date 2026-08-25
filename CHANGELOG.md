@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `1.2026.19` (compteur de scores : couleur joueur partout, historique en puces)
+Statut : `2026.08.29` (v3 : une fiche par jeu, onglets maison/classique)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,15 @@ Statut : `1.2026.19` (compteur de scores : couleur joueur partout, historique en
 ---
 
 ## Releases
+
+### [2026.08.29] - 2026-08-25
+#### Added
+- v3 : onglets de version dans le reader — une seule fiche par jeu (ex. LE KEM'S) avec bascule « Version maison 👑 / Règle classique » ; les anciennes URLs (`?game=kems`) ouvrent directement le bon onglet.
+- v3 : section `variants` dans `catalog.json` (paires canonique → variante) appliquée par `syncCatalog()` : fusion des noms, votes, favoris et liens dans la fiche canonique.
+
+#### Fixed
+- v3 : les fiches classiques doublonnées (Kem's, Le Président/trou-du-cul, 8 américain, Bataille corse) n'apparaissent plus deux fois dans la grille (689 fiches au lieu de 707).
+- v3 : `importOriginal()` respecte désormais les slugs retirés — les doublons déclarés dans `catalog.json` (gin-rami, kilo, dame-de-pique…) ne ressuscitaient plus jamais après un réimport.
 
 ### [1.2026.19] - 2026-08-21
 #### Changed

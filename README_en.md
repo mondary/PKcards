@@ -13,6 +13,7 @@ Discover 700+ card games by swiping: browse, learn the rules and save your favor
 - Rich game sheets: difficulty, type, other names, number of players and cards
 - Short rule and long version for each game
 - Card thumbnails inside the rules: card mentions ("7 de trèfle", "A♥️") automatically render as card visuals (v3)
+- One sheet per game: house 👑 and classic versions switchable via tabs, all aliases merged (v3)
 - 8 switchable interface themes (v3)
 - One-click YouTube search for video rules
 - Vote for your favorite games and check the "Best games" ranking
