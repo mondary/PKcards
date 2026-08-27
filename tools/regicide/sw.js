@@ -1,4 +1,5 @@
-const CACHE='regicide-v2'
+const CACHE='regicide-v3'
+const SHELL=['./','index.html','index2.html','manifest.json','icon192.png','icon512.png','card-reference.css']
 self.addEventListener('install',()=>self.skipWaiting())
 self.addEventListener('activate',e=>{
   e.waitUntil(caches.keys().then(ks=>Promise.all(ks.filter(k=>k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim()))
