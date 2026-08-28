@@ -240,7 +240,7 @@ var STORE=loadStore(), S=activeTable().state, GAMES=activeTable().games;
 var SEL=null, CUR='', FIX=null, toastT=0;
 
 function lsGet(k){if(location.protocol==='file:')return null;try{return localStorage.getItem(k)}catch(e){return null}}
-function lsSet(k,v){if(location.protocol==='file:')return;try{localStorage.setItem(k,v)}catch(e){}}
+function lsSet(k,v){if(location.protocol==='file:')return;try{localStorage.setItem(k,v)}catch(e){toast('Stockage plein — exportez puis allégez les photos')}}
 function freshState(){
   return {players:[
     {id:uid(),name:'Joueur 1'},
@@ -596,11 +596,21 @@ function openTables(){
   showTables();
 }
 function exportData(){
+  var blob=new Blob([JSON.stringify(STORE)],{type:'application/json'});
+  var name='score-tables-'+new Date().toISOString().slice(0,10)+'.json';
+  try{
+    var file=new File([blob],name,{type:'application/json'});
+    if(navigator.canShare&&navigator.canShare({files:[file]})){
+      navigator.share({files:[file],title:'Score — tables'}).catch(function(){});
+      return;
+    }
+  }catch(e){}
   var a=document.createElement('a');
-  a.href=URL.createObjectURL(new Blob([JSON.stringify(STORE)],{type:'application/json'}));
-  a.download='score-tables.json';
+  a.href=URL.createObjectURL(blob);
+  a.download=name;
   document.body.appendChild(a);a.click();a.remove();
   setTimeout(function(){URL.revokeObjectURL(a.href)},2000);
+  toast('Export téléchargé — '+name);
 }
 function importData(file){
   var fr=new FileReader();
@@ -740,7 +750,7 @@ document.getElementById('ovPal').addEventListener('click',function(e){
 document.getElementById('tablesView').addEventListener('click',function(e){
   var io=e.target.closest('[data-io]');
   if(io){
-    if(io.dataset.io==='export'){exportData();toast('Export téléchargé — score-tables.json')}
+    if(io.dataset.io==='export'){exportData()}
     else{
       var inp=document.createElement('input');
       inp.type='file';inp.accept='.json,application/json';
