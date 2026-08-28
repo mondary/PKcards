@@ -1,0 +1,679 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PKcards — Règles</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap');
+
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#08080a;
+  --surface:#111114;
+  --surface-2:#18181c;
+  --surface-3:#222228;
+  --text:#e4e4e7;
+  --text-dim:#71717a;
+  --text-muted:#52525b;
+  --accent:#e50914;
+  --accent-glow:rgba(229,9,20,.15);
+  --green:#22c55e;
+  --amber:#f59e0b;
+  --blue:#3b82f6;
+  --header-h:56px;
+  --content-w:680px;
+  --ease:cubic-bezier(.4,0,.2,1);
+}
+html{scroll-behavior:smooth;scrollbar-width:thin;scrollbar-color:#333 transparent}
+body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--text);-webkit-font-smoothing:antialiased;line-height:1.6;overflow-x:hidden}
+::selection{background:var(--accent);color:#fff}
+
+/* ── HEADER ──────────────────────────────────── */
+header{
+  position:fixed;top:0;left:0;right:0;height:var(--header-h);z-index:100;
+  display:flex;align-items:center;padding:0 24px;gap:20px;
+  background:linear-gradient(to bottom,rgba(8,8,10,.95),rgba(8,8,10,0));
+  transition:background .3s var(--ease),backdrop-filter .3s var(--ease);
+}
+header.solid{
+  background:rgba(8,8,10,.92);
+  backdrop-filter:blur(20px) saturate(1.5);
+  -webkit-backdrop-filter:blur(20px) saturate(1.5);
+  border-bottom:1px solid rgba(255,255,255,.06);
+}
+.logo{
+  font-weight:800;font-size:.95rem;letter-spacing:-.02em;color:#fff;
+  text-decoration:none;display:flex;align-items:center;gap:8px;flex-shrink:0;
+}
+.logo span{color:var(--accent)}
+nav{display:flex;align-items:center;gap:2px;flex:1;overflow-x:auto;scrollbar-width:none}
+nav::-webkit-scrollbar{display:none}
+nav a{
+  padding:8px 14px;border-radius:6px;font-size:.8rem;font-weight:500;
+  color:var(--text-dim);text-decoration:none;white-space:nowrap;
+  transition:color .15s,background .15s;position:relative;
+}
+nav a:hover{color:#fff}
+nav a.active{color:#fff;background:rgba(255,255,255,.08)}
+.header-right{display:flex;align-items:center;gap:6px;flex-shrink:0;margin-left:auto}
+.h-btn{
+  width:34px;height:34px;border-radius:6px;border:1px solid rgba(255,255,255,.08);
+  background:transparent;color:var(--text-dim);cursor:pointer;font-size:.75rem;
+  display:flex;align-items:center;justify-content:center;font-weight:600;
+  transition:border-color .15s,color .15s,background .15s;font-family:inherit;
+}
+.h-btn:hover{border-color:rgba(255,255,255,.2);color:#fff;background:rgba(255,255,255,.05)}
+.h-btn.accent{border-color:var(--accent);color:var(--accent)}
+.h-btn.accent:hover{background:var(--accent);color:#fff}
+#menu-btn{display:none}
+.progress{position:fixed;top:calc(var(--header-h) - 1px);left:0;height:2px;background:var(--accent);z-index:101;width:0;transition:width .08s linear}
+
+/* ── MOBILE DRAWER ───────────────────────────── */
+.drawer{
+  display:none;position:fixed;top:var(--header-h);left:0;right:0;
+  background:rgba(8,8,10,.97);backdrop-filter:blur(24px);
+  -webkit-backdrop-filter:blur(24px);border-bottom:1px solid rgba(255,255,255,.06);
+  padding:12px 16px 20px;flex-direction:column;gap:2px;z-index:99;
+}
+.drawer.open{display:flex}
+.drawer a{
+  padding:12px 16px;border-radius:8px;font-size:.88rem;font-weight:500;
+  color:var(--text-dim);text-decoration:none;transition:color .15s,background .15s;
+}
+.drawer a:hover,.drawer a.active{color:#fff;background:rgba(255,255,255,.06)}
+
+/* ── PAGE: LANDING ───────────────────────────── */
+.page{display:none;min-height:100dvh;padding-top:var(--header-h)}
+.page.active{display:block}
+
+.landing-hero{
+  padding:80px 24px 40px;max-width:900px;margin:0 auto;
+}
+.landing-hero h1{
+  font-size:clamp(2.4rem,6vw,4.2rem);font-weight:900;letter-spacing:-.04em;
+  line-height:1;color:#fff;margin-bottom:16px;
+}
+.landing-hero h1 span{
+  background:linear-gradient(135deg,var(--accent),#ff6b6b);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.landing-hero p{font-size:1.05rem;color:var(--text-dim);max-width:480px;line-height:1.7}
+
+/* Game row */
+.row-label{
+  font-size:.72rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--text-muted);padding:0 24px;margin:40px 0 16px;max-width:900px;margin-left:auto;margin-right:auto;
+}
+.game-row{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+  gap:16px;padding:0 24px;max-width:900px;margin:0 auto 32px;
+}
+.game-card{
+  position:relative;border-radius:10px;overflow:hidden;cursor:pointer;
+  aspect-ratio:16/9;background:var(--surface-2);
+  transition:transform .25s var(--ease),box-shadow .25s var(--ease);
+}
+.game-card:hover{transform:scale(1.03);box-shadow:0 16px 48px rgba(0,0,0,.5)}
+.game-card-bg{
+  position:absolute;inset:0;
+  background-size:cover;background-position:center;
+  transition:transform .4s var(--ease);
+}
+.game-card:hover .game-card-bg{transform:scale(1.08)}
+.game-card-overlay{
+  position:absolute;inset:0;
+  background:linear-gradient(0deg,rgba(0,0,0,.85) 0%,rgba(0,0,0,.2) 50%,transparent);
+}
+.game-card-body{position:absolute;bottom:0;left:0;right:0;padding:20px}
+.game-card-body h3{font-size:1.15rem;font-weight:700;color:#fff;margin-bottom:4px}
+.game-card-meta{display:flex;gap:12px;font-size:.72rem;color:var(--text-dim);font-weight:500}
+.game-card-meta span{display:flex;align-items:center;gap:4px}
+.tag{
+  display:inline-block;padding:3px 8px;border-radius:4px;font-size:.65rem;
+  font-weight:600;letter-spacing:.04em;text-transform:uppercase;
+}
+.tag.easy{background:rgba(34,197,94,.15);color:var(--green)}
+.tag.medium{background:rgba(245,158,11,.15);color:var(--amber)}
+.tag.hard{background:rgba(229,9,20,.15);color:var(--accent)}
+
+/* ── PAGE: GAME RULES ────────────────────────── */
+.game-hero{
+  position:relative;padding:100px 24px 60px;
+  background:linear-gradient(180deg,rgba(8,8,10,0) 0%,var(--bg) 100%);
+  margin-bottom:20px;
+}
+.game-hero::before{
+  content:'';position:absolute;inset:0;opacity:.12;
+  background:radial-gradient(ellipse at 30% 20%,var(--accent),transparent 70%);
+  pointer-events:none;
+}
+.game-hero-inner{max-width:var(--content-w);margin:0 auto;position:relative}
+.back-link{
+  display:inline-flex;align-items:center;gap:6px;font-size:.78rem;font-weight:500;
+  color:var(--text-muted);text-decoration:none;margin-bottom:20px;
+  transition:color .15s;
+}
+.back-link:hover{color:#fff}
+.back-link svg{width:14px;height:14px}
+.game-hero h1{
+  font-size:clamp(2rem,5vw,3.2rem);font-weight:900;letter-spacing:-.03em;
+  color:#fff;line-height:1.05;margin-bottom:16px;
+}
+.meta-row{display:flex;flex-wrap:wrap;gap:20px;margin-bottom:8px}
+.meta-item{display:flex;align-items:center;gap:6px;font-size:.82rem;color:var(--text-dim);font-weight:500}
+.meta-dot{width:4px;height:4px;border-radius:50%;background:var(--text-muted)}
+.game-hero .desc{font-size:1rem;color:var(--text-dim);line-height:1.75;max-width:560px;margin-top:16px}
+
+/* Content */
+.content-wrap{max-width:var(--content-w);margin:0 auto;padding:0 24px 120px}
+
+.section-block{margin-bottom:72px}
+.section-block:last-child{margin-bottom:0}
+
+.section-eyebrow{
+  font-size:.68rem;font-weight:700;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--accent);margin-bottom:12px;
+}
+.section-block h2{
+  font-size:clamp(1.3rem,3vw,1.75rem);font-weight:800;letter-spacing:-.02em;
+  color:#fff;margin-bottom:16px;line-height:1.2;
+}
+.section-block h3{
+  font-size:1rem;font-weight:700;color:#fff;margin:32px 0 8px;
+  padding-bottom:8px;border-bottom:1px solid rgba(255,255,255,.06);
+}
+.section-block p{
+  font-size:.92rem;line-height:1.85;color:var(--text-dim);margin-bottom:14px;
+}
+.section-block ul,.section-block ol{margin:12px 0 14px 18px}
+.section-block li{
+  font-size:.92rem;line-height:1.8;color:var(--text-dim);margin-bottom:6px;
+}
+.section-block li::marker{color:var(--text-muted)}
+.section-block strong{color:var(--text)}
+.section-block em{color:var(--text-dim);font-style:italic}
+.separator{border:none;border-top:1px solid rgba(255,255,255,.06);margin:36px 0}
+
+/* Callout */
+.note{
+  border-radius:8px;padding:16px 18px;margin:20px 0;font-size:.85rem;
+  line-height:1.75;border-left:3px solid;
+}
+.note.info{background:rgba(59,130,246,.08);border-color:var(--blue);color:rgba(147,197,253,.9)}
+.note.warn{background:rgba(245,158,11,.07);border-color:var(--amber);color:rgba(253,224,139,.85)}
+.note.success{background:rgba(34,197,94,.07);border-color:var(--green);color:rgba(134,239,172,.85)}
+.note-label{font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;margin-bottom:6px;display:block}
+
+/* Steps */
+.step-list{display:flex;flex-direction:column;gap:0;margin:20px 0;position:relative}
+.step-list::before{
+  content:'';position:absolute;left:15px;top:20px;bottom:20px;width:1px;
+  background:rgba(255,255,255,.06);
+}
+.step-item{display:flex;gap:16px;padding:16px 0;position:relative}
+.step-n{
+  width:32px;height:32px;border-radius:50%;flex-shrink:0;
+  display:flex;align-items:center;justify-content:center;
+  font-size:.72rem;font-weight:700;color:#fff;
+  background:var(--surface-3);border:1px solid rgba(255,255,255,.08);
+  position:relative;z-index:1;
+}
+.step-item:first-child .step-n{background:var(--accent);border-color:var(--accent)}
+.step-text h4{font-size:.88rem;font-weight:700;color:#fff;margin-bottom:4px}
+.step-text p{font-size:.85rem;color:var(--text-dim);margin:0;line-height:1.7}
+
+/* Hand ranking table */
+.rank-table{width:100%;border-collapse:collapse;margin:20px 0}
+.rank-table th{
+  text-align:left;font-size:.68rem;font-weight:700;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--text-muted);padding:10px 0;
+  border-bottom:1px solid rgba(255,255,255,.08);
+}
+.rank-table td{
+  padding:12px 0;font-size:.88rem;border-bottom:1px solid rgba(255,255,255,.04);
+  vertical-align:middle;
+}
+.rank-table tr:last-child td{border:none}
+.rank-n{
+  display:inline-flex;align-items:center;justify-content:center;
+  width:22px;height:22px;border-radius:5px;font-size:.7rem;font-weight:700;
+  background:var(--surface-3);color:var(--text-dim);margin-right:10px;
+}
+.rank-table tr:nth-child(-n+3) .rank-n{background:var(--accent);color:#fff}
+.rank-name{font-weight:600;color:#fff}
+.rank-desc{color:var(--text-dim);font-size:.82rem}
+
+/* Value grid */
+.val-grid{
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(140px,1fr));
+  gap:8px;margin:16px 0;
+}
+.val-item{
+  background:var(--surface-2);border:1px solid rgba(255,255,255,.05);
+  border-radius:8px;padding:12px 14px;
+  display:flex;justify-content:space-between;align-items:center;
+}
+.val-name{font-size:.82rem;font-weight:600;color:var(--text)}
+.val-pts{font-size:.82rem;font-weight:700;color:var(--accent)}
+
+/* ── RESPONSIVE ──────────────────────────────── */
+@media(max-width:768px){
+  header nav{display:none}
+  #menu-btn{display:flex}
+  .landing-hero{padding:60px 20px 32px}
+  .game-hero{padding:80px 20px 48px}
+  .content-wrap{padding:0 20px 80px}
+  .game-row{grid-template-columns:1fr 1fr;gap:12px;padding:0 20px}
+  .row-label{padding:0 20px}
+}
+@media(max-width:480px){
+  .game-row{grid-template-columns:1fr}
+  .meta-row{gap:12px}
+  .val-grid{grid-template-columns:1fr 1fr}
+}
+@media print{
+  header,.drawer,.progress,.back-link{display:none!important}
+  .page{padding-top:0}
+  .game-hero{padding:20px 0}
+  .section-block{page-break-inside:avoid}
+}
+
+/* Animations */
+@keyframes fadeIn{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}
+.section-block{animation:fadeIn .4s var(--ease) both}
+.section-block:nth-child(2){animation-delay:.05s}
+.section-block:nth-child(3){animation-delay:.1s}
+.section-block:nth-child(4){animation-delay:.15s}
+.section-block:nth-child(5){animation-delay:.2s}
+.section-block:nth-child(6){animation-delay:.25s}
+</style>
+</head>
+<body>
+
+<header id="hdr">
+  <a class="logo" href="#" onclick="go('home');return false">PK<span>cards</span></a>
+  <nav id="nav"></nav>
+  <div class="header-right">
+    <button class="h-btn" onclick="cycleFont()" title="Taille texte" id="fontBtn">A</button>
+    <button class="h-btn" onclick="print()" title="Imprimer">⎙</button>
+    <button class="h-btn" id="menu-btn" onclick="toggleDrawer()" aria-label="Menu">≡</button>
+  </div>
+</header>
+<div class="progress" id="prog"></div>
+<div class="drawer" id="drawer"></div>
+
+<!-- ═══════════ HOME ═══════════ -->
+<div class="page active" id="p-home">
+  <div class="landing-hero">
+    <h1>Les règles,<br><span>sans le flou.</span></h1>
+    <p>Sélectionnez un jeu. Lisez les règles. Jouez. Pas de pub, pas de bruit — juste l'essentiel.</p>
+  </div>
+  <div class="row-label">Jeux disponibles</div>
+  <div class="game-row">
+    <div class="game-card" onclick="go('poker')">
+      <div class="game-card-bg" style="background:linear-gradient(135deg,#1a0a0a,#2d1515,#0d0d0d)"></div>
+      <div class="game-card-overlay"></div>
+      <div class="game-card-body">
+        <span class="tag medium">Intermédiaire</span>
+        <h3>Poker Texas Hold'em</h3>
+        <div class="game-card-meta">
+          <span>2–10 joueurs</span>
+          <span>52 cartes</span>
+          <span>30–90 min</span>
+        </div>
+      </div>
+    </div>
+    <div class="game-card" onclick="go('belote')">
+      <div class="game-card-bg" style="background:linear-gradient(135deg,#0a0f1a,#15202d,#0d0d0d)"></div>
+      <div class="game-card-overlay"></div>
+      <div class="game-card-body">
+        <span class="tag medium">Intermédiaire</span>
+        <h3>Belote</h3>
+        <div class="game-card-meta">
+          <span>4 joueurs</span>
+          <span>32 cartes</span>
+          <span>30–60 min</span>
+        </div>
+      </div>
+    </div>
+    <div class="game-card" onclick="go('bataille')">
+      <div class="game-card-bg" style="background:linear-gradient(135deg,#0a1a0f,#152d1a,#0d0d0d)"></div>
+      <div class="game-card-overlay"></div>
+      <div class="game-card-body">
+        <span class="tag easy">Débutant</span>
+        <h3>La Bataille</h3>
+        <div class="game-card-meta">
+          <span>2 joueurs</span>
+          <span>52 cartes</span>
+          <span>10–30 min</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ═══════════ POKER ═══════════ -->
+<div class="page" id="p-poker">
+  <div class="game-hero">
+    <div class="game-hero-inner">
+      <a class="back-link" href="#" onclick="go('home');return false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg> Tous les jeux</a>
+      <h1>Texas Hold'em</h1>
+      <div class="meta-row">
+        <span class="meta-item">2–10 joueurs</span>
+        <span class="meta-dot"></span>
+        <span class="meta-item">52 cartes</span>
+        <span class="meta-dot"></span>
+        <span class="meta-item">30–90 min</span>
+        <span class="meta-dot"></span>
+        <span class="meta-item"><span class="tag medium" style="margin:0">Intermédiaire</span></span>
+      </div>
+      <p class="desc">Chaque joueur reçoit deux cartes privées et partage cinq cartes communes pour former la meilleure combinaison de cinq cartes. Remportez le pot en ayant la meilleure main — ou en bluffant mieux que tout le monde.</p>
+    </div>
+  </div>
+  <div class="content-wrap">
+
+    <div class="section-block" id="poker-setup">
+      <div class="section-eyebrow">Mise en place</div>
+      <h2>Préparer la table</h2>
+      <div class="step-list">
+        <div class="step-item"><div class="step-n">1</div><div class="step-text"><h4>Le Dealer</h4><p>Le bouton <strong>Dealer</strong> tourne dans le sens horaire à chaque main. Il désigne le donneur fictif et détermine l'ordre des blindes.</p></div></div>
+        <div class="step-item"><div class="step-n">2</div><div class="step-text"><h4>Small &amp; Big Blind</h4><p>Le joueur à gauche du dealer pose la <strong>small blind</strong> (demi-mise). Le suivant pose la <strong>big blind</strong> (mise complète). Ce sont les mises forcées qui lancent l'action.</p></div></div>
+        <div class="step-item"><div class="step-n">3</div><div class="step-text"><h4>Distribution</h4><p>Deux cartes face cachée par joueur, distribuées une par une dans le sens horaire en commençant à gauche du dealer.</p></div></div>
+      </div>
+    </div>
+
+    <div class="section-block" id="poker-rounds">
+      <div class="section-eyebrow">Déroulement</div>
+      <h2>Les quatre rues</h2>
+
+      <h3>Pre-Flop</h3>
+      <p>Le joueur à gauche de la big blind ouvre. Trois options : <strong>fold</strong> (coucher), <strong>call</strong> (suivre la big blind) ou <strong>raise</strong> (relancer). Le tour continue jusqu'à ce que tous les joueurs actifs aient misé le même montant.</p>
+
+      <h3>Flop</h3>
+      <p>Le dealer brûle une carte puis retourne <strong>trois cartes communes</strong> au centre. Nouveau tour d'enchères, cette fois en partant du premier joueur actif à gauche du dealer.</p>
+
+      <h3>Turn</h3>
+      <p>Une quatrième carte commune est ajoutée. Même logique d'enchères.</p>
+
+      <h3>River</h3>
+      <p>Cinquième et dernière carte commune. Dernier tour d'enchères.</p>
+
+      <hr class="separator">
+
+      <div class="note warn">
+        <span class="note-label">Showdown</span>
+        S'il reste plusieurs joueurs, ils dévoilent leurs cartes. La meilleure main de 5 cartes parmi les 7 disponibles (2 privées + 5 communes) remporte le pot.
+      </div>
+    </div>
+
+    <div class="section-block" id="poker-hands">
+      <div class="section-eyebrow">Hiérarchie</div>
+      <h2>Classement des mains</h2>
+      <table class="rank-table">
+        <thead><tr><th>Rang</th><th>Main</th><th>Description</th></tr></thead>
+        <tbody>
+          <tr><td><span class="rank-n">1</span></td><td class="rank-name">Quinte Flush Royale</td><td class="rank-desc">A K Q J 10, même couleur</td></tr>
+          <tr><td><span class="rank-n">2</span></td><td class="rank-name">Quinte Flush</td><td class="rank-desc">Cinq cartes consécutives, même couleur</td></tr>
+          <tr><td><span class="rank-n">3</span></td><td class="rank-name">Carré</td><td class="rank-desc">Quatre cartes de même valeur</td></tr>
+          <tr><td><span class="rank-n">4</span></td><td class="rank-name">Full</td><td class="rank-desc">Un brelan + une paire</td></tr>
+          <tr><td><span class="rank-n">5</span></td><td class="rank-name">Couleur</td><td class="rank-desc">Cinq cartes de même enseigne</td></tr>
+          <tr><td><span class="rank-n">6</span></td><td class="rank-name">Suite</td><td class="rank-desc">Cinq cartes consécutives, couleurs mixtes</td></tr>
+          <tr><td><span class="rank-n">7</span></td><td class="rank-name">Brelan</td><td class="rank-desc">Trois cartes de même valeur</td></tr>
+          <tr><td><span class="rank-n">8</span></td><td class="rank-name">Double paire</td><td class="rank-desc">Deux paires distinctes</td></tr>
+          <tr><td><span class="rank-n">9</span></td><td class="rank-name">Paire</td><td class="rank-desc">Deux cartes de même valeur</td></tr>
+          <tr><td><span class="rank-n">10</span></td><td class="rank-name">Carte haute</td><td class="rank-desc">Aucune combinaison — la plus haute carte joue</td></tr>
+        </tbody>
+      </table>
+      <div class="note info">
+        <span class="note-label">L'As</span>
+        L'As est la carte la plus forte, mais il peut servir de 1 dans la suite basse A-2-3-4-5 (la « roue »).
+      </div>
+    </div>
+
+    <div class="section-block" id="poker-strat">
+      <div class="section-eyebrow">Stratégie</div>
+      <h2>Les fondamentaux</h2>
+      <ul>
+        <li><strong>Position</strong> — Jouer en dernier (au bouton) est un avantage énorme. Vous voyez agir tout le monde avant de décider.</li>
+        <li><strong>Sélection de mains</strong> — En début de partie, limitez-vous aux mains premium : paires hautes (AA, KK, QQ), gros As (AK, AQ).</li>
+        <li><strong>Lecture adverse</strong> — Observez le timing des mises, la taille des raises, les patterns de jeu.</li>
+        <li><strong>Gestion de bankroll</strong> — Ne risquez jamais plus de 5 % de votre capital sur un seul pot.</li>
+      </ul>
+      <div class="note success">
+        <span class="note-label">Outs &amp; Odds</span>
+        Un <em>out</em> est une carte qui complète votre tirage. Multipliez vos outs par 2 pour estimer votre % de touche à la prochaine carte, par 4 s'il reste deux cartes à venir.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════ BELOTE ═══════════ -->
+<div class="page" id="p-belote">
+  <div class="game-hero">
+    <div class="game-hero-inner">
+      <a class="back-link" href="#" onclick="go('home');return false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg> Tous les jeux</a>
+      <h1>Belote</h1>
+      <div class="meta-row">
+        <span class="meta-item">4 joueurs (2v2)</span>
+        <span class="meta-dot"></span>
+        <span class="meta-item">32 cartes</span>
+        <span class="meta-dot"></span>
+        <span class="meta-item">30–60 min</span>
+        <span class="meta-dot"></span>
+        <span class="meta-item"><span class="tag medium" style="margin:0">Intermédiaire</span></span>
+      </div>
+      <p class="desc">Le jeu de cartes national français. Deux équipes de deux s'affrontent pour marquer des points en remportant des plis. La première équipe à 501 points gagne la partie.</p>
+    </div>
+  </div>
+  <div class="content-wrap">
+
+    <div class="section-block" id="belote-setup">
+      <div class="section-eyebrow">Mise en place</div>
+      <h2>Préparer la table</h2>
+      <div class="step-list">
+        <div class="step-item"><div class="step-n">1</div><div class="step-text"><h4>Jeu de 32 cartes</h4><p>Retirez les 2, 3, 4, 5 et 6 d'un jeu standard. Il reste 7, 8, 9, 10, Valet, Dame, Roi, As dans les quatre couleurs.</p></div></div>
+        <div class="step-item"><div class="step-n">2</div><div class="step-text"><h4>Placement</h4><p>Les coéquipiers se font face (Nord-Sud vs Est-Ouest). Les adversaires alternent.</p></div></div>
+        <div class="step-item"><div class="step-n">3</div><div class="step-text"><h4>Distribution</h4><p>Le donneur distribue <strong>8 cartes</strong> par joueur en deux passes (3+2+3 ou 2+3+3).</p></div></div>
+        <div class="step-item"><div class="step-n">4</div><div class="step-text"><h4>Choix de l'atout</h4><p>La première carte du talon est retournée. Chaque joueur peut « prendre » (cette couleur devient atout) ou passer. Au second tour, on peut choisir une autre couleur.</p></div></div>
+      </div>
+    </div>
+
+    <div class="section-block" id="belote-values">
+      <div class="section-eyebrow">Valeurs</div>
+      <h2>Points des cartes</h2>
+
+      <h3>À l'atout</h3>
+      <div class="val-grid">
+        <div class="val-item"><span class="val-name">Valet</span><span class="val-pts">20 pts</span></div>
+        <div class="val-item"><span class="val-name">Neuf</span><span class="val-pts">14 pts</span></div>
+        <div class="val-item"><span class="val-name">As</span><span class="val-pts">11 pts</span></div>
+        <div class="val-item"><span class="val-name">Dix</span><span class="val-pts">10 pts</span></div>
+        <div class="val-item"><span class="val-name">Roi</span><span class="val-pts">4 pts</span></div>
+        <div class="val-item"><span class="val-name">Dame</span><span class="val-pts">3 pts</span></div>
+        <div class="val-item"><span class="val-name">Huit</span><span class="val-pts">0 pt</span></div>
+        <div class="val-item"><span class="val-name">Sept</span><span class="val-pts">0 pt</span></div>
+      </div>
+
+      <h3>Hors atout</h3>
+      <div class="val-grid">
+        <div class="val-item"><span class="val-name">As</span><span class="val-pts">11 pts</span></div>
+        <div class="val-item"><span class="val-name">Dix</span><span class="val-pts">10 pts</span></div>
+        <div class="val-item"><span class="val-name">Roi</span><span class="val-pts">4 pts</span></div>
+        <div class="val-item"><span class="val-name">Dame</span><span class="val-pts">3 pts</span></div>
+        <div class="val-item"><span class="val-name">Valet</span><span class="val-pts">2 pts</span></div>
+        <div class="val-item"><span class="val-name">9 · 8 · 7</span><span class="val-pts">0 pt</span></div>
+      </div>
+
+      <div class="note info" style="margin-top:20px">
+        <span class="note-label">Total</span>
+        Il y a <strong>162 points</strong> en jeu par manche (152 dans les cartes + 10 pour le dernier pli, le « dix de der »).
+      </div>
+    </div>
+
+    <div class="section-block" id="belote-play">
+      <div class="section-eyebrow">Déroulement</div>
+      <h2>Jouer une manche</h2>
+      <p>La manche se joue en <strong>8 plis</strong>. Le preneur (celui qui a choisi l'atout) entame le premier pli.</p>
+      <ul>
+        <li>Vous devez <strong>fournir</strong> la couleur demandée si vous en avez.</li>
+        <li>Si vous n'en avez pas, vous devez <strong>couper</strong> (jouer un atout) si possible — sauf si votre partenaire est déjà maître.</li>
+        <li>À l'atout, vous devez <strong>monter</strong> (jouer un atout supérieur à ceux déjà posés) si vous le pouvez.</li>
+      </ul>
+
+      <div class="note success">
+        <span class="note-label">Belote · Rebelote</span>
+        Si vous avez le Roi <em>et</em> la Dame d'atout, annoncez « Belote ! » en jouant le premier des deux, et « Rebelote ! » en jouant le second. <strong>+20 points</strong> pour votre équipe.
+      </div>
+
+      <div class="note warn">
+        <span class="note-label">Chute</span>
+        L'équipe preneuse doit marquer au moins <strong>82 points</strong>. Sinon elle « chute » : tous les points (162) vont à l'adversaire.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ═══════════ BATAILLE ═══════════ -->
+<div class="page" id="p-bataille">
+  <div class="game-hero">
+    <div class="game-hero-inner">
+      <a class="back-link" href="#" onclick="go('home');return false"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg> Tous les jeux</a>
+      <h1>La Bataille</h1>
+      <div class="meta-row">
+        <span class="meta-item">2 joueurs</span>
+        <span class="meta-dot"></span>
+        <span class="meta-item">52 cartes</span>
+        <span class="meta-dot"></span>
+        <span class="meta-item">10–30 min</span>
+        <span class="meta-dot"></span>
+        <span class="meta-item"><span class="tag easy" style="margin:0">Débutant</span></span>
+      </div>
+      <p class="desc">Le jeu le plus simple au monde. Purement basé sur le hasard, idéal pour les enfants et pour passer le temps. Un seul objectif : récupérer toutes les cartes.</p>
+    </div>
+  </div>
+  <div class="content-wrap">
+
+    <div class="section-block" id="bataille-setup">
+      <div class="section-eyebrow">Mise en place</div>
+      <h2>Préparation</h2>
+      <div class="step-list">
+        <div class="step-item"><div class="step-n">1</div><div class="step-text"><h4>Distribuer</h4><p>Mélangez les 52 cartes et partagez-les équitablement : <strong>26 cartes face cachée</strong> pour chaque joueur.</p></div></div>
+        <div class="step-item"><div class="step-n">2</div><div class="step-text"><h4>Former son tas</h4><p>Chaque joueur empile ses cartes face cachée devant lui. Pas le droit de regarder.</p></div></div>
+      </div>
+      <h3>Hiérarchie des cartes</h3>
+      <p>As › Roi › Dame › Valet › 10 › 9 › 8 › 7 › 6 › 5 › 4 › 3 › 2</p>
+      <p>La couleur (♠ ♥ ♦ ♣) n'a aucune importance dans ce jeu.</p>
+    </div>
+
+    <div class="section-block" id="bataille-play">
+      <div class="section-eyebrow">Déroulement</div>
+      <h2>Comment jouer</h2>
+      <div class="step-list">
+        <div class="step-item"><div class="step-n">1</div><div class="step-text"><h4>Retourner</h4><p>Les deux joueurs retournent simultanément la carte du dessus de leur tas.</p></div></div>
+        <div class="step-item"><div class="step-n">2</div><div class="step-text"><h4>Comparer</h4><p>La carte la plus forte remporte le pli. Le gagnant récupère les deux cartes et les place sous son tas.</p></div></div>
+        <div class="step-item"><div class="step-n">3</div><div class="step-text"><h4>Bataille !</h4><p>En cas d'égalité : chaque joueur pose <strong>3 cartes face cachée</strong>, puis retourne une 4ᵉ carte. La plus forte remporte l'intégralité du tas central.</p></div></div>
+        <div class="step-item"><div class="step-n">4</div><div class="step-text"><h4>Victoire</h4><p>La partie se termine quand un joueur possède les 52 cartes, ou quand l'adversaire n'a plus assez de cartes pour jouer.</p></div></div>
+      </div>
+
+      <div class="note warn">
+        <span class="note-label">Bataille en chaîne</span>
+        Si les 4ᵉ cartes sont encore égales, on relance une bataille immédiatement. Les cartes s'accumulent au centre — le pot peut devenir énorme.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<script>
+const PAGES={
+  home:{nav:[]},
+  poker:{nav:[
+    {id:'poker-setup',label:'Mise en place'},
+    {id:'poker-rounds',label:'Déroulement'},
+    {id:'poker-hands',label:'Mains'},
+    {id:'poker-strat',label:'Stratégie'},
+  ]},
+  belote:{nav:[
+    {id:'belote-setup',label:'Mise en place'},
+    {id:'belote-values',label:'Valeurs'},
+    {id:'belote-play',label:'Déroulement'},
+  ]},
+  bataille:{nav:[
+    {id:'bataille-setup',label:'Mise en place'},
+    {id:'bataille-play',label:'Déroulement'},
+  ]}
+};
+let cur='home',fontLvl=0;
+const fontSizes=['A','A⁺','A⁺⁺'];
+
+function go(id){
+  if(!PAGES[id])return;
+  document.querySelectorAll('.page').forEach(p=>p.classList.remove('active'));
+  document.getElementById('p-'+id).classList.add('active');
+  cur=id;buildNav();closeDrawer();
+  window.scrollTo({top:0,behavior:'instant'});
+  requestAnimationFrame(updateProgress);
+}
+
+function buildNav(){
+  const secs=PAGES[cur]?.nav||[];
+  const html=secs.map(s=>`<a href="#${s.id}" onclick="scrollSec('${s.id}');return false">${s.label}</a>`).join('');
+  document.getElementById('nav').innerHTML=html;
+  document.getElementById('drawer').innerHTML=html.replace(/<a /g,'<a onclick="closeDrawer();" ');
+  updateActiveNav();
+}
+
+function scrollSec(id){
+  const el=document.getElementById(id);
+  if(!el)return;
+  const y=el.getBoundingClientRect().top+window.scrollY-64;
+  window.scrollTo({top:y,behavior:'smooth'});
+  closeDrawer();
+}
+
+function updateActiveNav(){
+  const secs=PAGES[cur]?.nav||[];
+  if(!secs.length)return;
+  let active=secs[0]?.id;
+  secs.forEach(s=>{
+    const el=document.getElementById(s.id);
+    if(el&&el.getBoundingClientRect().top<=100)active=s.id;
+  });
+  document.querySelectorAll('#nav a').forEach(a=>{
+    a.classList.toggle('active',a.getAttribute('href')==='#'+active);
+  });
+}
+
+function updateProgress(){
+  const h=document.documentElement.scrollHeight-window.innerHeight;
+  const p=h>0?(window.scrollY/h)*100:0;
+  document.getElementById('prog').style.width=p+'%';
+  // header solid
+  document.getElementById('hdr').classList.toggle('solid',window.scrollY>20);
+  updateActiveNav();
+}
+window.addEventListener('scroll',updateProgress,{passive:true});
+
+function cycleFont(){
+  fontLvl=(fontLvl+1)%3;
+  const sizes=['.92rem','1.02rem','1.12rem'];
+  document.querySelectorAll('.section-block p,.section-block li,.note,.step-text p,.rank-desc').forEach(el=>{
+    el.style.fontSize=sizes[fontLvl];
+  });
+  document.getElementById('fontBtn').textContent=fontSizes[fontLvl];
+}
+
+function toggleDrawer(){
+  document.getElementById('drawer').classList.toggle('open');
+}
+function closeDrawer(){
+  document.getElementById('drawer').classList.remove('open');
+}
+
+buildNav();
+</script>
+</body>
+</html>

@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `2026.08.29` (v3 : une fiche par jeu, onglets maison/classique)
+Statut : `2026.08.30` (v3 : thème V5 Main — navigation en éventail de cartes)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,21 @@ Statut : `2026.08.29` (v3 : une fiche par jeu, onglets maison/classique)
 ---
 
 ## Releases
+
+### [2026.08.30] - 2026-08-26
+#### Added
+- v3 : thème optionnel « V5 Main » avec une navigation inédite : rail de familles vertical à gauche + main de cartes géantes (ratio 63×88) qu'on fait défiler à la molette, au drag (avec inertie), aux flèches clavier ou au swipe — l'éventail s'incline et se déssature selon l'éloignement du centre, carte centrale cerclée d'or.
+- v3 : CTA « Couper le paquet » — le bouton hasard mélange visuellement la main (jitter + easing) avant de s'arrêter sur une carte au hasard ; barre de progression du paquet (position n/N) sous la main.
+- v3 : micro-animations — entrée des cartes en cascade, parallaxe horizontale des visages, sheen sur le CTA, halo ambiant dérivant en fond, grain papier, feedback spring sur chips/fav/onglets ; ⌘K focus la recherche.
+- v3 : le thème se monte/démonte proprement (DOM restauré en quittant V5), sans toucher aux autres thèmes.
+
+#### Changed
+- v3 : navigation V5 repensée de zéro (deck browser) plutôt qu'un simple restylage de la grille.
+- v3 : le lecteur V5 entre en scène (fade-up) avec encre profonde et eyebrow doré.
+
+#### Fixed
+- v3/PWA : les navigations et API passent désormais par le réseau avant le cache, pour éviter les pages, thèmes ou résultats de recherche obsolètes servis par le service worker.
+- v3 : le meta theme-color suit maintenant le thème V5 (#f5f2ea).
 
 ### [2026.08.29] - 2026-08-25
 #### Added
