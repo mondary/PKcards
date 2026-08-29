@@ -5,7 +5,13 @@
 **Difficulté :** Difficile
 **Type :** Jeu de plis, Enchères
 **But :** Atteindre le nombre exact de levées annoncé
-**Autres noms :** L'Ascenseur, Lift
+**Autres noms :** L'Ascenseur, Lift, Oh Hell, Kachuful
+
+## Variante indienne — Kachuful
+
+En Inde, ce jeu est surtout connu sous le nom de **Kachuful** (કચ્છુફૂલ), un acronyme gujarati qui donne l'ordre de rotation des atouts : **Ka**ri (piques), **Chu**kat (carreaux), **F**alli (trèfles), **L**al (cœurs). C'est la grande différence avec l'Ascenseur classique : l'atout de chaque donne n'est pas retourné au hasard, il suit ce cycle fixe — donne 1 à piques, donne 2 à carreaux, donne 3 à trèfles, donne 4 à cœurs, puis on recommence. Chaque joueur connaît donc l'atout avant l'annonce.
+
+Le Kachuful se joue habituellement à 4 joueurs avec 52 cartes, mains croissantes puis décroissantes comme à l'Ascenseur. Le décompte classique : réussir son annonce exacte rapporte 10 points, plus 1 point par levée gagnée ; rater son annonce ne rapporte rien. Au Pakistan, le même jeu s'appelle **765**.
 
 ---
 

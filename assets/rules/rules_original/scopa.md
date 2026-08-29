@@ -5,9 +5,13 @@
 **Difficulté :** Moyenne
 **Type :** Combinaisons, Défausse
 **But :** Réaliser le maximum de points par des levées (Scopa = nettoyer la table)
-**Autres noms :** La Scopa
+**Autres noms :** La Scopa, Scopetta, Scoppa
 
 ---
+
+## Variantes : Scopetta, Scoppa
+
+**Scopetta** (« petite Scopa ») et **Scoppa** sont les noms régionaux de la Scopa dans le Sud de l'Italie (notamment en Campanie). La Scoppa se joue le plus souvent à **deux joueurs**, avec les mêmes règles de capture et le même décompte (cartes, deniers, primiera, settebello, balayage). Selon les familles, on distribue 3 ou 4 cartes à la fois et la partie se joue en 11, 16 ou 21 points. **Scoppette** en est le pluriel familier — cherchez aussi la Scopone (10 cartes chacun) et la Scopa tunisienne (Chkobba) présentes dans ce guide.
 
 ## Règle courte
 
