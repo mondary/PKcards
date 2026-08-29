@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `2026.08.33` (v3 : réglages plein écran)
+Statut : `2026.08.34` (v3 : règles YouTube, variantes croisées, réglages macOS)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,19 @@ Statut : `2026.08.33` (v3 : réglages plein écran)
 ---
 
 ## Releases
+
+### [2026.08.34] - 2026-08-29
+#### Added
+- v3 : 46 fiches de règles rédigées à partir de vidéos YouTube « How to play », avec inventaire des sources et provenance dans `assets/rules/rules_youtube/`.
+- v3 : nouvelles paires de variantes croisées : Spit/Speed, Cassino/Diloti, Bataille corse/Egyptian Ratscrew, Président/13 (Tiến lên) — comparées dans le drawer Compare.
+- v3 : sélecteur d'images (`tools/image-picker/`) — candidats Wikimedia Commons par contenu de jeu, choix sauvegardé, URL perso et option « garder l'image actuelle ».
+
+#### Changed
+- v3 : écran Réglages et fenêtre Favoris refaits façon macOS (fenêtre centrée, sections groupées, contrôle segmenté).
+- v3 : les fiches Spit, Speed, Golf, Casino, Egyptian Ratscrew et 13 documentent maintenant leurs cousins français.
+
+#### Removed
+- v3 : fiche Skyjo retirée du catalogue — l'adaptation avec un jeu standard ne restitue pas le jeu ; le Golf (variantes 6/8/10 cartes) couvre ce besoin.
 
 ### [2026.08.33] - 2026-08-29
 #### Changed

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PKcards — Sélection des images</title>
+<style>
+:root{--bg:#10131a;--panel:#181c26;--ink:#eef2f8;--muted:#8b96a8;--blue:#3d6fe0;--ok:#43c59e;--line:#272d3a}
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,sans-serif;padding-bottom:90px}
+header{position:sticky;top:0;z-index:5;display:flex;gap:14px;align-items:center;flex-wrap:wrap;padding:14px 20px;background:rgba(16,19,26,.94);border-bottom:1px solid var(--line);backdrop-filter:blur(10px)}
+header h1{font-size:1rem;margin-right:auto}header h1 small{color:var(--muted);font-weight:400}
+#progress{font-weight:700;color:var(--ok)}
+#filter{height:38px;padding:0 12px;border:1px solid var(--line);border-radius:9px;background:var(--panel);color:var(--ink);min-width:200px}
+button{height:38px;padding:0 16px;border:0;border-radius:9px;background:var(--blue);color:#fff;font-weight:700;cursor:pointer}
+button.ghost{background:var(--panel);color:var(--muted);border:1px solid var(--line)}
+main{max-width:980px;margin:auto;padding:22px 16px}
+section{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:18px}
+section.done{border-color:var(--ok)}
+h2{font-size:1.05rem;display:flex;align-items:baseline;gap:10px}
+h2 code{color:var(--muted);font-size:.72rem}
+.pick{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px;margin-top:12px}
+.pick label{position:relative;display:block;border-radius:10px;overflow:hidden;border:2px solid transparent;cursor:pointer;background:#0b0e14;min-height:120px}
+.pick img{width:100%;height:150px;object-fit:cover;display:block;opacity:.92;transition:opacity .15s}
+.pick label:hover img{opacity:1}
+.pick input{position:absolute;opacity:0}
+.pick label:has(input:checked){border-color:var(--ok);box-shadow:0 0 0 3px rgba(67,197,158,.25)}
+.pick label:has(input:checked)::after{content:'✓';position:absolute;top:8px;right:8px;width:26px;height:26px;border-radius:50%;background:var(--ok);color:#04251b;font-weight:900;display:grid;place-items:center}
+.pick figcaption{padding:7px 9px;font-size:.7rem;color:var(--muted)}
+.hint{color:var(--muted);font-size:.78rem;margin-top:10px}
+footer{position:fixed;bottom:0;left:0;right:0;display:flex;justify-content:center;gap:12px;padding:12px;background:rgba(16,19,26,.95);border-top:1px solid var(--line)}
+</style>
+</head>
+<body>
+<header>
+  <h1>Sélection des images <small>— clique la meilleure image par jeu</small></h1>
+  <span id="progress"></span>
+  <input id="filter" type="search" placeholder="Filtrer un jeu…">
+  <button class="ghost" id="reset">Réinitialiser</button>
+</header>
+<main id="list"></main>
+<footer>
+  <button id="export">Exporter mes choix (choices.json)</button>
+</footer>
+<script src="data.js"></script>
+<script>
+const KEY='pk_image_choices';
+let choices={};
+try{choices=JSON.parse(localStorage.getItem(KEY)||'{}')}catch(e){}
+const list=document.getElementById('list'),progress=document.getElementById('progress'),filter=document.getElementById('filter');
+
+function save(){localStorage.setItem(KEY,JSON.stringify(choices));sync();}
+function sync(){
+  const total=PICKER_DATA.length,done=PICKER_DATA.filter(g=>choices[g.slug]!=null).length;
+  progress.textContent=`${done} / ${total} choisis`;
+  PICKER_DATA.forEach(g=>{
+    const el=document.getElementById('sec-'+g.slug);
+    el.classList.toggle('done',choices[g.slug]!=null);
+    el.querySelectorAll('input[type=radio]').forEach(i=>i.checked=String(choices[g.slug])===i.value);
+  });
+}
+function render(){
+  const q=filter.value.trim().toLowerCase();
+  list.innerHTML=PICKER_DATA.filter(g=>!q||(g.title+' '+g.slug).toLowerCase().includes(q)).map(g=>`
+  <section id="sec-${g.slug}">
+    <h2>${g.title} <code>${g.slug}</code></h2>
+    <div class="pick">${g.candidates.map((c,i)=>`
+      <label>
+        <input type="radio" name="${g.slug}" value="${i}">
+        <img src="${c.u}" alt="${c.alt}" loading="lazy">
+        <figcaption>#${i+1} — ${c.by}</figcaption>
+      </label>`).join('')}
+    </div>
+    <p class="hint">${g.candidates.length} candidats — recherche : « ${g.query} » · ou colle une URL : <input class="custom" data-custom="${g.slug}" type="url" placeholder="https://…image du jeu…"> · <label class="keep"><input type="radio" name="${g.slug}" value="keep"> garder l'image actuelle</label></p>
+  </section>`).join('');
+  list.querySelectorAll('input[type=radio]').forEach(i=>i.addEventListener('change',()=>{choices[i.name]=i.value;save();}));
+  list.querySelectorAll('input.custom').forEach(i=>{
+    i.addEventListener('input',()=>{ if(i.value.trim()){ choices[i.dataset.custom]='url:'+i.value.trim(); save(); } });
+    const c=choices[i.dataset.custom];
+    if(c&&c.startsWith('url:')) i.value=c.slice(4);
+  });
+  sync();
+}
+filter.addEventListener('input',render);
+document.getElementById('reset').addEventListener('click',()=>{choices={};save();});
+document.getElementById('export').addEventListener('click',()=>{
+  const out={};
+  PICKER_DATA.forEach(g=>{
+    const v=choices[g.slug];
+    if(v==null) return;
+    if(v==='keep') out[g.slug]={keep:true};
+    else if(String(v).startsWith('url:')) out[g.slug]={image:String(v).slice(4),source:'custom'};
+    else { const c=g.candidates[+v]; out[g.slug]={image:c.u,credit:c.by,alt:c.alt}; }
+  });
+  const a=document.createElement('a');
+  a.href=URL.createObjectURL(new Blob([JSON.stringify(out,null,2)],{type:'application/json'}));
+  a.download='choices.json';a.click();
+});
+render();
+</script>
+</body>
+</html>

@@ -27,16 +27,77 @@
       "kems": "Kem's · classique"
     },
     "president": {
-      "trou-du-cul": "Trou du Cul · classique"
+      "trou-du-cul": "Trou du Cul · classique",
+      "13": "13 (Tiến lên) · monte vietnamienne"
     },
     "8-americain": {
       "8": "Le 8 · classique"
     },
     "bataille-corse": {
-      "bataille-corse-tarot": "Bataille Corse Tarot · classique"
+      "bataille-corse-tarot": "Bataille Corse Tarot · classique",
+      "egyptian-ratscrew": "Egyptian Ratscrew · slaps étendus"
+    },
+    "spit": {
+      "speed": "Speed · main de 5 cartes"
+    },
+    "casino": {
+      "diloti": "Diloti · cousin grec"
     }
   },
   "variant_differences": {
+    "casino": {
+      "diloti": [
+        {
+          "topic": "Capture",
+          "canonical": "Par valeur égale, ou en complétant une construction.",
+          "variant": "Par valeur égale ou par somme, plus les constructions."
+        },
+        {
+          "topic": "Constructions",
+          "canonical": "Builds posés par un joueur et capturables par lui.",
+          "variant": "Déclarations libres sur la table, modifiables par tous."
+        },
+        {
+          "topic": "Figures",
+          "canonical": "Se capturent entre elles comme les autres rangs.",
+          "variant": "Sans valeur numérique, capture figure sur figure uniquement."
+        },
+        {
+          "topic": "Distribution",
+          "canonical": "Deux cartes à la fois, quatre cartes posées sur la table.",
+          "variant": "Six cartes en main à chacun, quatre cartes sur la table."
+        },
+        {
+          "topic": "Score",
+          "canonical": "Majorité des cartes, piques, grands et petits casino.",
+          "variant": "Xeri bonus et partie jouée à 61 points."
+        }
+      ]
+    },
+    "spit": {
+      "speed": [
+        {
+          "topic": "Organisation des cartes",
+          "canonical": "5 tas personnels en ligne (1 à 5 cartes), pas de main.",
+          "variant": "Main de 5 cartes et pioche personnelle de 15."
+        },
+        {
+          "topic": "Piles centrales",
+          "canonical": "Deux piles de spit ouvertes d'un coup en début de manche.",
+          "variant": "Deux cartes centrales retournées une à une au départ."
+        },
+        {
+          "topic": "Blocage",
+          "canonical": "Chacun retourne simultanément une carte de ses spit cards.",
+          "variant": "Chacun retourne une carte de ses piles latérales ; si elles s'épuisent, on les reforme depuis les piles centrales."
+        },
+        {
+          "topic": "Fin de manche",
+          "canonical": "Le premier servi frappe une pile de spit et la ramasse ; on rejoue jusqu'à n'avoir plus aucune carte.",
+          "variant": "Le premier servi crie « Speed » et gagne la manche ; partie en deux manches gagnantes."
+        }
+      ]
+    },
     "le-kems": {
       "kems": [
         {
@@ -62,6 +123,33 @@
       ]
     },
     "president": {
+      "13": [
+        {
+          "topic": "Famille",
+          "canonical": "Jeu de montagne à hiérarchie sociale et échanges de cartes.",
+          "variant": "Monte vietnamienne sans rôles : le premier servi gagne la manche."
+        },
+        {
+          "topic": "Combinaisons",
+          "canonical": "Carte, paire, brelan ou carré de même rang.",
+          "variant": "Ajoute les suites de 3+ cartes et les séquences de paires."
+        },
+        {
+          "topic": "Bombes",
+          "canonical": "Pas de combinaison imbatable.",
+          "variant": "Carré ou double séquence de paires : coupe tout, même un 2."
+        },
+        {
+          "topic": "Entame",
+          "canonical": "Première manche au hasard, puis le dernier du classement distribue et ouvre.",
+          "variant": "La toute première partie commence avec le 3 de pique."
+        },
+        {
+          "topic": "Fin de manche",
+          "canonical": "Les rangs président-trou du cul déterminent les échanges suivants.",
+          "variant": "On joue jusqu'à départager tout le monde, sans échange de cartes."
+        }
+      ],
       "trou-du-cul": [
         {
           "topic": "Premier joueur",
@@ -150,6 +238,28 @@
           "topic": "Frappements optionnels",
           "canonical": "Seuls les doubles sont retenus.",
           "variant": "Addition à 10, sandwich, Big-Mac, 10 et couple Roi-Dame sont proposés."
+        }
+      ],
+      "egyptian-ratscrew": [
+        {
+          "topic": "Base du jeu",
+          "canonical": "Cartes en tas face cachée ; figures et as donnent des tentatives au joueur suivant.",
+          "variant": "Identique : Valet 1, Dame 2, Roi 3, As 4 tentatives."
+        },
+        {
+          "topic": "Frappe",
+          "canonical": "Une seule règle : deux cartes de même valeur qui se suivent.",
+          "variant": "Paires, sandwich, écart de 10, suites de 4, mariage dame-roi : tout se frappe."
+        },
+        {
+          "topic": "Frappe à tort",
+          "canonical": "Aucune pénalité précisée pour une frappe manquée.",
+          "variant": "Le frappeur donne une carte de son tas à chaque adversaire."
+        },
+        {
+          "topic": "Particularités",
+          "canonical": "Défense réussie si une figure sort dans les tentatives.",
+          "variant": "Jokers optionnels ; le frappeur gagnant ramasse tout le tas central."
         }
       ]
     }
@@ -439,7 +549,6 @@
     "Enquête": [
       "extravagante-minoune",
       "golf",
-      "skyjo",
       "anandis",
       "c-q-f-d",
       "color-game",
@@ -459,7 +568,6 @@
       "pige-dans-le-lac",
       "plus-d-atouts",
       "roi-et-son-epee",
-      "skyjo",
       "snip-snap-snorem",
       "vive-la-joie",
       "la-famille-coeur",
@@ -1909,10 +2017,6 @@
       "Le Skat",
       "Skat"
     ],
-    "skyjo": [
-      "Le Skyjo",
-      "Skyjo"
-    ],
     "snap": [
       "Snap"
     ],
@@ -2278,7 +2382,6 @@
     "shithead": "images/games/shithead.webp",
     "sixte": "images/games/sixte.webp",
     "skat": "images/games/skat.webp",
-    "skyjo": "images/games/skyjo.webp",
     "snap": "images/games/snap.webp",
     "snip-snap-snorem": "images/games/snip-snap-snorem.webp",
     "snip-snap-snoru": "images/games/snip-snap-snoru.webp",
@@ -4092,14 +4195,6 @@
       "url": "https://commons.wikimedia.org/wiki/File:Skat-bubenordnung.jpg",
       "rationale": "L'ordre des valets, plus forts atouts du Skat, est au cœur des levées et de la mécanique du jeu."
     },
-    "skyjo": {
-      "title": "An intererior with elegant figures playing cards by Gerhard van Steenwijck.jpg",
-      "author": "Gerhard van Steenwijck",
-      "license": "Public domain",
-      "license_url": "",
-      "url": "https://commons.wikimedia.org/wiki/File:An_intererior_with_elegant_figures_playing_cards_by_Gerhard_van_Steenwijck.jpg",
-      "rationale": "Visuel lié à la mécanique « Enquête » : Les joueurs révèlent et remplacent les cartes d'une grille partiellement cachée, tout en réunissant des triples en colonnes."
-    },
     "snap": {
       "title": "War card game 4-25-2021 (51174764872).jpg",
       "author": "Larry Koester",
@@ -4993,9 +5088,6 @@
     "skat": [
       "https://www.pagat.com/skat/skat.html",
       "https://en.wikipedia.org/wiki/Skat_(card_game)"
-    ],
-    "skyjo": [
-      "https://boardgamegeek.com/boardgame/204135/skyjo"
     ],
     "snap": [
       "https://www.pagat.com/war/snap.html",

@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.33';
+const VERSION = '2026.08.34';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -830,6 +830,51 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inhe
 .settings{position:fixed;z-index:80;inset:0;overflow:auto;background:#eef2f7;color:#13213a;font-family:'Manrope',sans-serif;opacity:0;visibility:hidden;transform:translateY(16px);transition:opacity .18s ease,transform .22s ease,visibility .18s}.settings.open{opacity:1;visibility:visible;transform:none}.settings__top{position:sticky;z-index:2;top:0;display:flex;align-items:center;gap:20px;min-height:76px;padding:14px clamp(20px,4vw,60px);border-bottom:1px solid #cbd5e3;background:rgba(238,242,247,.94);backdrop-filter:blur(16px)}.settings__brand{font:700 .74rem 'DM Mono',monospace;letter-spacing:.08em;text-transform:uppercase}.settings__brand b{color:#2457c5}.settings__top h2{font-size:1rem;font-weight:600}.settings__close{margin-left:auto;min-height:44px;padding:0 18px;border:0;border-radius:9px;background:#13213a;color:#fff;font-weight:700}.settings__layout{display:grid;grid-template-columns:220px minmax(0,1100px);gap:clamp(32px,6vw,90px);max-width:1440px;margin:auto;padding:clamp(38px,6vw,84px) clamp(20px,5vw,72px) 100px}.settings__nav{position:sticky;top:116px;align-self:start;display:grid;gap:6px}.settings__nav span{margin-bottom:10px;color:#718096;font:700 .62rem 'DM Mono',monospace;letter-spacing:.1em;text-transform:uppercase}.settings__nav a{padding:10px 12px;border-radius:8px;color:#52627a;font-size:.88rem}.settings__nav a:hover,.settings__nav a:focus-visible{background:#fff;color:#13213a}.settings__intro{max-width:760px;margin-bottom:62px}.settings__intro p:first-child{color:#2457c5;font:700 .66rem 'DM Mono',monospace;letter-spacing:.1em;text-transform:uppercase}.settings__intro h1{max-width:720px;margin:12px 0 16px;font-size:clamp(2.8rem,6vw,6.2rem);line-height:.92;letter-spacing:-.07em}.settings__intro p:last-child{max-width:580px;color:#637189;font-size:1rem;line-height:1.6}.settings__group{scroll-margin-top:110px;margin-bottom:64px}.settings__group-head{display:grid;grid-template-columns:180px 1fr;gap:24px;margin-bottom:20px;padding-bottom:14px;border-bottom:1px solid #cbd5e3}.settings__group-head h3{font-size:1.2rem}.settings__group-head p{color:#6b778b;font-size:.86rem;line-height:1.5}.settings__themes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.setting-theme{position:relative;display:grid;grid-template-columns:120px 1fr;min-height:128px;padding:0;overflow:hidden;border:1px solid #c8d3e1;border-radius:14px;background:#f9fbfd;color:#13213a;text-align:left;transition:transform .15s,border-color .15s,box-shadow .15s}.setting-theme:hover{transform:translateY(-2px);border-color:#8091a8;box-shadow:0 12px 26px rgba(19,33,58,.08)}.setting-theme[aria-pressed="true"]{border:2px solid #2457c5;box-shadow:0 0 0 4px rgba(36,87,197,.12)}.setting-theme[aria-pressed="true"]::after{content:'Actif';position:absolute;top:10px;right:10px;padding:5px 7px;border-radius:999px;background:#2457c5;color:#fff;font:700 .54rem 'DM Mono',monospace;text-transform:uppercase}.setting-theme__preview{display:grid;place-items:center;min-height:100%;border-right:1px solid rgba(127,127,127,.25);background:var(--preview);color:var(--preview-ink,#fff);font:700 1.55rem/1 'Manrope',sans-serif;letter-spacing:-.06em}.setting-theme__preview::after{content:'Aa';}.setting-theme__copy{align-self:center;padding:22px 18px}.setting-theme__copy strong,.setting-theme__copy span{display:block}.setting-theme__copy strong{font-size:1rem}.setting-theme__copy span{max-width:220px;margin-top:7px;color:#68768b;font-size:.76rem;line-height:1.45}.settings-open{overflow:hidden}
 @media(max-width:760px){.settings__top{min-height:64px;padding:10px 14px}.settings__top h2{display:none}.settings__close{padding-inline:14px}.settings__layout{display:block;padding:34px 14px 80px}.settings__nav{position:static;display:flex;gap:6px;margin:0 0 38px;overflow-x:auto}.settings__nav span{display:none}.settings__nav a{flex:none;border:1px solid #cbd5e3;background:#f9fbfd}.settings__intro{margin-bottom:48px}.settings__intro h1{font-size:clamp(3rem,15vw,4.6rem)}.settings__group{margin-bottom:50px}.settings__group-head{display:block}.settings__group-head p{margin-top:7px}.settings__themes{grid-template-columns:1fr}.setting-theme{grid-template-columns:100px 1fr;min-height:112px}.setting-theme__copy{padding:18px 16px}}
 .settings__intro h1{max-width:100%;font-size:clamp(2.8rem,5vw,5rem);letter-spacing:-.065em;text-wrap:balance}@media(max-width:760px){.settings__intro h1{font-size:clamp(3rem,14vw,4.2rem)}}
+/* SETTINGS + FAVORIS — fenêtre façon macOS (groupes, hairlines, toolbar) */
+.settings{display:grid;place-items:center;padding:clamp(0px,3vw,28px);background:rgba(10,14,22,.5);backdrop-filter:blur(8px)}
+.settings__window{display:flex;flex-direction:column;width:min(780px,100%);height:min(700px,92dvh);border-radius:16px;background:#f2f3f7;color:#1d2430;font-family:'Manrope',sans-serif;box-shadow:0 40px 90px rgba(5,10,20,.5);overflow:hidden;transform:translateY(14px) scale(.985);transition:transform .2s ease}
+.settings.open .settings__window{transform:none}
+.settings__top{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;min-height:54px;padding:0 14px;border-bottom:1px solid #d7dce6;background:linear-gradient(#f7f8fb,#eef0f5)}
+.settings__brand{font:600 .68rem 'DM Mono',monospace;letter-spacing:.08em;text-transform:uppercase;color:#8791a2}
+.settings__top h2{margin:0;font:600 .95rem 'Manrope',sans-serif;text-align:center;color:#1d2430}
+.settings__close{justify-self:end;min-height:30px;padding:0 14px;border:0;border-radius:7px;background:#dfe3ea;color:#3c475a;font:600 .76rem 'Manrope',sans-serif}
+.settings__close:hover,.mac-close:hover{background:#d2d8e3}
+.settings__scroll{overflow:auto;padding:24px clamp(16px,4vw,36px) 40px}
+.settings__lead{max-width:540px;margin:0 0 28px;color:#6a7386;font-size:.86rem;line-height:1.55}
+.settings__group{margin-bottom:30px}
+.settings__group h3{margin:0;font-size:1rem;font-weight:700}
+.settings__group>p{margin:3px 0 12px;color:#79839a;font-size:.78rem}
+.settings__card{border:1px solid #dde2ec;border-radius:12px;background:#fff;box-shadow:0 1px 2px rgba(20,28,48,.05);overflow:hidden}
+.settings__themes{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:#e6eaf1}
+.setting-theme{display:grid;grid-template-columns:92px 1fr;align-items:stretch;min-height:92px;padding:0;border:0;background:#fff;color:#1d2430;text-align:left;transition:background .12s,box-shadow .12s}
+.setting-theme:hover{background:#f6f8fc}
+.setting-theme__preview{display:grid;place-items:center;background:var(--preview);color:var(--preview-ink,#fff);font:700 1.25rem/1 'Manrope',sans-serif;letter-spacing:-.04em}
+.setting-theme__preview::after{content:'Aa'}
+.setting-theme__copy{align-self:center;padding:13px 15px}
+.setting-theme__copy strong{display:block;font-size:.88rem;font-weight:700}
+.setting-theme__copy span{display:block;margin-top:4px;color:#68718a;font-size:.73rem;line-height:1.4}
+.setting-theme[aria-pressed="true"]{box-shadow:inset 0 0 0 2px #2f6bdb;border-radius:12px;position:relative;z-index:1}
+.setting-theme[aria-pressed="true"]::after{content:'✓';position:absolute;top:8px;right:8px;width:20px;height:20px;border-radius:50%;background:#2f6bdb;color:#fff;font:700 .68rem/20px 'Manrope',sans-serif;text-align:center}
+@media(max-width:640px){.settings{padding:0}.settings__window{height:100dvh;border-radius:0}.settings__themes{grid-template-columns:1fr}.setting-theme{grid-template-columns:72px 1fr}.settings__top h2{font-size:.9rem}}
+.sheet#favSheet{align-items:center;justify-content:center;padding:clamp(0px,3vw,28px);background:rgba(10,14,22,.5);backdrop-filter:blur(8px)}
+#favSheet .sheet__panel{display:flex;flex-direction:column;width:min(560px,100%);height:min(640px,92dvh);max-height:none;padding:0;border-radius:16px;background:#f2f3f7;color:#1d2430;box-shadow:0 40px 90px rgba(5,10,20,.5);overflow:hidden;transform:translateY(14px) scale(.985)}
+.sheet.open #favSheet .sheet__panel,#favSheet.open .sheet__panel{transform:none}
+.mac-top{display:flex;align-items:center;justify-content:space-between;padding:12px 14px;border-bottom:1px solid #d7dce6;background:linear-gradient(#f7f8fb,#eef0f5)}
+#favSheet .sheet__title{margin:0;font:600 .95rem 'Manrope',sans-serif;text-transform:none;color:#1d2430}
+.mac-close{min-height:30px;padding:0 14px;border:0;border-radius:7px;background:#dfe3ea;color:#3c475a;font:600 .76rem 'Manrope',sans-serif}
+.mac-body{overflow:auto;padding:16px}
+#favSheet .note{color:#6a7386}
+#favSheet .field input{height:38px;border:1px solid #d7dce6;border-radius:8px;background:#fff;color:#1d2430}
+#favSheet .btn{height:38px;border-radius:8px;background:#2f6bdb}
+#favSheet .fav-default{color:#5b6579}
+.fav-sort{display:inline-flex;gap:2px;padding:2px;border:1px solid #d7dce6;border-radius:9px;background:#e9ecf2}
+.fav-sort button{height:30px;padding:0 14px;border:0;border-radius:7px;background:transparent;color:#5b6579;font:600 .76rem 'Manrope',sans-serif}
+.fav-sort button.on{background:#fff;color:#1d2430;box-shadow:0 1px 2px rgba(15,23,42,.14)}
+#favList .fav-row{display:flex;align-items:center;gap:12px;padding:10px 12px;margin:0;border-bottom:1px solid #eef1f6}
+#favList .fav-row:last-child{border-bottom:0}
+#favList .fav-row__img{width:56px;height:56px;border-radius:9px}
+#favList .fav-row__t b{font-size:.9rem}#favList .fav-row__t small{color:#68718a}
+#favList .fav-row__star{color:#e8a13c}
 
 .fav-sort{display:flex;gap:6px;margin:0 0 12px}.fav-sort button{padding:7px 9px;border:1px solid var(--line);border-radius:999px;background:transparent;color:var(--muted);font:700 .62rem var(--mono);text-transform:uppercase}.fav-sort button.on{border-color:var(--ink);background:var(--ink);color:var(--paper)}
 @media(max-width:760px){
@@ -1368,21 +1413,22 @@ else:
 
 <!-- FAV SHEET -->
 <div class="sheet" id="favSheet">
-  <div class="sheet__panel">
-    <div class="sheet__grab"></div>
-    <div class="sheet__title">Mes favoris</div>
-    <p class="note">Votre email synchronise vos favoris entre appareils. Aucun mot de passe.</p>
-    <div class="field">
-      <input type="email" id="emailField" placeholder="votre@email.com" autocomplete="email">
-      <button class="btn" id="emailSave">OK</button>
+  <div class="sheet__panel sheet__panel--mac">
+    <header class="mac-top"><h2 class="sheet__title">Mes favoris</h2><button class="mac-close" id="favClose" type="button">Terminer</button></header>
+    <div class="mac-body">
+      <p class="note">Votre email synchronise vos favoris entre appareils. Aucun mot de passe.</p>
+      <div class="field">
+        <input type="email" id="emailField" placeholder="votre@email.com" autocomplete="email">
+        <button class="btn" id="emailSave">OK</button>
+      </div>
+      <label class="fav-default"><input type="checkbox" id="defaultFavsToggle"> Afficher mes favoris à l'accueil par défaut</label>
+      <div class="fav-sort" role="group" aria-label="Trier mes favoris">
+        <button type="button" class="on" data-fav-sort="date">Récents</button>
+        <button type="button" data-fav-sort="votes">Votes</button>
+        <button type="button" data-fav-sort="alpha">A-Z</button>
+      </div>
+      <div class="mac-card"><div id="favList"></div></div>
     </div>
-    <label class="fav-default"><input type="checkbox" id="defaultFavsToggle"> Afficher mes favoris à l'accueil par défaut</label>
-    <div class="fav-sort" role="group" aria-label="Trier mes favoris">
-      <button type="button" class="on" data-fav-sort="date">Récents</button>
-      <button type="button" data-fav-sort="votes">Votes</button>
-      <button type="button" data-fav-sort="alpha">A-Z</button>
-    </div>
-    <div id="favList"></div>
   </div>
 </div>
 
@@ -1390,53 +1436,46 @@ else:
 
 <!-- SETTINGS -->
 <div class="settings" id="themeSheet" role="dialog" aria-modal="true" aria-labelledby="settingsTitle" aria-hidden="true" inert>
-  <header class="settings__top">
-    <div class="settings__brand"><b>PK</b>cards</div>
-    <h2>Réglages de l'interface</h2>
-    <button class="settings__close" id="settingsClose" type="button">Terminer</button>
-  </header>
-  <div class="settings__layout">
-    <nav class="settings__nav" aria-label="Catégories des réglages">
-      <span>Catégories</span>
-      <a href="#settings-read">Lire</a>
-      <a href="#settings-explore">Explorer</a>
-      <a href="#settings-character">Caractère</a>
-    </nav>
-    <main>
-      <div class="settings__intro">
-        <p>Apparence</p>
-        <h1 id="settingsTitle">Choisissez votre table.</h1>
-        <p>Chaque mode transforme toute l'interface. Le choix s'applique immédiatement et reste mémorisé sur cet appareil.</p>
-      </div>
+  <div class="settings__window">
+    <header class="settings__top">
+      <span class="settings__brand">PKcards</span>
+      <h2 id="settingsTitle">Réglages</h2>
+      <button class="settings__close" id="settingsClose" type="button">Terminer</button>
+    </header>
+    <div class="settings__scroll">
+      <p class="settings__lead">Apparence de toute l'interface. Le choix s'applique immédiatement et reste mémorisé sur cet appareil.</p>
 
-      <section class="settings__group" id="settings-read">
-        <div class="settings__group-head"><h3>Lire</h3><p>Interfaces calmes et lisibles pour consulter longtemps les règles.</p></div>
-        <div class="settings__themes" role="group" aria-label="Thèmes de lecture">
+      <section class="settings__group">
+        <h3>Lire</h3>
+        <p>Interfaces calmes et lisibles pour consulter longtemps les règles.</p>
+        <div class="settings__card"><div class="settings__themes" role="group" aria-label="Thèmes de lecture">
           <button class="setting-theme" type="button" data-theme-set="details"><span class="setting-theme__preview" style="--preview:#f2f0e9;--preview-ink:#151513"></span><span class="setting-theme__copy"><strong>Details</strong><span>Éditorial clair, typographie ample et rythme posé.</span></span></button>
           <button class="setting-theme" type="button" data-theme-set="edge"><span class="setting-theme__preview" style="--preview:#faf9f7;--preview-ink:#6d4f66"></span><span class="setting-theme__copy"><strong>Edge</strong><span>Surfaces douces, contrastes légers et grands arrondis.</span></span></button>
           <button class="setting-theme" type="button" data-theme-set="appica"><span class="setting-theme__preview" style="--preview:#eaf2ff;--preview-ink:#1769e0"></span><span class="setting-theme__copy"><strong>Appica</strong><span>Interface système adaptative, claire ou sombre.</span></span></button>
           <button class="setting-theme" type="button" data-theme-set="cat"><span class="setting-theme__preview" style="--preview:#303446;--preview-ink:#ca9ee6"></span><span class="setting-theme__copy"><strong>Cat</strong><span>Palette Catppuccin sombre, douce et équilibrée.</span></span></button>
-        </div>
+        </div></div>
       </section>
 
-      <section class="settings__group" id="settings-explore">
-        <div class="settings__group-head"><h3>Explorer</h3><p>Modes qui changent aussi la manière de parcourir la bibliothèque.</p></div>
-        <div class="settings__themes" role="group" aria-label="Thèmes de navigation">
+      <section class="settings__group">
+        <h3>Explorer</h3>
+        <p>Modes qui changent aussi la manière de parcourir la bibliothèque.</p>
+        <div class="settings__card"><div class="settings__themes" role="group" aria-label="Thèmes de navigation">
           <button class="setting-theme" type="button" data-theme-set="v5"><span class="setting-theme__preview" style="--preview:linear-gradient(135deg,#f5f2ea 55%,#96741d 56%);--preview-ink:#171714"></span><span class="setting-theme__copy"><strong>V5 Main</strong><span>Une main de cartes à faire défiler, couper et mélanger.</span></span></button>
           <button class="setting-theme" type="button" data-theme-set="compare"><span class="setting-theme__preview" style="--preview:linear-gradient(135deg,#e8edf5 50%,#15233c 50%);--preview-ink:#f7c948"></span><span class="setting-theme__copy"><strong>Compare</strong><span>Recherche directe et différences de variantes côte à côte.</span></span></button>
-        </div>
+        </div></div>
       </section>
 
-      <section class="settings__group" id="settings-character">
-        <div class="settings__group-head"><h3>Caractère</h3><p>Directions visuelles franches pour donner une identité forte à la table.</p></div>
-        <div class="settings__themes" role="group" aria-label="Thèmes expressifs">
+      <section class="settings__group">
+        <h3>Caractère</h3>
+        <p>Directions visuelles franches pour donner une identité forte à la table.</p>
+        <div class="settings__card"><div class="settings__themes" role="group" aria-label="Thèmes expressifs">
           <button class="setting-theme" type="button" data-theme-set="graffiti"><span class="setting-theme__preview" style="--preview:#151515;--preview-ink:#ff3d9a"></span><span class="setting-theme__copy"><strong>Graff</strong><span>Affiches, marqueur, couleurs primaires et énergie brute.</span></span></button>
           <button class="setting-theme" type="button" data-theme-set="aura"><span class="setting-theme__preview" style="--preview:radial-gradient(circle at 70% 20%,#df3cff,#0d0713 62%);--preview-ink:#fff8ee"></span><span class="setting-theme__copy"><strong>Aura</strong><span>Néons organiques, halos violets et profondeur nocturne.</span></span></button>
           <button class="setting-theme" type="button" data-theme-set="bynar"><span class="setting-theme__preview" style="--preview:#050505;--preview-ink:#315cff"></span><span class="setting-theme__copy"><strong>Bynar</strong><span>Noir orbital, grille technique et bleu électrique.</span></span></button>
           <button class="setting-theme" type="button" data-theme-set="ascii"><span class="setting-theme__preview" style="--preview:#11130f;--preview-ink:#c7ff45"></span><span class="setting-theme__copy"><strong>Ascii</strong><span>Terminal monochrome, grille et typographie machine.</span></span></button>
-        </div>
+        </div></div>
       </section>
-    </main>
+    </div>
   </div>
 </div>
 
@@ -1492,6 +1531,7 @@ const sheet=document.getElementById('favSheet');
 function openFavSheet(){ sheet.classList.add('open'); document.getElementById('emailField').value=email; renderFavList(); }
 function closeFavSheet(){ sheet.classList.remove('open'); }
 sheet.addEventListener('click', e=>{ if(e.target===sheet) closeFavSheet(); });
+document.getElementById('favClose')?.addEventListener('click', closeFavSheet);
 document.getElementById('favOpen')?.addEventListener('click', openFavSheet);
 document.getElementById('emailSave').addEventListener('click', async ()=>{
   email = document.getElementById('emailField').value.trim().toLowerCase();
