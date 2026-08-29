@@ -36,6 +36,124 @@
       "bataille-corse-tarot": "Bataille Corse Tarot · classique"
     }
   },
+  "variant_differences": {
+    "le-kems": {
+      "kems": [
+        {
+          "topic": "Placement des partenaires",
+          "canonical": "Les partenaires s'assoient en diagonale.",
+          "variant": "Les partenaires peuvent être en diagonale ou face à face."
+        },
+        {
+          "topic": "Trois cartes identiques à la donne",
+          "canonical": "La main est conservée ; l'échange initial est seulement proposé en variante.",
+          "variant": "Le joueur montre ses trois cartes, les remet dans la pioche et en repioche."
+        },
+        {
+          "topic": "Double Kem's",
+          "canonical": "Il rapporte 2 points. La règle à 3 points non contrable est optionnelle.",
+          "variant": "Il rapporte 3 points et ne peut pas être contré."
+        },
+        {
+          "topic": "Balayage",
+          "canonical": "Les cartes centrales sont renouvelées après quelques secondes sans échange.",
+          "variant": "Un joueur propose le balayage, les autres doivent accepter et aucune annonce n'est permise pendant celui-ci."
+        }
+      ]
+    },
+    "president": {
+      "trou-du-cul": [
+        {
+          "topic": "Premier joueur",
+          "canonical": "Première manche au hasard ; ensuite le Trou du cul ouvre.",
+          "variant": "Le Président ouvre la manche."
+        },
+        {
+          "topic": "Finir avec un 2",
+          "canonical": "Interdit : le joueur devient automatiquement Trou du cul.",
+          "variant": "Aucune interdiction particulière."
+        },
+        {
+          "topic": "Même combinaison",
+          "canonical": "Jouer exactement la même combinaison fait sauter le joueur suivant.",
+          "variant": "Il faut poser une combinaison identique de rang supérieur."
+        },
+        {
+          "topic": "Carrés",
+          "canonical": "Compléter un carré nettoie le pli ; poser un carré inverse l'ordre des cartes.",
+          "variant": "Aucun effet automatique du carré."
+        },
+        {
+          "topic": "Jokers",
+          "canonical": "Ils ne sont pas utilisés.",
+          "variant": "Ils sont optionnels et peuvent servir d'atout."
+        }
+      ]
+    },
+    "8-americain": {
+      "8": [
+        {
+          "topic": "Joueurs et distribution",
+          "canonical": "2 à 6 joueurs, 7 cartes chacun.",
+          "variant": "2 joueurs, 8 cartes chacun."
+        },
+        {
+          "topic": "As",
+          "canonical": "Le joueur suivant passe son tour.",
+          "variant": "Le joueur peut poser toutes ses cartes de la couleur de l'As."
+        },
+        {
+          "topic": "Valet",
+          "canonical": "Il inverse le sens ; à deux joueurs, son propriétaire rejoue.",
+          "variant": "Il fait passer le tour de l'adversaire."
+        },
+        {
+          "topic": "Cartes +2",
+          "canonical": "Tous les 2 font piocher 2 cartes et peuvent être enchaînés.",
+          "variant": "Le 2 fait piocher 2 cartes, sauf le 2 de pique qui en fait piocher 4."
+        },
+        {
+          "topic": "Oubli de l'annonce « Carte »",
+          "canonical": "Pénalité de 2 cartes.",
+          "variant": "Pénalité de 5 cartes."
+        },
+        {
+          "topic": "Score final",
+          "canonical": "Le gagnant cumule les points restant chez ses adversaires.",
+          "variant": "Le premier joueur qui cumule 500 points perd la partie."
+        }
+      ]
+    },
+    "bataille-corse": {
+      "bataille-corse-tarot": [
+        {
+          "topic": "Jeu de cartes",
+          "canonical": "Jeu standard de 52 cartes.",
+          "variant": "Jeu de Tarot de 78 cartes."
+        },
+        {
+          "topic": "Carte spéciale supplémentaire",
+          "canonical": "Le Joker donne 5 tentatives lorsqu'il est utilisé.",
+          "variant": "L'Excuse déclenche un nombre variable de tentatives."
+        },
+        {
+          "topic": "Mauvais frappement",
+          "canonical": "Aucune pénalité précisée.",
+          "variant": "Le joueur donne une carte à chaque adversaire ou perd temporairement le droit de frapper."
+        },
+        {
+          "topic": "Dernière chance",
+          "canonical": "La partie finit dès qu'un joueur possède toutes les cartes.",
+          "variant": "Le joueur doit encore jouer une bataille, que les autres peuvent frapper."
+        },
+        {
+          "topic": "Frappements optionnels",
+          "canonical": "Seuls les doubles sont retenus.",
+          "variant": "Addition à 10, sandwich, Big-Mac, 10 et couple Roi-Dame sont proposés."
+        }
+      ]
+    }
+  },
   "restored_variants": {
     "animals": {
       "source": "animaux",

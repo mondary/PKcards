@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.31';
+const VERSION = '2026.08.33';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -822,11 +822,14 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inhe
 .reader-body{min-width:0}.reader-body-inner{max-width:780px;margin:auto;padding:clamp(90px,10vw,150px) clamp(24px,6vw,92px) 100px}.reader-summary{padding-bottom:22px}.reader-summary::before{content:'Règle express';display:inline-block;margin-bottom:20px;padding:4px 8px;background:var(--pink);color:var(--ink);font:700 .65rem var(--mono);text-transform:uppercase;transform:rotate(-1deg)}.reader-summary__text{font-size:clamp(1.3rem,2.3vw,2rem);font-weight:700;line-height:1.25;text-wrap:pretty}.cs{height:4.2em;width:auto;vertical-align:middle;margin:0 3px;border-radius:5px;border:1px solid rgba(0,0,0,.18);box-shadow:0 1px 3px rgba(0,0,0,.35)}p .cs,li .cs{height:2.8em;vertical-align:-.7em}.rules td{padding:10px 12px}.raction{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0}.rbtn{min-height:50px;border:0;border-radius:3px;background:var(--blue);color:#fff;font:700 .68rem var(--mono);text-transform:uppercase}.rbtn--like{background:var(--pink);color:var(--ink)}.rbtn--fav.on{background:var(--yellow)!important;color:#151515!important;box-shadow:inset 0 -4px 0 rgba(0,0,0,.22)}
 .reader__youtube{display:flex;align-items:center;justify-content:center;gap:10px;padding:16px;border:0;border-radius:3px;background:#f00;color:#fff;font-size:.84rem;font-weight:700;text-decoration:none}.reader__youtube:hover{background:#c00}.reader__youtube svg{width:26px;height:19px;flex:none}.yt-alts{display:flex;flex-wrap:wrap;gap:14px;margin:12px 0 30px}.yt-alt{color:var(--blue);font:600 .65rem var(--mono)}
 .rules-title,.related__title{margin:52px 0 20px;font:700 .76rem var(--mono);text-transform:uppercase}.ver-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}.ver-tab{border:1px solid var(--line);background:transparent;color:var(--muted);padding:7px 14px;border-radius:999px;font:700 .72rem var(--mono);text-transform:uppercase;letter-spacing:.05em;cursor:pointer}.ver-tab:hover{color:var(--ink)}.ver-tab--on{background:var(--ink);color:var(--paper);border-color:var(--ink)}.rules{font-size:1.08rem;line-height:1.75}.rules h1,.rules h2,.rules h3{line-height:1.15}.rules h1{margin:42px 0 14px;font-size:2rem}.rules h2{margin:36px 0 12px;font-size:1.6rem;padding-bottom:8px}.rules h3{margin:26px 0 9px;font-size:1.25rem}.rules p{margin:10px 0}.rules ul,.rules ol{margin:11px 0 11px 24px}.rules li{margin:6px 0}.rules strong{font-weight:700}.rules hr{margin:32px 0;border:0;border-top:1px solid var(--line)}.rules table{width:100%;margin:20px 0;border-collapse:collapse;font-size:.92rem}.rules td{padding:10px;border:1px solid var(--line)}.rules img{max-width:100%;margin:14px 0}.rules blockquote{margin:20px 0;padding:16px 18px;border-radius:8px;background:var(--soft)}.rules a{text-decoration:underline}
-.rules-layout--compare{display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,.52fr);gap:clamp(24px,4vw,54px);align-items:start}.rules-layout__main{min-width:0}.variant-drawer{position:sticky;top:30px;align-self:start;max-height:calc(100dvh - 60px);overflow:auto;padding:20px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--ink)}.variant-drawer__head{display:flex;align-items:center;justify-content:space-between;gap:12px}.variant-drawer__head span,.variant-drawer__head strong{display:block}.variant-drawer__head span{font:700 .58rem var(--mono);letter-spacing:.1em;text-transform:uppercase}.variant-drawer__head strong{margin-top:5px;font-size:1rem}.variant-drawer__toggle{border:0;background:transparent;color:inherit;font:700 .64rem var(--mono);text-transform:uppercase}.variant-drawer__picker{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0}.variant-drawer__picker button{border:1px solid currentColor;background:transparent;color:inherit;padding:6px 9px;border-radius:999px;font:700 .58rem var(--mono);text-transform:uppercase}.variant-drawer__picker button.on{background:currentColor}.variant-drawer__diff{display:grid;gap:7px;padding:0;margin:14px 0 18px;list-style:none}.variant-drawer__diff li{display:flex;flex-direction:column;gap:3px;padding:9px 0;border-bottom:1px solid currentColor;font-size:.82rem;line-height:1.25}.variant-drawer__diff span{font:700 .56rem var(--mono);letter-spacing:.08em;text-transform:uppercase}.variant-drawer__rule{font-size:.9rem;line-height:1.62}.variant-drawer__rule .rules{font-size:inherit;line-height:inherit}.variant-drawer__rule .rules h2{margin:22px 0 8px;font-size:1.22rem}.variant-drawer__rule .rules h3{margin:17px 0 7px;font-size:1rem}.variant-drawer__rule .rules table{font-size:.78rem}.variant-drawer__rule .rules td{padding:7px}.variant-drawer__rule .rules p{margin:8px 0}
+.rules-layout--compare{display:grid;grid-template-columns:minmax(0,1fr) minmax(320px,.58fr);gap:clamp(24px,4vw,54px);align-items:start}.rules-layout__main{min-width:0}.variant-drawer{position:sticky;top:30px;align-self:start;max-height:calc(100dvh - 60px);overflow:auto;padding:20px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--ink)}.variant-drawer__head{display:flex;align-items:center;justify-content:space-between;gap:12px}.variant-drawer__head span,.variant-drawer__head strong{display:block}.variant-drawer__head span{font:700 .58rem var(--mono);letter-spacing:.1em;text-transform:uppercase}.variant-drawer__head strong{margin-top:5px;font-size:1.15rem}.variant-drawer__toggle{border:0;background:transparent;color:inherit;font:700 .64rem var(--mono);text-transform:uppercase}.variant-drawer__diff{display:grid;gap:0;padding:0;margin:10px 0 0;list-style:none}.variant-drawer__diff li{padding:15px 0;border-bottom:1px solid rgba(127,127,127,.35)}.variant-drawer__diff h3{margin:0 0 8px;font-size:.86rem;line-height:1.25}.variant-drawer__diff li>div{display:grid;grid-template-columns:1fr 1fr;gap:8px}.variant-drawer__diff p{margin:0;padding:9px;border-radius:7px;background:rgba(255,255,255,.06);font-size:.78rem;line-height:1.4}.variant-drawer__diff p span{display:block;margin-bottom:5px;font:700 .54rem/1.3 var(--mono);letter-spacing:.04em;text-transform:uppercase}.variant-drawer__diff p:first-child{border-left:3px solid var(--yellow)}.variant-drawer__diff p:first-child span{color:var(--yellow)}.variant-drawer__diff p:last-child{border-left:3px solid #77a7e8}.variant-drawer__diff p:last-child span{color:#a9c9f5}
 .related{margin-top:60px}.related__grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.related__card{display:flex;flex-direction:column;gap:5px;padding:18px;border-radius:3px;background:#ffbad8}.related__card:nth-child(even){background:#b8c3ff}.related__card:hover{transform:rotate(-1deg)}.related__rel{font:700 .55rem var(--mono);text-transform:uppercase;color:var(--ink)}.related__name{font-weight:700}.related__note{font-size:.68rem;color:var(--muted)}
 .reader-sources{margin-top:52px}.source-list{display:flex;flex-wrap:wrap;gap:8px}.source-list a{padding:9px 11px;border:1px solid var(--line);border-radius:3px;color:var(--muted);font:600 .65rem var(--mono)}.source-list a:hover{border-color:var(--blue);color:var(--blue)}
 
 #toast{position:fixed;z-index:60;left:50%;bottom:24px;transform:translateX(-50%);padding:10px 16px;border-radius:3px;background:var(--ink);color:#fff;font-size:.78rem;opacity:0;pointer-events:none;transition:opacity .15s}#toast.show{opacity:1}.sheet{position:fixed;inset:0;z-index:50;display:flex;align-items:flex-end;background:rgba(0,0,0,.55);opacity:0;visibility:hidden;transition:opacity .15s}.sheet.open{opacity:1;visibility:visible}.sheet__panel{width:min(100%,680px);max-height:85dvh;margin:auto;padding:28px 24px calc(28px + env(safe-area-inset-bottom));overflow:auto;border-radius:12px 12px 0 0;background:var(--paper);transform:translateY(20px);transition:transform .2s}.sheet.open .sheet__panel{transform:none}.sheet__grab{width:40px;height:4px;border-radius:4px;background:var(--pink);margin:0 auto 20px}.sheet__title{margin-bottom:16px;font:2rem var(--display);text-transform:uppercase}.note{margin-bottom:10px;color:var(--muted);font-size:.75rem;line-height:1.5}.field{display:flex;gap:8px;margin-bottom:18px}.field input{min-width:0;flex:1;height:46px;padding:0 12px;border:2px solid var(--ink);border-radius:3px;background:var(--surface)}.btn{padding:0 18px;border:0;border-radius:3px;background:var(--blue);color:#fff;font-weight:700}.fav-row{display:flex;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}.fav-row__img{width:48px;height:48px;border-radius:6px;object-fit:cover;background:var(--soft);flex-shrink:0}.fav-row__t{flex:1;min-width:0}.fav-row__t b,.fav-row__t small{display:block}.fav-row__t small{margin-top:3px;color:var(--muted)}.fav-row__star{color:var(--yellow);font-size:1.1rem;flex-shrink:0}.fav-default{display:flex;align-items:center;gap:8px;margin-bottom:18px;color:var(--muted);font-size:.78rem;cursor:pointer}.fav-default input{width:18px;height:18px}.theme-options{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:10px;margin-top:14px}.theme-option{display:flex;align-items:center;gap:10px;padding:14px 12px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:inherit;font:700 .7rem var(--mono);text-transform:uppercase;cursor:pointer;text-align:left}.theme-option:hover{border-color:var(--ink)}.theme-option[aria-pressed="true"]{border:2px solid var(--ink);box-shadow:0 0 0 3px color-mix(in srgb,var(--pink) 45%,transparent)}.theme-option__swatch{width:26px;height:26px;flex:none;border-radius:8px;border:1px solid rgba(0,0,0,.2)}.theme-option__sub{display:block;margin-top:3px;color:var(--muted);font:500 .6rem var(--mono);text-transform:none}
+.settings{position:fixed;z-index:80;inset:0;overflow:auto;background:#eef2f7;color:#13213a;font-family:'Manrope',sans-serif;opacity:0;visibility:hidden;transform:translateY(16px);transition:opacity .18s ease,transform .22s ease,visibility .18s}.settings.open{opacity:1;visibility:visible;transform:none}.settings__top{position:sticky;z-index:2;top:0;display:flex;align-items:center;gap:20px;min-height:76px;padding:14px clamp(20px,4vw,60px);border-bottom:1px solid #cbd5e3;background:rgba(238,242,247,.94);backdrop-filter:blur(16px)}.settings__brand{font:700 .74rem 'DM Mono',monospace;letter-spacing:.08em;text-transform:uppercase}.settings__brand b{color:#2457c5}.settings__top h2{font-size:1rem;font-weight:600}.settings__close{margin-left:auto;min-height:44px;padding:0 18px;border:0;border-radius:9px;background:#13213a;color:#fff;font-weight:700}.settings__layout{display:grid;grid-template-columns:220px minmax(0,1100px);gap:clamp(32px,6vw,90px);max-width:1440px;margin:auto;padding:clamp(38px,6vw,84px) clamp(20px,5vw,72px) 100px}.settings__nav{position:sticky;top:116px;align-self:start;display:grid;gap:6px}.settings__nav span{margin-bottom:10px;color:#718096;font:700 .62rem 'DM Mono',monospace;letter-spacing:.1em;text-transform:uppercase}.settings__nav a{padding:10px 12px;border-radius:8px;color:#52627a;font-size:.88rem}.settings__nav a:hover,.settings__nav a:focus-visible{background:#fff;color:#13213a}.settings__intro{max-width:760px;margin-bottom:62px}.settings__intro p:first-child{color:#2457c5;font:700 .66rem 'DM Mono',monospace;letter-spacing:.1em;text-transform:uppercase}.settings__intro h1{max-width:720px;margin:12px 0 16px;font-size:clamp(2.8rem,6vw,6.2rem);line-height:.92;letter-spacing:-.07em}.settings__intro p:last-child{max-width:580px;color:#637189;font-size:1rem;line-height:1.6}.settings__group{scroll-margin-top:110px;margin-bottom:64px}.settings__group-head{display:grid;grid-template-columns:180px 1fr;gap:24px;margin-bottom:20px;padding-bottom:14px;border-bottom:1px solid #cbd5e3}.settings__group-head h3{font-size:1.2rem}.settings__group-head p{color:#6b778b;font-size:.86rem;line-height:1.5}.settings__themes{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.setting-theme{position:relative;display:grid;grid-template-columns:120px 1fr;min-height:128px;padding:0;overflow:hidden;border:1px solid #c8d3e1;border-radius:14px;background:#f9fbfd;color:#13213a;text-align:left;transition:transform .15s,border-color .15s,box-shadow .15s}.setting-theme:hover{transform:translateY(-2px);border-color:#8091a8;box-shadow:0 12px 26px rgba(19,33,58,.08)}.setting-theme[aria-pressed="true"]{border:2px solid #2457c5;box-shadow:0 0 0 4px rgba(36,87,197,.12)}.setting-theme[aria-pressed="true"]::after{content:'Actif';position:absolute;top:10px;right:10px;padding:5px 7px;border-radius:999px;background:#2457c5;color:#fff;font:700 .54rem 'DM Mono',monospace;text-transform:uppercase}.setting-theme__preview{display:grid;place-items:center;min-height:100%;border-right:1px solid rgba(127,127,127,.25);background:var(--preview);color:var(--preview-ink,#fff);font:700 1.55rem/1 'Manrope',sans-serif;letter-spacing:-.06em}.setting-theme__preview::after{content:'Aa';}.setting-theme__copy{align-self:center;padding:22px 18px}.setting-theme__copy strong,.setting-theme__copy span{display:block}.setting-theme__copy strong{font-size:1rem}.setting-theme__copy span{max-width:220px;margin-top:7px;color:#68768b;font-size:.76rem;line-height:1.45}.settings-open{overflow:hidden}
+@media(max-width:760px){.settings__top{min-height:64px;padding:10px 14px}.settings__top h2{display:none}.settings__close{padding-inline:14px}.settings__layout{display:block;padding:34px 14px 80px}.settings__nav{position:static;display:flex;gap:6px;margin:0 0 38px;overflow-x:auto}.settings__nav span{display:none}.settings__nav a{flex:none;border:1px solid #cbd5e3;background:#f9fbfd}.settings__intro{margin-bottom:48px}.settings__intro h1{font-size:clamp(3rem,15vw,4.6rem)}.settings__group{margin-bottom:50px}.settings__group-head{display:block}.settings__group-head p{margin-top:7px}.settings__themes{grid-template-columns:1fr}.setting-theme{grid-template-columns:100px 1fr;min-height:112px}.setting-theme__copy{padding:18px 16px}}
+.settings__intro h1{max-width:100%;font-size:clamp(2.8rem,5vw,5rem);letter-spacing:-.065em;text-wrap:balance}@media(max-width:760px){.settings__intro h1{font-size:clamp(3rem,14vw,4.2rem)}}
 
 .fav-sort{display:flex;gap:6px;margin:0 0 12px}.fav-sort button{padding:7px 9px;border:1px solid var(--line);border-radius:999px;background:transparent;color:var(--muted);font:700 .62rem var(--mono);text-transform:uppercase}.fav-sort button.on{border-color:var(--ink);background:var(--ink);color:var(--paper)}
 @media(max-width:760px){
@@ -1052,6 +1055,7 @@ html[data-theme="compare"]{--paper:#e8edf5;--surface:#f9fbff;--soft:#d8e2f1;--in
 html[data-theme="compare"] .launcher{position:sticky;z-index:29;top:57px;display:flex;align-items:center;gap:12px;max-width:none;padding:12px clamp(14px,4vw,64px);background:rgba(232,237,245,.93);border-bottom:1px solid var(--line);backdrop-filter:blur(16px)}html[data-theme="compare"] .launcher::after,html[data-theme="compare"] .launcher__intro,html[data-theme="compare"] .chips,html[data-theme="compare"] .launcher__actions a{display:none}html[data-theme="compare"] .search{flex:1;max-width:860px}.launcher .search label{display:none}html[data-theme="compare"] .search input{height:48px;padding:0 18px;border:1px solid var(--line);border-radius:12px;background:var(--surface);box-shadow:none;font-size:1rem}.search__key{bottom:17px}.launcher__actions{margin:0}.random{white-space:nowrap}html[data-theme="compare"] .random{border:0;border-radius:10px;background:var(--blue);color:#fff;box-shadow:none}html[data-theme="compare"] .section-head{padding-top:28px;padding-bottom:12px}html[data-theme="compare"] .list{grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;padding-bottom:80px}html[data-theme="compare"] .game{border-radius:14px;background:var(--surface);animation:compare-deal .58s cubic-bezier(.22,1,.36,1) both;transform-origin:50% 100%}html[data-theme="compare"] .game:nth-child(6n+2){animation-delay:.06s}html[data-theme="compare"] .game:nth-child(6n+3){animation-delay:.12s}html[data-theme="compare"] .game:nth-child(6n+4){animation-delay:.18s}html[data-theme="compare"] .game:nth-child(6n+5){animation-delay:.24s}html[data-theme="compare"] .game:nth-child(6n){animation-delay:.30s}@keyframes compare-deal{from{opacity:0;transform:translate3d(0,28px,0) rotate(.8deg)}to{opacity:1;transform:translate3d(0,0,0) rotate(0)}}@keyframes compare-swap{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 html[data-theme="compare"] .reader{grid-template-columns:minmax(290px,31vw) minmax(0,1fr);background:#e8edf5}html[data-theme="compare"] .bar{width:31vw;color:#fff}html[data-theme="compare"] .bar__back{border-radius:8px;background:rgba(21,35,60,.72)}html[data-theme="compare"] .reader-hero{background:#15233c}html[data-theme="compare"] .reader-hero::after{background:linear-gradient(0deg,rgba(21,35,60,.94),rgba(21,35,60,.22))}html[data-theme="compare"] .reader-hero h1{font:700 clamp(3rem,6.4vw,6.6rem)/.84 var(--display);letter-spacing:-.07em;text-shadow:none}html[data-theme="compare"] .reader-hero__eyebrow{border-radius:999px;background:var(--yellow);transform:none}html[data-theme="compare"] .reader-summary::before{border-radius:999px;background:var(--blue);color:#fff;transform:none}html[data-theme="compare"] .reader-body-inner{max-width:1480px;padding:clamp(70px,8vw,120px) clamp(24px,5vw,80px) 100px}html[data-theme="compare"] .rbtn{border-radius:9px;background:var(--blue)}html[data-theme="compare"] .rbtn--like{background:var(--yellow);color:var(--ink)}html[data-theme="compare"] .rules-layout__main{padding:0 clamp(18px,3vw,42px) 42px;border-radius:18px;background:var(--surface);box-shadow:0 18px 44px rgba(21,35,60,.08)}html[data-theme="compare"] .rules-layout__main .rules-title{padding-top:30px}html[data-theme="compare"] .ver-tab{border-radius:8px}html[data-theme="compare"] .ver-tab--on{background:var(--blue);border-color:var(--blue);color:#fff}html[data-theme="compare"] .variant-drawer{padding:22px;border:1px solid #29476f;border-radius:16px;background:#15233c;color:#edf4ff;box-shadow:0 18px 44px rgba(21,35,60,.18)}html[data-theme="compare"] .variant-drawer__head span{color:#a9c4eb}html[data-theme="compare"] .variant-drawer__head strong{color:var(--yellow)}html[data-theme="compare"] .variant-drawer__toggle{color:var(--yellow)}html[data-theme="compare"] .variant-drawer__picker button{border-color:#46658f;color:#c9daf0}html[data-theme="compare"] .variant-drawer__picker button.on{background:var(--yellow);border-color:var(--yellow);color:#15233c}html[data-theme="compare"] .variant-drawer__diff{color:#f5fbff}html[data-theme="compare"] .variant-drawer__diff li{border-color:#29476f}html[data-theme="compare"] .variant-drawer__diff span{color:#f78270}html[data-theme="compare"] .variant-drawer__rule{padding-top:6px;color:#dce8f8}html[data-theme="compare"] .variant-drawer__rule.is-swapping{animation:compare-swap .24s ease both}html[data-theme="compare"] .variant-drawer__rule .rules h2{color:#fff}html[data-theme="compare"] .variant-drawer__rule .rules blockquote{background:#223656}html[data-theme="compare"] .variant-drawer__rule .rules td{border-color:#46658f}
 @media(min-width:761px){html[data-theme="compare"] .variant-drawer__toggle{display:none}}@media(max-width:760px){html[data-theme="compare"] .launcher{top:54px;padding:8px 12px}html[data-theme="compare"] .search input{height:44px}html[data-theme="compare"] .random{min-height:44px;padding-inline:12px;font-size:0}html[data-theme="compare"] .random::after{content:'↗';font-size:1rem}html[data-theme="compare"] .reader{display:block}html[data-theme="compare"] .bar{width:100%}html[data-theme="compare"] .reader-body-inner{padding:48px 14px 100px}html[data-theme="compare"] .rules-layout__main{padding-inline:18px}html[data-theme="compare"] .rules-layout--compare{display:block}html[data-theme="compare"] .variant-drawer{position:fixed;z-index:45;right:10px;bottom:0;left:10px;top:auto;max-height:76dvh;padding:16px 18px calc(20px + env(safe-area-inset-bottom));border-radius:18px 18px 0 0;transform:translateY(calc(100% - 66px));transition:transform .25s ease}html[data-theme="compare"] .variant-drawer.is-open{transform:none}}
+@media(max-width:430px){.variant-drawer__diff li>div{grid-template-columns:1fr}}
 html:not([data-theme="compare"]) .launcher .search label{display:block}html:not([data-theme="compare"]) .search__key{bottom:24px}html:not([data-theme="compare"]) .launcher__actions{margin-top:24px}
 
 /* ── Mobile : rail horizontal au-dessus de la main ── */
@@ -1120,27 +1124,7 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
       $vmd = Vault::read('/games/' . $vs . '.md');
       if ($vmd !== null) $variantMds[$vs] = ['label' => $vLabel, 'md' => preg_replace('/^#\s+.+\n?/m', '', $vmd, 1)];
     }
-    $ruleSections = static function(string $source): array {
-      $parts = preg_split('/^##\s+(.+)$/m', $source, -1, PREG_SPLIT_DELIM_CAPTURE);
-      $sections = [];
-      for ($i = 1; $i < count($parts); $i += 2) {
-        $title = trim(preg_replace('/[*_`]/', '', $parts[$i]));
-        $body = trim(preg_replace('/\s+/', ' ', preg_replace('/[#*_>`|-]+/', ' ', $parts[$i + 1] ?? '')));
-        if ($title !== '') $sections[$title] = mb_strtolower($body);
-      }
-      return $sections;
-    };
-    $baseSections = $ruleSections($md);
-    $variantDiffs = [];
-    foreach ($variantMds as $vs => $v) {
-      $altSections = $ruleSections($v['md']);
-      foreach (array_unique(array_merge(array_keys($baseSections), array_keys($altSections))) as $heading) {
-        $inBase = array_key_exists($heading, $baseSections);
-        $inVariant = array_key_exists($heading, $altSections);
-        if ($inBase && $inVariant && $baseSections[$heading] === $altSections[$heading]) continue;
-        $variantDiffs[$vs][] = ['heading' => $heading, 'kind' => !$inBase ? 'Spécifique à la variante' : (!$inVariant ? 'Absente de la variante' : 'Règle modifiée')];
-      }
-    }
+    $variantDiffs = Vault::catalog()['variant_differences'][$g['slug']] ?? [];
     $initialVer = isset($variantMds[$slug]) ? $slug : $g['slug']; // ?game=kems ouvre directement l'onglet classique
     // Tous les noms du jeu depuis game_names (source unique). Sert pour YouTube + affichage.
     $_ns = Vault::db()->prepare("SELECT name FROM game_names WHERE slug=? ORDER BY (lower(name)=lower(?)) DESC, name");
@@ -1174,7 +1158,7 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
   <div class="reader" data-prev="<?= e($prevSlug) ?>" data-next="<?= e($nextSlug) ?>">
     <div class="bar">
       <a class="bar__back" href="<?= e(qs_home()) ?>">Retour</a>
-      <button class="theme-menu" id="themeMenuBtn" type="button">Thème</button>
+      <button class="theme-menu" id="themeMenuBtn" type="button">Réglages</button>
       <span><?= e($g['type'] ?: 'Jeu de cartes') ?> / v<?= VERSION ?></span>
     </div>
     <section class="reader-hero" style="--hero-c:<?= e($g['color'] ?: '#ca9ee6') ?>" aria-labelledby="gameTitle">
@@ -1231,15 +1215,10 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
       </div>
       <?php if ($variantMds): ?>
       <aside class="variant-drawer" id="variantDrawer" aria-label="Comparaison des variantes">
-        <div class="variant-drawer__head"><div><span>Même jeu, autre règle</span><strong id="compareLabel">Variante</strong></div><button class="variant-drawer__toggle" id="variantDrawerToggle" type="button" aria-expanded="false">Comparer</button></div>
-        <div class="variant-drawer__picker" aria-label="Règle comparée">
-          <button type="button" data-compare-ver="<?= e($g['slug']) ?>"><?= (int)$g['is_clm'] ? 'Version maison' : 'Notre version' ?></button>
-          <?php foreach ($variantMds as $vs => $v): ?><button type="button" data-compare-ver="<?= e($vs) ?>"><?= e($v['label']) ?></button><?php endforeach; ?>
-        </div>
+        <div class="variant-drawer__head"><div><span>Comparaison rapide</span><strong>Ce qui change</strong></div><button class="variant-drawer__toggle" id="variantDrawerToggle" type="button" aria-expanded="false">Comparer</button></div>
         <?php foreach ($variantMds as $vs => $v): ?>
-        <ol class="variant-drawer__diff" data-diff-for="<?= e($vs) ?>" hidden><?php foreach ($variantDiffs[$vs] ?? [] as $diff): ?><li><span><?= e($diff['kind']) ?></span><?= e($diff['heading']) ?></li><?php endforeach; ?></ol>
+        <ol class="variant-drawer__diff"><?php foreach ($variantDiffs[$vs] ?? [] as $diff): ?><li><h3><?= e($diff['topic']) ?></h3><div><p><span><?= (int)$g['is_clm'] ? 'Version maison' : 'Notre version' ?></span><?= e($diff['canonical']) ?></p><p><span><?= e($v['label']) ?></span><?= e($diff['variant']) ?></p></div></li><?php endforeach; ?></ol>
         <?php endforeach; ?>
-        <div class="variant-drawer__rule" id="compareRule"></div>
       </aside>
       <?php endif; ?>
     </div>
@@ -1303,7 +1282,7 @@ else:
       <div class="brandrow">
         <a class="brand" href="<?= e(qs_home()) ?>" aria-label="Retour à l'accueil"><b>PK</b> / GUIDE DE TABLE <span class="ver">v<?= VERSION ?></span></a>
         <span class="spacer"></span>
-        <button class="theme-menu" id="themeMenuBtn" type="button">Thème</button>
+        <button class="theme-menu" id="themeMenuBtn" type="button">Réglages</button>
         <button class="iconbtn" id="topBtn" type="button">Top</button>
         <button class="iconbtn" id="favOpen">Favoris <span class="dot" id="favDot" hidden>0</span></button>
       </div>
@@ -1409,24 +1388,55 @@ else:
 
 <div id="toast"></div>
 
-<!-- THEME SHEET -->
-<div class="sheet" id="themeSheet">
-  <div class="sheet__panel">
-    <div class="sheet__grab"></div>
-    <div class="sheet__title">Thème</div>
-    <p class="note">Le choix est mémorisé sur cet appareil.</p>
-    <div class="theme-options" role="group" aria-label="Choisir le thème">
-      <button class="theme-option" type="button" data-theme-set="cat"><span class="theme-option__swatch" style="background:#303446"></span><span>Cat<span class="theme-option__sub">Catppuccin</span></span></button>
-      <button class="theme-option" type="button" data-theme-set="ascii"><span class="theme-option__swatch" style="background:#11130f"></span><span>Ascii<span class="theme-option__sub">Terminal</span></span></button>
-      <button class="theme-option" type="button" data-theme-set="graffiti"><span class="theme-option__swatch" style="background:#151515"></span><span>Graff<span class="theme-option__sub">Graffiti</span></span></button>
-      <button class="theme-option" type="button" data-theme-set="aura"><span class="theme-option__swatch" style="background:linear-gradient(135deg,#0d0713,#df3cff)"></span><span>Aura<span class="theme-option__sub">Néon</span></span></button>
-      <button class="theme-option" type="button" data-theme-set="details"><span class="theme-option__swatch" style="background:#f2f0e9"></span><span>Details<span class="theme-option__sub">Clair</span></span></button>
-      <button class="theme-option" type="button" data-theme-set="bynar"><span class="theme-option__swatch" style="background:#050505"></span><span>Bynar<span class="theme-option__sub">Binaire</span></span></button>
-      <button class="theme-option" type="button" data-theme-set="appica"><span class="theme-option__swatch" style="background:#172033"></span><span>Appica<span class="theme-option__sub">iOS</span></span></button>
-      <button class="theme-option" type="button" data-theme-set="edge"><span class="theme-option__swatch" style="background:#faf9f7"></span><span>Edge<span class="theme-option__sub">Doux</span></span></button>
-      <button class="theme-option" type="button" data-theme-set="v5"><span class="theme-option__swatch" style="background:#f5f2ea;border-color:#96741d"></span><span>V5<span class="theme-option__sub">Main</span></span></button>
-      <button class="theme-option" type="button" data-theme-set="compare"><span class="theme-option__swatch" style="background:linear-gradient(135deg,#e8edf5 50%,#15233c 50%)"></span><span>Compare<span class="theme-option__sub">Variantes</span></span></button>
-    </div>
+<!-- SETTINGS -->
+<div class="settings" id="themeSheet" role="dialog" aria-modal="true" aria-labelledby="settingsTitle" aria-hidden="true" inert>
+  <header class="settings__top">
+    <div class="settings__brand"><b>PK</b>cards</div>
+    <h2>Réglages de l'interface</h2>
+    <button class="settings__close" id="settingsClose" type="button">Terminer</button>
+  </header>
+  <div class="settings__layout">
+    <nav class="settings__nav" aria-label="Catégories des réglages">
+      <span>Catégories</span>
+      <a href="#settings-read">Lire</a>
+      <a href="#settings-explore">Explorer</a>
+      <a href="#settings-character">Caractère</a>
+    </nav>
+    <main>
+      <div class="settings__intro">
+        <p>Apparence</p>
+        <h1 id="settingsTitle">Choisissez votre table.</h1>
+        <p>Chaque mode transforme toute l'interface. Le choix s'applique immédiatement et reste mémorisé sur cet appareil.</p>
+      </div>
+
+      <section class="settings__group" id="settings-read">
+        <div class="settings__group-head"><h3>Lire</h3><p>Interfaces calmes et lisibles pour consulter longtemps les règles.</p></div>
+        <div class="settings__themes" role="group" aria-label="Thèmes de lecture">
+          <button class="setting-theme" type="button" data-theme-set="details"><span class="setting-theme__preview" style="--preview:#f2f0e9;--preview-ink:#151513"></span><span class="setting-theme__copy"><strong>Details</strong><span>Éditorial clair, typographie ample et rythme posé.</span></span></button>
+          <button class="setting-theme" type="button" data-theme-set="edge"><span class="setting-theme__preview" style="--preview:#faf9f7;--preview-ink:#6d4f66"></span><span class="setting-theme__copy"><strong>Edge</strong><span>Surfaces douces, contrastes légers et grands arrondis.</span></span></button>
+          <button class="setting-theme" type="button" data-theme-set="appica"><span class="setting-theme__preview" style="--preview:#eaf2ff;--preview-ink:#1769e0"></span><span class="setting-theme__copy"><strong>Appica</strong><span>Interface système adaptative, claire ou sombre.</span></span></button>
+          <button class="setting-theme" type="button" data-theme-set="cat"><span class="setting-theme__preview" style="--preview:#303446;--preview-ink:#ca9ee6"></span><span class="setting-theme__copy"><strong>Cat</strong><span>Palette Catppuccin sombre, douce et équilibrée.</span></span></button>
+        </div>
+      </section>
+
+      <section class="settings__group" id="settings-explore">
+        <div class="settings__group-head"><h3>Explorer</h3><p>Modes qui changent aussi la manière de parcourir la bibliothèque.</p></div>
+        <div class="settings__themes" role="group" aria-label="Thèmes de navigation">
+          <button class="setting-theme" type="button" data-theme-set="v5"><span class="setting-theme__preview" style="--preview:linear-gradient(135deg,#f5f2ea 55%,#96741d 56%);--preview-ink:#171714"></span><span class="setting-theme__copy"><strong>V5 Main</strong><span>Une main de cartes à faire défiler, couper et mélanger.</span></span></button>
+          <button class="setting-theme" type="button" data-theme-set="compare"><span class="setting-theme__preview" style="--preview:linear-gradient(135deg,#e8edf5 50%,#15233c 50%);--preview-ink:#f7c948"></span><span class="setting-theme__copy"><strong>Compare</strong><span>Recherche directe et différences de variantes côte à côte.</span></span></button>
+        </div>
+      </section>
+
+      <section class="settings__group" id="settings-character">
+        <div class="settings__group-head"><h3>Caractère</h3><p>Directions visuelles franches pour donner une identité forte à la table.</p></div>
+        <div class="settings__themes" role="group" aria-label="Thèmes expressifs">
+          <button class="setting-theme" type="button" data-theme-set="graffiti"><span class="setting-theme__preview" style="--preview:#151515;--preview-ink:#ff3d9a"></span><span class="setting-theme__copy"><strong>Graff</strong><span>Affiches, marqueur, couleurs primaires et énergie brute.</span></span></button>
+          <button class="setting-theme" type="button" data-theme-set="aura"><span class="setting-theme__preview" style="--preview:radial-gradient(circle at 70% 20%,#df3cff,#0d0713 62%);--preview-ink:#fff8ee"></span><span class="setting-theme__copy"><strong>Aura</strong><span>Néons organiques, halos violets et profondeur nocturne.</span></span></button>
+          <button class="setting-theme" type="button" data-theme-set="bynar"><span class="setting-theme__preview" style="--preview:#050505;--preview-ink:#315cff"></span><span class="setting-theme__copy"><strong>Bynar</strong><span>Noir orbital, grille technique et bleu électrique.</span></span></button>
+          <button class="setting-theme" type="button" data-theme-set="ascii"><span class="setting-theme__preview" style="--preview:#11130f;--preview-ink:#c7ff45"></span><span class="setting-theme__copy"><strong>Ascii</strong><span>Terminal monochrome, grille et typographie machine.</span></span></button>
+        </div>
+      </section>
+    </main>
   </div>
 </div>
 
@@ -1530,23 +1540,6 @@ if(lb){ lb.addEventListener('click', async ()=>{
 
 // ---- VERSIONS DE LA RÈGLE (reader : maison / classique) ----
 const variantCompare=document.getElementById('variantCompare');
-const syncVariantCompare=(mainVer,requestedSide)=>{
-  if(!variantCompare)return;
-  const buttons=[...variantCompare.querySelectorAll('[data-compare-ver]')];
-  const active=buttons.find(b=>b.classList.contains('on'))?.dataset.compareVer;
-  const sideVer=requestedSide&&requestedSide!==mainVer?requestedSide:(active&&active!==mainVer?active:buttons.find(b=>b.dataset.compareVer!==mainVer)?.dataset.compareVer);
-  if(!sideVer)return;
-  buttons.forEach(b=>b.classList.toggle('on',b.dataset.compareVer===sideVer));
-  const source=document.getElementById('rules-'+sideVer);
-  const target=document.getElementById('compareRule');
-  if(source&&target){target.classList.remove('is-swapping');target.innerHTML=source.innerHTML;requestAnimationFrame(()=>target.classList.add('is-swapping'));}
-  const canonical=buttons[0]?.dataset.compareVer;
-  const diffKey=mainVer===canonical?sideVer:mainVer;
-  variantCompare.querySelectorAll('[data-diff-for]').forEach(d=>d.hidden=d.dataset.diffFor!==diffKey);
-  const label=document.getElementById('compareLabel');
-  const selected=buttons.find(b=>b.dataset.compareVer===sideVer);
-  if(label&&selected)label.textContent=selected.textContent;
-};
 const verTabs=document.getElementById('verTabs');
 if(verTabs){ verTabs.addEventListener('click', e=>{
   const b=e.target.closest('.ver-tab'); if(!b) return;
@@ -1554,15 +1547,8 @@ if(verTabs){ verTabs.addEventListener('click', e=>{
     const on=x===b; x.classList.toggle('ver-tab--on',on); x.setAttribute('aria-selected',on);
   });
   document.querySelectorAll('.rules--main').forEach(r=>r.hidden=r.id!=='rules-'+b.dataset.ver);
-  syncVariantCompare(b.dataset.ver);
 });}
 if(variantCompare){
-  syncVariantCompare(variantCompare.dataset.initial);
-  variantCompare.addEventListener('click',e=>{
-    const b=e.target.closest('[data-compare-ver]');if(!b)return;
-    const main=verTabs?.querySelector('.ver-tab--on')?.dataset.ver||variantCompare.dataset.initial;
-    syncVariantCompare(main,b.dataset.compareVer);
-  });
   const toggle=document.getElementById('variantDrawerToggle'),drawer=document.getElementById('variantDrawer');
   if(toggle&&drawer)toggle.addEventListener('click',()=>{
     const open=drawer.classList.toggle('is-open');toggle.setAttribute('aria-expanded',open?'true':'false');
@@ -1716,15 +1702,15 @@ function syncThemeUI(){
   document.querySelector('meta[name="theme-color"]').content={cat:'#303446',ascii:'#11130f',graffiti:'#151515',aura:'#0d0713',details:'#f2f0e9',bynar:'#050505',appica:appicaColor,edge:'#faf9f7',v5:'#f5f2ea',compare:'#e8edf5'}[currentTheme()] || '#303446';
 }
 const themeSheet=document.getElementById('themeSheet');
-function openThemeSheet(){ themeSheet.classList.add('open'); }
-function closeThemeSheet(){ themeSheet.classList.remove('open'); }
-themeSheet.addEventListener('click', e=>{ if(e.target===themeSheet) closeThemeSheet(); });
+function openThemeSheet(){ themeSheet.inert=false; themeSheet.classList.add('open'); themeSheet.setAttribute('aria-hidden','false'); document.body.classList.add('settings-open'); document.getElementById('settingsClose').focus(); }
+function closeThemeSheet(){ themeSheet.classList.remove('open'); themeSheet.setAttribute('aria-hidden','true'); themeSheet.inert=true; document.body.classList.remove('settings-open'); document.getElementById('themeMenuBtn')?.focus(); }
 document.getElementById('themeMenuBtn')?.addEventListener('click', openThemeSheet);
+document.getElementById('settingsClose').addEventListener('click',closeThemeSheet);
+document.addEventListener('keydown',e=>{if(e.key==='Escape'&&themeSheet.classList.contains('open'))closeThemeSheet();});
 document.querySelectorAll('[data-theme-set]').forEach(b=>b.addEventListener('click',()=>{
   document.documentElement.dataset.theme=b.dataset.themeSet;
   try{localStorage.setItem('pk_theme',b.dataset.themeSet)}catch(e){}
   syncThemeUI();
-  closeThemeSheet();
 }));
 matchMedia('(prefers-color-scheme: dark)').addEventListener('change',syncThemeUI);
 document.querySelectorAll('[data-clm="1"]').forEach(el=>{ const slug=el.dataset.fav || el.querySelector('[data-fav]')?.dataset.fav; if(slug) favs.add(slug); });
