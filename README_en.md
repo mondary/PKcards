@@ -13,9 +13,9 @@ Discover 700+ card games by swiping: browse, learn the rules and save your favor
 - Rich game sheets: difficulty, type, other names, number of players and cards
 - Short rule and long version for each game
 - Card thumbnails inside the rules: card mentions ("7 de trèfle", "A♥️") automatically render as card visuals (v3)
-- One sheet per game: house 👑 and classic versions switchable via tabs, all aliases merged (v3)
+- One sheet per game: house 👑 and classic versions compared side by side, with a drawer for changed rules and all aliases merged (v3)
 - Optional V5 Main theme: brand-new fan-of-cards navigation (family rail + scrollable hand, cut-the-deck CTA, arrows/drag/wheel) (v3)
-- 9 switchable interface themes (v3)
+- 10 switchable interface themes, including Compare: sticky search, direct library and variant drawer (v3)
 - One-click YouTube search for video rules
 - Vote for your favorite games and check the "Best games" ranking
 - Favorites synced across all your devices via a simple email (no password)

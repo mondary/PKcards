@@ -15,7 +15,7 @@
 declare(strict_types=1);
 error_reporting(E_ERROR | E_PARSE);
 
-const VERSION = '2026.08.30';
+const VERSION = '2026.08.31';
 
 /* ============================================================
    VAULT — mini-lib d'accès. Le coeur de l'archi.
@@ -822,6 +822,7 @@ a{color:inherit;text-decoration:none}button,input{font:inherit}button{color:inhe
 .reader-body{min-width:0}.reader-body-inner{max-width:780px;margin:auto;padding:clamp(90px,10vw,150px) clamp(24px,6vw,92px) 100px}.reader-summary{padding-bottom:22px}.reader-summary::before{content:'Règle express';display:inline-block;margin-bottom:20px;padding:4px 8px;background:var(--pink);color:var(--ink);font:700 .65rem var(--mono);text-transform:uppercase;transform:rotate(-1deg)}.reader-summary__text{font-size:clamp(1.3rem,2.3vw,2rem);font-weight:700;line-height:1.25;text-wrap:pretty}.cs{height:4.2em;width:auto;vertical-align:middle;margin:0 3px;border-radius:5px;border:1px solid rgba(0,0,0,.18);box-shadow:0 1px 3px rgba(0,0,0,.35)}p .cs,li .cs{height:2.8em;vertical-align:-.7em}.rules td{padding:10px 12px}.raction{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0}.rbtn{min-height:50px;border:0;border-radius:3px;background:var(--blue);color:#fff;font:700 .68rem var(--mono);text-transform:uppercase}.rbtn--like{background:var(--pink);color:var(--ink)}.rbtn--fav.on{background:var(--yellow)!important;color:#151515!important;box-shadow:inset 0 -4px 0 rgba(0,0,0,.22)}
 .reader__youtube{display:flex;align-items:center;justify-content:center;gap:10px;padding:16px;border:0;border-radius:3px;background:#f00;color:#fff;font-size:.84rem;font-weight:700;text-decoration:none}.reader__youtube:hover{background:#c00}.reader__youtube svg{width:26px;height:19px;flex:none}.yt-alts{display:flex;flex-wrap:wrap;gap:14px;margin:12px 0 30px}.yt-alt{color:var(--blue);font:600 .65rem var(--mono)}
 .rules-title,.related__title{margin:52px 0 20px;font:700 .76rem var(--mono);text-transform:uppercase}.ver-tabs{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}.ver-tab{border:1px solid var(--line);background:transparent;color:var(--muted);padding:7px 14px;border-radius:999px;font:700 .72rem var(--mono);text-transform:uppercase;letter-spacing:.05em;cursor:pointer}.ver-tab:hover{color:var(--ink)}.ver-tab--on{background:var(--ink);color:var(--paper);border-color:var(--ink)}.rules{font-size:1.08rem;line-height:1.75}.rules h1,.rules h2,.rules h3{line-height:1.15}.rules h1{margin:42px 0 14px;font-size:2rem}.rules h2{margin:36px 0 12px;font-size:1.6rem;padding-bottom:8px}.rules h3{margin:26px 0 9px;font-size:1.25rem}.rules p{margin:10px 0}.rules ul,.rules ol{margin:11px 0 11px 24px}.rules li{margin:6px 0}.rules strong{font-weight:700}.rules hr{margin:32px 0;border:0;border-top:1px solid var(--line)}.rules table{width:100%;margin:20px 0;border-collapse:collapse;font-size:.92rem}.rules td{padding:10px;border:1px solid var(--line)}.rules img{max-width:100%;margin:14px 0}.rules blockquote{margin:20px 0;padding:16px 18px;border-radius:8px;background:var(--soft)}.rules a{text-decoration:underline}
+.rules-layout--compare{display:grid;grid-template-columns:minmax(0,1fr) minmax(280px,.52fr);gap:clamp(24px,4vw,54px);align-items:start}.rules-layout__main{min-width:0}.variant-drawer{position:sticky;top:30px;align-self:start;max-height:calc(100dvh - 60px);overflow:auto;padding:20px;border:1px solid var(--line);border-radius:12px;background:var(--surface);color:var(--ink)}.variant-drawer__head{display:flex;align-items:center;justify-content:space-between;gap:12px}.variant-drawer__head span,.variant-drawer__head strong{display:block}.variant-drawer__head span{font:700 .58rem var(--mono);letter-spacing:.1em;text-transform:uppercase}.variant-drawer__head strong{margin-top:5px;font-size:1rem}.variant-drawer__toggle{border:0;background:transparent;color:inherit;font:700 .64rem var(--mono);text-transform:uppercase}.variant-drawer__picker{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0}.variant-drawer__picker button{border:1px solid currentColor;background:transparent;color:inherit;padding:6px 9px;border-radius:999px;font:700 .58rem var(--mono);text-transform:uppercase}.variant-drawer__picker button.on{background:currentColor}.variant-drawer__diff{display:grid;gap:7px;padding:0;margin:14px 0 18px;list-style:none}.variant-drawer__diff li{display:flex;flex-direction:column;gap:3px;padding:9px 0;border-bottom:1px solid currentColor;font-size:.82rem;line-height:1.25}.variant-drawer__diff span{font:700 .56rem var(--mono);letter-spacing:.08em;text-transform:uppercase}.variant-drawer__rule{font-size:.9rem;line-height:1.62}.variant-drawer__rule .rules{font-size:inherit;line-height:inherit}.variant-drawer__rule .rules h2{margin:22px 0 8px;font-size:1.22rem}.variant-drawer__rule .rules h3{margin:17px 0 7px;font-size:1rem}.variant-drawer__rule .rules table{font-size:.78rem}.variant-drawer__rule .rules td{padding:7px}.variant-drawer__rule .rules p{margin:8px 0}
 .related{margin-top:60px}.related__grid{display:grid;grid-template-columns:repeat(2,1fr);gap:10px}.related__card{display:flex;flex-direction:column;gap:5px;padding:18px;border-radius:3px;background:#ffbad8}.related__card:nth-child(even){background:#b8c3ff}.related__card:hover{transform:rotate(-1deg)}.related__rel{font:700 .55rem var(--mono);text-transform:uppercase;color:var(--ink)}.related__name{font-weight:700}.related__note{font-size:.68rem;color:var(--muted)}
 .reader-sources{margin-top:52px}.source-list{display:flex;flex-wrap:wrap;gap:8px}.source-list a{padding:9px 11px;border:1px solid var(--line);border-radius:3px;color:var(--muted);font:600 .65rem var(--mono)}.source-list a:hover{border-color:var(--blue);color:var(--blue)}
 
@@ -1046,6 +1047,13 @@ html[data-theme="v5"] .field input{border:1px solid var(--line);border-radius:11
 html[data-theme="v5"] .btn{border-radius:11px;background:var(--ink);font-weight:500}
 html[data-theme="v5"] .yt-alt{color:var(--gold)}
 
+/* COMPARE — recherche comme seule navigation, marge active pour les variantes. */
+html[data-theme="compare"]{--paper:#e8edf5;--surface:#f9fbff;--soft:#d8e2f1;--ink:#15233c;--pink:#f26a5a;--blue:#2457c5;--yellow:#f7c948;--mint:#55b5a1;--line:#b7c7dc;--muted:#61738b;--display:'Manrope',sans-serif;--marker:'DM Mono',monospace;--mono:'DM Mono',monospace;--sans:'Manrope',sans-serif}html[data-theme="compare"] body{background:linear-gradient(135deg,#e8edf5,#dce6f3);color:var(--ink)}html[data-theme="compare"] .topfix{background:rgba(232,237,245,.92);border-bottom:1px solid var(--line);color:var(--ink);backdrop-filter:blur(14px)}html[data-theme="compare"] .brand b{color:var(--blue)}html[data-theme="compare"] .iconbtn{border-radius:8px;color:var(--ink)}html[data-theme="compare"] .iconbtn:hover{background:var(--ink);color:#fff}
+html[data-theme="compare"] .launcher{position:sticky;z-index:29;top:57px;display:flex;align-items:center;gap:12px;max-width:none;padding:12px clamp(14px,4vw,64px);background:rgba(232,237,245,.93);border-bottom:1px solid var(--line);backdrop-filter:blur(16px)}html[data-theme="compare"] .launcher::after,html[data-theme="compare"] .launcher__intro,html[data-theme="compare"] .chips,html[data-theme="compare"] .launcher__actions a{display:none}html[data-theme="compare"] .search{flex:1;max-width:860px}.launcher .search label{display:none}html[data-theme="compare"] .search input{height:48px;padding:0 18px;border:1px solid var(--line);border-radius:12px;background:var(--surface);box-shadow:none;font-size:1rem}.search__key{bottom:17px}.launcher__actions{margin:0}.random{white-space:nowrap}html[data-theme="compare"] .random{border:0;border-radius:10px;background:var(--blue);color:#fff;box-shadow:none}html[data-theme="compare"] .section-head{padding-top:28px;padding-bottom:12px}html[data-theme="compare"] .list{grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:14px;padding-bottom:80px}html[data-theme="compare"] .game{border-radius:14px;background:var(--surface);animation:compare-deal .58s cubic-bezier(.22,1,.36,1) both;transform-origin:50% 100%}html[data-theme="compare"] .game:nth-child(6n+2){animation-delay:.06s}html[data-theme="compare"] .game:nth-child(6n+3){animation-delay:.12s}html[data-theme="compare"] .game:nth-child(6n+4){animation-delay:.18s}html[data-theme="compare"] .game:nth-child(6n+5){animation-delay:.24s}html[data-theme="compare"] .game:nth-child(6n){animation-delay:.30s}@keyframes compare-deal{from{opacity:0;transform:translate3d(0,28px,0) rotate(.8deg)}to{opacity:1;transform:translate3d(0,0,0) rotate(0)}}@keyframes compare-swap{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+html[data-theme="compare"] .reader{grid-template-columns:minmax(290px,31vw) minmax(0,1fr);background:#e8edf5}html[data-theme="compare"] .bar{width:31vw;color:#fff}html[data-theme="compare"] .bar__back{border-radius:8px;background:rgba(21,35,60,.72)}html[data-theme="compare"] .reader-hero{background:#15233c}html[data-theme="compare"] .reader-hero::after{background:linear-gradient(0deg,rgba(21,35,60,.94),rgba(21,35,60,.22))}html[data-theme="compare"] .reader-hero h1{font:700 clamp(3rem,6.4vw,6.6rem)/.84 var(--display);letter-spacing:-.07em;text-shadow:none}html[data-theme="compare"] .reader-hero__eyebrow{border-radius:999px;background:var(--yellow);transform:none}html[data-theme="compare"] .reader-summary::before{border-radius:999px;background:var(--blue);color:#fff;transform:none}html[data-theme="compare"] .reader-body-inner{max-width:1480px;padding:clamp(70px,8vw,120px) clamp(24px,5vw,80px) 100px}html[data-theme="compare"] .rbtn{border-radius:9px;background:var(--blue)}html[data-theme="compare"] .rbtn--like{background:var(--yellow);color:var(--ink)}html[data-theme="compare"] .rules-layout__main{padding:0 clamp(18px,3vw,42px) 42px;border-radius:18px;background:var(--surface);box-shadow:0 18px 44px rgba(21,35,60,.08)}html[data-theme="compare"] .rules-layout__main .rules-title{padding-top:30px}html[data-theme="compare"] .ver-tab{border-radius:8px}html[data-theme="compare"] .ver-tab--on{background:var(--blue);border-color:var(--blue);color:#fff}html[data-theme="compare"] .variant-drawer{padding:22px;border:1px solid #29476f;border-radius:16px;background:#15233c;color:#edf4ff;box-shadow:0 18px 44px rgba(21,35,60,.18)}html[data-theme="compare"] .variant-drawer__head span{color:#a9c4eb}html[data-theme="compare"] .variant-drawer__head strong{color:var(--yellow)}html[data-theme="compare"] .variant-drawer__toggle{color:var(--yellow)}html[data-theme="compare"] .variant-drawer__picker button{border-color:#46658f;color:#c9daf0}html[data-theme="compare"] .variant-drawer__picker button.on{background:var(--yellow);border-color:var(--yellow);color:#15233c}html[data-theme="compare"] .variant-drawer__diff{color:#f5fbff}html[data-theme="compare"] .variant-drawer__diff li{border-color:#29476f}html[data-theme="compare"] .variant-drawer__diff span{color:#f78270}html[data-theme="compare"] .variant-drawer__rule{padding-top:6px;color:#dce8f8}html[data-theme="compare"] .variant-drawer__rule.is-swapping{animation:compare-swap .24s ease both}html[data-theme="compare"] .variant-drawer__rule .rules h2{color:#fff}html[data-theme="compare"] .variant-drawer__rule .rules blockquote{background:#223656}html[data-theme="compare"] .variant-drawer__rule .rules td{border-color:#46658f}
+@media(min-width:761px){html[data-theme="compare"] .variant-drawer__toggle{display:none}}@media(max-width:760px){html[data-theme="compare"] .launcher{top:54px;padding:8px 12px}html[data-theme="compare"] .search input{height:44px}html[data-theme="compare"] .random{min-height:44px;padding-inline:12px;font-size:0}html[data-theme="compare"] .random::after{content:'↗';font-size:1rem}html[data-theme="compare"] .reader{display:block}html[data-theme="compare"] .bar{width:100%}html[data-theme="compare"] .reader-body-inner{padding:48px 14px 100px}html[data-theme="compare"] .rules-layout__main{padding-inline:18px}html[data-theme="compare"] .rules-layout--compare{display:block}html[data-theme="compare"] .variant-drawer{position:fixed;z-index:45;right:10px;bottom:0;left:10px;top:auto;max-height:76dvh;padding:16px 18px calc(20px + env(safe-area-inset-bottom));border-radius:18px 18px 0 0;transform:translateY(calc(100% - 66px));transition:transform .25s ease}html[data-theme="compare"] .variant-drawer.is-open{transform:none}}
+html:not([data-theme="compare"]) .launcher .search label{display:block}html:not([data-theme="compare"]) .search__key{bottom:24px}html:not([data-theme="compare"]) .launcher__actions{margin-top:24px}
+
 /* ── Mobile : rail horizontal au-dessus de la main ── */
 @media(max-width:900px){
   html[data-theme="v5"]{--deck-top:96px}
@@ -1111,6 +1119,27 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
     foreach (Vault::catalog()['variants'][$g['slug']] ?? [] as $vs => $vLabel) {
       $vmd = Vault::read('/games/' . $vs . '.md');
       if ($vmd !== null) $variantMds[$vs] = ['label' => $vLabel, 'md' => preg_replace('/^#\s+.+\n?/m', '', $vmd, 1)];
+    }
+    $ruleSections = static function(string $source): array {
+      $parts = preg_split('/^##\s+(.+)$/m', $source, -1, PREG_SPLIT_DELIM_CAPTURE);
+      $sections = [];
+      for ($i = 1; $i < count($parts); $i += 2) {
+        $title = trim(preg_replace('/[*_`]/', '', $parts[$i]));
+        $body = trim(preg_replace('/\s+/', ' ', preg_replace('/[#*_>`|-]+/', ' ', $parts[$i + 1] ?? '')));
+        if ($title !== '') $sections[$title] = mb_strtolower($body);
+      }
+      return $sections;
+    };
+    $baseSections = $ruleSections($md);
+    $variantDiffs = [];
+    foreach ($variantMds as $vs => $v) {
+      $altSections = $ruleSections($v['md']);
+      foreach (array_unique(array_merge(array_keys($baseSections), array_keys($altSections))) as $heading) {
+        $inBase = array_key_exists($heading, $baseSections);
+        $inVariant = array_key_exists($heading, $altSections);
+        if ($inBase && $inVariant && $baseSections[$heading] === $altSections[$heading]) continue;
+        $variantDiffs[$vs][] = ['heading' => $heading, 'kind' => !$inBase ? 'Spécifique à la variante' : (!$inVariant ? 'Absente de la variante' : 'Règle modifiée')];
+      }
     }
     $initialVer = isset($variantMds[$slug]) ? $slug : $g['slug']; // ?game=kems ouvre directement l'onglet classique
     // Tous les noms du jeu depuis game_names (source unique). Sert pour YouTube + affichage.
@@ -1184,19 +1213,36 @@ html[data-theme="ascii"] .game--favorite::after{content:'[★ FAVORI]';border-ra
     <a class="reader__youtube" href="<?= e($_yt($_main)) ?>" target="_blank" rel="noopener noreferrer"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/></svg>Voir la règle « <?= e($_main) ?> » sur YouTube</a>
     <?php if ($yNames): ?><div class="yt-alts"><?php foreach ($yNames as $_n): ?><a class="yt-alt" href="<?= e($_yt($_n)) ?>" target="_blank" rel="noopener noreferrer"><?= e($_n) ?></a><?php endforeach; ?></div><?php endif; ?>
     <?php endif; ?>
-    <h2 class="rules-title">Règles détaillées</h2>
-    <?php if ($variantMds): ?>
-    <div class="ver-tabs" id="verTabs" role="tablist" aria-label="Version de la règle">
-      <button class="ver-tab<?= $initialVer === $g['slug'] ? ' ver-tab--on' : '' ?>" type="button" role="tab" aria-selected="<?= $initialVer === $g['slug'] ? 'true' : 'false' ?>" data-ver="<?= e($g['slug']) ?>"><?= (int)$g['is_clm'] ? 'Version maison 👑' : 'Notre version' ?></button>
-      <?php foreach ($variantMds as $vs => $v): ?>
-      <button class="ver-tab<?= $initialVer === $vs ? ' ver-tab--on' : '' ?>" type="button" role="tab" aria-selected="<?= $initialVer === $vs ? 'true' : 'false' ?>" data-ver="<?= e($vs) ?>"><?= e($v['label']) ?></button>
-      <?php endforeach; ?>
+    <div class="rules-layout<?= $variantMds ? ' rules-layout--compare' : '' ?>"<?php if ($variantMds): ?> id="variantCompare" data-initial="<?= e($initialVer) ?>"<?php endif; ?>>
+      <div class="rules-layout__main">
+        <h2 class="rules-title">Règles détaillées</h2>
+        <?php if ($variantMds): ?>
+        <div class="ver-tabs" id="verTabs" role="tablist" aria-label="Version principale de la règle">
+          <button class="ver-tab<?= $initialVer === $g['slug'] ? ' ver-tab--on' : '' ?>" type="button" role="tab" aria-selected="<?= $initialVer === $g['slug'] ? 'true' : 'false' ?>" data-ver="<?= e($g['slug']) ?>"><?= (int)$g['is_clm'] ? 'Version maison 👑' : 'Notre version' ?></button>
+          <?php foreach ($variantMds as $vs => $v): ?>
+          <button class="ver-tab<?= $initialVer === $vs ? ' ver-tab--on' : '' ?>" type="button" role="tab" aria-selected="<?= $initialVer === $vs ? 'true' : 'false' ?>" data-ver="<?= e($vs) ?>"><?= e($v['label']) ?></button>
+          <?php endforeach; ?>
+        </div>
+        <?php endif; ?>
+        <div class="rules rules--main" id="rules-<?= e($g['slug']) ?>"<?= $initialVer !== $g['slug'] ? ' hidden' : '' ?>><?= md2html($md) ?></div>
+        <?php foreach ($variantMds as $vs => $v): ?>
+        <div class="rules rules--main" id="rules-<?= e($vs) ?>"<?= $initialVer !== $vs ? ' hidden' : '' ?>><?= md2html($v['md']) ?></div>
+        <?php endforeach; ?>
+      </div>
+      <?php if ($variantMds): ?>
+      <aside class="variant-drawer" id="variantDrawer" aria-label="Comparaison des variantes">
+        <div class="variant-drawer__head"><div><span>Même jeu, autre règle</span><strong id="compareLabel">Variante</strong></div><button class="variant-drawer__toggle" id="variantDrawerToggle" type="button" aria-expanded="false">Comparer</button></div>
+        <div class="variant-drawer__picker" aria-label="Règle comparée">
+          <button type="button" data-compare-ver="<?= e($g['slug']) ?>"><?= (int)$g['is_clm'] ? 'Version maison' : 'Notre version' ?></button>
+          <?php foreach ($variantMds as $vs => $v): ?><button type="button" data-compare-ver="<?= e($vs) ?>"><?= e($v['label']) ?></button><?php endforeach; ?>
+        </div>
+        <?php foreach ($variantMds as $vs => $v): ?>
+        <ol class="variant-drawer__diff" data-diff-for="<?= e($vs) ?>" hidden><?php foreach ($variantDiffs[$vs] ?? [] as $diff): ?><li><span><?= e($diff['kind']) ?></span><?= e($diff['heading']) ?></li><?php endforeach; ?></ol>
+        <?php endforeach; ?>
+        <div class="variant-drawer__rule" id="compareRule"></div>
+      </aside>
+      <?php endif; ?>
     </div>
-    <?php endif; ?>
-    <div class="rules" id="rules-<?= e($g['slug']) ?>"<?= $initialVer !== $g['slug'] ? ' hidden' : '' ?>><?= md2html($md) ?></div>
-    <?php foreach ($variantMds as $vs => $v): ?>
-    <div class="rules" id="rules-<?= e($vs) ?>"<?= $initialVer !== $vs ? ' hidden' : '' ?>><?= md2html($v['md']) ?></div>
-    <?php endforeach; ?>
     <?php if ($sources || $imageCredit): ?>
     <div class="reader-sources">
       <h2 class="related__title">Sources</h2>
@@ -1379,6 +1425,7 @@ else:
       <button class="theme-option" type="button" data-theme-set="appica"><span class="theme-option__swatch" style="background:#172033"></span><span>Appica<span class="theme-option__sub">iOS</span></span></button>
       <button class="theme-option" type="button" data-theme-set="edge"><span class="theme-option__swatch" style="background:#faf9f7"></span><span>Edge<span class="theme-option__sub">Doux</span></span></button>
       <button class="theme-option" type="button" data-theme-set="v5"><span class="theme-option__swatch" style="background:#f5f2ea;border-color:#96741d"></span><span>V5<span class="theme-option__sub">Main</span></span></button>
+      <button class="theme-option" type="button" data-theme-set="compare"><span class="theme-option__swatch" style="background:linear-gradient(135deg,#e8edf5 50%,#15233c 50%)"></span><span>Compare<span class="theme-option__sub">Variantes</span></span></button>
     </div>
   </div>
 </div>
@@ -1482,14 +1529,45 @@ if(lb){ lb.addEventListener('click', async ()=>{
 });}
 
 // ---- VERSIONS DE LA RÈGLE (reader : maison / classique) ----
+const variantCompare=document.getElementById('variantCompare');
+const syncVariantCompare=(mainVer,requestedSide)=>{
+  if(!variantCompare)return;
+  const buttons=[...variantCompare.querySelectorAll('[data-compare-ver]')];
+  const active=buttons.find(b=>b.classList.contains('on'))?.dataset.compareVer;
+  const sideVer=requestedSide&&requestedSide!==mainVer?requestedSide:(active&&active!==mainVer?active:buttons.find(b=>b.dataset.compareVer!==mainVer)?.dataset.compareVer);
+  if(!sideVer)return;
+  buttons.forEach(b=>b.classList.toggle('on',b.dataset.compareVer===sideVer));
+  const source=document.getElementById('rules-'+sideVer);
+  const target=document.getElementById('compareRule');
+  if(source&&target){target.classList.remove('is-swapping');target.innerHTML=source.innerHTML;requestAnimationFrame(()=>target.classList.add('is-swapping'));}
+  const canonical=buttons[0]?.dataset.compareVer;
+  const diffKey=mainVer===canonical?sideVer:mainVer;
+  variantCompare.querySelectorAll('[data-diff-for]').forEach(d=>d.hidden=d.dataset.diffFor!==diffKey);
+  const label=document.getElementById('compareLabel');
+  const selected=buttons.find(b=>b.dataset.compareVer===sideVer);
+  if(label&&selected)label.textContent=selected.textContent;
+};
 const verTabs=document.getElementById('verTabs');
 if(verTabs){ verTabs.addEventListener('click', e=>{
   const b=e.target.closest('.ver-tab'); if(!b) return;
   verTabs.querySelectorAll('.ver-tab').forEach(x=>{
     const on=x===b; x.classList.toggle('ver-tab--on',on); x.setAttribute('aria-selected',on);
   });
-  document.querySelectorAll('.rules').forEach(r=>r.hidden=r.id!=='rules-'+b.dataset.ver);
+  document.querySelectorAll('.rules--main').forEach(r=>r.hidden=r.id!=='rules-'+b.dataset.ver);
+  syncVariantCompare(b.dataset.ver);
 });}
+if(variantCompare){
+  syncVariantCompare(variantCompare.dataset.initial);
+  variantCompare.addEventListener('click',e=>{
+    const b=e.target.closest('[data-compare-ver]');if(!b)return;
+    const main=verTabs?.querySelector('.ver-tab--on')?.dataset.ver||variantCompare.dataset.initial;
+    syncVariantCompare(main,b.dataset.compareVer);
+  });
+  const toggle=document.getElementById('variantDrawerToggle'),drawer=document.getElementById('variantDrawer');
+  if(toggle&&drawer)toggle.addEventListener('click',()=>{
+    const open=drawer.classList.toggle('is-open');toggle.setAttribute('aria-expanded',open?'true':'false');
+  });
+}
 
 // ---- LIVE FILTER (home : recherche + chips instantanés) ----
 const listEl = document.getElementById('list');
@@ -1635,7 +1713,7 @@ const currentTheme=()=>document.documentElement.dataset.theme || 'cat';
 function syncThemeUI(){
   document.querySelectorAll('[data-theme-set]').forEach(b=>b.setAttribute('aria-pressed', b.dataset.themeSet===currentTheme() ? 'true' : 'false'));
   const appicaColor=matchMedia('(prefers-color-scheme: dark)').matches?'#0b1120':'#f5f7fb';
-  document.querySelector('meta[name="theme-color"]').content={cat:'#303446',ascii:'#11130f',graffiti:'#151515',aura:'#0d0713',details:'#f2f0e9',bynar:'#050505',appica:appicaColor,edge:'#faf9f7',v5:'#f5f2ea'}[currentTheme()] || '#303446';
+  document.querySelector('meta[name="theme-color"]').content={cat:'#303446',ascii:'#11130f',graffiti:'#151515',aura:'#0d0713',details:'#f2f0e9',bynar:'#050505',appica:appicaColor,edge:'#faf9f7',v5:'#f5f2ea',compare:'#e8edf5'}[currentTheme()] || '#303446';
 }
 const themeSheet=document.getElementById('themeSheet');
 function openThemeSheet(){ themeSheet.classList.add('open'); }

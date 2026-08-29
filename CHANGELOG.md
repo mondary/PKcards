@@ -6,7 +6,7 @@ Historique des versions de PKcards — application de découverte de jeux de car
 
 ## TODO — Roadmap
 
-Statut : `2026.08.30` (v3 : thème V5 Main — navigation en éventail de cartes)
+Statut : `2026.08.31` (v3 : thème Compare — variantes en parallèle)
 
 ### Phase 1 — Catalogue & découverte
 - [x] Migration du dossier `cartes-regles/` vers `rules/`
@@ -61,6 +61,14 @@ Statut : `2026.08.30` (v3 : thème V5 Main — navigation en éventail de cartes
 ---
 
 ## Releases
+
+### [2026.08.31] - 2026-08-29
+#### Added
+- v3 : thème « Compare » — recherche sticky comme navigation unique, toute la bibliothèque visible immédiatement et animation de distribution des fiches.
+- v3 : lecteur de variantes en parallèle : la règle principale reste ouverte, la variante s'affiche dans un drawer latéral (ou tiroir mobile) avec les rubriques réellement modifiées, absentes ou spécifiques.
+
+#### Changed
+- v3/PWA : cache incrémenté pour livrer le nouveau thème aux installations existantes.
 
 ### [2026.08.30] - 2026-08-26
 #### Added

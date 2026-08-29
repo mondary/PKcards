@@ -1,4 +1,4 @@
-const CACHE = 'pkcards-v3-2026.08.30';
+const CACHE = 'pkcards-v3-2026.08.31';
 const SHELL = ['./', 'manifest.json', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {
