@@ -2,6 +2,26 @@
 
 Un jeu de cartes rapide, stratégique et addictif où le but est d'être le dernier joueur encore en lice.
 
+**Autres noms :** Yaniv, Yanoff, Yanouf, Jhyap, Jhyāp, Dhumbal, Dumbal, Yusef, Kluft, Main Verte
+
+---
+
+# 🌍 Noms, variantes régionales et orthographes
+
+Ce jeu voyage sous beaucoup de noms selon les pays. Mêmes fondations partout : défausser des combinaisons, piocher, et annoncer quand sa main est assez basse.
+
+| Nom | Origine | Particularités |
+|-----|---------|----------------|
+| **Yaniv** | Israël | Le nom le plus répandu à l'international ; annonce à 5 points ou moins |
+| **Yanoff / Yanouf** | Israël (transcriptions) | Orthographes alternatives rencontrées selon les familles de joueurs |
+| **Jhyap** (झ्याप, aussi écrit *Jhyāp*) | Népal | Le nom népalais du même jeu ; on y joue souvent avec des seuils et des paliers légèrement différents |
+| **Dhumbal** (aussi *Dumbal*) | Népal | Deuxième nom népalais — Jhyap et Dhumbal désignent le même jeu selon les régions et les familles |
+| **Yusef** | — | Nom signalé pour la même famille de jeu (fiche Pagat) |
+| **Kluft** | Pays-Bas | Contre-annonce « Onderkluft », pioche limitée au dessus de la défausse (voir section dédiée) |
+| **Main Verte** | France | Version française : annonce à 7 points ou moins (voir section dédiée) |
+
+En pratique : cherchez « Yaniv », « Jhyap » ou « Dhumbal » — les trois mènent à cette fiche.
+
 ---
 
 # 👥 Nombre de joueurs
