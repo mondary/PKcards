@@ -1553,13 +1553,14 @@ async function renderFavList(){
   if(!email){ box.innerHTML='<p class="note">Entrez votre email.</p>'; return; }
   if(!favs.size){ box.innerHTML='<p class="note">Aucun favori pour le moment.</p>'; return; }
   const gameData = <?= json_encode(array_column(Vault::games(), null, 'slug'), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
+  const gamePhotos = <?= json_encode(array_column(array_map(fn($g) => ['slug' => $g['slug'], 'photo' => game_photo($g, true)], Vault::games()), 'photo', 'slug'), JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES) ?>;
   const rows=[...favs];
   if(favSort==='votes') rows.sort((a,b)=>(gameData[b]?.votes||0)-(gameData[a]?.votes||0));
   if(favSort==='alpha') rows.sort((a,b)=>(gameData[a]?.title||a).localeCompare(gameData[b]?.title||b,'fr'));
   rows.forEach(s=>{
     const d=document.createElement('a'); d.className='fav-row'; d.href='?game='+encodeURIComponent(s);
     const game=gameData[s]||{};
-    d.innerHTML='<img class="fav-row__img" src="?visual='+encodeURIComponent(s)+'&v=<?= VERSION ?>" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><div class="fav-row__t"><b>'+ (game.title||s) +'</b><small>'+((game.votes||0)+' vote'+((game.votes||0)>1?'s':'')+' · ouvrir la règle')+'</small></div><span class="fav-row__star">★</span>';
+    d.innerHTML='<img class="fav-row__img" src="'+(gamePhotos[s]||'?visual='+encodeURIComponent(s)+'&v=<?= VERSION ?>')+'" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer"><div class="fav-row__t"><b>'+ (game.title||s) +'</b><small>'+((game.votes||0)+' vote'+((game.votes||0)>1?'s':'')+' · ouvrir la règle')+'</small></div><span class="fav-row__star">★</span>';
     box.appendChild(d);
   });
 }
